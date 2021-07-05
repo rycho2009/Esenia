@@ -1,0 +1,569 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Let me save her first..."
+> CONTEXT: Map055/events/5/pages/1/0/Dialogue
+> CONTEXT: Map055/events/7/pages/1/0/Dialogue
+Senia
+"Niech ją najpierw uratuję..."
+> END STRING
+
+> BEGIN STRING
+Crafting tutorial is not yet completed.
+Crafting materials will be rewarded
+for completing the tutorial.
+Skip the tutorial and move on?
+> CONTEXT: Map055/events/8/pages/0/5/Dialogue
+> CONTEXT: Map055/events/29/pages/0/5/Dialogue
+Samouczek craftingu nie został jeszcze ukończony.
+Za ukończenie samouczka zostaną
+przyznane materiały rzemieślnicze.
+Pominąć samouczek i przejść dalej?
+> END STRING
+
+> BEGIN STRING
+NO
+> CONTEXT: Map055/events/8/pages/0/10/Choice/0
+> CONTEXT: Map055/events/29/pages/0/10/Choice/0
+NIE
+> END STRING
+
+> BEGIN STRING
+YES
+> CONTEXT: Map055/events/8/pages/0/10/Choice/1
+> CONTEXT: Map055/events/29/pages/0/10/Choice/1
+TAK
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Phew!
+ Thought I am going to become its dinner
+ for sure."
+> CONTEXT: Map055/events/15/pages/2/6/Dialogue
+Mała Wróżka
+"Fiu!
+ Myślałam, że już za chwilę 
+ zostanę jego kolacją."
+> END STRING
+
+> BEGIN STRING
+Senia
+(Wow! A real fairy.)
+> CONTEXT: Map055/events/15/pages/2/11/Dialogue
+Senia
+(Łał! Prawdziwa wróżka.)
+> END STRING
+
+> BEGIN STRING
+Senia
+(It is tiny and adorable!!)
+> CONTEXT: Map055/events/15/pages/2/14/Dialogue
+Senia
+(Jest malutka i urocza!!!)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Looks like the drawing on
+ picture books,
+ but so lively and different.)
+> CONTEXT: Map055/events/15/pages/2/17/Dialogue
+Senia
+(Wygląda jak rysunek z
+ książki z obrazkami,
+ ale taki żywy i odmienny.)
+> END STRING
+
+> BEGIN STRING
+Senia
+(How should I say hello to
+ a fairy?
+ Man... I am so nervous.)
+> CONTEXT: Map055/events/15/pages/2/22/Dialogue
+Senia
+(Jak mam się przywitać z
+ wróżką? Rany...
+ Jestem taka poddenerwowana.)
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Thank you for saving me!"
+> CONTEXT: Map055/events/15/pages/2/27/Dialogue
+Mała Wróżka
+"Dziękuję, że mnie uratowałaś!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"You... you are welcome."
+> CONTEXT: Map055/events/15/pages/2/30/Dialogue
+Senia
+"Proszę... nie ma za co."
+> END STRING
+
+> BEGIN STRING
+Senia
+(She... she just started
+ a conversation with me!)
+> CONTEXT: Map055/events/15/pages/2/33/Dialogue
+Senia
+(Ona... ona właśnie zaczęła
+ rozmowę ze mną!)
+> END STRING
+
+> BEGIN STRING
+Senia
+(It is like living a dream!)
+> CONTEXT: Map055/events/15/pages/2/37/Dialogue
+Senia
+(To jest jak sen na jawie!)
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Are you here looking for \\C[6]'Eternity'\\C[0] as well?"
+> CONTEXT: Map055/events/15/pages/2/40/Dialogue
+Mała Wróżka
+"Czy ty też tutaj szukasz \\C[6]'Wieczności'\\C[0]?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Eternity?"
+> CONTEXT: Map055/events/15/pages/2/43/Dialogue
+Senia
+"Wieczności?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"You entered the Tower of Eternity
+  without knowing what Eternity is!?
+  Are you serious?"
+> CONTEXT: Map055/events/15/pages/2/46/Dialogue
+Mała Wróżka
+"Weszłaś do Wieży Wieczności
+ nie wiedząc, czym jest Wieczność!?
+ Mówisz poważnie?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I... I have my own reason to
+ be here..."
+> CONTEXT: Map055/events/15/pages/2/51/Dialogue
+Senia
+"Ja... mam swój powód, by
+ tutaj być...""
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"And that is?"
+> CONTEXT: Map055/events/15/pages/2/55/Dialogue
+Mała Wróżka
+"A co nim jest?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am here to look for...
+ my sister."
+> CONTEXT: Map055/events/15/pages/2/58/Dialogue
+Senia
+"Jestem tu, by szukać...
+ mojej siostry."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Searching for sister?"
+> CONTEXT: Map055/events/15/pages/2/62/Dialogue
+Mała Wróżka
+"Poszukiwanie siostry?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"I am also looking for our Fairy Queen."
+> CONTEXT: Map055/events/15/pages/2/65/Dialogue
+Mała Wróżka
+"Ja również szukam naszej
+ Królowej Wróżek".
+> END STRING
+
+> BEGIN STRING
+Senia
+"Fairy Queen?"
+> CONTEXT: Map055/events/15/pages/2/68/Dialogue
+Senia
+"Królowej Wróżek?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Her majesty is the guardian of this forest."
+> CONTEXT: Map055/events/15/pages/2/74/Dialogue
+Mała Wróżka
+"Jej wysokość jest strażniczką tego lasu".
+> END STRING
+
+> BEGIN STRING
+Senia
+"Then how did she go missing?"
+> CONTEXT: Map055/events/15/pages/2/77/Dialogue
+Senia
+"Jak więc zaginęła?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"3 days ago...
+ All of a sudden a bunch of monsters
+ appeared in the forest."
+> CONTEXT: Map055/events/15/pages/2/80/Dialogue
+Mała Wróżka
+"3 dni temu...
+ Nagle pojawiła się
+ masa potworów w lesie."
+> END STRING
+
+> BEGIN STRING
+Senia
+(3 days ago...
+That was when sis Magaleta
+ went missing as well.)
+> CONTEXT: Map055/events/15/pages/2/85/Dialogue
+Senia
+(3 dni temu...
+Wtedy również zniknęła
+ siostrzyczka Magaleta.)
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"The monsters assaulted without any
+ warning  and trapped the Fairy Queen
+ deep in the forest."
+> CONTEXT: Map055/events/15/pages/2/90/Dialogue
+Mała Wróżka
+"Potwory zaatakowały bez żadnego
+ ostrzeżenia i uwięziły Królową Wróżek
+ głęboko w lesie."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"I am worried about our Fairy Queen.
+ Could you please check deep in the forest
+ and look for for her majesty?"
+> CONTEXT: Map055/events/15/pages/2/95/Dialogue
+Mała Wróżka
+"Martwię się o naszą Królową Wróżek.
+ Czy mogłabyś sprawdzić głębiej w lesie
+ i poszukać jej wysokości?"
+> END STRING
+
+> BEGIN STRING
+Senia
+(Deep in the forest...)
+> CONTEXT: Map055/events/15/pages/2/100/Dialogue
+Senia
+(Głębiej w lesie...)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Perhaps I will find sis there,
+ too.)
+> CONTEXT: Map055/events/15/pages/2/103/Dialogue
+Senia
+(Być może znajdę tam
+ również moją siostrę.)
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sure. I will go check it out."
+> CONTEXT: Map055/events/15/pages/2/107/Dialogue
+Senia
+"Jasne. Sprawdzę to".
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Really!?"
+> CONTEXT: Map055/events/15/pages/2/110/Dialogue
+Mała Wróżka
+"Naprawdę!?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sure..."
+> CONTEXT: Map055/events/15/pages/2/113/Dialogue
+> CONTEXT: Map014/events/11/pages/0/57/Dialogue
+Senia
+"Tak..."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"That is great! Thank you so much!
+By the way, what is your name?"
+> CONTEXT: Map055/events/15/pages/2/116/Dialogue
+Mała Wróżka
+"To jest wspaniałe! Bardzo ci dziękuję!
+A tak przy okazji, jak masz na imię?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"...Senia."
+> CONTEXT: Map055/events/15/pages/2/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"As a token of appreciation,
+I will show you how to 'craft' equipments!"
+> CONTEXT: Map055/events/15/pages/2/123/Dialogue
+Mała Wróżka
+"W ramach wdzięczności,
+pokażę ci, jak 'tworzyć' ekwipunek!"
+> END STRING
+
+> BEGIN STRING
+Crafting system enabled.
+
+\\c[6]Crafting system can be accessed from "Recipe List" on
+\\c[6]main menu or by pressing the hotkey "C."
+> CONTEXT: Map055/events/15/pages/2/128/Dialogue
+System Craftingu dostępny.
+
+\\c[6]Do systemu można przejść za pomocą opcji
+\\c[6]"Recipe List" z menu lub skrótu klawiszowego "C."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Try crafting these materials into
+ a 'Fairy Armor.'"
+> CONTEXT: Map055/events/15/pages/2/133/Dialogue
+Mała Wróżka
+"Spróbuj przetworzyć te materiały na
+ 'Zbroję Wróżek'."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Good job! You have just
+  made a Fairy Armor!"
+> CONTEXT: Map055/events/15/pages/3/2/Dialogue
+> CONTEXT: Map055/events/15/pages/3/35/Dialogue
+Mała Wróżka
+"Dobra robota! Właśnie
+ stworzyłaś 'Zbroję Wróżek'!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Hmm...
+  So this is crafting?
+  Seems handy enough!"
+> CONTEXT: Map055/events/15/pages/3/6/Dialogue
+Senia
+"Hmm...
+ Więc to jest crafting?
+ Wydaje się dość przydatny!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"If you find the monsters too tough
+  to handle,you should definitely try
+  crafting equipment upgrades!"
+> CONTEXT: Map055/events/15/pages/3/11/Dialogue
+Mała Wróżka
+"Jeśli uważasz, że potwory są zbyt trudne
+ do pokonania, powinnaś zdecydowanie
+ spróbować wytworzyć ulepszony sprzęt!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Here! Take these materials as well!"
+> CONTEXT: Map055/events/15/pages/3/16/Dialogue
+> CONTEXT: Map055/events/15/pages/3/49/Dialogue
+Mała Wróżka
+"Masz! Weź też te materiały!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Thanks. I will continue on
+  my journey, take care!"
+> CONTEXT: Map055/events/15/pages/3/23/Dialogue
+Senia
+"Dzięki. Będę kontynuować
+ moją podróż, dbaj o siebie!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Be careful on your journey~"
+> CONTEXT: Map055/events/15/pages/3/27/Dialogue
+> CONTEXT: Map055/events/15/pages/3/60/Dialogue
+Mała Wróżka
+"Bądź ostrożna w swojej wędrówce~"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Hmm...
+So this is crafting?
+Seems handy enough!"
+> CONTEXT: Map055/events/15/pages/3/39/Dialogue
+"Hmm...
+ Więc to jest crafting?
+ Wydaje się dość przydatny!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"If you find the monsters too tough to handle,
+ you should definitely try crafting equipment
+ upgrades!"
+> CONTEXT: Map055/events/15/pages/3/44/Dialogue
+Mała Wróżka
+"Jeśli uważasz, że potwory są zbyt trudne
+ do pokonania, powinnaś zdecydowanie
+ spróbować wytworzyć ulepszony sprzęt!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Thanks. I will continue on my
+ journey, take care!"
+> CONTEXT: Map055/events/15/pages/3/56/Dialogue
+Senia
+"Dzięki. Będę kontynuować
+ moją podróż, dbaj o siebie!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Try crafting these materials into
+  'Fairy Armor.'  Don't forget
+  to equip your newly made item!"
+> CONTEXT: Map055/events/15/pages/3/67/Dialogue
+Mała Wróżka
+"Spróbuj przetworzyć te materiały
+ w 'Zbroję Wróżek'. Nie zapomnij
+ ubrać nowo wytworzonego przedmiotu!"
+> END STRING
+
+> BEGIN STRING
+Crafting system.
+Press "ESC" to bring up the main menu and
+select "Recipe List" to access crafting system.
+Select "Armor" then "Fairy Armor" to craft it.
+> CONTEXT: Map055/events/15/pages/3/72/Dialogue
+System Craftingu.
+Naciśnij "ESC" by przejść do menu i wybierz
+opcję "Recipe List" by przejść do systemu.
+Wybierz "Zbroja" i "Zbroja Wróżek" by ją utworzyć.
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"La~Lalala~Lalalalalala~"
+> CONTEXT: Map055/events/15/pages/4/1/Dialogue
+Mała Wróżka
+"La~Lalala~Lalalalalala~"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Are you... singing?"
+> CONTEXT: Map055/events/15/pages/4/4/Dialogue
+Senia
+"Czy ty... śpiewasz?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"HEY! Don't eavesdrop on me!"
+> CONTEXT: Map055/events/15/pages/4/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I am not really tapping...)
+> CONTEXT: Map055/events/15/pages/4/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Help! Somebody help me!"
+> CONTEXT: Map055/events/24/pages/0/2/Dialogue
+Mała Wróżka
+"Pomocy! Niech ktoś mi pomoże!"
+> END STRING
+
+> BEGIN STRING
+Senia
+(A Fairy?)
+> CONTEXT: Map055/events/24/pages/0/5/Dialogue
+Senia
+(Wróżka?)
+> END STRING
+
+> BEGIN STRING
+River waypoint activated.
+> CONTEXT: Map055/events/83/pages/0/2/Dialogue
+Rzeka - punkt aktywowany.
+> END STRING
+
+> BEGIN STRING
+Waypoints enabled.
+Touching the goddess statue activates
+ the Waypoint of the area,
+> CONTEXT: Map055/events/83/pages/0/4/Dialogue
+Punkty szybkiej podróży włączone.
+Dotknięcie Posągu Bogini aktywuje
+ punkt trasy w tym obszarze,
+> END STRING
+
+> BEGIN STRING
+ enabling quick transportation between
+ different parts in the dungeon.
+> CONTEXT: Map055/events/83/pages/0/8/Dialogue
+ umożliwiając szybką podróż pomiędzy
+ różnymi częściami mapy.
+> END STRING
+
+> BEGIN STRING
+River
+> CONTEXT: Map055/display_name/
+> CONTEXT: Map005/display_name/
+> CONTEXT: Commonevents/74/13/Choice/1
+Rzeka
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"That's right! Fairy Queen 'Malphiq.'"
+> CONTEXT: Map055/events/15/pages/2/71/Dialogue
+Mała Wróżka
+"Tak jest! Królowa Wróżek 'Malphiq.'"
+> END STRING

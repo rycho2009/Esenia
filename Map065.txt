@@ -1,0 +1,347 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+In the next room is the boss fight.
+Once completed you will be sent to
+the next dungeon.
+> CONTEXT: Map065/events/1/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/96/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Forest of the Fairies - Boss waypoint activated.
+> CONTEXT: Map065/events/3/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired\\I[224]Book of Defense Ch. 1
+> CONTEXT: Map065/events/5/pages/0/8/Dialogue
+> CONTEXT: Map064/events/13/pages/0/8/Dialogue
+> CONTEXT: Map055/events/13/pages/0/8/Dialogue
+> CONTEXT: Map004/events/32/pages/0/8/Dialogue
+Otrzymano\\I[224]Księgę Obrony I
+> END STRING
+
+> BEGIN STRING
+精靈之森寶箱開啟數 + 1
+> CONTEXT: Map065/events/5/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/13/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map055/events/13/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/4/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/32/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/35/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2. Complete the collectible quests will grant you items
+      that cannot be found otherwise.
+> CONTEXT: Map065/events/10/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sheep
+"Baaaaaaaah~"
+> CONTEXT: Map065/events/52/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"A Sheep? Why here?"
+> CONTEXT: Map065/events/52/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sheep
+"How rude?
+ I am no ordinary sheep, I am
+ THE LEGENDARY SHEEP."
+> CONTEXT: Map065/events/52/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sheep
+"Look at you! Cheap equipments all over you.
+ Don't you want to try the luxury legendary items?"
+> CONTEXT: Map065/events/52/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Legendary item?"
+> CONTEXT: Map065/events/52/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sheep
+"It looks like you can craft.
+ The top level of all equipments are the legendary level."
+> CONTEXT: Map065/events/52/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sheep
+"Come see me again once you have
+ all the gears upgraded to the legendary level.
+ I will give you a surprise gift."
+> CONTEXT: Map065/events/52/pages/1/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/52/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/52/pages/1/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/52/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+???
+"Oh no! Please don't attack me!"
+> CONTEXT: Map065/events/54/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"You can... speak?"
+> CONTEXT: Map065/events/54/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Cough*
+My name is Slimey. I am a highly intellectual
+creature unlike the others."
+> CONTEXT: Map065/events/54/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Though highly developed intellectually,
+ but I am not equipped with battle ability..."
+> CONTEXT: Map065/events/54/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Thus I was attack by countless monsters
+ on my way here."
+> CONTEXT: Map065/events/54/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Good thing that I am skilled in evasion.
+ I dodged my way here."
+> CONTEXT: Map065/events/54/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Evasion... hmmm..."
+> CONTEXT: Map065/events/54/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Looks like you are interested in evasion skills?"
+> CONTEXT: Map065/events/54/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Well... kind of..."
+> CONTEXT: Map065/events/54/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(It is more like I need this skill
+ to fight strong monsters than
+ interested in it.)
+> CONTEXT: Map065/events/54/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"How about this?
+ If you clear a certain amount of the monsters
+ that attacked me,"
+> CONTEXT: Map065/events/54/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"I will teach you the evasion skills!"
+> CONTEXT: Map065/events/54/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Once you reach the count come and report to me.
+ I will give you a book of Evasion!"
+> CONTEXT: Map065/events/54/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Come back to me when you get rid of
+ enough of them."
+> CONTEXT: Map065/events/54/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Report: Evil Flower and Elf
+> CONTEXT: Map065/events/54/pages/1/4/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Report: Forest Spider and Sunny Mushroom
+> CONTEXT: Map065/events/54/pages/1/4/Choice/1
+Report: Leśne Pająki i Grzybki
+> END STRING
+
+> BEGIN STRING
+Report: Mutant Bee and Snake Wizard
+> CONTEXT: Map065/events/54/pages/1/4/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Report: Timberwolf and Green Dragon
+> CONTEXT: Map065/events/54/pages/1/4/Choice/3
+Report: Górskie Wilki i Zielone Smoki
+> END STRING
+
+> BEGIN STRING
+Evil Flower destroyed: \\V[270] / 15
+Elf destroyed: \\V[271] / 10
+> CONTEXT: Map065/events/54/pages/1/6/Dialogue
+Evil Flower destroyed: \\V[270] / 15
+Elfy zniszczone: \\V[271] / 10
+> END STRING
+
+> BEGIN STRING
+Acquired "\\I[225]Book of Evasion Ch. 1"
+> CONTEXT: Map065/events/54/pages/1/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Forest Spider destroyed: \\V[272] / 15
+Sunny Mushroom destroyed: \\V[273] / 10
+> CONTEXT: Map065/events/54/pages/1/39/Dialogue
+Leśne Pająki zniszczone: \\V[272] / 15
+Grzybki zniszczone: \\V[273] / 10
+> END STRING
+
+> BEGIN STRING
+Mutant Bee destroyed: \\V[274] / 10
+Snake Wizard destroyed: \\V[275] / 10
+> CONTEXT: Map065/events/54/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Timberwolf destroyed: \\V[276] / 10
+Green Dragon destroyed: \\V[277] / 10
+> CONTEXT: Map065/events/54/pages/1/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Thanks for your help.
+ As a token of appreciation, here is an extra gift!"
+> CONTEXT: Map065/events/54/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"With hard studying of the evasion books,
+ you can be as good as I am. Reading is power!"
+> CONTEXT: Map065/events/54/pages/3/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"Boooyah!"
+> CONTEXT: Map065/events/72/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Yikes!"
+> CONTEXT: Map065/events/72/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"Hahaha! Got'cha!"
+> CONTEXT: Map065/events/72/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+...(Raises her sword.)
+> CONTEXT: Map065/events/72/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/72/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"Hold-hold on!"
+> CONTEXT: Map065/events/72/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"I am the master of all chests, Jack in the Chest!
+ All the chests in the tower are placed by me."
+> CONTEXT: Map065/events/72/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"If you can find all my chests in the Forest of the Fairies,
+ I will have a surprise gift for you.
+(Excluding the chests in Arcane Realm.)"
+> CONTEXT: Map065/events/72/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Chests found in Forest of the Fairies: \\V[470] / 6
+> CONTEXT: Map065/events/72/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING

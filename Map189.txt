@@ -1,0 +1,254 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Nia's Grave
+> CONTEXT: Map189/events/1/pages/0/0/Dialogue
+Grób Nii
+> END STRING
+
+> BEGIN STRING
+Senia
+"A... graveyard?"
+> CONTEXT: Map189/events/3/pages/0/3/Dialogue
+Senia
+"Czy... to cmentarz?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"This grave... it's Nia's grave!"
+> CONTEXT: Map189/events/3/pages/0/20/Dialogue
+Senia
+"Ten grób... to grób Nii!"
+> END STRING
+
+> BEGIN STRING
+Nia
+"Hello, you must be Senia!"
+> CONTEXT: Map189/events/3/pages/0/33/Dialogue
+Nia
+"Witaj, ty musisz być Senia!"
+> END STRING
+
+> BEGIN STRING
+Senia
+(Don't tell me...)
+> CONTEXT: Map189/events/3/pages/0/36/Dialogue
+Senia
+(Nie mówcie mi, że...)
+> END STRING
+
+> BEGIN STRING
+Nia
+"My name is Nia!
+ Our names are just one syllable away!"
+> CONTEXT: Map189/events/3/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"O..kay..."
+> CONTEXT: Map189/events/3/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Nia have something to show you!"
+> CONTEXT: Map189/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Y-yes...?"
+> CONTEXT: Map189/events/3/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Quick! Give me your hands! Hands here!"
+> CONTEXT: Map189/events/3/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Nia is now an angel in heaven."
+> CONTEXT: Map189/events/3/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"This is all Nia can do for you."
+> CONTEXT: Map189/events/3/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"You are no replacement or clone of anyone."
+> CONTEXT: Map189/events/3/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Right!"
+> CONTEXT: Map189/events/3/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map189/events/3/pages/1/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Nia... she warmed me up.)
+> CONTEXT: Map189/events/3/pages/1/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Thank you, Nia."
+> CONTEXT: Map189/events/3/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"You are welcomed!"
+> CONTEXT: Map189/events/3/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Sis is waiting for you."
+> CONTEXT: Map189/events/3/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Please go meet her, quickly!"
+> CONTEXT: Map189/events/3/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"This time, I will bring sis back
+ with me!"
+> CONTEXT: Map189/events/3/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Is that a promise?"
+> CONTEXT: Map189/events/3/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Yes, it is. Off I go now!"
+> CONTEXT: Map189/events/3/pages/1/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Wait!"
+> CONTEXT: Map189/events/3/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Yes?"
+> CONTEXT: Map189/events/3/pages/1/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Tell sis for me...\\|
+ I do not wish her to just live on."
+> CONTEXT: Map189/events/3/pages/1/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Huh!?"
+> CONTEXT: Map189/events/3/pages/1/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/6/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/30/pages/3/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"I want her to live a happy life."
+> CONTEXT: Map189/events/3/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I will tell her."
+> CONTEXT: Map189/events/3/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia gave me one warm smile before she dissapeared.
+> CONTEXT: Map189/events/3/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+That smile...\\|
+It marked deeply in my mind.
+> CONTEXT: Map189/events/3/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Hmm!?"
+> CONTEXT: Map189/events/3/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"The cross pendant from sis!
+ It is... fixed!"
+> CONTEXT: Map189/events/3/pages/1/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Did you fix that for me... Nia?"
+> CONTEXT: Map189/events/3/pages/1/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired  \\i[281]Cross Pendant.
+> CONTEXT: Map189/events/3/pages/1/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sacred sanctum..."
+> CONTEXT: Map189/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,33 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Monster King:
+1. King monsters are way more powerful than regular foes in
+     the area.
+> CONTEXT: Map063/events/18/pages/0/0/Dialogue
+> CONTEXT: Map061/events/21/pages/0/0/Dialogue
+> CONTEXT: Map005/events/38/pages/0/0/Dialogue
+Król Potworów:
+1. Król potworów jest znacznie silniejszy od normalnych
+    przciwników w obszarze.
+> END STRING
+
+> BEGIN STRING
+2. It is recommend to upgrade all your equipments to the
+    "Elite" level before challenging.
+> CONTEXT: Map063/events/18/pages/0/4/Dialogue
+> CONTEXT: Map061/events/21/pages/0/4/Dialogue
+> CONTEXT: Map005/events/38/pages/0/4/Dialogue
+2. Zalecane jest ulepszenie całego twojego ekwipunku
+    do poziomu "Elitarnego" przed podejściem do 
+    wyzwania.
+> END STRING
+
+> BEGIN STRING
+3. Boss room will open once you have entered
+    Forest Arcane Realm.
+> CONTEXT: Map063/events/18/pages/0/7/Dialogue
+> CONTEXT: Map061/events/21/pages/0/7/Dialogue
+> CONTEXT: Map005/events/38/pages/0/7/Dialogue
+3. Pomieszczenie Bossa zostanie otwarte
+    kiedy wejdziesz do Leśnej Krainy Magii.
+> END STRING

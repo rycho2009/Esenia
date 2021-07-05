@@ -1,0 +1,359 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+There is a sphere socket on it...
+> CONTEXT: Map186/events/19/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Inserted blue crystal ball.
+> CONTEXT: Map186/events/19/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It should be here... somewhere."
+> CONTEXT: Map186/events/21/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Got it!"
+> CONTEXT: Map186/events/21/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Discovered blueprint of Hydrangea Sword.
+Hydrangea Sword added to the crafting recipe.
+> CONTEXT: Map186/events/21/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Discovered blueprint of Violet Crystal Armor.
+Violet Crystal Armor added to the crafting recipe.
+> CONTEXT: Map186/events/21/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Eww...
+ That was some ugly drawing."
+> CONTEXT: Map186/events/21/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I cannot believe I had the guts
+ to have the craftsman work on
+ this blueprint."
+> CONTEXT: Map186/events/21/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"This room...
+ it is sis Magaleta's room."
+> CONTEXT: Map186/events/35/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"This room... it is my room."
+> CONTEXT: Map186/events/36/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Searching the compartment...
+> CONTEXT: Map186/events/48/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map186/events/49/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Found nothing.
+> CONTEXT: Map186/events/48/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired\\i[236] Score: the Other Side of Sorrow - Part I
+> CONTEXT: Map186/events/49/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It is sis' favorite stuffed animal..."
+> CONTEXT: Map186/events/50/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I remember seeing her crying
+ with it at night...)
+> CONTEXT: Map186/events/50/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(... ...)
+> CONTEXT: Map186/events/50/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（............）
+> CONTEXT: Map186/events/50/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"A piano..."
+> CONTEXT: Map186/events/51/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I miss the times...
+ When Magaleta sis plays the
+ piano for me.)
+> CONTEXT: Map186/events/51/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Hmm?
+ The score on the piano seems
+ to be incomplete."
+> CONTEXT: Map186/events/51/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"The Other Side of Sorrow..."
+> CONTEXT: Map186/events/51/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I shall search around for
+ the missing parts of the score."
+> CONTEXT: Map186/events/51/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Placed Score: the Other Side of Sorrow - part I on the piano.
+> CONTEXT: Map186/events/51/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Still seemed incomplete..."
+> CONTEXT: Map186/events/51/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Maybe there is another part of
+ it lying around somewhere."
+> CONTEXT: Map186/events/51/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map186/events/51/pages/2/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Placed Score: the Other Side of Sorrow - part II on the piano.
+> CONTEXT: Map186/events/51/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"The piano is playing by itself!"
+> CONTEXT: Map186/events/51/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(It feels... somewhat... relieved.)
+> CONTEXT: Map186/events/51/pages/3/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(It is like sis is right by me...)
+> CONTEXT: Map186/events/51/pages/3/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"The Other Side of Sorrow."
+> CONTEXT: Map186/events/51/pages/4/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Is that how you named it at last?
+ Sis..."
+> CONTEXT: Map186/events/51/pages/4/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired\\i[353] Blue Crystal.
+> CONTEXT: Map186/events/123/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired\\i[236] Score: the Other Side of Sorrow - Part II
+> CONTEXT: Map186/events/153/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It's the goddess statue..."
+> CONTEXT: Map186/events/155/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Let's pray on it..."
+> CONTEXT: Map186/events/155/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"You have found me again!
+Here are the promised materials!"
+> CONTEXT: Map186/events/156/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired following materials:
+Sanctum Crystal x 5
+Sanctum Cloth x 5
+Book of Sword Art Ch. 3
+> CONTEXT: Map186/events/156/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"That is all the bonus materials from me.
+Please do make it to the endings!"
+> CONTEXT: Map186/events/156/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"If you are having a hard time reaching one of the endings,
+please try to have an "accessory" equipped on your journey!"
+> CONTEXT: Map186/events/156/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Where am I?"
+> CONTEXT: Map186/events/157/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Isn't this...sacred sanctum?"
+> CONTEXT: Map186/events/157/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"So sis is here...?"
+> CONTEXT: Map186/events/157/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Looks like Senia's sister is the lord of this
+ dungeon. The dungeon's appearance is
+ determined by its leader, hence this area..."
+> CONTEXT: Map186/events/157/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta is a lord in Tower
+ of Eternity?"
+> CONTEXT: Map186/events/157/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Are you saying..."
+> CONTEXT: Map186/events/157/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Yes, your sister must have grabbed eternity..."
+> CONTEXT: Map186/events/157/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Sis... has eternity...?)
+> CONTEXT: Map186/events/157/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I have a bad feeling about this.
+ Let's hurry up!"
+> CONTEXT: Map186/events/157/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Right!"
+> CONTEXT: Map186/events/157/pages/0/42/Dialogue
+> CONTEXT: Map008/events/30/pages/3/129/Dialogue
+Little Fairy
+"W porządku!"
+> END STRING

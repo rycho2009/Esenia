@@ -1,0 +1,12 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+　　　                                   　　~GREED~
+                                           There is no letting go.
+                             You will grab every treasure possible.
+
+> CONTEXT: Map093/events/1/pages/0/1/Dialogue
+                                          ~CHCIWOŚĆ~
+                                        Nie ma mowy o odpuszczaniu.
+                             Złapiesz każdy możliwy skarb.
+
+> END STRING

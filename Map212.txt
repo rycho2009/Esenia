@@ -1,0 +1,399 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Confession Hall
+> CONTEXT: Map212/display_name/ < UNTRANSLATED
+> CONTEXT: Commonevents/69/43/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Beyond this door is the point of no return.
+(Strongly recommended to keep a separate save here.)
+> CONTEXT: Map212/events/3/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I am not ready yet.
+> CONTEXT: Map212/events/3/pages/0/5/Choice/0
+> CONTEXT: Map136/events/2/pages/0/4/Choice/0
+> CONTEXT: Map065/events/1/pages/0/5/Choice/0
+> CONTEXT: Map025/events/20/pages/0/5/Choice/0
+> CONTEXT: Map065/events/96/pages/0/5/Choice/0
+Nie jestem jeszcze gotowa.
+> END STRING
+
+> BEGIN STRING
+Onward!
+> CONTEXT: Map212/events/3/pages/0/5/Choice/1
+> CONTEXT: Map136/events/2/pages/0/4/Choice/1
+> CONTEXT: Map065/events/1/pages/0/5/Choice/1
+> CONTEXT: Map025/events/20/pages/0/5/Choice/1
+> CONTEXT: Map065/events/96/pages/0/5/Choice/1
+Naprzód!
+> END STRING
+
+> BEGIN STRING
+Easy mode
+> CONTEXT: Map212/events/3/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Map136/events/2/pages/0/4/Choice/2 < UNTRANSLATED
+> CONTEXT: Map065/events/1/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Map065/events/96/pages/0/5/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Hard mode
+> CONTEXT: Map212/events/3/pages/0/5/Choice/3 < UNTRANSLATED
+> CONTEXT: Map136/events/2/pages/0/4/Choice/3 < UNTRANSLATED
+> CONTEXT: Map065/events/1/pages/0/5/Choice/3 < UNTRANSLATED
+> CONTEXT: Map065/events/96/pages/0/5/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最後BOSS趕工中
+
+　　　　　　　　　　　　　BY 聖堂祭司
+> CONTEXT: Map212/events/3/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Confessional hall waypoint activated.
+> CONTEXT: Map212/events/7/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"If you can find all my chests in the Fallen Sanctum,
+ I will have a surprise gift for you.
+(Excluding the chests in Arcane Realm.)"
+> CONTEXT: Map212/events/12/pages/0/1/Dialogue
+Jack in the Chest
+"If you can find all my chests in the Fallen Sanctum,
+ I will have a surprise gift for you.
+(Excluding the chests in Krainie Magii.)"
+> END STRING
+
+> BEGIN STRING
+Chests found in Fallen Sanctum: \\V[472] / 6
+> CONTEXT: Map212/events/12/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"Gah gah! You have found all the chests!"
+> CONTEXT: Map212/events/12/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/1/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/72/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"As promised, here is your gift!"
+> CONTEXT: Map212/events/12/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/72/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[346]Violet Crystal
+> CONTEXT: Map212/events/12/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/1/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/72/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"Hum hum! Hammer!"
+> CONTEXT: Map212/events/12/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/72/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"Bom bom! Boomerang!"
+> CONTEXT: Map212/events/12/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/72/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"Dom dom! Senia Dumb!"
+> CONTEXT: Map212/events/12/pages/2/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/2/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/72/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"..."
+> CONTEXT: Map212/events/12/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/4/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map189/events/3/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map187/events/3/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map189/events/3/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map187/events/3/pages/0/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map186/events/21/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map186/events/35/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map186/events/36/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map187/events/3/pages/0/121/Dialogue < UNTRANSLATED
+> CONTEXT: Map186/events/51/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map189/events/10/pages/0/9/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/32/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/5/pages/2/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map148/events/32/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map151/events/22/pages/1/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map152/events/67/pages/3/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map152/events/70/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/6/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/6/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/2/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/47/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/376/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/48/Dialogue < UNTRANSLATED
+> CONTEXT: Map101/events/26/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map066/events/3/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map066/events/3/pages/0/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/2/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/17/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/11/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/8/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/30/pages/3/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/30/pages/3/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/73/pages/2/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jack in the Chest
+"NooOOoOOoOO!"
+> CONTEXT: Map212/events/12/pages/2/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/2/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/72/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"My head, my head hurts!"
+> CONTEXT: Map212/events/12/pages/2/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/12/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sheep
+"Looks like you are geared up with legendary items.
+ Here is your gift as promised."
+> CONTEXT: Map212/events/13/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/13/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/52/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sheep
+"Come see me again once you have all
+ the gears upgraded to the legendary level.
+ I will give you a surprise gift."
+> CONTEXT: Map212/events/13/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/13/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/13/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/13/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/13/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/13/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/13/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/13/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/52/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sheep
+"Baaaaaah!
+ You should now be invincible with legendary gears!"
+> CONTEXT: Map212/events/13/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/13/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/52/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Which monster are you reporting?"
+> CONTEXT: Map212/events/14/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Report:Angel Intern and Nun
+> CONTEXT: Map212/events/14/pages/0/4/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Report:Sanctum Guard and Dark Angel
+> CONTEXT: Map212/events/14/pages/0/4/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Report:Seraph and Sanctum Knight
+> CONTEXT: Map212/events/14/pages/0/4/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Report:Fallen Angel and Cherub
+> CONTEXT: Map212/events/14/pages/0/4/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Angel Intern destroyed: \\V[589] / 15
+Nun destroyed: \\V[590] / 10
+> CONTEXT: Map212/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"You have successfully destroyed so many monsters!
+ Here is your book of Evasion as promised!"
+> CONTEXT: Map212/events/14/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired "\\I[225]Book of Evasion Ch. 3"
+> CONTEXT: Map212/events/14/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"You have reported this quest already!
+ Please try to hunt after other monsters!"
+> CONTEXT: Map212/events/14/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/14/pages/0/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sanctum Guard destroyed: \\V[591] / 15
+Dark Angel destroyed: \\V[592] / 10
+> CONTEXT: Map212/events/14/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Seraph destroyed: \\V[593] / 15
+Sanctum Knight destroyed: \\V[594] / 10
+> CONTEXT: Map212/events/14/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fallen Angel destroyed: \\V[595] / 15
+Cherub destroyed: \\V[596] / 10
+> CONTEXT: Map212/events/14/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"You have completed all the quests!"
+> CONTEXT: Map212/events/14/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"Thanks for your help.
+As a token of appreciation, here is an extra gift!"
+> CONTEXT: Map212/events/14/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slimey
+"With hard studying of the evasion books,
+you can be as good as I am. Reading is power!"
+> CONTEXT: Map212/events/14/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Collectibles:
+1. Legendary Sheep, Slimey, and Jack in the Chest
+     are collectible NPCs.
+> CONTEXT: Map212/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/15/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2. Complete the collectible quests will grant you items
+     that cannot be found other wise.
+> CONTEXT: Map212/events/16/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/15/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3. Completing collectible quests or not
+    \\c[6] does NOT affect ending. \\c[0]
+> CONTEXT: Map212/events/16/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/15/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/10/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING

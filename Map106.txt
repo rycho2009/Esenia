@@ -1,0 +1,98 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+(Sis is so strong...)
+> CONTEXT: Map106/events/13/pages/0/16/Dialogue
+Senia
+(Siostrzyczka jest taka silna...)
+> END STRING
+
+> BEGIN STRING
+Senia
+(But I am still worried for some
+ reason...)
+> CONTEXT: Map106/events/13/pages/0/19/Dialogue
+Senia
+(Ale nadal z jakiegoś powodu
+ czuję niepokój...)
+> END STRING
+
+> BEGIN STRING
+Senia
+(!!)
+> CONTEXT: Map106/events/13/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Siostro!)
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Watch out!"
+> CONTEXT: Map106/events/13/pages/0/41/Dialogue
+Senia
+"Uważaj!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"AUGH!"
+> CONTEXT: Map106/events/13/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia!?"
+> CONTEXT: Map106/events/13/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"uh...eh..."
+> CONTEXT: Map106/events/13/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia!!"
+> CONTEXT: Map106/events/13/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, are you ok!?"
+> CONTEXT: Map106/events/13/pages/0/87/Dialogue
+Magaleta
+"Nia, nic ci nie jest!?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Si...s..."
+> CONTEXT: Map106/events/13/pages/0/90/Dialogue
+Senia
+"Sios...tro..."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"NIA!!!"
+> CONTEXT: Map106/events/13/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Sis!)
+> CONTEXT: Map106/events/13/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING

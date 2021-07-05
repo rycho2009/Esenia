@@ -1,0 +1,9 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Forest Entrance
+> CONTEXT: Map061/display_name/
+> CONTEXT: Map054/display_name/
+> CONTEXT: Map004/display_name/
+> CONTEXT: Commonevents/74/13/Choice/0
+Wejście do Lasu
+> END STRING

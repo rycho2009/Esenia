@@ -1,0 +1,209 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"Whoa!?"
+> CONTEXT: Map039/events/1/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Is this... a castle?"
+> CONTEXT: Map039/events/1/pages/0/10/Dialogue
+Senia
+"Czy to... zamek?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"This is probably the demon fortress."
+> CONTEXT: Map039/events/1/pages/0/13/Dialogue
+Mała Wróżka
+"To prawdopodobnie forteca demonów."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"It is a military fortress of the Demon Lord,
+ ruler of the Demon Frontier."
+> CONTEXT: Map039/events/1/pages/0/16/Dialogue
+Mała Wróżka
+"To forteca militarna Lorda Demonów,
+ władcy Demonicznych Ziem."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"The Demon Lord invaded our forest
+ many times before."
+> CONTEXT: Map039/events/1/pages/0/20/Dialogue
+Mała Wróżka
+"Władca Demonów najeżdżał nasz las
+ już wielokrotnie."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"It is fortunate that our queen is strong
+ enough to repel them everytime!"
+> CONTEXT: Map039/events/1/pages/0/24/Dialogue
+Mała Wróżka
+"To szczęście, że nasza królowa jest
+ wystarczająco silna, by odeprzeć ich
+ za każdym razem!"
+> END STRING
+
+> BEGIN STRING
+Senia
+(Would Magaleta sis be in there?)
+> CONTEXT: Map039/events/1/pages/0/28/Dialogue
+Senia
+(Czy siostra Magaleta tam będzie?)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Why would she come here
+ in the first place?)
+> CONTEXT: Map039/events/1/pages/0/31/Dialogue
+Senia
+(Dlaczego w ogóle
+ tu przyszła?)
+> END STRING
+
+> BEGIN STRING
+Senia
+"It is not going to help standing
+here and worrying."
+> CONTEXT: Map039/events/1/pages/0/36/Dialogue
+Senia
+"Stanie i zamartwianie
+ nic tu nie pomoże."
+> END STRING
+
+> BEGIN STRING
+Senia
+"We will have to go in and
+ check it out."
+> CONTEXT: Map039/events/1/pages/0/40/Dialogue
+Senia
+"Musimy wejść i to sprawdzić."
+> END STRING
+
+> BEGIN STRING
+Senia
+"The bridge is not laying down..."
+> CONTEXT: Map039/events/1/pages/0/45/Dialogue
+Senia
+"Most się nie opuszcza..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Hey, there is a switch."
+> CONTEXT: Map039/events/1/pages/0/53/Dialogue
+Senia
+"Hej, tam jest przełącznik."
+> END STRING
+
+> BEGIN STRING
+Senia
+"It does not seem to have a
+ route leading to the switch.
+ Hmm..."
+> CONTEXT: Map039/events/1/pages/0/56/Dialogue
+Senia
+"Wydaje się, że nie ma drogi
+ prowadzącej do przełącznika.
+ Hmm..."
+> END STRING
+
+> BEGIN STRING
+Senia
+(I've got an idea!)
+> CONTEXT: Map039/events/1/pages/0/64/Dialogue
+Senia
+(Mam pomysł!)
+> END STRING
+
+> BEGIN STRING
+Senia
+"Fairy, can you come here
+ for a bit?"
+> CONTEXT: Map039/events/1/pages/0/67/Dialogue
+Senia
+"Wróżko, czy możesz tu
+ na chwilę podejść?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Yes? What can I do for you?"
+> CONTEXT: Map039/events/1/pages/0/71/Dialogue
+Mała Wróżka
+"Tak? Co mogę dla Ciebie zrobić?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Please close your eyes,
+  it will be really quick."
+> CONTEXT: Map039/events/1/pages/0/74/Dialogue
+Senia
+"Proszę zamknij oczy,
+ to potrwa naprawdę chwilę."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"My eyes? No problem at all."
+> CONTEXT: Map039/events/1/pages/0/78/Dialogue
+Mała Wróżka
+"Moje oczy? Żaden problem."
+> END STRING
+
+> BEGIN STRING
+Senia
+(Do it now!!)
+> CONTEXT: Map039/events/1/pages/0/81/Dialogue
+Senia
+(Teraz!!)
+> END STRING
+
+> BEGIN STRING
+Senia
+"It... it worked!"
+> CONTEXT: Map039/events/1/pages/3/0/Dialogue
+Senia
+"To... to działa!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"You should at least warn me before
+ tossing me out!"
+> CONTEXT: Map039/events/1/pages/3/3/Dialogue
+Mała Wróżka
+"Powinnaś mnie przynajmniej ostrzec,
+ zanim mną rzucisz!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I will next time..."
+> CONTEXT: Map039/events/1/pages/3/7/Dialogue
+Senia
+"Następnym razem tak zrobię..."
+> END STRING
+
+> BEGIN STRING
+New skill "Fairy Attack" learnt!
+
+\\c[6]Effect 1: damage enemy from distance.
+\\c[6]Effect 2: activate switches far away.
+> CONTEXT: Map039/events/1/pages/3/11/Dialogue
+Poznano nową umiejętność "Wróżkowy Atak"!
+
+\\c[6]Efekt 1: zadaje obrażenia przeciwnikom z dystansu.
+\\c[6]Efekt 2: aktywuje oddalone przełączniki.
+> END STRING

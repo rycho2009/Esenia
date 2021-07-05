@@ -1,0 +1,47 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"So this is... the Tower of
+ Eternity...?"
+> CONTEXT: Map148/events/32/pages/0/24/Dialogue
+Senia
+"Więc to jest... Wieża
+ Wieczności...?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Are you really here, sis...?"
+> CONTEXT: Map148/events/32/pages/0/28/Dialogue
+Senia
+"Naprawdę tu jesteś,
+ siostro...?"
+> END STRING
+
+> BEGIN STRING
+Senia
+(Takes a deep breath.)
+> CONTEXT: Map148/events/32/pages/0/34/Dialogue
+Senia
+(Bierze głęboki wdech.)
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am ready!"
+> CONTEXT: Map148/events/32/pages/0/37/Dialogue
+Senia
+"Jestem gotowa!"
+> END STRING
+
+> BEGIN STRING
+"<Text = Touch monsters to engage \>"
+> CONTEXT: None < UNUSED
+"<Text = Dotknij potworów by zaatakować \>"
+> END STRING
+
+> BEGIN STRING
+"<Text = Monsters reflect damage when engaged \>"
+> CONTEXT: None < UNUSED
+"<Text = Potwory zadają obrażenia, gdy ktoś ja atakuje \>"
+> END STRING

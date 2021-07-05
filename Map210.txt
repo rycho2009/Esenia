@@ -1,0 +1,121 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Child Senia
+"Waaah... Sis is so good at Piano."
+> CONTEXT: Map210/events/3/pages/0/3/Dialogue
+Maleńka Senia
+"Waaah... Sis is so good at Piano."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Does Nia want to learn how to
+ play piano?"
+> CONTEXT: Map210/events/3/pages/0/6/Dialogue
+Magaleta
+"Czy chcesz się nauczyć grać na
+ pianinie Nia?"
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"No.
+I am happy just to listen to Magaleta plays the piano..."
+> CONTEXT: Map210/events/3/pages/0/10/Dialogue
+Maleńka Senia
+"Nie.
+I am happy just to listen to Magaleta plays the piano..."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Really?"
+> CONTEXT: Map210/events/3/pages/0/14/Dialogue
+Magaleta
+"Naprawdę?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Then I will play it
+ whenever Nia would like to listen.
+ That is a promise!"
+> CONTEXT: Map210/events/3/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"Yay!"
+Maleńka Senia
+"Jej!"
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"Hey, sis!"
+> CONTEXT: Map210/events/3/pages/0/28/Dialogue
+Maleńka Senia
+"Hej, siostrzyczko!"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Yes, Nia?"
+> CONTEXT: Map210/events/3/pages/0/31/Dialogue
+> CONTEXT: Map105/events/10/pages/0/100/Dialogue
+> CONTEXT: Map033/events/35/pages/0/91/Dialogue
+Magaleta
+"Tak, Nia?"
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"What is the name of this song?"
+> CONTEXT: Map210/events/3/pages/0/34/Dialogue
+Maleńka Senia
+"Jak się nazywa ta piosenka?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"... ..."
+> CONTEXT: Map210/events/3/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map205/events/2/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/552/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/155/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/25/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"Sis...?"
+> CONTEXT: Map210/events/3/pages/0/40/Dialogue
+Maleńka Senia
+"Siostrzyczko...?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It is a work in progress..."
+> CONTEXT: Map210/events/3/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am about to finish it
+ but I have yet to come up with
+ a name for it."
+> CONTEXT: Map210/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"Yay!"
+> CONTEXT: Map210/events/3/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING

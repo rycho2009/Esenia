@@ -1,0 +1,54 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Eternal
+> CONTEXT: Map203/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Is this... caused by eternity?"
+> CONTEXT: Map203/events/4/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Like the time when Fairy
+ Queen Malphiq lost control?"
+> CONTEXT: Map203/events/4/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"So perhaps I can..."
+> CONTEXT: Map203/events/4/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis..."
+> CONTEXT: Map203/events/4/pages/0/32/Dialogue
+> CONTEXT: Map206/events/1/pages/0/206/Dialogue
+> CONTEXT: Map152/events/70/pages/0/14/Dialogue
+> CONTEXT: Map143/events/8/pages/0/65/Dialogue
+Senia
+"Siostro..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"This may hurt a little..."
+> CONTEXT: Map203/events/4/pages/0/35/Dialogue
+"To może trochę zaboleć..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"I WILL SAVE YOU!!"
+> CONTEXT: Map203/events/4/pages/0/38/Dialogue
+Senia
+"URATUJĘ CIĘ!!"
+> END STRING

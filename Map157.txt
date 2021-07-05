@@ -1,0 +1,333 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"Sis Magaleta!
+I finally found you!"
+> CONTEXT: Map157/events/5/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Let's go..."
+> CONTEXT: Map157/events/5/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta...?"
+> CONTEXT: Map157/events/5/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta(?)
+"..."
+> CONTEXT: Map157/events/5/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"...!!"
+> CONTEXT: Map157/events/5/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map008/events/30/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Ouch!!"
+> CONTEXT: Map157/events/5/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(It hurts...)\\|\\|\\^
+> CONTEXT: Map157/events/5/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(What is going on...)\\|\\|\\^
+> CONTEXT: Map157/events/5/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(My consciousness... \\|
+ is fading away...)\\|\\|\\^
+> CONTEXT: Map157/events/5/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Senia! Wake up!"
+> CONTEXT: Map157/events/5/pages/2/4/Dialogue
+> CONTEXT: Map008/events/30/pages/3/1/Dialogue
+Mała Wróżka
+"Senia! Obudź się!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I passed out?"
+> CONTEXT: Map157/events/5/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(What... happened?)
+> CONTEXT: Map157/events/5/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I remember...\\|
+I saw sis...\\|and then...)\\|
+> CONTEXT: Map157/events/5/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(...!!)
+> CONTEXT: Map157/events/5/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No, no way... sis..."
+> CONTEXT: Map157/events/5/pages/2/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Does not recognize me..."
+> CONTEXT: Map157/events/5/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"And her eyes..."
+> CONTEXT: Map157/events/5/pages/2/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Impossible!
+ Sis will not be possessed by eternity!"
+> CONTEXT: Map157/events/5/pages/2/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"None of these were true... No..."
+> CONTEXT: Map157/events/5/pages/2/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Senia..."
+> CONTEXT: Map157/events/5/pages/2/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/5/pages/2/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"What would happen to those
+ who are possessed by eternity?"
+> CONTEXT: Map157/events/5/pages/2/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"They will slowly lose their mind...
+ Once eternity fully take control...
+ they can no longer recover from it."
+> CONTEXT: Map157/events/5/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Absolutely no way... to recover?"
+> CONTEXT: Map157/events/5/pages/2/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Exactly..."
+> CONTEXT: Map157/events/5/pages/2/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No... that is not going to happen
+ ... to sis."
+> CONTEXT: Map157/events/5/pages/2/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Sis is way too nice and strong
+ to lose to eternity!)
+> CONTEXT: Map157/events/5/pages/2/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It is impossible...
+ sis is no puppet of eternity...!"
+> CONTEXT: Map157/events/5/pages/2/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"What if...
+ Your sister really turns into a puppet of eternity...?"
+> CONTEXT: Map157/events/5/pages/2/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"What will you do then?"
+> CONTEXT: Map157/events/5/pages/2/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I..."
+> CONTEXT: Map157/events/5/pages/2/121/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/1/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/1/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(What is the point returning to
+ the church without sis...)
+> CONTEXT: Map157/events/5/pages/2/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I am willing to bet on even
+ the slimmest possibility...)
+> CONTEXT: Map157/events/5/pages/2/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Senia?"
+> CONTEXT: Map157/events/5/pages/2/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am going onward
+ with my search."
+> CONTEXT: Map157/events/5/pages/2/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"But what if..."
+> CONTEXT: Map157/events/5/pages/2/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I will give everything I've got!"
+> CONTEXT: Map157/events/5/pages/2/143/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Whatever it takes, I am getting
+ sis back!"
+> CONTEXT: Map157/events/5/pages/2/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"If I back down right here..."
+> CONTEXT: Map157/events/5/pages/2/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Then sis is lost to me... forever."
+> CONTEXT: Map157/events/5/pages/2/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Whatever it takes.
+ I am not giving up..."
+> CONTEXT: Map157/events/5/pages/2/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Sis Magaleta...
+ she is everything I have...)
+> CONTEXT: Map157/events/5/pages/2/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"You are determined!"
+> CONTEXT: Map157/events/5/pages/2/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"I will go with you."
+> CONTEXT: Map157/events/5/pages/2/167/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Thanks..."
+> CONTEXT: Map157/events/5/pages/2/170/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,156 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Hydrangea Sword
+> CONTEXT: Weapons/1/name/
+> CONTEXT: Weapons/3/name/
+Miecz Hortensji
+> END STRING
+
+> BEGIN STRING
+A two handed sword with amethyst socketed
+in the hilt. Senia's favorite sword.
+> CONTEXT: Weapons/1/description/
+> CONTEXT: Weapons/3/description/
+Miecz dwuręczny z amestytem umieszczonym
+w rękojeści. Ulubiony miecz Senii.
+> END STRING
+
+> BEGIN STRING
+Two-Handed Sword
+> CONTEXT: Weapons/2/name/
+Dwuręczny Miecz
+> END STRING
+
+> BEGIN STRING
+鬥士巨劍
+> CONTEXT: Weapons/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[上等]鬥士巨劍
+> CONTEXT: Weapons/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[極品]鬥士巨劍
+> CONTEXT: Weapons/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+死亡引導者
+> CONTEXT: Weapons/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[上等]死亡引導者
+> CONTEXT: Weapons/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[極品]死亡引導者
+> CONTEXT: Weapons/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+秘劍‧紫陽花
+> CONTEXT: Weapons/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+劍柄鑲嵌紫寶石的雙手劍，賽妮亞的愛劍。
+> CONTEXT: Weapons/14/description/ < UNTRANSLATED
+> CONTEXT: Weapons/15/description/ < UNTRANSLATED
+> CONTEXT: Weapons/16/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[上等]秘劍‧紫陽花
+> CONTEXT: Weapons/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[極品]秘劍‧紫陽花
+> CONTEXT: Weapons/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Claymore
+> CONTEXT: Weapons/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Claymore
+> CONTEXT: Weapons/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Claymore
+> CONTEXT: Weapons/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Butterfly Dance
+> CONTEXT: Weapons/23/name/
+Taniec Motyla
+> END STRING
+
+> BEGIN STRING
+Demon Sword
+> CONTEXT: Weapons/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Demon Sword
+> CONTEXT: Weapons/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Demon Sword
+> CONTEXT: Weapons/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Darkness
+> CONTEXT: Weapons/27/name/
+Mrok
+> END STRING
+
+> BEGIN STRING
+Sanctum Sword
+> CONTEXT: Weapons/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Sanctum Sword
+> CONTEXT: Weapons/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Sanctum Sword
+> CONTEXT: Weapons/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Trial
+> CONTEXT: Weapons/31/name/ < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,450 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+進行合成「精工十字巨劍」嗎？
+> CONTEXT: Map011/events/1/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+是
+> CONTEXT: Map011/events/1/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/14/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/21/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/22/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/28/pages/0/6/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/35/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/59/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/60/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/63/pages/0/2/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/71/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/72/pages/0/4/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/73/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/77/pages/0/10/Choice/0 < UNTRANSLATED
+> CONTEXT: Map011/events/89/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+否
+> CONTEXT: Map011/events/1/pages/0/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/14/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/21/pages/0/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/22/pages/0/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/28/pages/0/6/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/35/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/59/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/60/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/63/pages/0/2/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/71/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/72/pages/0/4/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/73/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/77/pages/0/10/Choice/1 < UNTRANSLATED
+> CONTEXT: Map011/events/89/pages/0/3/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[545]「精工十字巨劍」
+> CONTEXT: Map011/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「損壞的弓」不夠哦
+> CONTEXT: Map011/events/1/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「水晶」不夠哦
+> CONTEXT: Map011/events/1/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/35/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/71/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「十字巨劍」不夠哦
+（如果正在裝備中請先卸除下來）
+> CONTEXT: Map011/events/1/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈
+「這裏可以購買合成材料
+　也可以將多餘的材料給賣掉」
+> CONTEXT: Map011/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈
+「快去合成「森林布甲」吧」
+> CONTEXT: Map011/events/8/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+是否離開精靈池？
+> CONTEXT: Map011/events/14/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/89/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【精靈池】已開放
+可將冒險途中獲得的材料進行合成或販賣
+要回到精靈池只要觸碰女神像即可
+> CONTEXT: Map011/events/14/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+已開啟【精靈之森-2】的傳送點
+> CONTEXT: Map011/events/14/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【區域傳送】已開放
+到達新區域時，碰觸女神像可開啟該區域的傳送點
+之後都可藉由女神像進行傳送
+> CONTEXT: Map011/events/14/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先試著嘗試製作「森林布甲」吧
+> CONTEXT: Map011/events/14/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「歡迎來到精靈池！」
+> CONTEXT: Map011/events/16/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「在這裏只要交給精靈指定的物品
+　就能幫妳合成對應的裝備哦～」
+> CONTEXT: Map011/events/16/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「剛剛掉落的東西我幫你撿來囉」
+> CONTEXT: Map011/events/16/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[332] 布料 x 3
+> CONTEXT: Map011/events/16/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「這些材料剛好可以合成呢
+　試著合成「森林布甲」吧！」
+> CONTEXT: Map011/events/16/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「精工妖精斗蓬」嗎？
+> CONTEXT: Map011/events/21/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[444]「精工妖精斗蓬」
+> CONTEXT: Map011/events/21/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「綠龍皮」不夠哦
+> CONTEXT: Map011/events/21/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「布料」不夠哦
+> CONTEXT: Map011/events/21/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/22/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/28/pages/0/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/59/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/60/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/63/pages/0/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/72/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/73/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/77/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「妖精斗蓬」不夠哦
+（如果正在裝備中請先卸除下來）
+> CONTEXT: Map011/events/21/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「精工森林臂鎧」嗎？
+> CONTEXT: Map011/events/22/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[491]「精工森林臂鎧」
+> CONTEXT: Map011/events/22/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「蛇鱗」不夠哦
+> CONTEXT: Map011/events/22/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「森林臂鎧」不夠哦
+（如果正在裝備中請先卸除下來）
+> CONTEXT: Map011/events/22/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「精工森林布甲」嗎？
+> CONTEXT: Map011/events/28/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[433]「精工森林布甲」
+> CONTEXT: Map011/events/28/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「磨菇」不夠哦
+> CONTEXT: Map011/events/28/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「森林布甲」不夠哦
+（如果正在裝備中請先卸除下來）
+> CONTEXT: Map011/events/28/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「究極十字巨劍」嗎？
+> CONTEXT: Map011/events/35/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[545]「究極十字巨劍」
+> CONTEXT: Map011/events/35/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「紫水晶」不夠哦
+（異變蜂掉落）
+> CONTEXT: Map011/events/35/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「精工十字巨劍」不夠哦
+（如果正在裝備中請先卸除下來）
+> CONTEXT: Map011/events/35/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「究極森林布甲」嗎？
+> CONTEXT: Map011/events/59/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[433]「究極森林布甲」
+> CONTEXT: Map011/events/59/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「石榴石」不夠哦
+（蛇妖法師掉落）
+> CONTEXT: Map011/events/59/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「精工森林布甲」不夠哦
+（如果正在裝備中請先卸除下來）
+> CONTEXT: Map011/events/59/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「究極森林臂鎧」嗎？
+> CONTEXT: Map011/events/60/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[491]「究極森林臂鎧」
+> CONTEXT: Map011/events/60/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「紅寶石」不夠哦
+（灰狼掉落）
+> CONTEXT: Map011/events/60/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「精工森林臂鎧」不夠哦
+（如果正在裝備中請先卸除下來）
+> CONTEXT: Map011/events/60/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「究極妖精斗蓬」嗎？
+> CONTEXT: Map011/events/63/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[444]「究極妖精斗蓬」
+> CONTEXT: Map011/events/63/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「藍寶石」不夠哦
+（綠龍掉落）
+> CONTEXT: Map011/events/63/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的「精工妖精斗蓬」不夠哦
+（如果正在裝備中請先卸除下來）
+> CONTEXT: Map011/events/63/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「十字巨劍」嗎？
+> CONTEXT: Map011/events/71/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[545]「十字巨劍」
+> CONTEXT: Map011/events/71/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「森林布甲」嗎？
+> CONTEXT: Map011/events/72/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[433]「森林布甲」
+> CONTEXT: Map011/events/72/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「成功合成「森林布甲」了呢！
+　不要忘記裝備上去哦～」
+> CONTEXT: Map011/events/72/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「如果在冒險中碰上困難的話
+　不妨來這裡充實裝備再出發吧！」
+> CONTEXT: Map011/events/72/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「最後，如果要離開這裡
+　只要觸碰女神像就行了～」
+> CONTEXT: Map011/events/72/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（在精靈池可按住「Shift」加速移動）
+> CONTEXT: Map011/events/72/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不是這邊啦！
+合成森林布甲的在旁邊
+> CONTEXT: Map011/events/73/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/77/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「森林臂甲」嗎？
+> CONTEXT: Map011/events/73/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[491]「森林臂甲」
+> CONTEXT: Map011/events/73/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進行合成「妖精斗蓬」嗎？
+> CONTEXT: Map011/events/77/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得\\I[444]「妖精斗蓬」
+> CONTEXT: Map011/events/77/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【精靈池已開放】
+可將冒險途中獲得的材料進行合成或販賣
+要回到精靈池只要觸碰女神像即可
+> CONTEXT: Map011/events/89/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+得到金錢0\\G！
+> CONTEXT: Map011/events/102/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING

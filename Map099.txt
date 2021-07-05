@@ -1,0 +1,10 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+　　　                               　   　~LUST~
+                          Can you escape the temptation of lust?
+
+> CONTEXT: Map099/events/1/pages/0/1/Dialogue
+
+　　　                               　   ~POŻĄDANIE~
+                          Czy możesz uciec przed pokusą pożądania?
+> END STRING

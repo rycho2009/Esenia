@@ -1,0 +1,27 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"What is this place?"
+> CONTEXT: Map003/events/11/pages/0/8/Dialogue
+Senia
+"Co to za miejsce?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"It does not seem so safe to
+ continue...?"
+> CONTEXT: Map003/events/11/pages/0/11/Dialogue
+Senia
+"Wydaje się, że kontynuacja
+ nie jest zbyt bezpieczna...?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Guess I do not have any
+ other choice..."
+> CONTEXT: Map003/events/11/pages/0/15/Dialogue
+Senia
+"Chyba nie mam innego wyboru..."
+> END STRING

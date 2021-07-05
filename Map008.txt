@@ -1,0 +1,503 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+(Finally! Another adventurer.)
+> CONTEXT: Map008/events/30/pages/0/10/Dialogue
+Senia
+(Wreszcie! Kolejny poszukiwacz.)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Maybe he has seen sis Magaleta
+ somewhere...)
+> CONTEXT: Map008/events/30/pages/0/13/Dialogue
+Senia
+(Może on widział gdzieś
+ siostrzyczkę Magaletę...)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Gotta give it a try.)
+> CONTEXT: Map008/events/30/pages/0/17/Dialogue
+Senia
+(Muszę spróbować.)
+> END STRING
+
+> BEGIN STRING
+Senia
+"Hello?"
+> CONTEXT: Map008/events/30/pages/0/20/Dialogue
+Senia
+"Przepraszam?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"...?"
+> CONTEXT: Map008/events/30/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Absent-looking Adventurer
+"... ..."
+> CONTEXT: Map008/events/30/pages/0/32/Dialogue
+> CONTEXT: Map008/events/30/pages/0/58/Dialogue
+Nieobecnie-wyglądający poszukiwacz
+"... ..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"What do you attack me for!?"
+> CONTEXT: Map008/events/30/pages/0/55/Dialogue
+Senia
+"Za co mnie atakujesz!?"
+> END STRING
+
+> BEGIN STRING
+Senia
+(He is not comprehending at
+ all...?)
+> CONTEXT: Map008/events/30/pages/0/73/Dialogue
+Senia
+(On w ogóle nie rozumie...?)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Should I... fight back?)
+> CONTEXT: Map008/events/30/pages/0/77/Dialogue
+Senia
+(Czy powinnam... walczyć?)
+> END STRING
+
+> BEGIN STRING
+Senia
+(There is no other choice...
+I cannot just back down now.)
+> CONTEXT: Map008/events/30/pages/0/80/Dialogue
+Senia
+(Nie mam innego wyboru...
+ Nie mogę się teraz wycofać..)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Forgive me...)
+> CONTEXT: Map008/events/30/pages/0/84/Dialogue
+Senia
+(Wybacz mi...)
+> END STRING
+
+> BEGIN STRING
+Senia
+(uh!!)
+> CONTEXT: Map008/events/30/pages/1/5/Dialogue
+Senia
+(Ah!!)
+> END STRING
+
+> BEGIN STRING
+Senia
+(What... is this!?)
+> CONTEXT: Map008/events/30/pages/1/8/Dialogue
+Senia
+(Co... jest!?)
+> END STRING
+
+> BEGIN STRING
+Senia
+(AHHHHH!!)
+> CONTEXT: Map008/events/30/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"... I passed out?"
+> CONTEXT: Map008/events/30/pages/3/10/Dialogue
+Senia
+"... Odpłynęłam?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"That's right!
+ You scared the heck out of me!"
+> CONTEXT: Map008/events/30/pages/3/13/Dialogue
+Mała Wróżka
+"Zgadza się!
+ Przestraszyłaś mnie jak diabli!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"umm..."
+> CONTEXT: Map008/events/30/pages/3/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"What... happened?"
+> CONTEXT: Map008/events/30/pages/3/28/Dialogue
+Senia
+"Co... co się wydarzyło?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I recall... seeing another
+ adventurer..."
+> CONTEXT: Map008/events/30/pages/3/31/Dialogue
+Senia
+"Pamiętam, że... widziałam innego
+ poszukiwacza..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"I zostałam przez niego zaatakowana..."
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"His eyes... looked empty."
+> CONTEXT: Map008/events/30/pages/3/38/Dialogue
+Senia
+"Jego oczy... wyglądały pusto."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Maybe... it is an adventurer possessed
+ by \\c[6]eternity\\c[0]."
+> CONTEXT: Map008/events/30/pages/3/41/Dialogue
+Mała Wróżka
+"Może... ten poszukiwacz był opętany
+ przez \\c[6]wieczność\\c[0]."
+> END STRING
+
+> BEGIN STRING
+Senia
+"\\c[6]Eternity\\c[0]?
+ You mentioned eternity when
+ we first met.What is it?"
+> CONTEXT: Map008/events/30/pages/3/45/Dialogue
+Senia
+"\\c[6]Wieczność\\c[0]? Wspomnałaś o 
+ wieczności, kiedy się poznałyśmy.
+ Co to jest?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Yes, eternity.
+ It is a power exists only in the Tower of Eternity."
+> CONTEXT: Map008/events/30/pages/3/50/Dialogue
+Mała Wróżka
+"Wieczność... Tak... 
+ Jest to moc, która istnieje tylko tu
+ w Wieży Wieczności."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"An enormous power."
+> CONTEXT: Map008/events/30/pages/3/54/Dialogue
+Mała Wróżka
+"Przeogromna moc".
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Legend says one can manipulate eternity and
+\\C[6]realize any wish\\C[0]."
+> CONTEXT: Map008/events/30/pages/3/57/Dialogue
+Mała Wróżka
+"Legenda mówi, że ten kto może manipulować
+ wiecznością może
+ \\C[6]spełnić wszystkie pragnienia\\C[0]."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"However, if one cannot take control of
+ the power of eternity..."
+> CONTEXT: Map008/events/30/pages/3/61/Dialogue
+Mała Wróżka
+"Jednakże, jeśli ktoś nie może zapanować nad
+ mocą wieczności..."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"One will be \\C[6]possessed\\C[0] by it\\!
+ and becomes an empty-hearted zombie."
+> CONTEXT: Map008/events/30/pages/3/65/Dialogue
+Mała Wróżka
+"Ten zostanie przez nią \\C[6]opętany\\C[0]
+ i stanie się zombie z pustym sercu."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Which is the finale of many adventurers
+ who came into the tower seeking eternity."
+> CONTEXT: Map008/events/30/pages/3/69/Dialogue
+Mała Wróżka
+"To finał wielu poszukiwaczy przygód,
+ którzy przybyli do Wieży szukać wieczności".
+> END STRING
+
+> BEGIN STRING
+Senia
+(No... sis Magaleta...)
+> CONTEXT: Map008/events/30/pages/3/76/Dialogue
+Senia
+(Nie... siostrzyczko Magaleto...)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Calm down... Sis is not any
+ordinary adventurer...)
+> CONTEXT: Map008/events/30/pages/3/79/Dialogue
+Senia
+(Uspokój się... Siostrzyczka
+nie jest żadnym przeciętnym
+poszukiwaczem przygód...)
+> END STRING
+
+> BEGIN STRING
+Senia
+(She should do just fine, even in
+ the Tower of Eternity.)
+> CONTEXT: Map008/events/30/pages/3/83/Dialogue
+Senia
+(Powinna sobie radzić, nawet w
+ Wieży Wieczności).
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"For your own good, Senia, you should leave
+ the tower asap."
+> CONTEXT: Map008/events/30/pages/3/87/Dialogue
+Mała Wróżka
+"Dla twojego własnego dobra, Senia,
+ powinnaś opuścić wieżę jak najszybciej."
+> END STRING
+
+> BEGIN STRING
+Senia
+"...No way."
+> CONTEXT: Map008/events/30/pages/3/91/Dialogue
+Senia
+"...Nie ma mowy."
+> END STRING
+
+> BEGIN STRING
+Senia
+"I cannot just leave now."
+> CONTEXT: Map008/events/30/pages/3/94/Dialogue
+Senia
+"Nie mogę tak po prostu teraz odejść".
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"You saw the the man who lost to eternity!"
+> CONTEXT: Map008/events/30/pages/3/97/Dialogue
+Mała Wróżka
+"Widziałeś człowieka,
+ który przegrał z wiecznością!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am not leaving without
+ sis Magaleta!"
+> CONTEXT: Map008/events/30/pages/3/100/Dialogue
+Senia
+"Nie odejdę bez
+ siostry Magalety!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"She is that important to you?"
+> CONTEXT: Map008/events/30/pages/3/104/Dialogue
+Mała Wróżka
+"Ona jest dla ciebie aż tak ważna?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Yes, she is..."
+> CONTEXT: Map008/events/30/pages/3/107/Dialogue
+Senia
+"Tak, aż tak..."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"For her sake you will take your chance
+ with eternity?"
+> CONTEXT: Map008/events/30/pages/3/110/Dialogue
+Mała Wróżka
+"Dla jej dobra podejmiesz walkę
+ z wiecznością?"
+> END STRING
+
+> BEGIN STRING
+Senia
+(Compare to losing sis Magaleta...)
+> CONTEXT: Map008/events/30/pages/3/117/Dialogue
+( W porównaniu z utratą
+ siostrzyczki Magalety...)
+> END STRING
+
+> BEGIN STRING
+Senia
+"Eternity is nothing to fear
+ if compared with losing sis Magaleta!"
+> CONTEXT: Map008/events/30/pages/3/120/Dialogue
+Senia
+"Wieczność to nic strasznego,
+ jeśli porównać ją z utratą
+ siostry Magalety!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"..."
+> CONTEXT: Map008/events/30/pages/3/124/Dialogue
+> CONTEXT: Map008/events/30/pages/3/145/Dialogue
+Mała Wróżka
+"..."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"I will join your search for your sister!"
+> CONTEXT: Map008/events/30/pages/3/132/Dialogue
+Mała Wróżka
+"Przyłączę się do twoich poszukiwań siostry!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"... Thank you."
+> CONTEXT: Map008/events/30/pages/3/139/Dialogue
+Senia
+"... Dziękuję."
+> END STRING
+
+> BEGIN STRING
+Senia
+"But... what about Fairy Queen?"
+> CONTEXT: Map008/events/30/pages/3/142/Dialogue
+Senia
+"Ale... co z Królową Wróżek?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"AHH!! I forgot!
+ We need to find the Fairy Queen asap!"
+> CONTEXT: Map008/events/30/pages/3/152/Dialogue
+Little Fairy
+"AHH!! Zapomniałam!
+ Musimy jak najszybciej znaleźć
+ Królową Wróżek!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I did promise to help you look
+ for Fairy Queen..."
+> CONTEXT: Map008/events/30/pages/3/156/Dialogue
+Senia
+"Obiecałam, że pomogę ci szukać
+ Królową Wróżek..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"But I will prioritize on my sister
+ if there is any conflict."
+> CONTEXT: Map008/events/30/pages/3/160/Dialogue
+Senia
+"Ale będę priorytetyzować
+ moją siostrę, jeśli będzie
+ jakiś konflikt."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Are you fine with that?"
+> CONTEXT: Map008/events/30/pages/3/164/Dialogue
+Senia
+"Nie przeszkadza ci to?"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"No problem!"
+> CONTEXT: Map008/events/30/pages/3/167/Dialogue
+Mała Wróżka
+"Żaden problem!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"We can ask her majesty if Senia's sister
+ has passed by once we find her."
+> CONTEXT: Map008/events/30/pages/3/170/Dialogue
+Mała Wróżka
+"Możemy zapytać jej Wysokość, czy siostra
+ Senii przechodziła, gdy już ją znajdziemy".
+> END STRING
+
+> BEGIN STRING
+Senia
+"Thank you. I appreciate it."
+> CONTEXT: Map008/events/30/pages/3/174/Dialogue
+Senia
+"Dziękuję. Doceniam to."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Then we should get going!"
+> CONTEXT: Map008/events/30/pages/3/177/Dialogue
+Senia
+"W takim razie powinnyśmy się zbierać!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Sure!"
+> CONTEXT: Map008/events/30/pages/3/180/Dialogue
+Mała Wróżka
+"Jasne!"
+> END STRING
+
+> BEGIN STRING
+Little Fairy joins the party!
+> CONTEXT: Map008/events/30/pages/3/190/Dialogue
+Mała Wróżka dołącza do grupy!
+> END STRING
+
+> BEGIN STRING
+Senia
+"And I was attacked by him..."
+> CONTEXT: Map008/events/30/pages/3/35/Dialogue < UNTRANSLATED
+
+> END STRING

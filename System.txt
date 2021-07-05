@@ -1,0 +1,423 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+物理
+> CONTEXT: System/elements/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+吸収
+> CONTEXT: System/elements/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎
+> CONTEXT: System/elements/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷
+> CONTEXT: System/elements/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷
+> CONTEXT: System/elements/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水
+> CONTEXT: System/elements/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大地
+> CONTEXT: System/elements/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+風
+> CONTEXT: System/elements/8/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神聖
+> CONTEXT: System/elements/9/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗黒
+> CONTEXT: System/elements/10/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Max HP
+> CONTEXT: System/terms/params/0/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Max MP
+> CONTEXT: System/terms/params/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Atk
+> CONTEXT: System/terms/params/2/
+Atak
+> END STRING
+
+> BEGIN STRING
+Def
+> CONTEXT: System/terms/params/3/
+Obrona
+> END STRING
+
+> BEGIN STRING
+Skill Atk
+> CONTEXT: System/terms/params/4/
+Um. Atak
+> END STRING
+
+> BEGIN STRING
+Skill Def
+> CONTEXT: System/terms/params/5/
+Um. Panc.
+> END STRING
+
+> BEGIN STRING
+Cri
+> CONTEXT: System/terms/params/6/
+Kryt.
+> END STRING
+
+> BEGIN STRING
+Eva
+> CONTEXT: System/terms/params/7/
+Unik
+> END STRING
+
+> BEGIN STRING
+Weapons
+> CONTEXT: System/terms/etypes/0/
+Bronie
+> END STRING
+
+> BEGIN STRING
+Gauntlet
+> CONTEXT: System/terms/etypes/1/
+Rękawica
+> END STRING
+
+> BEGIN STRING
+Cape
+> CONTEXT: System/terms/etypes/2/
+Płaszcz
+> END STRING
+
+> BEGIN STRING
+Armor
+> CONTEXT: System/terms/etypes/3/
+> CONTEXT: System/terms/commands/13/
+Zbroja
+> END STRING
+
+> BEGIN STRING
+Accesory
+> CONTEXT: System/terms/etypes/4/
+Akcesorium
+> END STRING
+
+> BEGIN STRING
+battle
+> CONTEXT: System/terms/commands/0/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+quit
+> CONTEXT: System/terms/commands/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+attack
+> CONTEXT: System/terms/commands/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+def
+> CONTEXT: System/terms/commands/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Items
+> CONTEXT: System/terms/commands/4/
+Przedmioty
+> END STRING
+
+> BEGIN STRING
+skills
+> CONTEXT: System/terms/commands/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+equip
+> CONTEXT: System/terms/commands/6/
+wyposaż
+> END STRING
+
+> BEGIN STRING
+stats
+> CONTEXT: System/terms/commands/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+party
+> CONTEXT: System/terms/commands/8/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+save
+> CONTEXT: System/terms/commands/9/
+zapisz
+> END STRING
+
+> BEGIN STRING
+exit
+> CONTEXT: System/terms/commands/10/
+> CONTEXT: System/terms/commands/20/
+wyjdź
+> END STRING
+
+> BEGIN STRING
+Weapon
+> CONTEXT: System/terms/commands/12/
+Broń
+> END STRING
+
+> BEGIN STRING
+Key Item
+> CONTEXT: System/terms/commands/14/
+Przedm. Kluczowe
+> END STRING
+
+> BEGIN STRING
+Change
+> CONTEXT: System/terms/commands/15/
+Zmień
+> END STRING
+
+> BEGIN STRING
+Best Equip
+> CONTEXT: System/terms/commands/16/
+Naj. Wybór
+> END STRING
+
+> BEGIN STRING
+Remove
+> CONTEXT: System/terms/commands/17/
+Zdejmij
+> END STRING
+
+> BEGIN STRING
+start
+> CONTEXT: System/terms/commands/18/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+load
+> CONTEXT: System/terms/commands/19/
+wczytaj
+> END STRING
+
+> BEGIN STRING
+title
+> CONTEXT: System/terms/commands/21/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+cancel
+> CONTEXT: System/terms/commands/22/ < UNTRANSLATED
+> CONTEXT: Commonevents/69/43/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Level
+> CONTEXT: System/terms/basic/0/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lv
+> CONTEXT: System/terms/basic/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＨＰ
+> CONTEXT: System/terms/basic/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HP
+> CONTEXT: System/terms/basic/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＭＰ
+> CONTEXT: System/terms/basic/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MP
+> CONTEXT: System/terms/basic/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ＴＰ
+> CONTEXT: System/terms/basic/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+TP
+> CONTEXT: System/terms/basic/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+劍術
+> CONTEXT: System/skill_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法
+> CONTEXT: System/skill_types/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+斧
+> CONTEXT: System/weapon_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+爪
+> CONTEXT: System/weapon_types/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+槍
+> CONTEXT: System/weapon_types/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+剣
+> CONTEXT: System/weapon_types/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+刀
+> CONTEXT: System/weapon_types/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+弓
+> CONTEXT: System/weapon_types/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+短剣
+> CONTEXT: System/weapon_types/7/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+槌
+> CONTEXT: System/weapon_types/8/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+杖
+> CONTEXT: System/weapon_types/9/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+銃
+> CONTEXT: System/weapon_types/10/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一般防具
+> CONTEXT: System/armor_types/1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法防具
+> CONTEXT: System/armor_types/2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+軽装防具
+> CONTEXT: System/armor_types/3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+重装防具
+> CONTEXT: System/armor_types/4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小型盾
+> CONTEXT: System/armor_types/5/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大型盾
+> CONTEXT: System/armor_types/6/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ｇ
+> CONTEXT: System/currency_unit/ < UNTRANSLATED
+
+> END STRING

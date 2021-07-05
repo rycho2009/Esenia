@@ -1,0 +1,99 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Facebook fan page Admin
+"Here I am in the game to promote our fan page for
+ Eternal Senia!"
+> CONTEXT: Map006/events/9/pages/0/1/Dialogue
+Admin Facebookowego fan page'a
+"Oto jestem w grze, aby promować nasz fan page
+ Eternal Senii!"
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"Just go to the fan page and check the 'About' section
+for the Facebook gift code."
+> CONTEXT: Map006/events/9/pages/0/5/Dialogue
+Admin Facebookowego fan page'a
+"Wystarczy wejść na fan page i sprawdzić sekcję 
+'O nas', aby znaleźć kod upominkowy na Facebooku!"
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"Input the code here to receive free
+crafting materials!"
+> CONTEXT: Map006/events/9/pages/0/9/Dialogue
+Admin Facebookowego fan page'a
+"Wprowadź kod tutaj, aby otrzymać darmowe
+materiały rzemieślnicze!"
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"Don't worry if you cannot find the code.
+All the gifts are materials you can farm in game."
+> CONTEXT: Map006/events/9/pages/0/13/Dialogue
+Admin Facebookowego fan page'a
+"Nie przejmuj się, jeśli nie możesz znaleźć kodu.
+Wszystkie prezenty to materiały,
+które możesz zdobyć w grze."
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+Please input Facebook gift code.
+You can find it on 'About' section of our fan page.
+Fan page: https://www.facebook.com/EternalSenia/
+> CONTEXT: Map006/events/9/pages/1/1/Dialogue
+Admin Facebookowego fan page'a
+Proszę wpisz kod upominkowy z Facebooka.
+Znaleźć go można w sekcji 'O nas' na naszym fanpage'u.
+Fan page: https://www.facebook.com/EternalSenia/
+> END STRING
+
+> BEGIN STRING
+Acquired following materials:
+Fairy Crystal x 5
+Fairy Cloth x 5
+Book of Sword Art Ch. 1
+> CONTEXT: Map006/events/9/pages/1/10/Dialogue
+Otrzymano następujące materiały:
+Kryształ Wróżek x 5
+Materiał Wróżek x 5
+Księga Ataku I  x 1
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"That will be all for now!
+See you in the next dungeon."
+> CONTEXT: Map006/events/9/pages/1/18/Dialogue
+Admin Facebookowego fan page'a
+"To tyle na teraz!
+ Do zobaczenia w kolejnych poziomach."
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"Incorrect code!"
+> CONTEXT: Map006/events/9/pages/1/25/Dialogue
+Admin Facebookowego fan page'a
+"Niepoprawny kod!"
+> END STRING
+
+> BEGIN STRING
+Facebook fan page Admin
+"Don't forget to look for me in the next dungeon!
+I will have more materials for you!"
+> CONTEXT: Map006/events/9/pages/2/1/Dialogue
+Admin Facebookowego fan page'a
+"Nie zapomnij szukać mnie na kolejnych poziomach!
+ Będę mieć dla Ciebie więcej materiałów!"
+> END STRING
+
+> BEGIN STRING
+Jungle waypoint activated.
+> CONTEXT: Map006/events/106/pages/0/2/Dialogue
+Dżungla - punkt aktywowany.
+> END STRING

@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Go to Arcane Realm now?
+> CONTEXT: Map042/events/5/pages/0/0/Dialogue
+> CONTEXT: Map007/events/10/pages/0/7/Dialogue
+> CONTEXT: Map007/events/10/pages/1/0/Dialogue
+Przejść teraz do Krainy Magii?
+> END STRING
+
+> BEGIN STRING
+Arcane Realm waypoint activated.
+> CONTEXT: Map042/events/6/pages/0/2/Dialogue
+Kraina Magii - punkt aktywowany.
+> END STRING

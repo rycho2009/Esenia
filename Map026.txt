@@ -1,0 +1,88 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"What the...? It just got bigger!?"
+> CONTEXT: Map026/events/1/pages/1/21/Dialogue
+Senia
+"Co do...? Urósł!?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am not going to defeat it head
+ on...I should find a way to
+ recover in the fight."
+> CONTEXT: Map026/events/1/pages/1/24/Dialogue
+Senia
+"Nie pokonam go od razu...
+ Powinnam znaleźć sposób
+ na regenerację sił w walce."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Phew..."
+> CONTEXT: Map026/events/1/pages/8/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I was not expecting monsters
+ like this in the tower."
+> CONTEXT: Map026/events/1/pages/8/4/Dialogue
+Senia
+"Nie spodziewałam się
+ w wieży potworów takich
+ jak te."
+> END STRING
+
+> BEGIN STRING
+Senia
+"...!?"
+> CONTEXT: Map026/events/1/pages/8/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"This again!"
+> CONTEXT: Map026/events/1/pages/8/15/Dialogue
+Senia
+"Znowu to!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Ahhhh!"
+> CONTEXT: Map026/events/1/pages/8/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Another flashback of the past...
+ But why?)
+> CONTEXT: Map026/events/2/pages/0/11/Dialogue
+Senia
+(Kolejny przebłysk z przeszłości...
+ Ale dlaczego?)
+> END STRING
+
+> BEGIN STRING
+Senia
+(...)
+> CONTEXT: Map026/events/2/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/17/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No clue. Guess I will just move
+ on for now..."
+> CONTEXT: Map026/events/2/pages/0/18/Dialogue
+Senia
+"Nie mam pojęcia. Chyba na razie
+ pójdę dalej..."
+> END STRING

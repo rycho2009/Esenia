@@ -1,0 +1,165 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+> CONTEXT: Actors/1/name/ < UNTRANSLATED
+> CONTEXT: Map016/events/24/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+16歲的少女劍士，個性內向怕生，
+為了尋找失蹤的姐姐，獨自前往危險的永恆之塔。
+> CONTEXT: Actors/1/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+> CONTEXT: Actors/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+> CONTEXT: Actors/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+住在精靈之森的小精靈，沒有任何戰鬥力。
+> CONTEXT: Actors/3/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アーネスト
+> CONTEXT: Actors/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+師匠の仇を探して旅を続ける剣士。剣に魔力を宿らせる技
+「魔法剣」を体得している。
+> CONTEXT: Actors/4/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔剣を継ぐ者
+> CONTEXT: Actors/4/nickname/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リョーマ
+> CONTEXT: Actors/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+東国では無双の剛剣と称された、桜花一刀流の使い手。
+流れるような動きから繰り出される一閃は、重く、鋭い。
+> CONTEXT: Actors/5/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暁の剛剣
+> CONTEXT: Actors/5/nickname/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ブレンダ
+> CONTEXT: Actors/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+森の精霊に育てられた少女。自然を愛し、森の平穏を乱す者を
+許さない。都会での生活にちょっとだけ憧れている。
+> CONTEXT: Actors/6/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+深緑の護り手
+> CONTEXT: Actors/6/nickname/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+リック
+> CONTEXT: Actors/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+束縛されることが嫌いな自称義賊の青年。軽口ばかり叩くが
+仲間のためなら命も張れる熱血漢。
+> CONTEXT: Actors/7/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+見えざる疾風
+> CONTEXT: Actors/7/nickname/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+アリス
+> CONTEXT: Actors/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+神託により聖女となることを運命づけられた女性。慈愛に満ち
+その愛情は敵に対しても等しく与えられる。
+> CONTEXT: Actors/8/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+救世の聖女
+> CONTEXT: Actors/8/nickname/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+イザベル
+> CONTEXT: Actors/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+永きに渡り人類に恐怖を与えてきた魔女。転生術の失敗により
+記憶の大半を失っているが、キレると本性が出る。
+> CONTEXT: Actors/9/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+優雅なる悪夢
+> CONTEXT: Actors/9/nickname/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+ノア
+> CONTEXT: Actors/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+俗世との交わりを避け、山奥に隠れ住む賢者。凶星の正体を
+調べるため、伝説にある「最果ての書庫」を探す旅に出る。
+> CONTEXT: Actors/10/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+星を見る者
+> CONTEXT: Actors/10/nickname/ < UNTRANSLATED
+
+> END STRING

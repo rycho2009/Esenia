@@ -1,0 +1,585 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+技能書
+> CONTEXT: Items/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+每取得一本技能書可獲得1點技能點。（不需使用）
+> CONTEXT: Items/1/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Broken Sword
+> CONTEXT: Items/2/name/
+Złamany Miecz
+> END STRING
+
+> BEGIN STRING
+A two handed sword with amethyst socketed in the hilt. Senia's favorite sword. Damaged in battle.
+> CONTEXT: Items/2/description/
+Dwuręczny z amestytem w rękojeści. Ulubiony Senii.
+> END STRING
+
+> BEGIN STRING
+Health Elixir
+> CONTEXT: Items/3/name/
+Eliksir Zdrowia
+> END STRING
+
+> BEGIN STRING
+Max HP +10 (takes effect immediately upon acquirement.)
+> CONTEXT: Items/3/description/
+Max HP +10 (działa od razu po otrzymaniu)
+> END STRING
+
+> BEGIN STRING
+Magic Elixir
+> CONTEXT: Items/4/name/
+Eliksir Magii
+> END STRING
+
+> BEGIN STRING
+Max MP +10 (takes effect immediately upon acquirement.)
+> CONTEXT: Items/4/description/
+Max MP +10 (działa od razu po otrzymaniu)
+> END STRING
+
+> BEGIN STRING
+Key
+> CONTEXT: Items/5/name/
+Klucz
+> END STRING
+
+> BEGIN STRING
+Opens the doors in Arcane Realm
+> CONTEXT: Items/5/description/
+Otwiera drzwi w Arcane Realm
+> END STRING
+
+> BEGIN STRING
+妖花種子
+> CONTEXT: Items/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+製作裝備的材料，也可賣掉換錢。
+> CONTEXT: Items/6/description/ < UNTRANSLATED
+> CONTEXT: Items/7/description/ < UNTRANSLATED
+> CONTEXT: Items/8/description/ < UNTRANSLATED
+> CONTEXT: Items/9/description/ < UNTRANSLATED
+> CONTEXT: Items/10/description/ < UNTRANSLATED
+> CONTEXT: Items/11/description/ < UNTRANSLATED
+> CONTEXT: Items/12/description/ < UNTRANSLATED
+> CONTEXT: Items/13/description/ < UNTRANSLATED
+> CONTEXT: Items/14/description/ < UNTRANSLATED
+> CONTEXT: Items/15/description/ < UNTRANSLATED
+> CONTEXT: Items/16/description/ < UNTRANSLATED
+> CONTEXT: Items/17/description/ < UNTRANSLATED
+> CONTEXT: Items/18/description/ < UNTRANSLATED
+> CONTEXT: Items/19/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+損壞的弓
+> CONTEXT: Items/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蜘蛛毒液
+> CONTEXT: Items/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+磨菇
+> CONTEXT: Items/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蜂刺
+> CONTEXT: Items/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+蛇鱗
+> CONTEXT: Items/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+狼皮
+> CONTEXT: Items/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+綠龍皮
+> CONTEXT: Items/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+紫水晶
+> CONTEXT: Items/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+石榴石
+> CONTEXT: Items/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+紅寶石
+> CONTEXT: Items/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+藍寶石
+> CONTEXT: Items/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水晶
+> CONTEXT: Items/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+布料
+> CONTEXT: Items/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fine Wood
+> CONTEXT: Items/20/name/
+Drewno
+> END STRING
+
+> BEGIN STRING
+未知名的花
+> CONTEXT: Items/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+火柴
+> CONTEXT: Items/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Master Elixir
+> CONTEXT: Items/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Normal attacks restores MP +2
+(takes effect immediately upon acquirement.)
+> CONTEXT: Items/23/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Broken Armor
+> CONTEXT: Items/24/name/
+Uszkodzona Zbroja
+> END STRING
+
+> BEGIN STRING
+Armor made of violet crystal. Damaged in battle.
+> CONTEXT: Items/24/description/
+Zbroja z fioletowego kryształu. Uszkodzona w walce.
+> END STRING
+
+> BEGIN STRING
+Fairy Crystal
+> CONTEXT: Items/25/name/
+Kryształ Wróżek
+> END STRING
+
+> BEGIN STRING
+Material for weapon crafting.
+> CONTEXT: Items/25/description/
+> CONTEXT: Items/30/description/
+> CONTEXT: Items/35/description/
+Materiał do tworzenia broni.
+> END STRING
+
+> BEGIN STRING
+Fairy Cloth
+> CONTEXT: Items/26/name/
+Materiał Wróżek
+> END STRING
+
+> BEGIN STRING
+Material for armor crafting.
+> CONTEXT: Items/26/description/
+> CONTEXT: Items/31/description/
+> CONTEXT: Items/36/description/
+Materiał do tworzenia zbroi.
+> END STRING
+
+> BEGIN STRING
+精工精靈石
+> CONTEXT: Items/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+升級裝備的材料。
+> CONTEXT: Items/27/description/ < UNTRANSLATED
+> CONTEXT: Items/32/description/ < UNTRANSLATED
+> CONTEXT: Items/37/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Fairy Stone
+> CONTEXT: Items/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Fairy Stone
+> CONTEXT: Items/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Crystal
+> CONTEXT: Items/30/name/
+Demoniczny Kryształ
+> END STRING
+
+> BEGIN STRING
+Demon Cloth
+> CONTEXT: Items/31/name/
+Demoniczny Materiał
+> END STRING
+
+> BEGIN STRING
+精工惡魔石
+> CONTEXT: Items/32/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Demon Stone
+> CONTEXT: Items/33/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Demon Stone
+> CONTEXT: Items/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sanctum Crystal
+> CONTEXT: Items/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sanctum Cloth
+> CONTEXT: Items/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精工聖堂石
+> CONTEXT: Items/37/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Sanctum Stone
+> CONTEXT: Items/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Legendary Sanctum Stone
+> CONTEXT: Items/39/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Page of Attack I
+> CONTEXT: Items/40/name/
+Strona Ataku I
+> END STRING
+
+> BEGIN STRING
+4 pages can be synced into a Book of Sword Art.
+> CONTEXT: Items/40/description/
+> CONTEXT: Items/41/description/
+> CONTEXT: Items/42/description/
+> CONTEXT: Items/43/description/
+> CONTEXT: Items/44/description/
+> CONTEXT: Items/45/description/
+4 strony mogą być złączone w Księgę Sztuki Miecza.
+> END STRING
+
+> BEGIN STRING
+Page of Attack II
+> CONTEXT: Items/41/name/
+Strona Ataku II
+> END STRING
+
+> BEGIN STRING
+Page of Attack III
+> CONTEXT: Items/42/name/
+Strona Ataku III
+> END STRING
+
+> BEGIN STRING
+Page of Critical I
+> CONTEXT: Items/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Page of Critical II
+> CONTEXT: Items/44/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Page of Critical III
+> CONTEXT: Items/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Book of Attack I
+> CONTEXT: Items/46/name/
+Księga Ataku I
+> END STRING
+
+> BEGIN STRING
+Attack +1
+(Up to 4 times max.)
+> CONTEXT: Items/46/description/
+> CONTEXT: Items/47/description/
+> CONTEXT: Items/48/description/
+Atak +1
+(Maksymalnie 4 razy.)
+> END STRING
+
+> BEGIN STRING
+Book of Attack II
+> CONTEXT: Items/47/name/
+Księga Ataku II
+> END STRING
+
+> BEGIN STRING
+Book of Attack III
+> CONTEXT: Items/48/name/
+Księga Ataku III
+> END STRING
+
+> BEGIN STRING
+Book of Critical I
+> CONTEXT: Items/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Critical chance +1
+(Up to 4 times max.)
+> CONTEXT: Items/49/description/
+> CONTEXT: Items/50/description/
+> CONTEXT: Items/51/description/
+Critical chance +1
+(Maksymalnie 4 razy.)
+> END STRING
+
+> BEGIN STRING
+Book of Critical II
+> CONTEXT: Items/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Book of Critical IIII
+> CONTEXT: Items/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Book of Defense I
+> CONTEXT: Items/52/name/
+Księga Obrony I
+> END STRING
+
+> BEGIN STRING
+Defense +1
+(Up to 4 times max.)
+> CONTEXT: Items/52/description/
+> CONTEXT: Items/53/description/
+> CONTEXT: Items/54/description/
+Obrona +1
+(Maksymalnie 4 razy.)
+> END STRING
+
+> BEGIN STRING
+Book of Defense II
+> CONTEXT: Items/53/name/
+Księga Obrony II
+> END STRING
+
+> BEGIN STRING
+Book of Defense III
+> CONTEXT: Items/54/name/
+Księga Obrony III
+> END STRING
+
+> BEGIN STRING
+Book of Evasion I
+> CONTEXT: Items/55/name/
+Księga Uników I
+> END STRING
+
+> BEGIN STRING
+Evasion +1
+(Up to 4 times max.)
+> CONTEXT: Items/55/description/
+> CONTEXT: Items/56/description/
+> CONTEXT: Items/57/description/
+Uniki +1
+(Maksymalnie 4 razy.)
+> END STRING
+
+> BEGIN STRING
+Book of Evasion II
+> CONTEXT: Items/56/name/
+Księga Uników II
+> END STRING
+
+> BEGIN STRING
+Book of Evasion III
+> CONTEXT: Items/57/name/
+Księga Uników III
+> END STRING
+
+> BEGIN STRING
+【關卡】
+> CONTEXT: Items/70/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Blue Crystal
+> CONTEXT: Items/71/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+A dimming blue crystal ball. Perhaps it will fit somewhere...
+> CONTEXT: Items/71/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Score: the Other Side of Sorrow - part I
+> CONTEXT: Items/72/name/ < UNTRANSLATED
+> CONTEXT: Items/73/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The score of the Other Side of Sorrow
+> CONTEXT: Items/72/description/ < UNTRANSLATED
+> CONTEXT: Items/73/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Violet Crystal
+> CONTEXT: Items/74/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+An extremely precious material.
+> CONTEXT: Items/74/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Broken cross pendant
+> CONTEXT: Items/75/name/
+Złamany Naszyjnik z Krzyżem
+> END STRING
+
+> BEGIN STRING
+A lucky charm given to Senia by Magaleta.
+But it is broken now...
+> CONTEXT: Items/75/description/
+Szczęśliwy amulet, który Senia otrzymała od Magalety.
+Teraz jest złamany...
+> END STRING
+
+> BEGIN STRING
+【關卡】聖殿
+> CONTEXT: Items/80/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ruby
+> CONTEXT: Items/81/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Agate
+> CONTEXT: Items/82/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Topaz
+> CONTEXT: Items/83/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Jadeite
+> CONTEXT: Items/84/name/
+Jadelit
+> END STRING
+
+> BEGIN STRING
+Lapis Lazuli
+> CONTEXT: Items/85/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Diamond
+> CONTEXT: Items/86/name/
+Diament
+> END STRING
+
+> BEGIN STRING
+Amethyst
+> CONTEXT: Items/87/name/
+Amestyt
+> END STRING

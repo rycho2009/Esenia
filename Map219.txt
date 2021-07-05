@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Acquired Topaz.
+> CONTEXT: Map219/events/2/pages/0/1/Dialogue
+Pozyskano Topaz.
+> END STRING

@@ -1,0 +1,159 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Leaving Forest Arcane Realm?
+> CONTEXT: Map068/events/3/pages/0/0/Dialogue
+Opuścić Leśną Krainę Magii?
+> END STRING
+
+> BEGIN STRING
+"精靈之森‧秘境"
+> CONTEXT: Map068/events/6/pages/0/0/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"This is the entrance of Arcane Realm.
+Would you like to craft some equipments
+before going in?"
+> CONTEXT: Map068/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Here are some materials for you!"
+> CONTEXT: Map068/events/14/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[332]Fairy Cloth x 2
+> CONTEXT: Map068/events/14/pages/0/10/Dialogue
+> CONTEXT: Map055/events/15/pages/2/138/Dialogue
+Otrzymano \\I[332]Materiał Wróżek x 2
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Please try to upgrade your
+ Fairy Cloth Armor
+ to EX Fairy Armor."
+> CONTEXT: Map068/events/14/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map068/events/14/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Congrats on your EX Fairy Armor!"
+> CONTEXT: Map068/events/14/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Man! I am kind of lost here..."
+> CONTEXT: Map068/events/14/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"It is a must to keep your equipments
+ upgraded, or else you may suffer defeat
+ against powerful monsters."
+> CONTEXT: Map068/events/14/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Fine..."
+> CONTEXT: Map068/events/14/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Don't give up. Here are some more
+ materials for you to start with."
+> CONTEXT: Map068/events/14/pages/1/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[343]Fairy Crystal x 2
+> CONTEXT: Map068/events/14/pages/1/21/Dialogue
+> CONTEXT: Map055/events/15/pages/3/20/Dialogue
+> CONTEXT: Map055/events/15/pages/3/53/Dialogue
+Otrzymano \\I[343]Kryształ x 2
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"One more secret in this Arcane Realm.
+ Elite Fairy Stone can be found there."
+> CONTEXT: Map068/events/14/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"This is the entrance of Arcane Realm."
+> CONTEXT: Map068/events/14/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"If you find the level too hard you should
+ try upgrading your equipments."
+> CONTEXT: Map068/events/14/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"By the way, Elite Fairy Stone can be
+ proccessed into other common materials.
+> CONTEXT: Map068/events/14/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"If you happen to have any extra
+ I can process them for you."
+> CONTEXT: Map068/events/14/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Should I process your Elite Fairy Stone?
+ It will be turned into Fairy Crystal and
+ Fairy Cloth!"
+> CONTEXT: Map068/events/14/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Process my Elite Fairy Stone
+> CONTEXT: Map068/events/14/pages/3/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[332] Fairy Cloth x5
+Acquired \\I[343] Fairy Crystal x5
+> CONTEXT: Map068/events/14/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"You do not have any Elite Fairy Stone."
+> CONTEXT: Map068/events/14/pages/3/19/Dialogue < UNTRANSLATED
+
+> END STRING

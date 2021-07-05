@@ -1,0 +1,8 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Collect all the money bags to complete the level.
+If the devil touches you the level will restart.
+> CONTEXT: Map094/events/136/pages/0/0/Dialogue
+Zbierz wszystkie worki pieniędzy, by ukończyć poziom.
+Jeśli ... poziom się zrestartuje.
+> END STRING

@@ -1,0 +1,1515 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"cri_\#{$game_variables[28]}"
+> CONTEXT: Commonevents/6/10/InlineScript/2:12 < UNTRANSLATED
+> CONTEXT: Commonevents/8/10/InlineScript/2:12 < UNTRANSLATED
+> CONTEXT: Commonevents/9/2/InlineScript/5:12 < UNTRANSLATED
+> CONTEXT: Commonevents/27/11/InlineScript/2:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"cri_\#{$game_variables[27]}"
+> CONTEXT: Commonevents/6/10/InlineScript/8:13 < UNTRANSLATED
+> CONTEXT: Commonevents/8/10/InlineScript/8:13 < UNTRANSLATED
+> CONTEXT: Commonevents/27/11/InlineScript/8:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"cri_\#{$game_variables[26]}"
+> CONTEXT: Commonevents/6/21/InlineScript/2:13 < UNTRANSLATED
+> CONTEXT: Commonevents/27/22/InlineScript/2:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"cri_frame"
+> CONTEXT: Commonevents/6/26/InlineScript/4:13 < UNTRANSLATED
+> CONTEXT: Commonevents/8/21/InlineScript/4:13 < UNTRANSLATED
+> CONTEXT: Commonevents/9/2/InlineScript/6:13 < UNTRANSLATED
+> CONTEXT: Commonevents/27/32/InlineScript/4:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"sk_\#{$game_variables[28]}"
+> CONTEXT: Commonevents/6/35/InlineScript/2:12 < UNTRANSLATED
+> CONTEXT: Commonevents/8/30/InlineScript/2:12 < UNTRANSLATED
+> CONTEXT: Commonevents/9/15/InlineScript/1:12 < UNTRANSLATED
+> CONTEXT: Commonevents/9/15/InlineScript/4:12 < UNTRANSLATED
+> CONTEXT: Commonevents/27/41/InlineScript/2:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"sk_\#{$game_variables[27]}"
+> CONTEXT: Commonevents/6/35/InlineScript/8:13 < UNTRANSLATED
+> CONTEXT: Commonevents/8/30/InlineScript/8:13 < UNTRANSLATED
+> CONTEXT: Commonevents/27/41/InlineScript/8:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"sk_\#{$game_variables[26]}"
+> CONTEXT: Commonevents/6/46/InlineScript/2:13 < UNTRANSLATED
+> CONTEXT: Commonevents/27/52/InlineScript/2:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[28]}"
+> CONTEXT: Commonevents/6/53/InlineScript/2:12 < UNTRANSLATED
+> CONTEXT: Commonevents/6/92/InlineScript/3:12 < UNTRANSLATED
+> CONTEXT: Commonevents/8/43/InlineScript/2:12 < UNTRANSLATED
+> CONTEXT: Commonevents/9/23/InlineScript/3:12 < UNTRANSLATED
+> CONTEXT: Commonevents/27/64/InlineScript/2:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[27]}"
+> CONTEXT: Commonevents/6/53/InlineScript/8:13 < UNTRANSLATED
+> CONTEXT: Commonevents/6/86/InlineScript/3:13 < UNTRANSLATED
+> CONTEXT: Commonevents/8/43/InlineScript/8:13 < UNTRANSLATED
+> CONTEXT: Commonevents/27/64/InlineScript/8:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[26]}"
+> CONTEXT: Commonevents/6/64/InlineScript/2:13 < UNTRANSLATED
+> CONTEXT: Commonevents/6/80/InlineScript/3:13 < UNTRANSLATED
+> CONTEXT: Commonevents/27/75/InlineScript/2:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Slime'
+> CONTEXT: Commonevents/10/22/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/10/233/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Skeleton'
+> CONTEXT: Commonevents/10/31/InlineScript/1:9
+> CONTEXT: Commonevents/10/663/InlineScript/1:9
+'Szkielet'
+> END STRING
+
+> BEGIN STRING
+'Orc'
+> CONTEXT: Commonevents/10/40/InlineScript/1:9
+'Ork'
+> END STRING
+
+> BEGIN STRING
+'Evil Flower'
+> CONTEXT: Commonevents/10/50/InlineScript/1:9
+> CONTEXT: Commonevents/10/672/InlineScript/1:9
+'Zły Kwiat'
+> END STRING
+
+> BEGIN STRING
+'Elf'
+> CONTEXT: Commonevents/10/59/InlineScript/1:9
+'   Elf'
+> END STRING
+
+> BEGIN STRING
+'Forest Spider'
+> CONTEXT: Commonevents/10/68/InlineScript/1:9
+'Leśny Pająk'
+> END STRING
+
+> BEGIN STRING
+'Sunny Mushroom'
+> CONTEXT: Commonevents/10/77/InlineScript/1:9
+'   Grzybek'
+> END STRING
+
+> BEGIN STRING
+'Mutant Bee'
+> CONTEXT: Commonevents/10/86/InlineScript/1:9
+"Pszczoła Mutant"
+> END STRING
+
+> BEGIN STRING
+'Snake Wizard'
+> CONTEXT: Commonevents/10/95/InlineScript/1:9
+'Wężowy Czarodziej'
+> END STRING
+
+> BEGIN STRING
+'Timberwolf'
+> CONTEXT: Commonevents/10/104/InlineScript/1:9
+'Wilk Górski'
+> END STRING
+
+> BEGIN STRING
+'Green Dragon'
+> CONTEXT: Commonevents/10/113/InlineScript/1:9
+'Zielony Smok'
+> END STRING
+
+> BEGIN STRING
+'Fairy Queen Malphiq'
+> CONTEXT: Commonevents/10/122/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Little Flower Spirit'
+> CONTEXT: Commonevents/10/135/InlineScript/1:9
+'Mały Kwiaciany Duch'
+> END STRING
+
+> BEGIN STRING
+'Flower Spirit'
+> CONTEXT: Commonevents/10/144/InlineScript/1:9
+'Kwiaciany Duch'
+> END STRING
+
+> BEGIN STRING
+'Arcane Evil Flower'
+> CONTEXT: Commonevents/10/153/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Spider'
+> CONTEXT: Commonevents/10/161/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Mutant Bee'
+> CONTEXT: Commonevents/10/169/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Timberwolf'
+> CONTEXT: Commonevents/10/177/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Elf'
+> CONTEXT: Commonevents/10/185/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Mushroom'
+> CONTEXT: Commonevents/10/193/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Snake'
+> CONTEXT: Commonevents/10/201/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Green Dragon'
+> CONTEXT: Commonevents/10/209/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'King Slime'
+> CONTEXT: Commonevents/10/217/InlineScript/1:9
+> CONTEXT: Commonevents/10/699/InlineScript/1:9
+'Król Slime'
+> END STRING
+
+> BEGIN STRING
+'Berserk King Slime'
+> CONTEXT: Commonevents/10/225/InlineScript/1:9
+> CONTEXT: Commonevents/10/708/InlineScript/1:9
+'Berserk Król Slime'
+> END STRING
+
+> BEGIN STRING
+'Medusa'
+> CONTEXT: Commonevents/10/241/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Skeleton Soldier'
+> CONTEXT: Commonevents/10/250/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Spell Caster'
+> CONTEXT: Commonevents/10/258/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Defensive Shield'
+> CONTEXT: Commonevents/10/266/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Ghost'
+> CONTEXT: Commonevents/10/274/InlineScript/1:9
+' Duch'
+> END STRING
+
+> BEGIN STRING
+'Chimera'
+> CONTEXT: Commonevents/10/282/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Winged Demon'
+> CONTEXT: Commonevents/10/290/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/10/681/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Death'
+> CONTEXT: Commonevents/10/298/InlineScript/1:9
+'Śmierć'
+> END STRING
+
+> BEGIN STRING
+'Evil God'
+> CONTEXT: Commonevents/10/306/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Succubus Celith'
+> CONTEXT: Commonevents/10/314/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Abyss Skeleton Soldier'
+> CONTEXT: Commonevents/10/323/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Abyss Scopio'
+> CONTEXT: Commonevents/10/331/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Winged Abyss Demon'
+> CONTEXT: Commonevents/10/339/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Abyss Merman'
+> CONTEXT: Commonevents/10/347/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Abyss Spell Caster'
+> CONTEXT: Commonevents/10/355/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Abyss Ghost'
+> CONTEXT: Commonevents/10/363/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Abyss Succubus'
+> CONTEXT: Commonevents/10/371/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Abyss Sickle Ghost'
+> CONTEXT: Commonevents/10/379/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Abyss Evil God'
+> CONTEXT: Commonevents/10/387/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Warlock'
+> CONTEXT: Commonevents/10/395/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Hell Scorpio'
+> CONTEXT: Commonevents/10/403/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Succubus'
+> CONTEXT: Commonevents/10/411/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Merman'
+> CONTEXT: Commonevents/10/419/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Sickle Ghost'
+> CONTEXT: Commonevents/10/427/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Vampire'
+> CONTEXT: Commonevents/10/435/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Demon Lord'
+> CONTEXT: Commonevents/10/443/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Gargoyle'
+> CONTEXT: Commonevents/10/455/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Angel Intern'
+> CONTEXT: Commonevents/10/464/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Nun'
+> CONTEXT: Commonevents/10/472/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Sanctum Guard'
+> CONTEXT: Commonevents/10/480/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Dark Angel'
+> CONTEXT: Commonevents/10/488/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Seraph'
+> CONTEXT: Commonevents/10/496/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Sanctum Knight'
+> CONTEXT: Commonevents/10/504/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Fallen Angel'
+> CONTEXT: Commonevents/10/512/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Cherub'
+> CONTEXT: Commonevents/10/520/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Angel Intern'
+> CONTEXT: Commonevents/10/528/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Sanctum Guard'
+> CONTEXT: Commonevents/10/536/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Seraph'
+> CONTEXT: Commonevents/10/544/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Fallen Angel'
+> CONTEXT: Commonevents/10/552/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Nun'
+> CONTEXT: Commonevents/10/560/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Dark Angel'
+> CONTEXT: Commonevents/10/568/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Sanctum Knight'
+> CONTEXT: Commonevents/10/576/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Arcane Cherub'
+> CONTEXT: Commonevents/10/584/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'High Sanctum Nun'
+> CONTEXT: Commonevents/10/592/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/10/781/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Angel Barrier'
+> CONTEXT: Commonevents/10/600/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Michael'
+> CONTEXT: Commonevents/10/612/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Magaleta'
+> CONTEXT: Commonevents/10/620/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Eternal Magaleta'
+> CONTEXT: Commonevents/10/632/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Guardian Dragon'
+> CONTEXT: Commonevents/10/647/InlineScript/1:9
+> CONTEXT: Commonevents/10/690/InlineScript/1:9
+'Smok Strażniczy'
+> END STRING
+
+> BEGIN STRING
+'Griffin'
+> CONTEXT: Commonevents/10/655/InlineScript/1:9
+' Gryf'
+> END STRING
+
+> BEGIN STRING
+'King Evil Flower'
+> CONTEXT: Commonevents/10/717/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'King Mushroom'
+> CONTEXT: Commonevents/10/725/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'King Snake'
+> CONTEXT: Commonevents/10/733/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'King Green Dragon'
+> CONTEXT: Commonevents/10/741/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Elite Spell Caster'
+> CONTEXT: Commonevents/10/749/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Winged Demon King'
+> CONTEXT: Commonevents/10/757/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'King Succubus'
+> CONTEXT: Commonevents/10/765/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Sickle Ghost King'
+> CONTEXT: Commonevents/10/773/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Dark Angel King'
+> CONTEXT: Commonevents/10/789/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Elite Sanctum Knight'
+> CONTEXT: Commonevents/10/797/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Holy Angel'
+> CONTEXT: Commonevents/10/805/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"debug mode"
+> CONTEXT: Commonevents/12/106/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"EXP+\#{@MEXP}  SP+\#{@MSP}"
+> CONTEXT: Commonevents/13/3/InlineScript/3:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"EXP + \#{$game_variables[5]}"
+> CONTEXT: Commonevents/13/10/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Level Up!"
+> CONTEXT: Commonevents/13/21/InlineScript/6:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"HP_SP"
+> CONTEXT: Commonevents/14/27/InlineScript/7:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"L"
+> CONTEXT: Commonevents/16/3/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/10/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/22/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/34/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/42/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/52/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/69/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/77/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/87/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/104/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/112/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/122/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/139/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/147/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/157/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/174/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/182/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/192/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/209/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/217/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/227/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/244/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/252/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/262/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/280/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/288/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/298/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/315/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/323/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/333/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/350/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/358/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/368/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/384/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/394/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/16/404/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/40/0/InlineScript/3:11 < UNTRANSLATED
+> CONTEXT: Commonevents/40/127/InlineScript/2:41 < UNTRANSLATED
+> CONTEXT: Commonevents/54/6/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/54/14/InlineScript/1:41 < UNTRANSLATED
+> CONTEXT: Commonevents/200/5/InlineScript/3:11 < UNTRANSLATED
+> CONTEXT: Commonevents/200/114/InlineScript/2:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[216]}"
+> CONTEXT: Commonevents/24/27/InlineScript/3:10 < UNTRANSLATED
+> CONTEXT: Commonevents/24/37/InlineScript/3:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[219]}"
+> CONTEXT: Commonevents/24/50/InlineScript/3:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"cri_\#{$game_variables[29]}"
+> CONTEXT: Commonevents/27/27/InlineScript/2:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"sk_\#{$game_variables[29]}"
+> CONTEXT: Commonevents/27/57/InlineScript/2:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\#{$game_variables[29]}"
+> CONTEXT: Commonevents/27/80/InlineScript/2:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"HP restored."
+> CONTEXT: Commonevents/28/12/InlineScript/1:9
+"HP przywrócone."
+> END STRING
+
+> BEGIN STRING
+"Attack evaded"
+> CONTEXT: Commonevents/32/29/InlineScript/1:18
+"Atak unikniony"
+> END STRING
+
+> BEGIN STRING
+"受到 \#{$game_variables[31]}點傷害"
+> CONTEXT: Commonevents/32/34/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[332]Fairy Cloth "
+> CONTEXT: Commonevents/40/9/InlineScript/1:9
+"Otrzymano\\\\I[332]Materiał "
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[343]Fairy Crystal "
+> CONTEXT: Commonevents/40/15/InlineScript/1:9
+"Otrzymano\\\\I[343]Kryształ "
+> END STRING
+
+> BEGIN STRING
+"Acquired Exceptional Fairy Stone "
+> CONTEXT: Commonevents/40/21/InlineScript/1:9
+"Otrzymano Exceptional Fairy Stone "
+> END STRING
+
+> BEGIN STRING
+"\\\\I[358]Legendary Fairy Stone "
+> CONTEXT: Commonevents/40/27/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[529]Demon Cloth "
+> CONTEXT: Commonevents/40/33/InlineScript/1:9
+"Otrzymano\\\\I[529]Materiał "
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[528]Demon Crystal "
+> CONTEXT: Commonevents/40/39/InlineScript/1:9
+"Otrzymano\\\\I[528]Kryształ "
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[531]Sanctum Cloth "
+> CONTEXT: Commonevents/40/45/InlineScript/1:9
+"Otrzymano\\\\I[531]Materiał "
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[530]Sanctum Crystal "
+> CONTEXT: Commonevents/40/51/InlineScript/1:9
+"Otrzymano\\\\I[530]Kryształ "
+> END STRING
+
+> BEGIN STRING
+"\\\\I[358]Legendary Demon Stone "
+> CONTEXT: Commonevents/40/57/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\I[358]Legendary Sanctum Stone"
+> CONTEXT: Commonevents/40/63/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[234]Page of Attack I"
+> CONTEXT: Commonevents/40/69/InlineScript/1:9
+"Otrzymano \\\\I[234]Stronę Ataku I"
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[234]Page of Attack II"
+> CONTEXT: Commonevents/40/75/InlineScript/1:9
+"Otrzymano \\\\I[234]Stronę Ataku II"
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[234]Page of Attack III"
+> CONTEXT: Commonevents/40/81/InlineScript/1:9
+"Otrzymano \\\\I[234]Stronę Ataku III"
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[227]Page of Critical I"
+> CONTEXT: Commonevents/40/87/InlineScript/1:9
+"Otrzymano \\\\I[227]Stronę Kryta I"
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[227]Page of Critical II"
+> CONTEXT: Commonevents/40/93/InlineScript/1:9
+"Otrzymano \\\\I[227]Stronę Kryta II"
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[227]Page of Critical III"
+> CONTEXT: Commonevents/40/99/InlineScript/1:9
+"Otrzymano \\\\I[227]Stronę Kryta III"
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[240]Warrior robe"
+> CONTEXT: Commonevents/40/105/InlineScript/1:9
+"Otrzymano \\\\I[240]Szatę Wojownika"
+> END STRING
+
+> BEGIN STRING
+"Acquired \\\\I[240]Key"
+> CONTEXT: Commonevents/40/123/InlineScript/1:9
+"Otrzymano \\\\I[240]Klucz"
+> END STRING
+
+> BEGIN STRING
+"Skill cooling down."
+> CONTEXT: Commonevents/44/32/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/107/47/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Skill is activating."
+> CONTEXT: Commonevents/44/39/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"20 MP restored."
+> CONTEXT: Commonevents/53/2/InlineScript/1:9
+"Przywrócono 20 MP."
+> END STRING
+
+> BEGIN STRING
+"dmg_\#{$game_variables[361]}"
+> CONTEXT: Commonevents/57/35/InlineScript/2:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"dmg_\#{$game_variables[362]}"
+> CONTEXT: Commonevents/57/43/InlineScript/2:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"dmg_\#{$game_variables[363]}"
+> CONTEXT: Commonevents/57/50/InlineScript/2:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Hints for code to enter Bonus Room
+Will be given after Ending \#3 is reached.
+> CONTEXT: Commonevents/61/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+It is recommended to keep a save file
+before entering the Bonus Room.
+> CONTEXT: Commonevents/61/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Enter Bonus Room now?
+> CONTEXT: Commonevents/61/9/Dialogue
+Wejść teraz do Pokoju Bonusowego?
+> END STRING
+
+> BEGIN STRING
+Enter
+> CONTEXT: Commonevents/61/11/Choice/0
+Wejdź
+> END STRING
+
+> BEGIN STRING
+Later
+> CONTEXT: Commonevents/61/11/Choice/1
+Później
+> END STRING
+
+> BEGIN STRING
+Incorrect code.
+> CONTEXT: Commonevents/61/21/Dialogue
+Niepoprawny kod.
+> END STRING
+
+> BEGIN STRING
+Save
+> CONTEXT: Commonevents/69/9/Choice/0
+> CONTEXT: Commonevents/74/8/Choice/0
+> CONTEXT: Commonevents/75/9/Choice/0
+Zapisz
+> END STRING
+
+> BEGIN STRING
+Waypoint
+> CONTEXT: Commonevents/69/9/Choice/1
+> CONTEXT: Commonevents/74/8/Choice/1
+> CONTEXT: Commonevents/75/9/Choice/1
+Szybka podróż
+> END STRING
+
+> BEGIN STRING
+Bonus Room.
+> CONTEXT: Commonevents/69/9/Choice/2 < UNTRANSLATED
+> CONTEXT: Commonevents/75/9/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Next page
+> CONTEXT: Commonevents/69/14/Choice/3
+> CONTEXT: Commonevents/74/13/Choice/3
+Następna strona
+> END STRING
+
+> BEGIN STRING
+Waypoint not yet activated.
+> CONTEXT: Commonevents/69/26/Dialogue
+> CONTEXT: Commonevents/69/37/Dialogue
+> CONTEXT: Commonevents/69/50/Dialogue
+> CONTEXT: Commonevents/69/61/Dialogue
+> CONTEXT: Commonevents/69/72/Dialogue
+> CONTEXT: Commonevents/74/24/Dialogue
+> CONTEXT: Commonevents/74/35/Dialogue
+> CONTEXT: Commonevents/74/48/Dialogue
+> CONTEXT: Commonevents/74/59/Dialogue
+> CONTEXT: Commonevents/75/25/Dialogue
+> CONTEXT: Commonevents/75/36/Dialogue
+> CONTEXT: Commonevents/75/47/Dialogue
+Punkt jeszcze nie aktywowany.
+> END STRING
+
+> BEGIN STRING
+Weather Effect
+> CONTEXT: Commonevents/74/8/Choice/2
+Efekty pogodowe
+> END STRING
+
+> BEGIN STRING
+Weather effect OFF
+> CONTEXT: Commonevents/74/73/Choice/0
+WYŁĄCZ Efekty pogodowe
+> END STRING
+
+> BEGIN STRING
+Weather effect ON
+> CONTEXT: Commonevents/74/73/Choice/1
+WŁĄCZ Efekty pogodowe
+> END STRING
+
+> BEGIN STRING
+game over
+> CONTEXT: Commonevents/79/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Try again
+> CONTEXT: Commonevents/79/15/Choice/0
+Spróbuj ponownie
+> END STRING
+
+> BEGIN STRING
+Give up
+> CONTEXT: Commonevents/79/15/Choice/1
+Poddaj się
+> END STRING
+
+> BEGIN STRING
+'LV \\v[216]'
+> CONTEXT: Commonevents/88/33/InlineScript/3:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Phantom
+Strike'
+> CONTEXT: Commonevents/88/33/InlineScript/4:34
+'Cios
+ Widmo'
+> END STRING
+
+> BEGIN STRING
+'\\v[217]% Single
+Target Damage'
+> CONTEXT: Commonevents/88/33/InlineScript/6:33
+'\\v[217]% Obrażeń 
+ na cel'
+> END STRING
+
+> BEGIN STRING
+'LV \\v[621]'
+> CONTEXT: Commonevents/88/52/InlineScript/3:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Splash Leap'
+> CONTEXT: Commonevents/88/52/InlineScript/4:34
+'Naskok'
+> END STRING
+
+> BEGIN STRING
+'\\v[622]% Area of
+Effect Damage'
+> CONTEXT: Commonevents/88/52/InlineScript/5:33
+'\\v[622]% Obrażeń
+ Obszarowych'
+> END STRING
+
+> BEGIN STRING
+'Locked'
+> CONTEXT: Commonevents/88/68/InlineScript/1:34
+> CONTEXT: Commonevents/88/94/InlineScript/1:34
+> CONTEXT: Commonevents/88/121/InlineScript/1:34
+'Zablokowane'
+> END STRING
+
+> BEGIN STRING
+'LV \\v[624]'
+> CONTEXT: Commonevents/88/78/InlineScript/3:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Fairy Attack'
+> CONTEXT: Commonevents/88/78/InlineScript/4:34
+'Wróżkowy Atak'
+> END STRING
+
+> BEGIN STRING
+'\\v[625]% Straight
+Line Damage'
+> CONTEXT: Commonevents/88/78/InlineScript/5:33
+'\\v[625]% Obrażeń Liniowych'
+> END STRING
+
+> BEGIN STRING
+'LV \\v[627]'
+> CONTEXT: Commonevents/88/104/InlineScript/3:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Eternity
+Burst'
+> CONTEXT: Commonevents/88/104/InlineScript/4:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'\\v[628]% Area of
+Effect Damage'
+> CONTEXT: Commonevents/88/104/InlineScript/6:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Skill system is not yet available
+> CONTEXT: Commonevents/88/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Skill Leveled."
+> CONTEXT: Commonevents/89/9/InlineScript/1:9
+> CONTEXT: Commonevents/89/34/InlineScript/1:9
+> CONTEXT: Commonevents/89/63/InlineScript/1:9
+> CONTEXT: Commonevents/89/92/InlineScript/1:9
+"Poziom umięjętności podniesiony."
+> END STRING
+
+> BEGIN STRING
+"Skill Level Maxed."
+> CONTEXT: Commonevents/89/16/InlineScript/1:9
+> CONTEXT: Commonevents/89/41/InlineScript/1:9
+> CONTEXT: Commonevents/89/70/InlineScript/1:9
+> CONTEXT: Commonevents/89/99/InlineScript/1:9
+"Poziom umięjętności zmaxowany."
+> END STRING
+
+> BEGIN STRING
+"Not enough SP."
+> CONTEXT: Commonevents/89/21/InlineScript/1:9
+> CONTEXT: Commonevents/89/46/InlineScript/1:9
+> CONTEXT: Commonevents/89/75/InlineScript/1:9
+> CONTEXT: Commonevents/89/104/InlineScript/1:9
+"Niewystarczająco SP."
+> END STRING
+
+> BEGIN STRING
+Senia
+"I cannot... go down here!!"
+> CONTEXT: Commonevents/97/3/Dialogue
+Senia
+"Nie mogę... tutaj upaść!!"
+> END STRING
+
+> BEGIN STRING
+I am sorry... sis Magaleta...
+> CONTEXT: Commonevents/97/11/Dialogue
+Przepraszam... siostrzyczko Magaleto...
+> END STRING
+
+> BEGIN STRING
+"Not enough MP."
+> CONTEXT: Commonevents/101/83/InlineScript/1:9
+> CONTEXT: Commonevents/105/130/InlineScript/1:9
+> CONTEXT: Commonevents/106/143/InlineScript/1:9
+> CONTEXT: Commonevents/107/41/InlineScript/1:9
+"Niewystarczająco MP."
+> END STRING
+
+> BEGIN STRING
+Max HP +10!
+> CONTEXT: Commonevents/120/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired Magic Elixir
+Max MP +10!
+> CONTEXT: Commonevents/121/8/Dialogue
+Otrzymano Eliksir Magii
+Max MP +10!
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[167]Master Badge
+> CONTEXT: Commonevents/122/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired Master Elixir
+Normal attack restores MP +1
+> CONTEXT: Commonevents/122/10/Dialogue
+> CONTEXT: Commonevents/122/20/Dialogue
+> CONTEXT: Commonevents/123/2/Dialogue
+> CONTEXT: Commonevents/123/12/Dialogue
+> CONTEXT: Commonevents/123/22/Dialogue
+Otrzymano Eliksir Mistrza
+Podstawowe ataki przywracają +1 MP
+> END STRING
+
+> BEGIN STRING
+It takes 4 pages to make a book.
+> CONTEXT: Commonevents/124/15/Dialogue
+> CONTEXT: Commonevents/125/15/Dialogue
+Do stworzenia książki potrzeba 4 stron.
+> END STRING
+
+> BEGIN STRING
+Sync all Pages of Attack?
+> CONTEXT: Commonevents/124/19/Dialogue
+Synchronizować wszystkie Strony Ataku?
+> END STRING
+
+> BEGIN STRING
+Sync all Pages of Critical?
+> CONTEXT: Commonevents/125/19/Dialogue
+Synchronizować wszystkie Strony Krytyczne?
+> END STRING
+
+> BEGIN STRING
+Atk +1
+（rest \\V[619] times）
+> CONTEXT: Commonevents/126/5/Dialogue
+Atak + 1
+(pozostało \\V[619] razy)
+> END STRING
+
+> BEGIN STRING
+Reached max increment.
+> CONTEXT: Commonevents/126/12/Dialogue
+> CONTEXT: Commonevents/127/12/Dialogue
+> CONTEXT: Commonevents/128/12/Dialogue
+> CONTEXT: Commonevents/129/12/Dialogue
+> CONTEXT: Commonevents/130/12/Dialogue
+> CONTEXT: Commonevents/131/12/Dialogue
+> CONTEXT: Commonevents/132/12/Dialogue
+> CONTEXT: Commonevents/133/12/Dialogue
+> CONTEXT: Commonevents/134/12/Dialogue
+> CONTEXT: Commonevents/135/12/Dialogue
+> CONTEXT: Commonevents/136/12/Dialogue
+> CONTEXT: Commonevents/137/12/Dialogue
+Osiągnięto maksymalne ulepszenie.
+> END STRING
+
+> BEGIN STRING
+Atk + 2
+（rest \\V[619] times）
+> CONTEXT: Commonevents/127/5/Dialogue
+Atak + 2
+(pozostało \\V[619] razy)
+> END STRING
+
+> BEGIN STRING
+Atk + 3
+（rest \\V[619] times）
+> CONTEXT: Commonevents/128/5/Dialogue
+Atak + 3
+（pozostało \\V[619] razy）
+> END STRING
+
+> BEGIN STRING
+Cri + 1
+（rest \\V[619] times）
+> CONTEXT: Commonevents/129/5/Dialogue
+> CONTEXT: Commonevents/130/5/Dialogue
+> CONTEXT: Commonevents/131/5/Dialogue
+Cri + 2
+（pozostało \\V[619] razy）
+> END STRING
+
+> BEGIN STRING
+Def + 1
+（rest \\V[619] times）
+> CONTEXT: Commonevents/132/5/Dialogue
+Obrona + 1
+(pozostało \\V[619] razy)
+> END STRING
+
+> BEGIN STRING
+Def + 2
+（rest \\V[619] times）
+> CONTEXT: Commonevents/133/5/Dialogue
+Obrona + 2
+(pozostało \\V[619] razy)
+> END STRING
+
+> BEGIN STRING
+Def + 3
+（rest \\V[619] times）
+> CONTEXT: Commonevents/134/5/Dialogue
+Obrona + 3
+(pozostało \\V[619] razy)
+> END STRING
+
+> BEGIN STRING
+Eva + 1
+（rest \\V[619] times）
+> CONTEXT: Commonevents/135/5/Dialogue
+> CONTEXT: Commonevents/136/5/Dialogue
+> CONTEXT: Commonevents/137/5/Dialogue
+Eva + 1
+(rest \\V[619] times)
+> END STRING
+
+> BEGIN STRING
+Select Preferences:
+> CONTEXT: Commonevents/142/0/Dialogue
+Wybierz Opcję:
+> END STRING
+
+> BEGIN STRING
+Volume Settings
+> CONTEXT: Commonevents/142/2/Choice/0
+Opcje Dźwięku
+> END STRING
+
+> BEGIN STRING
+Window Size
+> CONTEXT: Commonevents/142/2/Choice/1
+Rozmiar Okna
+> END STRING
+
+> BEGIN STRING
+1x
+> CONTEXT: Commonevents/142/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+2x
+> CONTEXT: Commonevents/142/7/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+3x
+> CONTEXT: Commonevents/142/7/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Full Screen
+> CONTEXT: Commonevents/142/7/Choice/3
+Pełen Ekran
+> END STRING
+
+> BEGIN STRING
+Please switch screen size using the following button:
+\\C[6]F5: Toggle full screen.
+\\C[6]F6: Cycle through window sizes.
+※Please do not use Alt+Enter or F1 key to toggle full screen.
+> CONTEXT: Commonevents/142/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HP恢復 \\V[121]
+> CONTEXT: Commonevents/146/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"HP恢復\#{$game_variables[121]}"
+> CONTEXT: Commonevents/146/5/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_00"
+> CONTEXT: Commonevents/148/13/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_01"
+> CONTEXT: Commonevents/148/13/InlineScript/3:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_02"
+> CONTEXT: Commonevents/148/13/InlineScript/5:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_03"
+> CONTEXT: Commonevents/148/13/InlineScript/7:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_04"
+> CONTEXT: Commonevents/148/13/InlineScript/9:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_05"
+> CONTEXT: Commonevents/148/23/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_06"
+> CONTEXT: Commonevents/148/23/InlineScript/3:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_07"
+> CONTEXT: Commonevents/148/23/InlineScript/5:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_08"
+> CONTEXT: Commonevents/148/23/InlineScript/7:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_09_1"
+> CONTEXT: Commonevents/148/32/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_09_2"
+> CONTEXT: Commonevents/148/32/InlineScript/3:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_10_1"
+> CONTEXT: Commonevents/148/39/InlineScript/1:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ED_10_2"
+> CONTEXT: Commonevents/148/39/InlineScript/3:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Eh... I'd better retreat now..."
+> CONTEXT: Commonevents/151/0/Dialogue
+Senia
+"Ech... Lepiej się teraz wycofam..."
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[332]精靈布料 "
+> CONTEXT: Commonevents/200/14/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[343]精靈水晶 "
+> CONTEXT: Commonevents/200/20/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得 精工精靈石 "
+> CONTEXT: Commonevents/200/26/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[358]神器精靈石 "
+> CONTEXT: Commonevents/200/32/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[529]惡魔布料 "
+> CONTEXT: Commonevents/200/38/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[528]惡魔水晶 "
+> CONTEXT: Commonevents/200/44/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[358]神器惡魔石 "
+> CONTEXT: Commonevents/200/50/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[234]劍術心得殘篇1章 "
+> CONTEXT: Commonevents/200/56/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[234]劍術心得殘篇2章 "
+> CONTEXT: Commonevents/200/62/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[234]劍術心得殘篇3章 "
+> CONTEXT: Commonevents/200/68/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[227]爆擊心得殘篇1章 "
+> CONTEXT: Commonevents/200/74/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[227]爆擊心得殘篇2章 "
+> CONTEXT: Commonevents/200/80/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[227]爆擊心得殘篇3章 "
+> CONTEXT: Commonevents/200/86/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得 戰士披風"
+> CONTEXT: Commonevents/200/92/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"獲得\\\\I[240]鑰匙"
+> CONTEXT: Commonevents/200/110/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING

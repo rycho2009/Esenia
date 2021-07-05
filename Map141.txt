@@ -1,0 +1,42 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Arcane Realm.
+> CONTEXT: Map141/display_name/
+> CONTEXT: Map140/display_name/
+> CONTEXT: Map139/display_name/
+> CONTEXT: Map089/display_name/
+> CONTEXT: Map088/display_name/
+> CONTEXT: Map084/display_name/
+> CONTEXT: Map083/display_name/
+> CONTEXT: Map082/display_name/
+> CONTEXT: Map081/display_name/
+> CONTEXT: Map080/display_name/
+> CONTEXT: Map079/display_name/
+> CONTEXT: Map078/display_name/
+> CONTEXT: Map077/display_name/
+> CONTEXT: Map076/display_name/
+> CONTEXT: Map075/display_name/
+> CONTEXT: Map074/display_name/
+> CONTEXT: Map073/display_name/
+> CONTEXT: Map072/display_name/
+> CONTEXT: Map071/display_name/
+> CONTEXT: Map070/display_name/
+> CONTEXT: Map068/display_name/
+> CONTEXT: Map069/display_name/
+Kraina Magii
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[166]Magic Bracelet
+> CONTEXT: Map141/events/1/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[347]Elite Fairy Stone
+> CONTEXT: Map141/events/1/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map089/events/1/pages/3/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map088/events/7/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING

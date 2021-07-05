@@ -1,0 +1,418 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（......這裡是......哪裡？）\\|\\|\\|\\^
+> CONTEXT: Map035/events/5/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（！！）\\|\\|\\|\\^
+> CONTEXT: Map035/events/5/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（爸爸...媽媽...）\\|\\|\\|\\^
+> CONTEXT: Map035/events/5/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（還有...小時候的我...）\\|\\|\\|\\|\\^
+> CONTEXT: Map035/events/5/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（為什麼…我會再度看到這個景象）\\|\\|\\|\\^
+> CONTEXT: Map035/events/5/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「媽媽...媽媽...」
+> CONTEXT: Map035/events/5/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「醒過來啊...媽媽」
+> CONTEXT: Map035/events/5/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「就是你...」
+> CONTEXT: Map035/events/5/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「就是你這惡魔...殺了大家」
+> CONTEXT: Map035/events/5/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「啊啊啊啊啊！！！！」
+> CONTEXT: Map035/events/5/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「嗚！」
+> CONTEXT: Map035/events/5/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「不要過來...」
+> CONTEXT: Map035/events/5/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「不要啊啊啊啊！」
+> CONTEXT: Map035/events/5/pages/0/60/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/15/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「沒事了，不用害怕了哦」
+> CONTEXT: Map035/events/5/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/15/pages/1/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「...................」
+> CONTEXT: Map035/events/5/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「...妳是誰？」
+> CONTEXT: Map035/events/5/pages/0/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「我是來拯救妳的人」
+> CONTEXT: Map035/events/5/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「我的名字是\\|\\|——瑪嘉雷特」
+> CONTEXT: Map035/events/5/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（瑪嘉雷特姐姐...）
+> CONTEXT: Map035/events/5/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（難道妳真的在這裡嗎？）
+> CONTEXT: Map035/events/5/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（如果是這樣的話）
+> CONTEXT: Map035/events/5/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（我絕對\\|——要把妳帶回來！）
+> CONTEXT: Map035/events/5/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"Mommy... Mommy..."
+> CONTEXT: Map035/events/15/pages/0/6/Dialogue
+Maleńka Senia
+"Mamusiu... Mamusiu..."
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"Mommy! Wake up Mommy!"
+> CONTEXT: Map035/events/15/pages/0/11/Dialogue
+Maleńka Senia
+"Mamusiu! Obudź się Mamusiu!"
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"!"
+> CONTEXT: Map035/events/15/pages/0/33/Dialogue
+Maleńka Senia
+"!"
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"Stay... stay away from me!"
+> CONTEXT: Map035/events/15/pages/0/42/Dialogue
+Maleńka Senia
+"Nie zbliżaj się do mnie...
+ nie zbliżaj się!"
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"NOOO!!"
+> CONTEXT: Map035/events/15/pages/0/50/Dialogue
+Maleńka Senia
+"NIEEE!!"
+> END STRING
+
+> BEGIN STRING
+???
+"Don't worry. I have taken care of the monster!"
+> CONTEXT: Map035/events/15/pages/0/75/Dialogue
+???
+"Nie martw się. Zajęłam się tym potworem!"
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"..."
+> CONTEXT: Map035/events/15/pages/0/79/Dialogue
+> CONTEXT: Map035/events/15/pages/0/108/Dialogue
+Maleńka Senia
+"..."
+> END STRING
+
+> BEGIN STRING
+???
+"I am a priest of Sacred Sanctum."
+> CONTEXT: Map035/events/15/pages/0/83/Dialogue
+???
+"Jestem kapłanką Świętego Sanktuarium."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"My name is Magaleta."
+> CONTEXT: Map035/events/15/pages/0/86/Dialogue
+Magaleta
+"Mam na imię Magaleta."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"What is your name?"
+> CONTEXT: Map035/events/15/pages/0/89/Dialogue
+Magaleta
+"A ty jak masz na imię?"
+> END STRING
+
+> BEGIN STRING
+Child Senia
+"I... I am... Senia."
+> CONTEXT: Map035/events/15/pages/0/93/Dialogue
+Maleńka Senia
+"Ja... Ja jestem... Senia."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"\\C[6]Nia\\C[0]…"
+> CONTEXT: Map035/events/15/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"... ... ..."
+> CONTEXT: Map035/events/15/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It must have scared you bad, Nia."
+> CONTEXT: Map035/events/15/pages/0/112/Dialogue
+Magaleta
+"To musiało cię bardzo przestraszyć, Nia."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Don't worry, you are safe now."
+> CONTEXT: Map035/events/15/pages/0/115/Dialogue
+Magaleta
+"Nie martw się, jesteś teraz bezpieczna."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I will protect you…\\|like a big sister."
+> CONTEXT: Map035/events/15/pages/0/119/Dialogue
+Magaleta
+"Będę Cię chronić…\\|jak starsza siostra."
+> END STRING
+
+> BEGIN STRING
+（又是…這個惡夢…）\\|\\|\\|\\|\\^
+> CONTEXT: Map035/events/15/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（在我心中…揮之不去的陰影）\\|\\|\\|\\|\\|\\^
+> CONTEXT: Map035/events/15/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（媽媽…爸爸…）\\|\\|\\|\\^
+> CONTEXT: Map035/events/15/pages/1/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（還有…以前的我…）\\|\\|\\|\\|\\^
+> CONTEXT: Map035/events/15/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「媽媽…媽媽…」
+> CONTEXT: Map035/events/15/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「醒過來啊…媽媽」
+> CONTEXT: Map035/events/15/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「是惡魔！」
+> CONTEXT: Map035/events/15/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「不要過來！」
+> CONTEXT: Map035/events/15/pages/1/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「………」
+> CONTEXT: Map035/events/15/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「…妳是誰？」
+> CONTEXT: Map035/events/15/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「我是來自普隆德拉大聖堂的神官」
+> CONTEXT: Map035/events/15/pages/1/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「我的名字叫瑪嘉雷特」
+> CONTEXT: Map035/events/15/pages/1/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「妳叫什麼名字呢？」
+> CONTEXT: Map035/events/15/pages/1/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「賽妮亞…」
+> CONTEXT: Map035/events/15/pages/1/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「！！」
+> CONTEXT: Map035/events/15/pages/1/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「\\C[6]妮雅\\C[0]…」
+> CONTEXT: Map035/events/15/pages/1/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「………………」
+> CONTEXT: Map035/events/15/pages/1/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「大家都死了…」
+> CONTEXT: Map035/events/15/pages/1/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+年幼的賽妮亞
+「只剩下我…一個人…」
+> CONTEXT: Map035/events/15/pages/1/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「妮雅不用擔心…」
+> CONTEXT: Map035/events/15/pages/1/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「姐姐……\\|會守護妳的」
+> CONTEXT: Map035/events/15/pages/1/129/Dialogue < UNTRANSLATED
+
+> END STRING

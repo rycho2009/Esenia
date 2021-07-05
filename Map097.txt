@@ -1,0 +1,10 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+　　　                             　　      ~ENVY~
+                             Jealousy exists within all creations.
+                                  Magic Circles are no exception.
+> CONTEXT: Map097/events/1/pages/0/1/Dialogue
+                                         ~ZAZDROŚĆ~
+                             Zazdrość istnieje w każdym stworzeniu.
+                                  Magiczne Kręgi nie są wyjątkiem.
+> END STRING

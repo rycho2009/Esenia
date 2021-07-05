@@ -1,0 +1,286 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"Oh no! None of my attacks is
+ working."
+> CONTEXT: Map152/events/1/pages/0/6/Dialogue
+Senia
+"Oh nie! Żaden z moich ataków
+ nie działa."
+> END STRING
+
+> BEGIN STRING
+Senia
+"What now...?"
+> CONTEXT: Map152/events/1/pages/0/10/Dialogue
+Senia
+"Co teraz...?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"WAAAAH!"
+> CONTEXT: Map152/events/1/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"A... A corpse!?"
+> CONTEXT: Map152/events/1/pages/0/66/Dialogue
+Senia
+"Z... Zwłoki!?"
+> END STRING
+
+> BEGIN STRING
+Senia
+(Am I going to... die here as well?)
+> CONTEXT: Map152/events/1/pages/0/69/Dialogue
+Senia
+(Czy ja także... umrę tutaj?)
+> END STRING
+
+> BEGIN STRING
+Senia
+(No way... I don't want to die here...)
+> CONTEXT: Map152/events/1/pages/0/72/Dialogue
+Senia
+(Nie ma mowy...
+ Nie chcę tutaj umierać...)
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis... Where exactly are you?"
+> CONTEXT: Map152/events/1/pages/0/79/Dialogue
+Senia
+"Siostrzyczko...
+ Gdzie ty właściwie jesteś?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why are you nowhere
+ to be found..."
+> CONTEXT: Map152/events/1/pages/0/82/Dialogue
+Senia
+"Dlaczego nie można
+ Cię nigdzie znaleźć..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why... why did you
+ leave me behind..."
+> CONTEXT: Map152/events/1/pages/0/86/Dialogue
+Senia
+"Dlaczego... dlaczego
+ zostawiłaś mnie w tyle..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"This is not the time to
+  get depressed."
+> CONTEXT: Map152/events/1/pages/0/96/Dialogue
+Senia
+"To nie czas na depresję."
+> END STRING
+
+> BEGIN STRING
+Senia
+"What's that?"
+> CONTEXT: Map152/events/1/pages/0/102/Dialogue
+Senia
+"Cóż to?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"A two-handed sword..."
+> CONTEXT: Map152/events/1/pages/0/111/Dialogue
+Senia
+"Miecz dwuręczny..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"I can use this sword..."
+> CONTEXT: Map152/events/1/pages/0/114/Dialogue
+Senia
+"Mogę użyć tego miecza..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"The dragon caught up!"
+> CONTEXT: Map152/events/1/pages/0/130/Dialogue
+Senia
+"Smok mnie dogonił!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"It's do or die time..."
+> CONTEXT: Map152/events/1/pages/0/148/Dialogue
+Senia
+"Raz kozie śmierć..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"My attack did no damage!?"
+> CONTEXT: Map152/events/11/pages/1/6/Dialogue
+Senia
+"Mój atak nie zrobił
+ mu krzywdy!?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"...here we go again!"
+> CONTEXT: Map152/events/11/pages/1/9/Dialogue
+"...Znów zaczyna!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"A dragon!?"
+> CONTEXT: Map152/events/15/pages/0/32/Dialogue
+Senia
+"Smok!?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"How... how am I supposed to
+ defeat a dragon?"
+> CONTEXT: Map152/events/15/pages/0/40/Dialogue
+Senia
+"Jak... jak ja mam pokonać
+ smoka?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"It's attacking!"
+> CONTEXT: Map152/events/15/pages/0/45/Dialogue
+Senia
+"Atakuje!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"This door is... locked?"
+> CONTEXT: Map152/events/16/pages/0/4/Dialogue
+Senia
+"Te drzwi... są zamknięte?"
+> END STRING
+
+> BEGIN STRING
+Violet Crystal Armor is damaged during the battle.
+> CONTEXT: Map152/events/67/pages/3/7/Dialogue
+Fioletowa Kryształowa Zbroja uszkodziła się podczas
+walki.
+> END STRING
+
+> BEGIN STRING
+Senia
+"... I defeated it... right?"
+> CONTEXT: Map152/events/67/pages/3/11/Dialogue
+Senia
+"... Pokonałam go... tak?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis... where are you?"
+> CONTEXT: Map152/events/67/pages/3/21/Dialogue
+Senia
+"Siostrzyczko...
+ gdzie jesteś?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am so scared... sis..."
+> CONTEXT: Map152/events/67/pages/3/27/Dialogue
+Senia
+"Jestem taka przerażona...
+ siostrzyczko..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sob*"
+> CONTEXT: Map152/events/67/pages/3/30/Dialogue
+> CONTEXT: Map138/events/3/pages/0/263/Dialogue
+Senia
+"Szloch*"
+> END STRING
+
+> BEGIN STRING
+Senia
+"eh!!"
+> CONTEXT: Map152/events/67/pages/3/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"What... is this?"
+> CONTEXT: Map152/events/67/pages/3/40/Dialogue
+Senia
+"Co... to jest?"
+> END STRING
+
+> BEGIN STRING
+Senia
+(Some...thing just bursted
+ into my body!?)
+> CONTEXT: Map152/events/67/pages/3/43/Dialogue
+Senia
+(Coś... coś wtargnęło
+ do mojego ciała!?)
+> END STRING
+
+> BEGIN STRING
+Senia
+"AHHHH!"
+> CONTEXT: Map152/events/67/pages/3/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I have... passed out?"
+> CONTEXT: Map152/events/70/pages/0/7/Dialogue
+Senia
+"Ja... zemdlałam?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"What happened?"
+> CONTEXT: Map152/events/70/pages/0/10/Dialogue
+Senia
+"Co się wydarzyło?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"No, this is not the time for this..."
+> CONTEXT: Map152/events/70/pages/0/17/Dialogue
+Senia
+"Nie, to nie jest na to czas..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"I have to focus on searching
+ for Magaleta."
+> CONTEXT: Map152/events/70/pages/0/20/Dialogue
+Senia
+"Muszę się skupić na
+ poszukiwaniach Magalety."
+> END STRING

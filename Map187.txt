@@ -1,0 +1,231 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Confession
+> CONTEXT: Map187/display_name/ < UNTRANSLATED
+> CONTEXT: Map143/display_name/ < UNTRANSLATED
+> CONTEXT: Map138/display_name/ < UNTRANSLATED
+> CONTEXT: Map090/display_name/ < UNTRANSLATED
+> CONTEXT: Map087/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta..."
+> CONTEXT: Map187/events/3/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map189/events/3/pages/1/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/5/pages/2/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/137/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I have been expecting you."
+> CONTEXT: Map187/events/3/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Come!"
+> CONTEXT: Map187/events/3/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I have taken full command of eternity.
+There is nothing to worry about any more."
+> CONTEXT: Map187/events/3/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Just a bit more,
+we can stay together, forever."
+> CONTEXT: Map187/events/3/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"With the help of eternity."
+> CONTEXT: Map187/events/3/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(There is something I must...
+ tell sis Magaleta...)
+> CONTEXT: Map187/events/3/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I will regret the rest of my life...
+ If I do not pass my
+ real thoughts to sis Magaleta.)
+> CONTEXT: Map187/events/3/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I have always thought that sis
+ never correctly recognize me."
+> CONTEXT: Map187/events/3/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I thought I am just...  Nia
+ to you. Not Senia,
+ not who I am."
+> CONTEXT: Map187/events/3/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"With that bear-in-mind, sis...
+ you are such a distant figure..."
+> CONTEXT: Map187/events/3/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I felt that I am in no place to
+ speak to you... There are so
+ much I would love to tell you..."
+> CONTEXT: Map187/events/3/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"But I cannot...
+ Because I am not... Nia."
+> CONTEXT: Map187/events/3/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Was my attitude so misleading...?"
+> CONTEXT: Map187/events/3/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Sis regained her consciousness!)
+> CONTEXT: Map187/events/3/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Uh...!"
+> CONTEXT: Map187/events/3/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"No, I have not been looking at you
+ as a replacement of Nia.
+ You worried too much."
+> CONTEXT: Map187/events/3/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"So come!
+ Join me and live together forever."
+> CONTEXT: Map187/events/3/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No..."
+> CONTEXT: Map187/events/3/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"!?"
+> CONTEXT: Map187/events/3/pages/0/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/10/pages/0/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"As your little sister..."
+> CONTEXT: Map187/events/3/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I will... stop you!"
+> CONTEXT: Map187/events/3/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Stop me? For what?"
+> CONTEXT: Map187/events/3/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I will free you from eternity,
+ and return to our church
+ together..."
+> CONTEXT: Map187/events/3/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am afraid that is beyond
+ your power."
+> CONTEXT: Map187/events/3/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"That maybe true..."
+> CONTEXT: Map187/events/3/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"But all hope will be lost
+ if I do not try!"
+> CONTEXT: Map187/events/3/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Try your best then."
+> CONTEXT: Map187/events/3/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING

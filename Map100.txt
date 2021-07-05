@@ -1,0 +1,291 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Corridor of Wisdom
+> CONTEXT: Map100/display_name/ < UNTRANSLATED
+> CONTEXT: Map099/display_name/ < UNTRANSLATED
+> CONTEXT: Map098/display_name/ < UNTRANSLATED
+> CONTEXT: Map097/display_name/ < UNTRANSLATED
+> CONTEXT: Map096/display_name/ < UNTRANSLATED
+> CONTEXT: Map095/display_name/ < UNTRANSLATED
+> CONTEXT: Map094/display_name/ < UNTRANSLATED
+> CONTEXT: Map093/display_name/ < UNTRANSLATED
+> CONTEXT: Map092/display_name/ < UNTRANSLATED
+> CONTEXT: Map044/display_name/ < UNTRANSLATED
+> CONTEXT: Map037/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"...!?
+Sister? Sis Magaleta?"
+> CONTEXT: Map100/events/1/pages/0/23/Dialogue
+Senia
+"...!?
+Siostra?
+Siostrzyczka Magaleta?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Yes?"
+> CONTEXT: Map100/events/1/pages/0/30/Dialogue
+> CONTEXT: Map066/events/3/pages/0/79/Dialogue
+> CONTEXT: Map033/events/35/pages/0/81/Dialogue
+Magaleta
+"Tak?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I have been waiting for you, Senia."
+> CONTEXT: Map100/events/1/pages/0/33/Dialogue
+Magaleta
+"Czekałam na ciebie, Senia."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am doing fine."
+> CONTEXT: Map100/events/1/pages/0/39/Dialogue
+Magaleta
+"Mam się dobrze."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Let's go home!
+ To the church where we lived together."
+> CONTEXT: Map100/events/1/pages/0/42/Dialogue
+Magaleta
+"Wracajmy do domu!
+ Do kościoła, w którym razem żyłyśmy."
+> END STRING
+
+> BEGIN STRING
+Senia
+"... Something is not right."
+> CONTEXT: Map100/events/1/pages/0/51/Dialogue
+Senia
+"... Coś jest nie tak."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Who... are you?"
+> CONTEXT: Map100/events/1/pages/0/54/Dialogue
+Senia
+"Kim... kim ty jesteś?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am Magaleta, and you...
+are my dearest little sister Senia."
+> CONTEXT: Map100/events/1/pages/0/57/Dialogue
+Magaleta
+"Jestem Magaleta, a ty...
+moją najdroższą młodszą siostrzyczką Senią."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Come on!
+ Senia, it must be tough for you to
+ make it this far alone."
+> CONTEXT: Map100/events/1/pages/0/61/Dialogue
+Magaleta
+"Już chodź!
+ Senia, to musiało być dla ciebie ciężkie,
+ że dotarłaś tak daleko sama."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I will hug you to sleep. Like always."
+> CONTEXT: Map100/events/1/pages/0/66/Dialogue
+Magaleta
+"Przytulę cię do snu. Jak zawsze."
+> END STRING
+
+> BEGIN STRING
+Senia
+"WHO ARE YOU!?"
+> CONTEXT: Map100/events/1/pages/0/70/Dialogue
+Senia
+"KIM TY JESTEŚ!?"
+> END STRING
+
+> BEGIN STRING
+Magaleta(?)
+"Hehehe..."
+> CONTEXT: Map100/events/1/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta(?)
+"Well well.
+ Looks like I pissed you off."
+> CONTEXT: Map100/events/1/pages/0/79/Dialogue
+Magaleta(?)
+"No proszę, proszę.
+ Wygląda na to, że cię wkurzyłam."
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"I spoke true to your desire."
+> CONTEXT: Map100/events/1/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"You know it better than anyone else that it is not possible.
+ Yet you never gave up the desire. Poor little kid!"
+> CONTEXT: Map100/events/1/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"Hehehe..."
+> CONTEXT: Map100/events/1/pages/1/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"I know your wish.
+ You wish that one day, you will replace her real sister.
+ And become THE ONLY sister of Magaleta, right?"
+> CONTEXT: Map100/events/1/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No, that is not what I..."
+> CONTEXT: Map100/events/1/pages/1/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"Oh really?
+ Then what is that desire I saw in your mind?"
+> CONTEXT: Map100/events/1/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"What a naive little kid...hehe."
+> CONTEXT: Map100/events/1/pages/1/30/Dialogue
+Succubus Celith
+"Co za naiwne małe dziecko...hehe."
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"Aren't you just an orphan Magaleta randomly
+ picked up on the street?"
+> CONTEXT: Map100/events/1/pages/1/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"Just lived a few years together..."
+> CONTEXT: Map100/events/1/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"And you think you can replace her real sister,
+ \\c[6]Nia\\c[0]? What a joke!"
+> CONTEXT: Map100/events/1/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"...I just..."
+> CONTEXT: Map100/events/1/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am not..."
+> CONTEXT: Map100/events/1/pages/1/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"But..."
+> CONTEXT: Map100/events/1/pages/1/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"Your wish can be made true!"
+> CONTEXT: Map100/events/1/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"With succubus power,
+ it isn't all that impossible."
+> CONTEXT: Map100/events/1/pages/1/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"Senia, I can make you 'the sister' of Magaleta.
+ A more important person to her than Nia."
+> CONTEXT: Map100/events/1/pages/1/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(More important... than Nia...)
+> CONTEXT: Map100/events/1/pages/1/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"All I ask in return is your blood."
+> CONTEXT: Map100/events/1/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(My blood...)
+> CONTEXT: Map100/events/1/pages/1/80/Dialogue
+Senia
+(Moja krew...)
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"Not a bad deal, eh? Just some blood."
+> CONTEXT: Map100/events/1/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Succubus Celith
+"There is nothing to lose, right?"
+> CONTEXT: Map100/events/1/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING

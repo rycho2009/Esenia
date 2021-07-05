@@ -1,0 +1,11 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+　　　　　          　　 　 　    ~PRIDE~
+        Not even demons can stop you from marching foward.
+               You will overcome any fear that lands in front.
+
+> CONTEXT: Map044/events/1/pages/0/1/Dialogue
+                                 ~PYCHA~
+Nawet demony nie powstrzymają cię od marszu naprzód.
+      Pokonasz każdy strach, który pojawi się przed tobą.
+> END STRING

@@ -1,0 +1,111 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Magaleta
+"From today on,\\!
+　this is also your home」
+> CONTEXT: Map002/events/1/pages/0/14/Dialogue
+Magaleta
+"Od dziś,\\!
+　to jest również twój dom」
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"From today on \\!
+  this will be your new home."
+> CONTEXT: Map002/events/1/pages/0/20/Dialogue
+Magaleta
+"Od dziś \\!
+ to będzie twój nowy dom."
+> END STRING
+
+> BEGIN STRING
+Ever since then…\\|
+Sis Magaleta has taken care of me like a family...
+> CONTEXT: Map002/events/1/pages/0/47/Dialogue
+Od tego czasu…\\|
+Siostrzyczka Magaleta opiekowała się mną jak rodzina...
+> END STRING
+
+> BEGIN STRING
+It was...\\|
+the happiest moment in my life...
+> CONTEXT: Map002/events/1/pages/0/50/Dialogue
+To był...\\|
+najszczęśliwszy moment w moim życiu...
+> END STRING
+
+> BEGIN STRING
+It is...\\|
+the happiest moment of my life...
+> CONTEXT: Map002/events/1/pages/0/53/Dialogue
+To jest...\\|
+najszczęśliwszy moment mojego życia...
+> END STRING
+
+> BEGIN STRING
+I deeply wished the happiness will continue...
+Forever...
+> CONTEXT: Map002/events/1/pages/0/56/Dialogue
+Głęboko pragnęłam, aby szczęście trwało dalej...
+Na zawsze...
+> END STRING
+
+> BEGIN STRING
+Sister went missing 3 days ago...
+> CONTEXT: Map002/events/1/pages/0/61/Dialogue
+Siostra zaginęła 3 dni temu...
+> END STRING
+
+> BEGIN STRING
+Left me behind without any message...
+> CONTEXT: Map002/events/1/pages/0/63/Dialogue
+Zostawiła mnie bez żadnej wiadomości...
+> END STRING
+
+> BEGIN STRING
+I was all by myself.
+Scared, insecure, and lonely.
+> CONTEXT: Map002/events/1/pages/0/65/Dialogue
+Byłam całkiem sama.
+Przestraszona, niepewna i samotna.
+> END STRING
+
+> BEGIN STRING
+It was not until I heard a rumor saying Magaleta
+went to the Tower of Eternity
+that I finally saw a glimpse of light in the darkness.
+> CONTEXT: Map002/events/1/pages/0/68/Dialogue
+Dopiero gdy usłyszałam plotkę, że Magaleta udała się
+do Wieży Wieczności, w końcu zobaczyłam przebłysk
+światła w ciemności.
+> END STRING
+
+> BEGIN STRING
+Nothing mattered to me other than getting a hold of the light
+a hold on to the hope...
+> CONTEXT: Map002/events/1/pages/0/72/Dialogue
+Nic nie miało dla mnie większego znaczenia,
+niż pochwycenie światła i podtrzymanie nadziei...
+> END STRING
+
+> BEGIN STRING
+When I was backed to myself...\\|
+I found myself away from the church we called home...
+> CONTEXT: Map002/events/1/pages/0/75/Dialogue
+Kiedy doszłam do siebie...\\|
+Znalazłam się z dala od kościoła, który nazywałyśmy
+domem...
+> END STRING
+
+> BEGIN STRING
+And arrived at...
+> CONTEXT: Map002/events/1/pages/0/78/Dialogue
+I dotarłam do...
+> END STRING
+
+> BEGIN STRING
+Tower of Eternity
+> CONTEXT: Map002/events/1/pages/0/84/Dialogue
+Wieży Wieczności
+> END STRING

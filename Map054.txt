@@ -1,0 +1,123 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+New skill "Phantom Strike" learned.
+\\c[6]Effect 1: receives no damage reflection.
+\\c[6]Effect 2: deflects some of the ranged attacks.
+\\c[6]Effect 3: chance of critical hit raises with skill level.
+> CONTEXT: Map054/events/23/pages/3/2/Dialogue
+Poznano nową umiejętność - "Uderzenie Widmo".
+\\c[6]Efekt 1: nie otrzymujesz obrażeń.
+\\c[6]Efekt 2: odbija niektóre ataki z dystansu.
+\\c[6]Efekt 3: szansa na ud. krytyczne rośnie z poziomem um.
+> END STRING
+
+> BEGIN STRING
+Skill system enabled.
+
+\\c[6]Skill system can be accessed from "Skill"
+ on main menu \\c[6]or by pressing the hotkey "S."
+> CONTEXT: Map054/events/23/pages/3/8/Dialogue
+System umiejętności odblokowany.
+
+\\c[6]Do systemu umiejętności można przejść przez
+zakładkę "Skill" w menu \\c[6]lub przez skrót klawiszowy "S."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why are the elves attacking?"
+> CONTEXT: Map054/events/23/pages/3/13/Dialogue
+Senia
+"Dlaczego elfy mnie atakują?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"An elf!?"
+> CONTEXT: Map054/events/35/pages/0/3/Dialogue
+Senia
+"Elf!?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Ouch!"
+> CONTEXT: Map054/events/49/pages/0/6/Dialogue
+> CONTEXT: Map033/events/35/pages/0/55/Dialogue
+Senia
+"Auć!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why is the elf attacking me?"
+> CONTEXT: Map054/events/49/pages/0/9/Dialogue
+Senia
+"Dlaczego ten elf mnie atakuje?"
+> END STRING
+
+> BEGIN STRING
+Senia
+(It is blocking the path. I cannot
+ go  through without evading
+ the  arrow.)
+> CONTEXT: Map054/events/49/pages/0/15/Dialogue
+Senia
+(Blokuje drogę. Nie mogę
+ przejść bez omijania strzał.)
+> END STRING
+
+> BEGIN STRING
+Senia
+(This is the moment I trained
+ for. Take this!)
+> CONTEXT: Map054/events/49/pages/0/20/Dialogue
+Senia
+(To jest moment, dla którego
+ trenowałam. Weź to!)
+> END STRING
+
+> BEGIN STRING
+"m05_elf"
+> CONTEXT: Map054/events/90/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ID"
+> CONTEXT: Map054/events/90/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map054/events/90/pages/2/11/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map054/events/90/pages/3/11/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/1/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/4/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/5/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/7/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/8/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/8/pages/1/11/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/8/pages/2/11/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/9/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/9/pages/1/11/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/9/pages/2/11/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/11/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/11/pages/1/11/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/11/pages/2/11/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Map022/events/16/pages/0/12/InlineScript/8:41 < UNTRANSLATED
+> CONTEXT: Commonevents/10/821/InlineScript/8:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"m04_flower"
+> CONTEXT: Map054/events/90/pages/2/5/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map054/events/90/pages/3/5/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/8/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/8/pages/1/5/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/8/pages/2/5/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/9/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/9/pages/1/5/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/9/pages/2/5/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/11/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/11/pages/1/5/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/11/pages/2/5/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING

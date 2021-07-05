@@ -1,0 +1,204 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Magaleta
+"Nia."
+> CONTEXT: Map066/events/3/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map033/events/35/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"... Yes, sis?"
+> CONTEXT: Map066/events/3/pages/0/39/Dialogue
+Senia
+"... Tak, siostrzyczko?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Another demon-hunting
+ mission?"
+> CONTEXT: Map066/events/3/pages/0/42/Dialogue
+Senia
+"Kolejna misja polowania
+ na demony?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis..."
+> CONTEXT: Map066/events/3/pages/0/115/Dialogue
+Senia
+"Siostro..."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Right. It is my duty."
+> CONTEXT: Map066/events/3/pages/0/46/Dialogue
+Magaleta
+"Zgadza się.
+ To jest mój obowiązek."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Can I join, sis? Please."
+> CONTEXT: Map066/events/3/pages/0/49/Dialogue
+Senia
+"Mogę się przyłączyć, siostrzyczko?
+ Proszę."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Pleeease..."
+> CONTEXT: Map066/events/3/pages/0/55/Dialogue
+Senia
+"Prooooszę..."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It will be a quick mission, and I will
+ be back in no time. I promise."
+> CONTEXT: Map066/events/3/pages/0/58/Dialogue
+Magaleta
+"To będzie szybka misja i szybko wrócę.
+ Obiecuję."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Sorry for leaving you alone in the
+ church everytime.
+ I know you must feel lonely and all..."
+> CONTEXT: Map066/events/3/pages/0/62/Dialogue
+Magaleta
+"Przepraszam, że zawsze zostawiam Cię
+ samą w kościele. Wiem, że musisz czuć
+ się samotna i w ogóle..."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Don't worry. I will be just fine!"
+> CONTEXT: Map066/events/3/pages/0/70/Dialogue
+Magaleta
+"Nie martw się. Nic mi nie będzie!"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"See you around."
+> CONTEXT: Map066/events/3/pages/0/73/Dialogue
+Magaleta
+"Do zobaczenia wkrótce."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta..."
+> CONTEXT: Map066/events/3/pages/0/76/Dialogue
+Senia
+"Siostrzyczko Magaleto..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why can't I join you...?"
+> CONTEXT: Map066/events/3/pages/0/82/Dialogue
+Senia
+"Dlaczego nie mogę się do Ciebie
+ przyłączyć...?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"I will be a good girl.
+ Perhaps you will need my
+ support somewhere... you know?"
+> CONTEXT: Map066/events/3/pages/0/85/Dialogue
+Senia
+"Będę dobrą dziewczynką. Być może
+ będziesz potrzebować gdzieś 
+ mojego wsparcia... wiesz?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"you know?"
+> CONTEXT: Map066/events/3/pages/0/90/Dialogue
+Senia
+"Wiesz?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Demon hunting is not a game.
+ It is dangerous."
+> CONTEXT: Map066/events/3/pages/0/93/Dialogue
+Magaleta
+"Polowanie na demony 
+ to nie zabawa.
+ Jest niebezpieczne."
+> END STRING
+
+> BEGIN STRING
+Senia
+"I know! I know..."
+> CONTEXT: Map066/events/3/pages/0/97/Dialogue
+Senia
+"Wiem! Wiem..."
+> END STRING
+
+> BEGIN STRING
+Senia
+"But I am... scared.
+ What if... sis never comes back...?"
+> CONTEXT: Map066/events/3/pages/0/103/Dialogue
+Senia
+"But I am... scared.
+ What if... sis never comes back...?"
+> END STRING
+Senia
+"Ale ja... się boję.
+ Co jeśli... jeśli siostra nigdy
+ nie wróci...?"
+> BEGIN STRING
+Magaleta
+"There is no need to worry.
+ You know my strength."
+> CONTEXT: Map066/events/3/pages/0/107/Dialogue
+Magaleta
+"Nie ma powodu do obaw.
+ Znasz moją siłę."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It is OK.
+I promise I will be back safely."
+> CONTEXT: Map066/events/3/pages/0/111/Dialogue
+Magaleta
+"Jest dobrze.
+ Obiecuję, że wrócę bezpiecznie".
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I should get going."
+> CONTEXT: Map066/events/3/pages/0/118/Dialogue
+Magaleta
+"Powinnam już iść."
+> END STRING
+
+> BEGIN STRING
+Senia
+(I just cannot let sis go alone...!)
+> CONTEXT: Map066/events/3/pages/0/133/Dialogue
+Senia
+(Po prostu nie mogę pozwolić, żeby
+ siostrzyczka poszła sama...!)
+> END STRING

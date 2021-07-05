@@ -1,0 +1,414 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Warrior Armor
+> CONTEXT: Armors/1/name/
+> CONTEXT: Armorspl/1/name/
+Zbroja Wojownika
+> END STRING
+
+> BEGIN STRING
+Warrior Glove
+> CONTEXT: Armors/2/name/
+> CONTEXT: Armorspl/2/name/
+Rękawice Wojownika
+> END STRING
+
+> BEGIN STRING
+Warrior Cape
+> CONTEXT: Armors/3/name/
+> CONTEXT: Armorspl/3/name/
+Płaszcz Wojownika
+> END STRING
+
+> BEGIN STRING
+Fairy Armor
+> CONTEXT: Armors/4/name/
+> CONTEXT: Armorspl/4/name/
+Zbroja Wróżek
+> END STRING
+
+> BEGIN STRING
+EX Fairy Armor
+> CONTEXT: Armors/5/name/
+> CONTEXT: Armorspl/5/name/
+Ul. Zbroja Wróżek
+> END STRING
+
+> BEGIN STRING
+Elite Fairy Armor
+> CONTEXT: Armors/6/name/
+> CONTEXT: Armorspl/6/name/
+Elit. Zbroja Wróżek
+> END STRING
+
+> BEGIN STRING
+King Fairy Armor
+> CONTEXT: Armors/7/name/
+> CONTEXT: Armorspl/7/name/
+Król. Zbroja Wróżek
+> END STRING
+
+> BEGIN STRING
+Demon Armor
+> CONTEXT: Armors/8/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Demon Armor
+> CONTEXT: Armors/9/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Demon Armor
+> CONTEXT: Armors/10/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord Armor
+> CONTEXT: Armors/11/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sanctum Armor
+> CONTEXT: Armors/12/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Sanctum Armor
+> CONTEXT: Armors/13/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Sanctum Armor
+> CONTEXT: Armors/14/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Seraph Armor
+> CONTEXT: Armors/15/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Glove
+> CONTEXT: Armors/19/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Fairy Glove
+> CONTEXT: Armors/20/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Fairy Glove
+> CONTEXT: Armors/21/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+King Fairy Glove
+> CONTEXT: Armors/22/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Bone Glove
+> CONTEXT: Armors/23/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Bone Glove
+> CONTEXT: Armors/24/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Bone Glove
+> CONTEXT: Armors/25/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/25/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord Glove
+> CONTEXT: Armors/26/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/26/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sanctum Glove
+> CONTEXT: Armors/27/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/27/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Sanctum Glove
+> CONTEXT: Armors/28/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/28/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Sanctum Glove
+> CONTEXT: Armors/29/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/29/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Virtue Glove
+> CONTEXT: Armors/30/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/30/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Cape
+> CONTEXT: Armors/34/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/34/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Fairy Cape
+> CONTEXT: Armors/35/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/35/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Fairy Cape
+> CONTEXT: Armors/36/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/36/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+King Fairy Cape
+> CONTEXT: Armors/37/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/37/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghost Cape
+> CONTEXT: Armors/38/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/38/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Ghost Cape
+> CONTEXT: Armors/39/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/39/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Ghost Cape
+> CONTEXT: Armors/40/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/40/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord Cape
+> CONTEXT: Armors/41/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/41/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sanctum Cape
+> CONTEXT: Armors/42/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/42/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+EX Sanctum Cape
+> CONTEXT: Armors/43/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/43/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elite Sanctum Cape
+> CONTEXT: Armors/44/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/44/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cherub Cape
+> CONTEXT: Armors/45/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/45/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cross Pendant
+> CONTEXT: Armors/46/name/
+> CONTEXT: Armorspl/46/name/
+Naszyjnik z Krzyżem
+> END STRING
+
+> BEGIN STRING
+Senia's lucky charm from Magaleta.
+> CONTEXT: Armors/46/description/
+> CONTEXT: Armorspl/46/description/
+Szczęśliwy amulet Senii, który otrzymała od Magalety.
+> END STRING
+
+> BEGIN STRING
+Health Ring
+> CONTEXT: Armors/47/name/
+> CONTEXT: Armorspl/47/name/
+Pierścień Zdrowia
+> END STRING
+
+> BEGIN STRING
+HP + 20
+
+> CONTEXT: Armors/47/description/ < UNTRANSLATED
+> CONTEXT: Armorspl/47/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Health Neckless
+> CONTEXT: Armors/48/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/48/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HP + 50
+
+> CONTEXT: Armors/48/description/ < UNTRANSLATED
+> CONTEXT: Armorspl/48/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magic Bracelet
+> CONTEXT: Armors/49/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/49/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MP + 20
+
+> CONTEXT: Armors/49/description/ < UNTRANSLATED
+> CONTEXT: Armorspl/49/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magic Badge
+> CONTEXT: Armors/50/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/50/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MP + 50
+
+> CONTEXT: Armors/50/description/ < UNTRANSLATED
+> CONTEXT: Armorspl/50/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Healing Ribbon
+> CONTEXT: Armors/51/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/51/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HP regenerates twice as fast.
+> CONTEXT: Armors/51/description/ < UNTRANSLATED
+> CONTEXT: Armorspl/51/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magic Hat
+> CONTEXT: Armors/52/name/
+> CONTEXT: Armorspl/52/name/
+Magiczny Kapelusz
+> END STRING
+
+> BEGIN STRING
+MP regenerates twice as fast.
+> CONTEXT: Armors/52/description/ < UNTRANSLATED
+> CONTEXT: Armorspl/52/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Master Badge
+> CONTEXT: Armors/53/name/ < UNTRANSLATED
+> CONTEXT: Armorspl/53/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Restores twice as much MP
+when normal attack hits.
+> CONTEXT: Armors/53/description/ < UNTRANSLATED
+> CONTEXT: Armorspl/53/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Violet Crystal Armor
+> CONTEXT: Armors/55/name/
+> CONTEXT: Armors/56/name/
+> CONTEXT: Armorspl/56/name/
+Fiolet. Kryształ. Zbroja
+> END STRING
+
+> BEGIN STRING
+Armor made of violet crystal.
+> CONTEXT: Armors/55/description/
+> CONTEXT: Armorspl/55/description/
+Zbroja wykonana z fioletowego kryształu.
+> END STRING
+
+> BEGIN STRING
+Armor made of violet crystal.
+HP + 50、MP + 30
+> CONTEXT: Armors/56/description/
+> CONTEXT: Armorspl/56/description/
+Zbroja wykonana z fioletowego kryształu.
+HP + 50、MP + 30
+> END STRING

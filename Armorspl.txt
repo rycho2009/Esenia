@@ -1,0 +1,6 @@
+﻿> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Fioletowa kryształowa Zbroja
+> CONTEXT: Armorspl/55/name/ < UNTRANSLATED
+
+> END STRING

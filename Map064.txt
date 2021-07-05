@@ -1,0 +1,78 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Jungle
+> CONTEXT: Map064/display_name/
+> CONTEXT: Map063/display_name/
+> CONTEXT: Map008/display_name/
+> CONTEXT: Map006/display_name/
+> CONTEXT: Commonevents/74/13/Choice/2
+Dżungla
+> END STRING
+
+> BEGIN STRING
+Bridge partially restored.
+> CONTEXT: Map064/events/15/pages/0/14/Dialogue
+Część mostu odbudowana.
+> END STRING
+
+> BEGIN STRING
+Senia
+"Bridge is cut off...
+Perhaps I can fix it with some
+ fine wood?"
+> CONTEXT: Map064/events/15/pages/0/18/Dialogue
+Senia
+"Most jest zerwany...
+ Być może uda mi się go
+ naprawić jakimś drewnem?"
+> END STRING
+
+> BEGIN STRING
+"get wood"
+> CONTEXT: Map064/events/17/pages/5/0/InlineScript/1:18
+> CONTEXT: Map064/events/23/pages/5/0/InlineScript/1:18
+"Zdobyto drewno"
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「！」
+> CONTEXT: Map064/events/20/pages/0/4/Dialogue
+> CONTEXT: Map064/events/105/pages/0/4/Dialogue
+> CONTEXT: Map033/events/35/pages/1/44/Dialogue
+Senia
+"!"
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「瑪嘉雷特姊姊！」
+> CONTEXT: Map064/events/20/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/105/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「等等我！」
+> CONTEXT: Map064/events/20/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/105/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Bridge fully restored.
+> CONTEXT: Map064/events/21/pages/0/15/Dialogue
+Most odbudowany.
+> END STRING
+
+> BEGIN STRING
+Senia
+"Bridge is cut off...
+Perhaps I can fix it with some fine wood?"
+> CONTEXT: Map064/events/21/pages/0/19/Dialogue
+Senia
+"Most dalej jest niekompletny...
+ Być może uda mi się go
+ naprawić jakimś drewnem?"
+> END STRING

@@ -1,0 +1,191 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"Nia..."
+> CONTEXT: Map144/events/2/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I... failed to bring sister back
+ with me..."
+> CONTEXT: Map144/events/2/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"There were so much I wanted
+ to tell her..."
+> CONTEXT: Map144/events/2/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It took so much effort to
+ finally met her..."
+> CONTEXT: Map144/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"But I lost her again...
+ at the end..."
+> CONTEXT: Map144/events/2/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Do not worry though!
+ \\|I have not given up yet!"
+> CONTEXT: Map144/events/2/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis must be waiting for me
+ somewhere..."
+> CONTEXT: Map144/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"This time, I will do it right!"
+> CONTEXT: Map144/events/2/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"We will definitely meet again."
+> CONTEXT: Map144/events/2/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「這次…\\|無論如何…」
+> CONTEXT: Map144/events/2/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+
+　　　　都要對姐姐傳達我想說的話
+> CONTEXT: Map144/events/2/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"This time...
+ I will tell sis everything
+ I wanted to say to her..."
+> CONTEXT: Map144/events/2/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+... ...
+> CONTEXT: Map144/events/2/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+There are so much to talk about.
+> CONTEXT: Map144/events/2/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I also want to hear sis talk more about herself.
+> CONTEXT: Map144/events/2/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Actually,
+I know sis too well.
+> CONTEXT: Map144/events/2/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I am sure she would not want me to do this again...
+> CONTEXT: Map144/events/2/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+It is definitely not her wish
+for me to risk everything for her rescue.
+> CONTEXT: Map144/events/2/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+However...
+> CONTEXT: Map144/events/2/pages/0/74/Dialogue
+> CONTEXT: Map002/events/1/pages/0/59/Dialogue
+Jednakże...
+> END STRING
+
+> BEGIN STRING
+I do not care how long it will take.
+> CONTEXT: Map144/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Even if I have to compromise with the power of eternity.
+> CONTEXT: Map144/events/2/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Even if I will end up with a sorrow face of sis.
+> CONTEXT: Map144/events/2/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I am not stopping.
+> CONTEXT: Map144/events/2/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+This time...\\|I will protect sis Magaleta.
+> CONTEXT: Map144/events/2/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Congratulations!
+You have completed Eternal Senia. Please help us
+fill the questionnaire for the code to enter Bonus Room.
+http://goo.gl/Lav2RV
+> CONTEXT: Map144/events/2/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+If you liked the game,
+please help us spread the word out.
+> CONTEXT: Map144/events/2/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+You are more than welcomed to stream this game.
+There is no better support than showing your gameplay!
+                                                                          Holy Priest
+> CONTEXT: Map144/events/2/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING

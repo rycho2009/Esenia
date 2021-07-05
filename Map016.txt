@@ -1,0 +1,711 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Evil Flower
+> CONTEXT: Map016/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"The weakest monster in the Forest of the Fairies."
+> CONTEXT: Map016/events/1/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Though the weakest, it takes
+ 3 hits to kill with level 1 Senia.
+> CONTEXT: Map016/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Evil Flower presents a noticeable difference
+between levels."
+> CONTEXT: Map016/events/1/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Once you leveled up or acquired
+the first skill, you can finish the Evil Flower
+in 2 normal hits or 1 skill shot instead."
+> CONTEXT: Map016/events/1/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"On the first version Evil Flower is actually doing a
+ decent amount of damage, which is later weakened
+ in beta version."
+> CONTEXT: Map016/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Elf
+> CONTEXT: Map016/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"The first ranged monster."
+> CONTEXT: Map016/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"It took me 3 days to create this monster."
+> CONTEXT: Map016/events/2/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"And countless time after to fine tune it."
+> CONTEXT: Map016/events/2/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"The complexity of ranged attack is beyond
+ my expectation."
+> CONTEXT: Map016/events/2/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"To make matters worse, putting multiple ranged
+ monsters in the same screen further adds to the trouble."
+> CONTEXT: Map016/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Though it gave me a hard time, I really like
+ the fact that Phantom Strike can deflect the arrow effect."
+> CONTEXT: Map016/events/2/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+請先完成墮落聖堂的所有事件再來吧！
+> CONTEXT: Map016/events/3/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sunny Mushroom
+> CONTEXT: Map016/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"A juicy, bouncy mushroom."
+> CONTEXT: Map016/events/4/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Because it looks so bouncy,
+ I had to give it the knock back attribute."
+> CONTEXT: Map016/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Rather than calling it knock back,
+ it is more like bounced back :P"
+> CONTEXT: Map016/events/4/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"If you have not yet noticed, there is a sound effect
+ when Senia is bounced back."
+> CONTEXT: Map016/events/4/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Entering the "Speed Run" mini game.
+> CONTEXT: Map016/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+enter
+> CONTEXT: Map016/events/5/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+later
+> CONTEXT: Map016/events/5/pages/0/3/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Speed Run can only be played once.
+> CONTEXT: Map016/events/5/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Welcome to the Bonus Room.
+ Feel free to look around."
+> CONTEXT: Map016/events/6/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/7/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/8/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"If you liked  the game,
+ please post  some comments
+ or discussion.  Much appreciated!"
+> CONTEXT: Map016/events/6/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/7/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/8/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Timberwolf
+> CONTEXT: Map016/events/10/pages/0/1/Dialogue
+Wilk Górski
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"When working on this monster, I started to notice
+ that some monster can use a scream sound when taking hits."
+> CONTEXT: Map016/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"So I picked a unique sound effect for Timberwolf.
+ It is a dog whining sound :P"
+> CONTEXT: Map016/events/10/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"It is all these little details that build up
+ the battle atmosphere."
+> CONTEXT: Map016/events/10/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+請先通過惡魔領域再來吧！
+> CONTEXT: Map016/events/11/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nun
+> CONTEXT: Map016/events/12/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"A cute little monster."
+> CONTEXT: Map016/events/12/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"To be honest, I am addicted to the sacred stuff."
+> CONTEXT: Map016/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Like churches, cross, nun... etc.
+ Just have to use them anyway possible."
+> CONTEXT: Map016/events/12/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Thus Fallen Sanctum is also the stage that I
+ spent the most effort on building."
+> CONTEXT: Map016/events/12/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"There is nothing more important than love and euthusiasm
+ when it comes to game development :P"
+> CONTEXT: Map016/events/12/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Ghost
+> CONTEXT: Map016/events/13/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Explodes on contact."
+> CONTEXT: Map016/events/13/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"But an easy target to defeat if you use
+ Fairy Attack."
+> CONTEXT: Map016/events/13/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Every stage has monster designed to maxmize the use
+ of new learned skills."
+> CONTEXT: Map016/events/13/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"By doing so, I hope every skill can be found useful.
+ Hope you all find the skills fun and helpful."
+> CONTEXT: Map016/events/13/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Spell Caster
+> CONTEXT: Map016/events/14/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Lighting spell caster.
+ Always aim at Senia's location."
+> CONTEXT: Map016/events/14/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"This lightning spell turns out to be very useful.
+ It later derives into many other monster spells."
+> CONTEXT: Map016/events/14/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"I personally am satisfied with lightning's effect
+ and performance in game."
+> CONTEXT: Map016/events/14/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Are you proud of yourself after dodging so
+ many lightning hits in game?"
+> CONTEXT: Map016/events/14/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+speed run mini game
+> CONTEXT: Map016/events/15/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+> CONTEXT: Map016/events/16/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"An outgoing fairy that provides positive and
+ fun dialogues  as well as serving as a guide
+ to the Tower."
+> CONTEXT: Map016/events/16/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"You will hear the basics of the Tower
+and system tutorial from her. Such as Eternity
+and crafting system."
+> CONTEXT: Map016/events/16/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"I also heard that players liked her a lot more
+ once they get to throw her using Fairy Strike.
+Is that true?"
+> CONTEXT: Map016/events/16/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Hey! No more tossing fairies around!"
+> CONTEXT: Map016/events/16/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Leave Bonus Room now?
+> CONTEXT: Map016/events/19/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Welcome to the Bonus Room."
+> CONTEXT: Map016/events/20/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"I am Holy Priest,  author of Eternal Senia."
+> CONTEXT: Map016/events/20/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Thank you very much for taking the time and
+ complete the questionnaire."
+> CONTEXT: Map016/events/20/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Eternal Senia is the first game
+ that I independently developed."
+> CONTEXT: Map016/events/20/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"With the enthusiasm and love for gaming,
+ I took on all the tasks on building this game.
+> CONTEXT: Map016/events/20/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Including design, coding, script...
+ everything you see in the game."
+> CONTEXT: Map016/events/20/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"I wonder if you all tried the beta version.
+ The version when UI and Artwork
+ were not drew by professionals."
+> CONTEXT: Map016/events/20/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Eternal Senia is like a child of mine."
+> CONTEXT: Map016/events/20/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"So whether you liked the game or not,
+ I sincerely thank you for playing Eternal Senia."
+> CONTEXT: Map016/events/20/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"This Bonus Room contains my thoughts
+ and notes during the development."
+> CONTEXT: Map016/events/20/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Including the battle system design,
+character backgrounds, storyline,
+monsters... etc."
+> CONTEXT: Map016/events/20/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"If you are interested,
+ please investigate the bookshelf."
+> CONTEXT: Map016/events/20/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Last but not least.
+If you liked the game, please post comments or discussions.
+Much appreciated!"
+> CONTEXT: Map016/events/20/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Battle System
+> CONTEXT: Map016/events/23/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Eternal Senia uses a battle system I developed."
+> CONTEXT: Map016/events/23/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Since ARPG is my favorite game genre,
+ I have decided from the very first to make an ARPG game."
+> CONTEXT: Map016/events/23/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"The concept is to create a game that anyone can enjoy.
+ Even those who are not good at playing video games."
+> CONTEXT: Map016/events/23/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"So easiness is the important element when drawing
+ up the system, as well as the smooth control and
+ hit feedback."
+> CONTEXT: Map016/events/23/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Control should react true to the input, and easy to master,
+ while the hit feedback should remain noticeable."
+> CONTEXT: Map016/events/23/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"To create the hit effect, I spent a really long time picking
+ and fine tuning the sound effect."
+> CONTEXT: Map016/events/23/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"From Senia's sword swing sound, monster's hit sound,
+to death sound effect... etc."
+> CONTEXT: Map016/events/23/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"It is all for maxmizing the fun from this
+ easy yet interesting battle control."
+> CONTEXT: Map016/events/23/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Please let me know if you enjoyed the
+ battle system of Eternal Senia."
+> CONTEXT: Map016/events/23/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Senia is a fragile teenager that lacks self confidence."
+> CONTEXT: Map016/events/24/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"However, because of her faith to save sister Magaleta,
+ Senia tried really hard to overcome many scary monsters
+ and powers."
+> CONTEXT: Map016/events/24/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Watching Senia work hard and struggle even
+ gave me the strength to go through my lows."
+> CONTEXT: Map016/events/24/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Not even the Demon that gave her trauma can stop her.
+Even if she is attacked by her beloved sister,
+Senia never stopped marching forward."
+> CONTEXT: Map016/events/24/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"She is a character that I enjoyed very much building.
+ I hope you all liked her like I did."
+> CONTEXT: Map016/events/24/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"The kind and nice big sister who
+ is a priest of the sacred sanctum."
+> CONTEXT: Map016/events/25/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"The most important person to Senia."
+> CONTEXT: Map016/events/25/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Magaleta presents a warm smile to everyone.
+ But to the contrary, she is deeply negative inside."
+> CONTEXT: Map016/events/25/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"She has been blaming herself ever since
+ she believed that she failed to save Nia."
+> CONTEXT: Map016/events/25/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"She has been struggling when taking care
+ of Senia."
+> CONTEXT: Map016/events/25/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Deep in her heart she knows Senia is not
+ a replacement of Nia. But she cannot stop
+ herself treating Senia like her real sister."
+> CONTEXT: Map016/events/25/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Magaleta wanted to cure Senia so bad, she did not realize...
+ That Magaleta herself is the one that needed salvation."
+> CONTEXT: Map016/events/25/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Cherub
+> CONTEXT: Map016/events/28/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"A monster in Holy Chambner.
+ It has an AOE attack that wipe across the screen."
+> CONTEXT: Map016/events/28/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"There is no red warning boxes beforehand
+so it might catch many people off guard."
+> CONTEXT: Map016/events/28/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"BTW, the puzzle in Holy Chamber is from
+Legend of Mana on Playstation."
+> CONTEXT: Map016/events/28/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Pearl the Jumi and other Jumi's plot
+ is very touching and hard to forget.
+ You should try it youself."
+> CONTEXT: Map016/events/28/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING

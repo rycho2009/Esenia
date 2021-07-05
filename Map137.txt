@@ -1,0 +1,338 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Demon Frontier - BOSS
+> CONTEXT: Map137/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Hmm? A human made it this far?"
+> CONTEXT: Map137/events/6/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"I was not expecting those 3 to be taken out
+ by a human. You did well."
+> CONTEXT: Map137/events/6/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Human! What is your name?"
+> CONTEXT: Map137/events/6/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Me!?"
+> CONTEXT: Map137/events/6/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Yes, you! Give me your name!"
+> CONTEXT: Map137/events/6/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Senia..."
+> CONTEXT: Map137/events/6/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Good, Senia! You have proven your strength!"
+> CONTEXT: Map137/events/6/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"I can grant you a wish!"
+> CONTEXT: Map137/events/6/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"With your wish granted, you will become my servant!"
+> CONTEXT: Map137/events/6/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Whaaaat?"
+> CONTEXT: Map137/events/6/pages/0/61/Dialogue
+Senia
+"Coooo?"
+> END STRING
+
+> BEGIN STRING
+Senia
+(I am not following his logic...)
+> CONTEXT: Map137/events/6/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Out with your wish now! Become my servant and
+ invade the Forest of the Fairies we go!"
+> CONTEXT: Map137/events/6/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Invade
+ the Forest of the Fairies!!?)
+> CONTEXT: Map137/events/6/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"NO!"
+> CONTEXT: Map137/events/6/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"How rude? Do you have any idea who are you speaking to?"
+> CONTEXT: Map137/events/6/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(The atmosphere changed...)
+> CONTEXT: Map137/events/6/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(He is scary... but...)
+> CONTEXT: Map137/events/6/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Forest of the Fairies is the place
+ Malphiq spent all she has to
+ protect...)
+> CONTEXT: Map137/events/6/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(It is the place guarded
+ by such a kind person.)
+> CONTEXT: Map137/events/6/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"After all..."
+> CONTEXT: Map137/events/6/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Stupid human!"
+> CONTEXT: Map137/events/6/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am not going to let you
+ attack the Forest of the Fairies!"
+> CONTEXT: Map137/events/6/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Hahahaha-"
+> CONTEXT: Map137/events/6/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Wahahahaha--"
+> CONTEXT: Map137/events/6/pages/0/113/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Let me see you try!"
+> CONTEXT: Map137/events/6/pages/0/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I, I have won..."
+> CONTEXT: Map137/events/47/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Really? You think that was all I have got?"
+> CONTEXT: Map137/events/47/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Are you ready for round 2?"
+> CONTEXT: Map137/events/47/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Eternity..."
+> CONTEXT: Map137/events/47/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Lend me your limitless power!"
+> CONTEXT: Map137/events/47/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+"Ooooooooh!"
+> CONTEXT: Map137/events/47/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lord of Fear
+"I shall show you the real power of eternity!"
+> CONTEXT: Map137/events/47/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Quivers with fear.)
+> CONTEXT: Map137/events/47/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(No...)
+> CONTEXT: Map137/events/47/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Stop...
+ don't make me recall it now...)
+> CONTEXT: Map137/events/47/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lord of Fear
+"Hahahaha--"
+> CONTEXT: Map137/events/47/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lord of Fear
+"It ends right here!"
+> CONTEXT: Map137/events/47/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Stop... go away!"
+> CONTEXT: Map137/events/47/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Lord of Fear
+"Wha--eh-AHHH--"
+> CONTEXT: Map137/events/47/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta, is it really you...?"
+> CONTEXT: Map137/events/47/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta,
+ what are you doing!?"
+> CONTEXT: Map137/events/47/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(She is... absorbing eternity?)
+> CONTEXT: Map137/events/47/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I have to stop her!)
+> CONTEXT: Map137/events/47/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Stop!"
+> CONTEXT: Map137/events/47/pages/0/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Argh!"
+> CONTEXT: Map137/events/47/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Waaaah!"
+> CONTEXT: Map137/events/47/pages/0/143/Dialogue < UNTRANSLATED
+
+> END STRING

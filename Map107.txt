@@ -1,0 +1,74 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Inner Forest
+> CONTEXT: Map107/display_name/
+> CONTEXT: Map065/display_name/
+> CONTEXT: Map007/display_name/
+> CONTEXT: Commonevents/74/41/Choice/0
+Wnętrze Lasu
+> END STRING
+
+> BEGIN STRING
+Senia
+(A group of monsters.)
+> CONTEXT: Map107/events/11/pages/0/15/Dialogue
+Senia
+(Grupa potworów.)
+> END STRING
+
+> BEGIN STRING
+Senia
+(Not a big deal. I've got a move
+  just for this!)
+> CONTEXT: Map107/events/11/pages/0/18/Dialogue
+Senia
+(Nic wielkiego.
+ Mam ruch specjalnie na to!).
+> END STRING
+
+> BEGIN STRING
+New skill "Splash Leap" learned!
+
+\\c[6]Effect: leaps forward and does area damage.
+> CONTEXT: Map107/events/11/pages/1/9/Dialogue
+Nowa umiejętność "Rozpryskowy Naskok" poznana!
+
+\\c[6]Efekt: skacze do przodu i zadaje
+obrażenia obszarowe.
+> END STRING
+
+> BEGIN STRING
+Senia
+(Got them.)
+> CONTEXT: Map107/events/11/pages/1/14/Dialogue
+Senia
+(Mam ich.)
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"What a move!
+ You took out all the monsters in 1 hit!"
+> CONTEXT: Map107/events/11/pages/1/17/Dialogue
+Little Fairy
+"Co za ruch!
+ Zdjełaś wszystkie potwory 1 atakiem!"
+> END STRING
+
+> BEGIN STRING
+Senia
+"There is nothing to it..."
+> CONTEXT: Map107/events/11/pages/1/21/Dialogue
+Senia
+"To nic takiego..."
+> END STRING
+
+> BEGIN STRING
+Senia
+(Stronger... I have to become
+ stronger and stronger.)
+> CONTEXT: Map107/events/11/pages/1/24/Dialogue
+Senia
+(Silniejsza... Muszę stać się
+ silniejsza i silniejsza.)
+> END STRING

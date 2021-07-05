@@ -1,0 +1,25 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Forest of the Fairies - Inner waypoint activated.
+> CONTEXT: Map007/events/4/pages/0/2/Dialogue
+Las Wróżek (wnętrze) - punkt aktywowany.
+> END STRING
+
+> BEGIN STRING
+Arcane Realm
+This is the waypoint to Arcane Realm
+> CONTEXT: Map007/events/10/pages/0/0/Dialogue
+Kraina Magii
+To jest punkt dostępu do Krainy Magii
+> END STRING
+
+> BEGIN STRING
+Arcane Realm
+Arcane Realm is filled with monsters and materials,
+a great place to level up or farm for crafting.
+> CONTEXT: Map007/events/10/pages/0/3/Dialogue
+Kraina Magii
+Kraina Magii jest wypełniona potworami i materiałami,
+to świetne miejsce do zdobywania poziomów oraz
+materiałów rzemieślniczych.
+> END STRING

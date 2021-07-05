@@ -1,0 +1,95 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"A forest?"
+> CONTEXT: Map004/events/8/pages/0/13/Dialogue
+Senia
+"Las?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Did I just got teleported out of
+ the Tower of Eternity?"
+> CONTEXT: Map004/events/8/pages/0/17/Dialogue
+Senia
+"Czy właśnie zostałam
+ teleportowana poza Wieżę
+ Wieczności?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"Anyway, let's take a look around
+ first."
+> CONTEXT: Map004/events/8/pages/0/24/Dialogue
+Senia
+"W każdym razie, najpierw się
+ rozejrzę."
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「好漂亮的花」
+> CONTEXT: Map004/events/94/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「這種花我記得叫做...」
+> CONTEXT: Map004/events/94/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「.............」
+> CONTEXT: Map004/events/94/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「想不起來了...」
+> CONTEXT: Map004/events/94/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「難得看到漂亮的花...好想拔一根帶走...」
+> CONTEXT: Map004/events/94/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+拔
+> CONTEXT: Map004/events/94/pages/0/15/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不拔
+> CONTEXT: Map004/events/94/pages/0/15/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+獲得了「未知名的花」
+> CONTEXT: Map004/events/94/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「......（好捨不得）」
+> CONTEXT: Map004/events/94/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+漂亮的花
+> CONTEXT: Map004/events/94/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING

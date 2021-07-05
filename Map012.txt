@@ -1,0 +1,513 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Boss
+> CONTEXT: Map012/display_name/ < UNTRANSLATED
+> CONTEXT: Commonevents/74/41/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Queen Malphiq!"
+> CONTEXT: Map012/events/45/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Who... Who's calling my name?"
+> CONTEXT: Map012/events/45/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Leave here at once!!"
+> CONTEXT: Map012/events/45/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Oh no!
+Fairy Queen is about to be possessed
+ by \\C[6]eternity\\C[0]!"
+> CONTEXT: Map012/events/45/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"What should we do?"
+> CONTEXT: Map012/events/45/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"I... I don't know!"
+> CONTEXT: Map012/events/45/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"AHHHHH!!"
+> CONTEXT: Map012/events/45/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Let's just stop her first!"
+> CONTEXT: Map012/events/45/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Um... What... happened?"
+> CONTEXT: Map012/events/73/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I have stopped her...)
+> CONTEXT: Map012/events/73/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Argh!!)
+> CONTEXT: Map012/events/73/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(This... this again!!)
+> CONTEXT: Map012/events/73/pages/2/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"!"
+> CONTEXT: Map012/events/73/pages/2/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It suddenly stopped this time?"
+> CONTEXT: Map012/events/73/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Are you ok, human girl?"
+> CONTEXT: Map012/events/73/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I... I am fine."
+> CONTEXT: Map012/events/73/pages/2/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(This is the first time I have had
+ a chance to peacefully chat
+ with the Fairy Queen.)
+> CONTEXT: Map012/events/73/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Semia
+(The Queen is indeed
+ a fascinating person.)
+> CONTEXT: Map012/events/73/pages/2/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Man...
+ I am having goosebumps now...)
+> CONTEXT: Map012/events/73/pages/2/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Your majesty! Is everything well?"
+> CONTEXT: Map012/events/73/pages/2/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Right, my condition seemed to be fine."
+> CONTEXT: Map012/events/73/pages/2/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Phew... that is great to hear!"
+> CONTEXT: Map012/events/73/pages/2/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"..."
+> CONTEXT: Map012/events/73/pages/2/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Hmm? Why is she staring at
+ me?)
+> CONTEXT: Map012/events/73/pages/2/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Human girl, what is your name?"
+> CONTEXT: Map012/events/73/pages/2/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"...Senia"
+> CONTEXT: Map012/events/73/pages/2/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Senia, I sense two special powers in you..."
+> CONTEXT: Map012/events/73/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"One of them is a curse."
+> CONTEXT: Map012/events/73/pages/2/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(A curse! So that is why...?)
+> CONTEXT: Map012/events/73/pages/2/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"You do not seem surprised."
+> CONTEXT: Map012/events/73/pages/2/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"I have weakened your curse. It probably will not
+haunt you again any time soon, but it is just
+an emergency treatment."
+> CONTEXT: Map012/events/73/pages/2/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"...I understand."
+> CONTEXT: Map012/events/73/pages/2/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Your majesty! Isn't it better if you stop
+ using your power under this condition?"
+> CONTEXT: Map012/events/73/pages/2/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"It is the least I can do for her.
+ I can still handle this."
+> CONTEXT: Map012/events/73/pages/2/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Your majesty..."
+> CONTEXT: Map012/events/73/pages/2/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"This mess must have concerned you all."
+> CONTEXT: Map012/events/73/pages/2/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Losing oneself, or even destroying
+ important things or loved ones..."
+> CONTEXT: Map012/events/73/pages/2/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"This is the final for those who were
+ possessed by eternity."
+> CONTEXT: Map012/events/73/pages/2/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Senia, I must thank you for saving me."
+> CONTEXT: Map012/events/73/pages/2/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Keep your chin up. The Forest of the Fairies would have
+been destroyed by me if it weren't for you."
+> CONTEXT: Map012/events/73/pages/2/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Yes, ma'am!'
+> CONTEXT: Map012/events/73/pages/2/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Your majesty, why did you seek for eternity?
+ You know very well of the potential
+ danger of eternity."
+> CONTEXT: Map012/events/73/pages/2/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"I do not have much time left..."
+> CONTEXT: Map012/events/73/pages/2/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"The forest will be left unguarded once I am gone.
+ I pray to eternity to have myself staying as
+ the guardian of the forest."
+> CONTEXT: Map012/events/73/pages/2/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Your majesty..."
+> CONTEXT: Map012/events/73/pages/2/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I think..."
+> CONTEXT: Map012/events/73/pages/2/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"?"
+> CONTEXT: Map012/events/73/pages/2/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I think it is not right to give
+ in to eternity."
+> CONTEXT: Map012/events/73/pages/2/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Everyone who cares about you
+ would definitely not want to
+ lose you to eternity."
+> CONTEXT: Map012/events/73/pages/2/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"That's right! As long as we unite together
+ we will come out with some solution without
+ sacrificing anyone to eternity!"
+> CONTEXT: Map012/events/73/pages/2/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"... I heard you."
+> CONTEXT: Map012/events/73/pages/2/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"And...You said
+ there are two powers within me,
+ so what is the other one?"
+> CONTEXT: Map012/events/73/pages/2/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"\\c[6]The power to absorb eternity.\\c[0]"
+> CONTEXT: Map012/events/73/pages/2/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"!!!!"
+> CONTEXT: Map012/events/73/pages/2/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"I am not sure how you possess such power,
+but it absorbed the eternity off me and thus
+I regained my consciousness."
+> CONTEXT: Map012/events/73/pages/2/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Your majesty, have you seen Senia's sister?"
+> CONTEXT: Map012/events/73/pages/2/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"I did see a blonde human female went to the upper levels."
+> CONTEXT: Map012/events/73/pages/2/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"In red priest uniform?"
+> CONTEXT: Map012/events/73/pages/2/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"I am not sure about the priest uniform
+ but she was indeed dressed in red."
+> CONTEXT: Map012/events/73/pages/2/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(It must be sis!)
+> CONTEXT: Map012/events/73/pages/2/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"How do I go to the upper levels?"
+> CONTEXT: Map012/events/73/pages/2/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Are you sure about this? The upper level
+ is the Demon Frontier."
+> CONTEXT: Map012/events/73/pages/2/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"...I am going!"
+> CONTEXT: Map012/events/73/pages/2/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"I will go with her!"
+> CONTEXT: Map012/events/73/pages/2/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"If that is your wish, I will send you both to
+the passage leading upwards."
+> CONTEXT: Map012/events/73/pages/2/221/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Thank you!"
+> CONTEXT: Map012/events/73/pages/2/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fairy Queen
+"Good luck on your journey."
+> CONTEXT: Map012/events/73/pages/2/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Take care!"
+> CONTEXT: Map012/events/73/pages/2/231/Dialogue < UNTRANSLATED
+
+> END STRING

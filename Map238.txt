@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Tower of Eternity
+> CONTEXT: Map238/display_name/
+> CONTEXT: Map151/display_name/
+> CONTEXT: Map149/display_name/
+> CONTEXT: Map026/display_name/
+> CONTEXT: Map025/display_name/
+> CONTEXT: Map024/display_name/
+> CONTEXT: Map023/display_name/
+> CONTEXT: Map152/display_name/
+Wieża Wieczności
+> END STRING

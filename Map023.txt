@@ -1,0 +1,50 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Acquired\\i[442] Warrior Armor.
+> CONTEXT: Map023/events/9/pages/1/10/Dialogue
+Otrzymano\\i[442] Zbroję Wojownika.
+> END STRING
+
+> BEGIN STRING
+Equipment Menu
+
+\\C[6]Enter, Z, or Space: Confirm
+Esc or X: Cancel \\C[0]
+> CONTEXT: Map023/events/9/pages/1/12/Dialogue
+Menu Ekwipunku
+
+\\C[6]Enter, Z, lub Spacja: Zatwierdź
+Esc lub X: Anuluj \\C[0]
+> END STRING
+
+> BEGIN STRING
+Equipment Menu enabled.
+
+\\C[6] Press "Esc" to bring up menu and select "Equipment."\\C[0]
+> CONTEXT: Map023/events/9/pages/1/18/Dialogue
+Menu Ekwipunku odblokowane.
+
+\\C[6] Wciśnij "Esc" by wywołać menu i wybierz "Equipment."\\C[0]
+> END STRING
+
+> BEGIN STRING
+Press the red button to open!
+> CONTEXT: Map023/events/10/pages/0/3/Dialogue
+Wciśnij czerwony guzik by otworzyć!
+> END STRING
+
+> BEGIN STRING
+從門的後方感覺到危險，先穿上防具再前進吧。
+> CONTEXT: Map023/events/12/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[Goddess Statue]
+Fully restores HP and MP.
+Also serves as save points.
+> CONTEXT: Map023/events/19/pages/0/8/Dialogue
+[Posąg Bogini]
+Całkowicie przywraca HP i MP.
+Służy również jako punkt zapisu.
+> END STRING

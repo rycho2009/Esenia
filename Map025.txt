@@ -1,0 +1,79 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Acquired\\I[176]"Health Ring"
+> CONTEXT: Map025/events/8/pages/0/7/Dialogue
+Otrzymano\\I[176]"Pierścień Zdrowia"
+> END STRING
+
+> BEGIN STRING
+尚未啟動按鈕！
+> CONTEXT: None < UNUSED
+
+> END STRING
+
+> BEGIN STRING
+前往精靈合成池
+> CONTEXT: Map025/events/17/pages/0/8/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+樓層傳送
+> CONTEXT: Map025/events/17/pages/0/8/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+繼續前進的話將進行頭目戰
+> CONTEXT: Map025/events/19/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+前進
+> CONTEXT: Map025/events/19/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+再準備一下
+> CONTEXT: Map025/events/19/pages/0/3/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+先到女神像前恢復HP吧
+> CONTEXT: Map025/events/19/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+In the next room is the boss fight.
+(It is recommended to save before entering.)
+> CONTEXT: Map025/events/20/pages/0/2/Dialogue
+W następnym pokoju będzie walka z Bossem.
+(Zalecane jest wykonanie zapisu przed wejściem.)
+> END STRING
+
+> BEGIN STRING
+Senia
+"I have a bad feeling about this...
+  I should probably pray at the
+ goddess statue first."
+> CONTEXT: Map025/events/20/pages/0/23/Dialogue
+"Mam odnośnie tego złe przeczucia...
+ Myślę, że najpierw powinnam
+ pomodlić się przy Posągu Bogini."
+> END STRING
+
+> BEGIN STRING
+Acquired\\I[455]Warrior Cape
+> CONTEXT: Map025/events/31/pages/0/7/Dialogue
+Otrzymano\\I[455]Płaszcz Wojownika
+> END STRING
+
+> BEGIN STRING
+Przełącznik nie został aktywowany!
+> CONTEXT: Map025/events/10/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING

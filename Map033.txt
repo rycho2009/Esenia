@@ -1,0 +1,399 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"Magaleta... sis."
+> CONTEXT: Map033/events/35/pages/0/33/Dialogue
+Senia
+"Magaleta... siostrzyczko."
+> END STRING
+
+> BEGIN STRING
+Senia
+"I... um..."
+> CONTEXT: Map033/events/35/pages/0/36/Dialogue
+Senia
+"Ja... um..."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, show me your hands."
+> CONTEXT: Map033/events/35/pages/0/39/Dialogue
+Magaleta
+"Nia, pokaż mi swoje ręce."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why?"
+> CONTEXT: Map033/events/35/pages/0/42/Dialogue
+Senia
+"Dlaczego?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Just give me your hands."
+> CONTEXT: Map033/events/35/pages/0/45/Dialogue
+Magaleta
+"Po prostu daj mi twoją rękę."
+> END STRING
+
+> BEGIN STRING
+Senia
+"Okay...?"
+> CONTEXT: Map033/events/35/pages/0/48/Dialogue
+Senia
+"Okej...?"
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Look at all the cuts and scars. You must
+ have been secretly working on your sword
+ training again, right?"
+> CONTEXT: Map033/events/35/pages/0/58/Dialogue
+Magaleta
+"Spójrz na te wszystkie rozcięcia
+ i blizny. Musiałaś znów w sekrecie
+ trenować z twoim mieczem, prawda?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"But I..."
+> CONTEXT: Map033/events/35/pages/0/63/Dialogue
+> CONTEXT: Map033/events/35/pages/0/78/Dialogue
+> CONTEXT: Map012/events/73/pages/2/121/Dialogue
+Senia
+"Ale ja..."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"(Casting spell)"
+> CONTEXT: Map033/events/35/pages/0/66/Dialogue
+Magaleta
+"(Rzuca czar)"
+> END STRING
+
+> BEGIN STRING
+Senia
+"The pain... is gone..."
+> CONTEXT: Map033/events/35/pages/0/71/Dialogue
+Senia
+"Ból... ustąpił..."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"No more secret sword training
+ alright?"
+> CONTEXT: Map033/events/35/pages/0/74/Dialogue
+Magaleta
+"Koniec z treningami z mieczem
+ w sekrecie, w porządku?"
+> END STRING
+
+> BEGIN STRING
+Senia
+"If possible..."
+> CONTEXT: Map033/events/35/pages/0/84/Dialogue
+Senia
+"Jeśli to możliwe..."
+> END STRING
+
+> BEGIN STRING
+Senia
+(I would love to join sister on her
+ demon hunting mission.)
+> CONTEXT: Map033/events/35/pages/0/87/Dialogue
+Senia
+(Chciałabym dołączyć do siostry
+ w jej misjach polowania
+ na demony).
+> END STRING
+
+> BEGIN STRING
+Senia
+"No, nothing! Never mind."
+> CONTEXT: Map033/events/35/pages/0/94/Dialogue
+Senia
+"Nie, nic! Nie ważne."
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, wait!"
+> CONTEXT: Map033/events/35/pages/0/112/Dialogue
+Magaleta
+"Nia, zaczekaj!"
+> END STRING
+
+> BEGIN STRING
+I do not want to stay in the church alone,
+doing nothing but wait and pray that sis Magaleta will
+return safely.
+> CONTEXT: Map033/events/35/pages/0/119/Dialogue
+Nie chcę siedzieć sama w kościele, nie robiąc nic,
+poza czekaniem i wiarą, że siostra Magaleta
+wróci bezpiecznie.
+> END STRING
+
+> BEGIN STRING
+Objections will not stop me.
+I am not giving up.
+> CONTEXT: Map033/events/35/pages/0/123/Dialogue
+Sprzeciwy mnie nie powstrzymają.
+Nie poddam się.
+> END STRING
+
+> BEGIN STRING
+I sincerely hope...
+> CONTEXT: Map033/events/35/pages/0/126/Dialogue
+Mam szczerą nadzieję, że...
+> END STRING
+
+> BEGIN STRING
+That one day,
+I will be on the side of sis Magaleta.
+> CONTEXT: Map033/events/35/pages/0/128/Dialogue
+Pewnego dnia,
+będę stać u boku siostrzyczki Magalety.
+> END STRING
+
+> BEGIN STRING
+Not as someone that requires protection,
+but also a guardian...\\| for sis Magaleta.
+> CONTEXT: Map033/events/35/pages/0/131/Dialogue
+Nie jako ktoś, kto wymaga ochrony,
+ale także jako opiekun...\\| dla siostry Magalety.
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「妮亞。」
+> CONTEXT: Map033/events/35/pages/1/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「瑪、瑪嘉雷特姊姊……」
+> CONTEXT: Map033/events/35/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「那個…我……」
+> CONTEXT: Map033/events/35/pages/1/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「妮亞，把手伸出來。」
+> CONTEXT: Map033/events/35/pages/1/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「咦？」
+> CONTEXT: Map033/events/35/pages/1/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「來。」
+> CONTEXT: Map033/events/35/pages/1/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「嗯……？」
+> CONTEXT: Map033/events/35/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「痛！……」
+> CONTEXT: Map033/events/35/pages/1/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「手上都是傷，又偷跑去練劍了吧？」
+> CONTEXT: Map033/events/35/pages/1/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「(咒文)」
+> CONTEXT: Map033/events/35/pages/1/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「不痛了……」
+> CONTEXT: Map033/events/35/pages/1/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「不可以再偷偷跑去練劍了喔。」
+> CONTEXT: Map033/events/35/pages/1/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「可是……」
+> CONTEXT: Map033/events/35/pages/1/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「嗯？」
+> CONTEXT: Map033/events/35/pages/1/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「可以的話…」
+> CONTEXT: Map033/events/35/pages/1/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（我希望能夠陪姊姊一起去驅魔任務。）
+> CONTEXT: Map033/events/35/pages/1/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「妮亞？」
+> CONTEXT: Map033/events/35/pages/1/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「沒、沒事！」
+> CONTEXT: Map033/events/35/pages/1/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「妮亞！」
+> CONTEXT: Map033/events/35/pages/1/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「………」
+> CONTEXT: Map033/events/35/pages/1/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「這麼晚了，打算要去哪裡呢？」
+> CONTEXT: Map033/events/35/pages/2/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我…我要去練習劍術…」
+> CONTEXT: Map033/events/35/pages/2/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「可是已經這麼晚了…」
+> CONTEXT: Map033/events/35/pages/2/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「因為明天是…
+　要一起去執行驅魔任務的日子…」
+> CONTEXT: Map033/events/35/pages/2/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「為了能在任務中幫上姐姐的忙…
+　我必須讓自己更強才行…」
+> CONTEXT: Map033/events/35/pages/2/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「哪怕只是一點點也好…」
+> CONTEXT: Map033/events/35/pages/2/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「…我知道了」
+> CONTEXT: Map033/events/35/pages/2/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「不過…
+　記得要在晚飯時間之前回來，好嗎？」
+> CONTEXT: Map033/events/35/pages/2/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「…………」
+> CONTEXT: Map033/events/35/pages/2/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「這次…姐姐一定會保護妳的…」
+> CONTEXT: Map033/events/35/pages/2/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「絕對…
+　不會再讓妳受傷了…」
+> CONTEXT: Map033/events/35/pages/2/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「…\\C[6]妮雅\\C[0]」
+> CONTEXT: Map033/events/35/pages/2/94/Dialogue < UNTRANSLATED
+
+> END STRING

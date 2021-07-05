@@ -1,0 +1,11 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+　　　                    　       　   　~WRATH~
+                                   Your rage cannot be stopped.
+              Not until the sneaky hiding bastard is destroyed.
+
+> CONTEXT: Map095/events/1/pages/0/1/Dialogue
+                                     ~GNIEW~
+                Twoja wściekłość nie może być powstrzymana.
+Nie, dopóki ten podstępny, ukrywający się drań nie zostanie zniszczony.
+> END STRING
