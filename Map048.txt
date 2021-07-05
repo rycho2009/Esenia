@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"test"
+> CONTEXT: Map048/events/10/pages/5/2/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/146/4/InlineScript/1:18 < UNTRANSLATED
+
+> END STRING

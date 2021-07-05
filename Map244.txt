@@ -1,0 +1,28 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Sanctum Arcane Realm
+> CONTEXT: Map244/display_name/ < UNTRANSLATED
+> CONTEXT: Map245/display_name/ < UNTRANSLATED
+> CONTEXT: Map246/display_name/ < UNTRANSLATED
+> CONTEXT: Map243/display_name/ < UNTRANSLATED
+> CONTEXT: Map242/display_name/ < UNTRANSLATED
+> CONTEXT: Map241/display_name/ < UNTRANSLATED
+> CONTEXT: Map240/display_name/ < UNTRANSLATED
+> CONTEXT: Map215/display_name/ < UNTRANSLATED
+> CONTEXT: Map216/display_name/ < UNTRANSLATED
+> CONTEXT: Map214/display_name/ < UNTRANSLATED
+> CONTEXT: Map213/display_name/ < UNTRANSLATED
+> CONTEXT: Map211/display_name/ < UNTRANSLATED
+> CONTEXT: Map208/display_name/ < UNTRANSLATED
+> CONTEXT: Map209/display_name/ < UNTRANSLATED
+> CONTEXT: Map204/display_name/ < UNTRANSLATED
+> CONTEXT: Map200/display_name/ < UNTRANSLATED
+> CONTEXT: Map199/display_name/ < UNTRANSLATED
+> CONTEXT: Map175/display_name/ < UNTRANSLATED
+> CONTEXT: Map048/display_name/ < UNTRANSLATED
+> CONTEXT: Map047/display_name/ < UNTRANSLATED
+> CONTEXT: Map045/display_name/ < UNTRANSLATED
+> CONTEXT: Map046/display_name/ < UNTRANSLATED
+> CONTEXT: Commonevents/69/14/Choice/2 < UNTRANSLATED
+
+> END STRING

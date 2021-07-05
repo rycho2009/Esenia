@@ -1,0 +1,45 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+（這裡是…夢？）\\|\\|\\|\\^
+> CONTEXT: Map053/events/6/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（………………）\\|\\|\\|\\^
+> CONTEXT: Map053/events/6/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（感覺…\\|
+　好害怕…\\|好孤單…）\\|\\|\\|\\|\\^
+> CONTEXT: Map053/events/6/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（這個感覺…\\|
+　跟那天晚上一樣…）\\|\\|\\|\\|\\^
+> CONTEXT: Map053/events/6/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（下雨的夜晚…）\\|\\|\\|\\^
+> CONTEXT: Map053/events/6/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（這裡…是哪裡？）\\|\\|\\|\\|\\^
+> CONTEXT: Map053/events/6/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+（那是我…\\|
+　\\C[6]\\.最\\.重\\.要\\.的\\.回\\.憶\\.…\\C[0]\\.）\\|\\|\\|\\|\\^
+> CONTEXT: Map053/events/6/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING

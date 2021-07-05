@@ -1,0 +1,22 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"m16"
+> CONTEXT: Map022/events/1/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/1/pages/2/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/4/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/4/pages/2/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/5/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/5/pages/2/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/7/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/7/pages/2/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/16/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/16/pages/2/6/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"m00_knight"
+> CONTEXT: Map022/events/3/pages/0/6/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Map022/events/3/pages/2/6/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING

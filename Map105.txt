@@ -1,0 +1,481 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Nia
+"Cough* Cough*"
+> CONTEXT: Map105/events/10/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, are you not feeling well?"
+> CONTEXT: Map105/events/10/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"This temperature! A fever?"
+> CONTEXT: Map105/events/10/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"I am feeling sick..."
+> CONTEXT: Map105/events/10/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Lie down and get some rest. I will
+ go get the doctors now."
+> CONTEXT: Map105/events/10/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Nia doesn't like bitter medicine..."
+> CONTEXT: Map105/events/10/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Be a good girl, Nia. You cannot
+get better with taking the bitter medicine!"
+> CONTEXT: Map105/events/10/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Um..."
+> CONTEXT: Map105/events/10/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Lie down and get some rest first!"
+> CONTEXT: Map105/events/10/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Okay..."
+> CONTEXT: Map105/events/10/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia has always been a weak girl and is sick all the time.
+> CONTEXT: Map105/events/10/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fortunately, she has never been hit with any major illness.
+> CONTEXT: Map105/events/10/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But this time...
+> CONTEXT: Map105/events/10/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, I mean, how is my sister doing?"
+> CONTEXT: Map105/events/10/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"..."
+> CONTEXT: Map105/events/10/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"Would you mind to speak in private?"
+> CONTEXT: Map105/events/10/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I have never felt so insecured...
+> CONTEXT: Map105/events/10/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The insecurity gets worse and worse.
+It is like my heart is pumping it larger and larger.
+> CONTEXT: Map105/events/10/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+As the doctor goes on with his diagnosis...
+> CONTEXT: Map105/events/10/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+My insecurity turns to...
+> CONTEXT: Map105/events/10/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Desperation.
+> CONTEXT: Map105/events/10/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Sis, when am I going to be healthy again?"
+> CONTEXT: Map105/events/10/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It won't be long till Nia gets well.
+ I promise you to take you to
+ your favorite place once you get back up."
+> CONTEXT: Map105/events/10/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"OK!"
+> CONTEXT: Map105/events/10/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Painful lies.
+> CONTEXT: Map105/events/10/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Impracticable promises.
+> CONTEXT: Map105/events/10/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I have told them all...
+> CONTEXT: Map105/events/10/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+For at least I can still see her smile, for the last moments...
+> CONTEXT: Map105/events/10/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Sis..."
+> CONTEXT: Map105/events/10/pages/0/97/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/10/pages/0/204/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"I saw daddy and mommy in my dream."
+> CONTEXT: Map105/events/10/pages/0/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"It was a warm welcome from daddy and mommy there..."
+> CONTEXT: Map105/events/10/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"But... how come sis was not there? I looked everywhere!"
+> CONTEXT: Map105/events/10/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"I asked mommy. 'Sis does not belong here,' she said."
+> CONTEXT: Map105/events/10/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"..."
+> CONTEXT: Map105/events/10/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It is just a dream. Don't worry.
+ Sis won't leave you."
+> CONTEXT: Map105/events/10/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"OK..."
+> CONTEXT: Map105/events/10/pages/0/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia's condition is getting worse day by day.
+> CONTEXT: Map105/events/10/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+And that is when I heard the rumor.
+> CONTEXT: Map105/events/10/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+The rumor about the Tower of Eternity.
+> CONTEXT: Map105/events/10/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I want to go and seek out even the slimmest of
+opportunity to save Nia.
+> CONTEXT: Map105/events/10/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But neither do I want to leave Nia unattended.
+> CONTEXT: Map105/events/10/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Doctor, thanks for coming again."
+> CONTEXT: Map105/events/10/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"No problem at all. How is Nia doing?
+ Not that I can cure her illness,
+ but at least I can give her some pain reliever."
+> CONTEXT: Map105/events/10/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Doc, I have a favor to ask..."
+> CONTEXT: Map105/events/10/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"Yes?"
+> CONTEXT: Map105/events/10/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Can I ask you to take care of Nia
+ while I am gone?
+> CONTEXT: Map105/events/10/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"!?"
+> CONTEXT: Map105/events/10/pages/0/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am going... to the Tower of Eternity."
+> CONTEXT: Map105/events/10/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"Are you mad!!?"
+> CONTEXT: Map105/events/10/pages/0/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"What if you never make it home?
+Are you going to let Nia dying alone?"
+> CONTEXT: Map105/events/10/pages/0/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"But there is no other way to save her!"
+> CONTEXT: Map105/events/10/pages/0/173/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"Stop right there. I am not going to help you with this."
+> CONTEXT: Map105/events/10/pages/0/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"You should spend more time with her while you still can..."
+> CONTEXT: Map105/events/10/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Doctor
+"I should get going..."
+> CONTEXT: Map105/events/10/pages/0/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+In the end...
+> CONTEXT: Map105/events/10/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Cough* Cough*... Cough*"
+> CONTEXT: Map105/events/10/pages/0/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, are you ok?"
+> CONTEXT: Map105/events/10/pages/0/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"... Mommy and daddy are coming to pick me up."
+> CONTEXT: Map105/events/10/pages/0/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"They are... here."
+> CONTEXT: Map105/events/10/pages/0/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, wait! What are you talking about?"
+> CONTEXT: Map105/events/10/pages/0/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Nia
+"Sis Magaleta... please..."
+> CONTEXT: Map105/events/10/pages/0/219/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Live on. Stay alive."
+> CONTEXT: Map105/events/10/pages/0/224/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Those were Nia's final words.
+> CONTEXT: Map105/events/10/pages/0/226/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+My sunshine is lost.
+> CONTEXT: Map105/events/10/pages/0/228/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+My world goes into complete darkness.
+> CONTEXT: Map105/events/10/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+It is perplexing...
+> CONTEXT: Map105/events/10/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why?
+> CONTEXT: Map105/events/10/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why took Nia away from me?
+> CONTEXT: Map105/events/10/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why am I the one to be left alive?
+> CONTEXT: Map105/events/10/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why do I have to suffer this alone?
+> CONTEXT: Map105/events/10/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why... ?
+> CONTEXT: Map105/events/10/pages/0/242/Dialogue < UNTRANSLATED
+
+> END STRING

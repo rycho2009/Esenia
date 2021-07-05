@@ -1,0 +1,206 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Fairy Queen Malphiq
+> CONTEXT: Map017/events/1/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"It is a complete different special effect and presentation.
+ I've gotten positive feedbacks for her stage."
+> CONTEXT: Map017/events/1/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Since she is a non-moving boss, it is important
+ to utilize the special effects so she does not just
+ look like a still image."
+> CONTEXT: Map017/events/1/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"The effects are used more and much stronger
+ compare to the King Slime fight before her."
+> CONTEXT: Map017/events/1/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"I went through all the effects and tested
+ many different versions."
+> CONTEXT: Map017/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"I once got dizzy for checking out too much
+flashy effects for an extended period of time..."
+> CONTEXT: Map017/events/1/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"That is when I realized special effect isn't
+ just about how exaggerate it can get."
+> CONTEXT: Map017/events/1/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"With a lonnng and repeated tuning and tests,
+ the final result is how you played in the game."
+> CONTEXT: Map017/events/1/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"I hope you all enjoyed the fight with Malphiq.
+ Let me know how the special effects work out for you."
+> CONTEXT: Map017/events/1/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Flower Spirit
+> CONTEXT: Map017/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Once the Flower Spirit is fully developed,
+ it will start shooting ranged attack frequently."
+> CONTEXT: Map017/events/2/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"4 Flower Spirit can be summoned when
+ Fairy Queen Malphiq enters rage phase."
+> CONTEXT: Map017/events/2/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Players will quickly find themselves in trouble if not
+ calmly dealt with. It is important to utilize
+ Phantom Strike in this situation."
+> CONTEXT: Map017/events/2/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"BTW, the first version of Flower Spirit has
+ knock back attribute."
+> CONTEXT: Map017/events/2/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"It made the boss battle a lot harder as it
+ pushes Senia to the mushrooms all the time."
+> CONTEXT: Map017/events/2/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"After a thorough consideration I took out
+ the knock back attribute."
+> CONTEXT: Map017/events/2/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Flower Spirit
+> CONTEXT: Map017/events/3/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"A new born, weak Flower Spirit."
+> CONTEXT: Map017/events/3/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"If it is not killed during this phase it will soon
+grow into Flower Spirit and brings player all kinds of trouble."
+> CONTEXT: Map017/events/3/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"It does no reflect damage so you should try to
+ get rid of it asap without worrying."
+> CONTEXT: Map017/events/3/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Explosion Mushroom
+> CONTEXT: Map017/events/4/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map017/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"A explosion mushroom that appears randomly on the field."
+> CONTEXT: Map017/events/4/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map017/events/5/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Though it is supposed to randomly summoned
+ on the field, one will always be summoned next
+ to Senia."
+> CONTEXT: Map017/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"When summoned it tends to shimmy a bit
+ and stick itself into the ground. Wait for Senia
+ to get close and detonate."
+> CONTEXT: Map017/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Though it is supposed to be randomly summoned
+on the field, one will always be summoned right
+next to Senia."
+> CONTEXT: Map017/events/5/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"When summoned it tends to shimmy a bit
+and stick itself into the ground. Wait for Senia
+to get close and detonate."
+> CONTEXT: Map017/events/5/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING

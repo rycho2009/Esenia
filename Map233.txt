@@ -1,0 +1,305 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+記錄
+> CONTEXT: Map233/events/4/pages/0/9/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/17/pages/0/8/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+怪物重生
+> CONTEXT: Map233/events/4/pages/0/9/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「你好，我是《永恆的賽妮亞》作者-聖堂祭司」
+> CONTEXT: Map233/events/12/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「本範例是讓想學習本作ARPG系統所做出來的」
+> CONTEXT: Map233/events/12/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「這張地圖放置了最基礎戰鬥所需要的事件」
+> CONTEXT: Map233/events/12/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「大部份的系統都建構在《共用事件》裡頭」
+> CONTEXT: Map233/events/12/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「共用事件並沒有特別整理過
+　所以理解上可能較為困難
+　如果有興趣的話歡迎自行研究」
+> CONTEXT: Map233/events/12/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「如果有任何疑問的話
+　歡迎到《巴哈姆特RPG製作大師板》
+　【教學】永恆的賽妮亞ARPG系統範例，在此篇留下你的問題」
+> CONTEXT: Map233/events/12/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「只要你願意提問
+　我盡可能都會給予解答」
+> CONTEXT: Map233/events/12/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「譬如說：
+　我想要知道如何做出惡魔領域咒術士的雷擊技能」
+> CONTEXT: Map233/events/12/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「那我就會再新版本中放出咒術士的怪物
+　讓各位瞭解如何製作出一個放雷擊的怪物」
+> CONTEXT: Map233/events/12/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「藉由各位的提問持續更新範例版本
+　如此一來就會讓本範例越來越完整」
+> CONTEXT: Map233/events/12/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「最後，希望你會喜歡《永恆的賽妮亞》
+　以及本ARPG戰鬥系統
+　　　　　　　　　　　　　　　　by 聖堂祭司」
+> CONTEXT: Map233/events/12/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+NO.1 怪物設置SOP
+> CONTEXT: Map233/events/13/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+以下用製作出一隻「陽光磨菇」為例子
+> CONTEXT: Map233/events/13/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+1.在編輯器中複製一隻妖花
+2.到共用事件中的「010怪物資料庫」查詢怪物ID
+3.找到陽光磨菇的怪物ID為7
+4.將$m_id = 4修改為$m_id = 7 (其它頁籤也要改)
+> CONTEXT: Map233/events/13/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+5.將妖花的圖片改為磨菇
+6.在事件中加入開關「035【public】反彈怪」開啟
+7.完成！
+> CONTEXT: Map233/events/13/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'測試用怪物'
+> CONTEXT: Map233/events/14/pages/0/19/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"null"
+> CONTEXT: Map233/events/14/pages/0/24/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/23/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/32/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/41/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/51/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/60/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/69/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/78/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/87/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/96/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/105/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/114/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/123/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/136/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/145/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/154/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/162/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/170/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/178/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/186/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/194/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/202/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/210/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/218/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/226/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/234/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/242/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/251/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/259/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/267/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/275/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/283/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/291/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/299/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/307/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/315/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/324/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/332/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/340/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/348/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/356/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/364/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/372/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/380/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/388/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/396/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/404/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/412/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/420/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/428/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/436/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/444/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/456/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/465/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/473/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/481/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/489/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/497/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/505/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/513/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/521/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/529/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/537/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/545/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/553/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/561/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/569/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/577/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/585/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/593/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/601/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/613/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/621/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/633/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/648/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/656/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/664/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/673/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/682/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/691/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/700/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/709/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/718/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/726/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/734/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/742/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/750/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/758/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/766/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/774/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/782/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/790/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/798/InlineScript/2:10 < UNTRANSLATED
+> CONTEXT: Commonevents/10/806/InlineScript/2:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+此篇說明請用「RPGMAKER VX ACE」觀看此事件
+> CONTEXT: Map233/events/14/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+粉絲團小編
+「小編又出現在遊戲中了！」
+> CONTEXT: Map233/events/15/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+粉絲團小編
+「這次小編負責
+　讓你在本範例中獲得技能及合成配方！」
+> CONTEXT: Map233/events/15/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+粉絲團小編
+「請問需要讓小編教你什麼嗎？」
+> CONTEXT: Map233/events/15/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+學習所有技能
+> CONTEXT: Map233/events/15/pages/0/11/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+學習合成配方
+> CONTEXT: Map233/events/15/pages/0/11/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不需要！
+> CONTEXT: Map233/events/15/pages/0/11/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+粉絲團小編
+「已教你所有技能囉！
+　如果對你有幫助的話請來粉絲團點個讚吧！
+　粉絲團：https://www.facebook.com/seniafans」
+> CONTEXT: Map233/events/15/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+粉絲團小編
+「已教你合成配方囉！
+　如果對你有幫助的話請來粉絲團點個讚吧！
+　粉絲團：https://www.facebook.com/seniafans」
+> CONTEXT: Map233/events/15/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+粉絲團小編
+「有需要的話再來找小編吧！」
+> CONTEXT: Map233/events/15/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING

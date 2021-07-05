@@ -1,0 +1,1120 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Magaleta
+"I..."
+> CONTEXT: Map138/events/3/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta! Are you OK?"
+> CONTEXT: Map138/events/3/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Eh!?"
+> CONTEXT: Map138/events/3/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It is nice to have you back... really!"
+> CONTEXT: Map138/events/3/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I thought I will lose you forever..."
+> CONTEXT: Map138/events/3/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta carefully embraces Senia
+with a peaceful smile.
+> CONTEXT: Map138/events/3/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Sorry for making you worry."
+> CONTEXT: Map138/events/3/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sob*... sis Magaleta... Sob*"
+> CONTEXT: Map138/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am right here. Right next to you."
+> CONTEXT: Map138/events/3/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why...
+ Why did you leave me
+ without a word?"
+> CONTEXT: Map138/events/3/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why left me alone..."
+> CONTEXT: Map138/events/3/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"How can you do this to me..."
+> CONTEXT: Map138/events/3/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"You can count on me, too.
+Don't try to burden everything by yourself!"
+> CONTEXT: Map138/events/3/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Share with me... ok?"
+> CONTEXT: Map138/events/3/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"You are right. I have done it wrong this time..."
+> CONTEXT: Map138/events/3/pages/0/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Sorry for making you went through all this.
+I must have hurt you bad..."
+> CONTEXT: Map138/events/3/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It is the real sis this time... right?"
+> CONTEXT: Map138/events/3/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Yep."
+> CONTEXT: Map138/events/3/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Not some illusion by demons, right?"
+> CONTEXT: Map138/events/3/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"giggles* Of course not."
+> CONTEXT: Map138/events/3/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Nor isn't this a dream...?"
+> CONTEXT: Map138/events/3/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Not a dream, either."
+> CONTEXT: Map138/events/3/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am... right here for you."
+> CONTEXT: Map138/events/3/pages/0/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta hugs Senia even harder.
+Touching her cheek to Senia's hair.
+> CONTEXT: Map138/events/3/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Slowly and carefully.
+It's like this moment is a water bubble which
+will burst with just a tiny bit of force.
+> CONTEXT: Map138/events/3/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I have returned, Senia."
+> CONTEXT: Map138/events/3/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia raises her head, staring straight at Magaleta's face.
+It's like she can not make sure if this is true or not.
+> CONTEXT: Map138/events/3/pages/0/114/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta looks back at Senia with a warm smile,
+ensures Senia this is all real. Seeing so, Senia jumps
+right back into Magaleta's hug.
+> CONTEXT: Map138/events/3/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Welcome back, sis Magaleta!"
+> CONTEXT: Map138/events/3/pages/0/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I thought I was the one who entered the Tower of Eternity
+ for your life."
+> CONTEXT: Map138/events/3/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I thought it was worth the price,
+ even if that means I can never see you again."
+> CONTEXT: Map138/events/3/pages/0/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I thought I was determined.
+ But now, I have proven myself wrong.
+ It is so nice be able to see you again."
+> CONTEXT: Map138/events/3/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"However, this does not mean
+ I forgive you for risking into the Tower of Eternity!"
+> CONTEXT: Map138/events/3/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Eh? But... I... um..."
+> CONTEXT: Map138/events/3/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Do you know what is at risk
+ for venturing into the Tower of Eternity?"
+> CONTEXT: Map138/events/3/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Do you know how worried I was when you were cursed
+ because you followed me?"
+> CONTEXT: Map138/events/3/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I blamed myself for not being able to lift you
+ from the curse so bad..."
+> CONTEXT: Map138/events/3/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am sorry, sis..."
+> CONTEXT: Map138/events/3/pages/0/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(Am I being too harsh on her?)
+> CONTEXT: Map138/events/3/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Anyway...
+ Nothing is better than seeing you all safe and sound."
+> CONTEXT: Map138/events/3/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta tightly hugs Senia again.
+It is almost like she is making sure her existance is real.
+> CONTEXT: Map138/events/3/pages/0/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+A deep, deep hug... lasted almost a century.
+> CONTEXT: Map138/events/3/pages/0/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It's real..."
+> CONTEXT: Map138/events/3/pages/0/180/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis, let's go home together."
+> CONTEXT: Map138/events/3/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I have met Malphiq the Fairy Queen on my way here."
+> CONTEXT: Map138/events/3/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"She may have some clue on lifting your curse."
+> CONTEXT: Map138/events/3/pages/0/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"A Fairy Queen...?"
+> CONTEXT: Map138/events/3/pages/0/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Sure, let's go!"
+> CONTEXT: Map138/events/3/pages/0/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I will lead the way!"
+> CONTEXT: Map138/events/3/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"OK!"
+> CONTEXT: Map138/events/3/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Arrrgh!"
+> CONTEXT: Map138/events/3/pages/0/231/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia, what is wrong!?"
+> CONTEXT: Map138/events/3/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"... Eternity!"
+> CONTEXT: Map138/events/3/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis... uh... Sob*"
+> CONTEXT: Map138/events/3/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia!"
+> CONTEXT: Map138/events/3/pages/0/246/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"!!"
+> CONTEXT: Map138/events/3/pages/0/249/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/13/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/15/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(It's no use...)
+> CONTEXT: Map138/events/3/pages/0/260/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(What should I do now?
+ What can I do to save Senia?)
+> CONTEXT: Map138/events/3/pages/0/266/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(I cannot afford to wait...)
+> CONTEXT: Map138/events/3/pages/0/270/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+What will happen to Senia if I don't act quick?
+> CONTEXT: Map138/events/3/pages/0/273/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Suddenly, a bad feeling rises in my mind.
+I cannot bear to imagine losing Senia.
+The desperation is like a swamp that sucked me in...
+> CONTEXT: Map138/events/3/pages/0/275/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+What should I do now?
+> CONTEXT: Map138/events/3/pages/0/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Is there any way to save her?
+> CONTEXT: Map138/events/3/pages/0/281/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia... I have to save Senia....
+> CONTEXT: Map138/events/3/pages/0/283/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I cannot just sit and watch here...
+> CONTEXT: Map138/events/3/pages/0/285/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia may be taken away anytime now....
+> CONTEXT: Map138/events/3/pages/0/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+No! It is not the time to give up hope!
+I should focus on saving Senia...
+> CONTEXT: Map138/events/3/pages/0/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+There is... one method...
+> CONTEXT: Map138/events/3/pages/0/293/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(I am sorry, Senia...)
+> CONTEXT: Map138/events/3/pages/0/295/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It is ok sis... I am fine..."
+> CONTEXT: Map138/events/3/pages/0/301/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"This... will not... last too long...
+It will stop in a bit..."
+> CONTEXT: Map138/events/3/pages/0/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"So...sis... Sob*
+ Do not...
+ DO NOT COME OVER!"
+> CONTEXT: Map138/events/3/pages/0/311/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am sorry, Senia..."
+> CONTEXT: Map138/events/3/pages/0/319/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It looks like I will not be able to
+ keep my promise..."
+> CONTEXT: Map138/events/3/pages/0/324/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Sis...\\|What is she trying to do?)\\|\\^
+> CONTEXT: Map138/events/3/pages/0/332/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(What \\|should \\|I \\|do?)\\|
+> CONTEXT: Map138/events/3/pages/0/335/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Push Magaleta away.
+> CONTEXT: Map138/events/3/pages/0/342/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Do nothing.
+> CONTEXT: Map138/events/3/pages/0/342/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"AHHHHHHHHHH!"
+> CONTEXT: Map138/events/3/pages/0/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia!!"
+> CONTEXT: Map138/events/3/pages/0/357/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"!!!"
+> CONTEXT: Map138/events/3/pages/0/370/Dialogue < UNTRANSLATED
+> CONTEXT: Map090/events/3/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Eternity has her..."
+> CONTEXT: Map138/events/3/pages/0/373/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia, wake up!"
+> CONTEXT: Map138/events/3/pages/0/379/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am not... Nia..."
+> CONTEXT: Map138/events/3/pages/0/384/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"...!!"
+> CONTEXT: Map138/events/3/pages/0/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(It was all my fault.)
+> CONTEXT: Map138/events/3/pages/0/393/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(I should not have taken Senia as a replacement of Nia...)
+> CONTEXT: Map138/events/3/pages/0/396/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"AUGH!"
+> CONTEXT: Map138/events/3/pages/0/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia slashed her sword at me.
+> CONTEXT: Map138/events/3/pages/0/408/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+It is a bad wound, probably a lethal one.
+But it matters not. What matters is how bad
+I have wounded Senia with my actions...
+> CONTEXT: Map138/events/3/pages/0/410/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"S-Senia..."
+> CONTEXT: Map138/events/3/pages/0/414/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am sorry... I have not been a good sister..."
+> CONTEXT: Map138/events/3/pages/0/420/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"UH!"
+> CONTEXT: Map138/events/3/pages/0/426/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It was all my fault..."
+> CONTEXT: Map138/events/3/pages/0/429/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Where was the root of this tragedy?
+I don't have the time nor space to figure that out...
+> CONTEXT: Map138/events/3/pages/0/432/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I just... do my best limping towards Senia.
+> CONTEXT: Map138/events/3/pages/0/435/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Sis failed to protect you..."
+> CONTEXT: Map138/events/3/pages/0/440/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Instead, I hurted you so bad..."
+> CONTEXT: Map138/events/3/pages/0/446/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"OU!"
+> CONTEXT: Map138/events/3/pages/0/452/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia waves her sword at me without even frowning.
+Looking at my wounds and this Senia...
+> CONTEXT: Map138/events/3/pages/0/455/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+It is obvious to me now.
+> CONTEXT: Map138/events/3/pages/0/458/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+All is lost...
+> CONTEXT: Map138/events/3/pages/0/460/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+No more hope, no more light...
+> CONTEXT: Map138/events/3/pages/0/462/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Guess we cannot go back to the church together..."
+> CONTEXT: Map138/events/3/pages/0/466/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+My sight is blurred by tears.
+My voice... started to choke.
+> CONTEXT: Map138/events/3/pages/0/469/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I need to apologize."
+> CONTEXT: Map138/events/3/pages/0/472/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"To you, and to Nia..."
+> CONTEXT: Map138/events/3/pages/0/475/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I failed to protect neither of you."
+> CONTEXT: Map138/events/3/pages/0/478/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It must have been a bad experience
+ for you for having such a failure sister like me..."
+> CONTEXT: Map138/events/3/pages/0/481/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am really... sorry..."
+> CONTEXT: Map138/events/3/pages/0/485/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"UH-AH!"
+> CONTEXT: Map138/events/3/pages/0/488/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I... we will..."
+> CONTEXT: Map138/events/3/pages/0/493/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+It is the last time I wipe my tears.
+It is the last decision I will make.
+> CONTEXT: Map138/events/3/pages/0/496/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+For one last time...
+> CONTEXT: Map138/events/3/pages/0/499/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I want to tell Senia:
+> CONTEXT: Map138/events/3/pages/0/504/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"This time...\\|We are staying together,
+ forever..."
+> CONTEXT: Map138/events/3/pages/0/507/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(The pain is gone?
+ What happened?)
+> CONTEXT: Map138/events/3/pages/0/532/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis, stop! You cannot take
+ any more eternity!"
+> CONTEXT: Map138/events/3/pages/0/548/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Grrr!"
+> CONTEXT: Map138/events/3/pages/0/561/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（該怎麼辦？）
+> CONTEXT: Map138/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+推開
+> CONTEXT: Map138/events/5/pages/0/4/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不推開
+> CONTEXT: Map138/events/5/pages/0/4/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「嗚啊啊啊啊！」
+> CONTEXT: Map138/events/5/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「賽妮亞！！」
+> CONTEXT: Map138/events/5/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「！！！」
+> CONTEXT: Map138/events/5/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「永恆…」
+> CONTEXT: Map138/events/5/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「賽妮亞，快醒醒！」
+> CONTEXT: Map138/events/5/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我…不是妮雅……」
+> CONTEXT: Map138/events/5/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「………！！」
+> CONTEXT: Map138/events/5/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「賽妮亞……」
+> CONTEXT: Map138/events/5/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+（都是我的錯…）
+> CONTEXT: Map138/events/5/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+（要是我一開始不把賽妮亞當成替代品的話…）
+> CONTEXT: Map138/events/5/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「嗚！」
+> CONTEXT: Map138/events/5/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/5/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/5/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/5/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞在我的胸前劃下了一道深深的傷口
+> CONTEXT: Map138/events/5/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+但，即使明白傷口的嚴重性
+現在的我只想知道，我到底傷了賽妮亞多深…
+> CONTEXT: Map138/events/5/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「賽、賽妮亞…」
+> CONTEXT: Map138/events/5/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「姐姐…對不起你…」
+> CONTEXT: Map138/events/5/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「都是姐姐的錯…」
+> CONTEXT: Map138/events/5/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+到底是從哪裡開始錯的呢？
+這個問題我已無暇顧及…
+> CONTEXT: Map138/events/5/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我只得拖著踉蹌的步伐朝賽妮亞前進…
+> CONTEXT: Map138/events/5/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「姐姐不但無法守護妳…」
+> CONTEXT: Map138/events/5/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「還把你傷的這麼深……」
+> CONTEXT: Map138/events/5/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看著自己身上的傷口，
+以及不為所動的賽妮亞…
+> CONTEXT: Map138/events/5/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我明白了…
+> CONTEXT: Map138/events/5/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+任何希望、
+任何光芒…
+> CONTEXT: Map138/events/5/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+已不復存在…
+> CONTEXT: Map138/events/5/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「看來已經沒辦法兩個人一起回到教堂了呢…」
+> CONTEXT: Map138/events/5/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+淚水，順延著我的面頰，滑落下來。
+連聲音，也開始哽噎…
+> CONTEXT: Map138/events/5/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「對不起…」
+> CONTEXT: Map138/events/5/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「無論是妳，還是妮雅…」
+> CONTEXT: Map138/events/5/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「我都無法守護好……」
+> CONTEXT: Map138/events/5/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「有個像我這樣的姐姐很困擾吧？」
+> CONTEXT: Map138/events/5/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「姐姐真的…很抱歉……」
+> CONTEXT: Map138/events/5/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「但是…已經沒問題了……」
+> CONTEXT: Map138/events/5/pages/0/150/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+抹去了淚水的同時
+也在心中下定了決心
+> CONTEXT: Map138/events/5/pages/0/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+在這最後，我要做的…
+> CONTEXT: Map138/events/5/pages/0/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「賽妮亞…」
+> CONTEXT: Map138/events/5/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+就是對她說聲
+> CONTEXT: Map138/events/5/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「這一次，讓我們永遠在一起吧…」
+> CONTEXT: Map138/events/5/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING

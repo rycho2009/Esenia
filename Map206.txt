@@ -1,0 +1,371 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Magaleta
+(She finally fell asleep after
+ all the struggle...)
+> CONTEXT: Map206/events/1/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Why did you follow me?"
+> CONTEXT: Map206/events/1/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(We can figure that out later...)
+> CONTEXT: Map206/events/1/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"First, we need to get the curse lifted."
+> CONTEXT: Map206/events/1/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"(Casting Spell)"
+> CONTEXT: Map206/events/1/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"!"
+> CONTEXT: Map206/events/1/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(My spell bounced off from Senia!?)
+> CONTEXT: Map206/events/1/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(Let me try again!)
+> CONTEXT: Map206/events/1/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"...what the..."
+> CONTEXT: Map206/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Why...?"
+> CONTEXT: Map206/events/1/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Um...! Dad! Mom! NOOO!"
+> CONTEXT: Map206/events/1/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It's ok, Nia!"
+> CONTEXT: Map206/events/1/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Sis is right here!"
+> CONTEXT: Map206/events/1/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No!! Get away from me!"
+> CONTEXT: Map206/events/1/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(It looks like she cannot hear me at all.)
+> CONTEXT: Map206/events/1/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(I did not expect Senia to have
+ such low resistance to curses.
+ Her curse resistance is way below average...)
+> CONTEXT: Map206/events/1/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(... What should I do?)
+> CONTEXT: Map206/events/1/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(Ah! Nia's cross pendant!)
+> CONTEXT: Map206/events/1/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(I have been wearing it all the time.
+ It should have absorbed enough
+ power to weaken the curse.)
+> CONTEXT: Map206/events/1/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Uh...um...phew..."
+> CONTEXT: Map206/events/1/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"She seems to calm down. Phew-"
+> CONTEXT: Map206/events/1/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(Wait, it is too early to let my
+ guard down.)
+> CONTEXT: Map206/events/1/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(I need to find a way to lift Senia's
+ curse once and for all.)
+> CONTEXT: Map206/events/1/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia has been sleeping ever since.
+> CONTEXT: Map206/events/1/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Fortunately, the cross pendant worked.
+> CONTEXT: Map206/events/1/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+At least the curse is weak enough
+that it does not make Senia suffer.
+> CONTEXT: Map206/events/1/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I have contacted many curse experts...
+> CONTEXT: Map206/events/1/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Also tried many different methods...
+> CONTEXT: Map206/events/1/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But none worked on her.
+> CONTEXT: Map206/events/1/pages/0/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia..."
+> CONTEXT: Map206/events/1/pages/0/124/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/148/Dialogue < UNTRANSLATED
+> CONTEXT: Map066/events/3/pages/0/52/Dialogue < UNTRANSLATED
+> CONTEXT: Map066/events/3/pages/0/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+My voice is like a rock thrown to a lake.
+It sinked straight to the bottom.
+> CONTEXT: Map206/events/1/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Without any response.
+> CONTEXT: Map206/events/1/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But my anxiety is like the wave caused by the rock.
+> CONTEXT: Map206/events/1/pages/0/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Spreading worse and worse...
+> CONTEXT: Map206/events/1/pages/0/134/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why Senia?
+> CONTEXT: Map206/events/1/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why her?
+> CONTEXT: Map206/events/1/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Am I going to watch this happen to me again?
+> CONTEXT: Map206/events/1/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Watching another sister passing away right before me?
+> CONTEXT: Map206/events/1/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+NO!
+> CONTEXT: Map206/events/1/pages/0/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+No way!
+> CONTEXT: Map206/events/1/pages/0/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"There is a place I must go."
+> CONTEXT: Map206/events/1/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I promise I will be back."
+> CONTEXT: Map206/events/1/pages/0/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Would you please stay home safely
+ this time?"
+> CONTEXT: Map206/events/1/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Don't do anything dangerous."
+> CONTEXT: Map206/events/1/pages/0/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I will take care of all the dangerous
+ business."
+> CONTEXT: Map206/events/1/pages/0/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Just don't worry, Nia."
+> CONTEXT: Map206/events/1/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Deal?"
+> CONTEXT: Map206/events/1/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I knew she is asleep.
+I just cannot help myself but keep speaking to her.
+> CONTEXT: Map206/events/1/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia... off sister goes!"
+> CONTEXT: Map206/events/1/pages/0/177/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis?"
+> CONTEXT: Map206/events/1/pages/0/209/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No! Don't go!"
+> CONTEXT: Map206/events/1/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta!"
+> CONTEXT: Map206/events/1/pages/0/232/Dialogue < UNTRANSLATED
+> CONTEXT: Map187/events/3/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map159/events/1/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map159/events/3/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map159/events/4/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map090/events/3/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING

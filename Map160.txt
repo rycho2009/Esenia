@@ -1,0 +1,564 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+進入後將進行「Speed Run小遊戲」
+> CONTEXT: Map160/events/5/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+進入
+> CONTEXT: Map160/events/5/pages/0/3/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+稍等
+> CONTEXT: Map160/events/5/pages/0/3/Choice/1 < UNTRANSLATED
+> CONTEXT: Map160/events/19/pages/0/2/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+「Speed Run小遊戲」只能進行一次
+如果要玩第二次請讀取記錄
+> CONTEXT: Map160/events/5/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「歡迎來到特典房間，請隨意逛逛」
+> CONTEXT: Map160/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/8/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「如果你喜歡這款遊戲
+　希望能在哈拉板留下您的感想
+　謝謝～」
+> CONTEXT: Map160/events/6/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/7/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map160/events/8/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【妖精】
+> CONTEXT: Map160/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「第一隻遠程系怪物」
+> CONTEXT: Map160/events/10/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「在製作這隻怪物
+　最初就整整花了三天的時間」
+> CONTEXT: Map160/events/10/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「而之後已經不記得花了多少時間修改」
+> CONTEXT: Map160/events/10/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「因為遠程攻擊的製作比預期中複雜太多」
+> CONTEXT: Map160/events/10/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「再加上遠程類型的怪物
+　要量產化相當麻煩」
+> CONTEXT: Map160/events/10/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「雖然如此，個人很喜歡
+　使用幻影突擊可以彈飛箭的設定」
+> CONTEXT: Map160/events/10/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【妖花】
+掉落物：水晶、布料
+> CONTEXT: Map160/events/11/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「精靈之森最弱小的怪物」
+> CONTEXT: Map160/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「雖然說是最弱小
+　但是最初必須要三刀才能打死」
+> CONTEXT: Map160/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「是希望能夠藉由升級、放技能後
+　由三刀變成兩刀的差異性存在」
+> CONTEXT: Map160/events/11/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「起初設定的攻擊力並不弱
+　在試玩版調整難度後削弱了一些」
+> CONTEXT: Map160/events/11/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【陽光蘑菇】
+> CONTEXT: Map160/events/13/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「看起來富含彈性的磨菇」
+> CONTEXT: Map160/events/13/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「於是設定成反擊後會擊退」
+> CONTEXT: Map160/events/13/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「與其說是被反擊擊退
+　不如說是攻擊後被彈回來（笑）」
+> CONTEXT: Map160/events/13/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「在擊退時有特地加上音效
+　不知有沒有注力到呢？」
+> CONTEXT: Map160/events/13/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【蛇妖法師】
+> CONTEXT: Map160/events/15/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「第二隻遠程系怪物」
+> CONTEXT: Map160/events/15/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「跟之前射箭不同
+　是施放魔法的概念」
+> CONTEXT: Map160/events/15/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「在設定這隻時
+　才注意到需要施法的音效」
+> CONTEXT: Map160/events/15/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「另外這隻也會掉落稀有材料「石榴石」
+　打到的話可以做出相當強力的防具」
+> CONTEXT: Map160/events/15/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【灰狼】
+> CONTEXT: Map160/events/16/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「設計這隻時
+　注意到需要怪物被打的叫聲」
+> CONTEXT: Map160/events/16/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「而這隻被打的叫聲也是相當獨特
+　是狗的慘叫(笑)」
+> CONTEXT: Map160/events/16/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「我相當注重戰鬥時給予的感覺
+　所以對這些細節相當講究」
+> CONTEXT: Map160/events/16/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【綠龍】
+> CONTEXT: Map160/events/17/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「強力的小怪
+　無論是攻防血量都是相當高的」
+> CONTEXT: Map160/events/17/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+夏洛特‧聖堂祭司
+「最可怕的是
+　你永遠不知道牠什麼時候要衝鋒」
+> CONTEXT: Map160/events/17/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+離開特典房間嗎？
+> CONTEXT: Map160/events/19/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+離開
+> CONTEXT: Map160/events/19/pages/0/2/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「歡迎來到特典房間」
+> CONTEXT: Map160/events/20/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「我是永恆的賽妮亞的作者-聖堂祭司」
+> CONTEXT: Map160/events/20/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「首先感謝你填寫問卷」
+> CONTEXT: Map160/events/20/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「這是我首次嘗試獨立開發的遊戲」
+> CONTEXT: Map160/events/20/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「憑著一股熱血，獨自包辦所有的項目」
+> CONTEXT: Map160/events/20/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「在正式版委託繪師幫忙製作立繪與介面
+　不知道各位是否喜歡呢？」
+> CONTEXT: Map160/events/20/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「這款遊戲對我來說如同孩子一般」
+> CONTEXT: Map160/events/20/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「不論你是否喜歡這款遊戲
+　我都由衷感謝你的遊玩」
+> CONTEXT: Map160/events/20/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「而關於這個特典房間
+　記載著我在開發過程中的想法」
+> CONTEXT: Map160/events/20/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「包含戰鬥系統設計理念
+　角色的人設、劇情安排、怪物設定等等」
+> CONTEXT: Map160/events/20/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「如果有興趣的話
+　可以調查一下書櫃」
+> CONTEXT: Map160/events/20/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「最後，如果你喜歡這款遊戲
+　希望能在哈拉板上回文留下你的感想
+　謝謝！」
+> CONTEXT: Map160/events/20/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【關於戰鬥系統】
+> CONTEXT: Map160/events/23/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「本作的戰鬥系統
+　是由我獨自開發的」
+> CONTEXT: Map160/events/23/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「因為我很喜歡ARPG
+　所以最初就決定要製作一款ARPG」
+> CONTEXT: Map160/events/23/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「秉持著讓不擅長玩遊戲的人也能輕易上手理念
+　設計了這樣子的戰鬥系統」
+> CONTEXT: Map160/events/23/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「在製作的過程中
+　我最重視的是操作的流暢度以及打擊感」
+> CONTEXT: Map160/events/23/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「操作方式盡可能簡單
+　打擊感盡可能扎實」
+> CONTEXT: Map160/events/23/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「不管是賽妮亞的揮劍動作
+　砍中敵人的音效」
+> CONTEXT: Map160/events/23/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「怪物被打的音效
+ 　死亡後的特效，都是精心挑選過的」
+> CONTEXT: Map160/events/23/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「為的就是讓簡易的操作中
+　帶來最大的樂趣」
+> CONTEXT: Map160/events/23/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「不知道這樣的戰鬥系統
+　是否有讓你感受到樂趣呢？」
+> CONTEXT: Map160/events/23/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【賽妮亞】
+> CONTEXT: Map160/events/24/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「賽妮亞
+　是一名對自己沒自信、很脆弱的少女」
+> CONTEXT: Map160/events/24/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「為了自己的信念
+　對姐姐的思念與期盼
+　努力的去克服自己害怕的事物」
+> CONTEXT: Map160/events/24/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「看著她努力的樣子
+　讓我在失落的時候又振作了起來」
+> CONTEXT: Map160/events/24/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「即使面對自己最怕的惡魔
+　即使被最重要的姐姐傷害了
+　仍然繼續前進」
+> CONTEXT: Map160/events/24/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「這樣的賽妮亞讓我非常喜歡
+　希望各位也能喜歡這樣的賽妮亞」
+> CONTEXT: Map160/events/24/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「.........」
+> CONTEXT: Map160/events/24/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+【瑪嘉雷特】
+> CONTEXT: Map160/events/25/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「溫柔的大姐姐
+　在聖堂擔任神官」
+> CONTEXT: Map160/events/25/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「對賽妮亞來說最重要的存在」
+> CONTEXT: Map160/events/25/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「雖然總是笑臉迎人
+　內心卻是十分的矛盾」
+> CONTEXT: Map160/events/25/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「因為沒能拯救親妹妹妮雅
+　一直抱著自責的心情活下去」
+> CONTEXT: Map160/events/25/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「對賽妮亞的照顧
+　內心是非常的矛盾與掙扎」
+> CONTEXT: Map160/events/25/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「自認為不能將她視為妮雅的替代品
+　卻又無法停止對她的照顧」
+> CONTEXT: Map160/events/25/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聖堂祭司
+「希望拯救她
+　但其實...瑪嘉雷特才是最需要被拯救的人」
+> CONTEXT: Map160/events/25/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「.........」
+> CONTEXT: Map160/events/25/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING

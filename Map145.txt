@@ -1,0 +1,1020 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+小精靈
+「瑪芙卡大人！」
+> CONTEXT: Map145/events/45/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「唔…誰、誰在叫我？……」
+> CONTEXT: Map145/events/45/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「快點離開！！」
+> CONTEXT: Map145/events/45/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「糟了！
+　女王快被\\C[6]永恆\\C[0]吞噬了！」
+> CONTEXT: Map145/events/45/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「...該怎麼辦才好？」
+> CONTEXT: Map145/events/45/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「我…我也不知道！」
+> CONTEXT: Map145/events/45/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「啊啊啊啊啊！！」
+> CONTEXT: Map145/events/45/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「……只能先阻止她了！」
+> CONTEXT: Map145/events/45/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「…嗚」
+> CONTEXT: Map145/events/73/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「發生什麼事了…頭好痛」
+> CONTEXT: Map145/events/73/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（剛才…什麼東西到了我體內！？）
+> CONTEXT: Map145/events/73/pages/2/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（難道是…\\C[6]永恆\\C[0]！？）
+> CONTEXT: Map145/events/73/pages/2/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「瑪芙卡大人！妳沒事了嗎？」
+> CONTEXT: Map145/events/73/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「嗯…雖然頭有點疼
+　但應該沒什麼大礙」
+> CONTEXT: Map145/events/73/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「太好了…
+　想不到被永恆吞噬後還能平安回來」
+> CONTEXT: Map145/events/73/pages/2/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「賽妮亞妳是怎麼辦到的？」
+> CONTEXT: Map145/events/73/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（……………）
+> CONTEXT: Map145/events/73/pages/2/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（如果…我能夠吸收永恆的話…）
+> CONTEXT: Map145/events/73/pages/2/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（說不定…就可以拯救姐姐了！）
+> CONTEXT: Map145/events/73/pages/2/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「賽妮亞？」
+> CONTEXT: Map145/events/73/pages/2/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/75/pages/0/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「啊…什麼事？」
+> CONTEXT: Map145/events/73/pages/2/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「妳的臉色看起來好凝重，還好嗎？」
+> CONTEXT: Map145/events/73/pages/2/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「沒事的…」
+> CONTEXT: Map145/events/73/pages/2/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「瑪芙卡大人
+　妳為什麼要使用永恆呢？」
+> CONTEXT: Map145/events/73/pages/2/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「它有多危險
+　妳最清楚了不是嗎？」
+> CONTEXT: Map145/events/73/pages/2/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「………………」
+> CONTEXT: Map145/events/73/pages/2/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「有件事情…
+　一直沒有告訴妳們…」
+> CONTEXT: Map145/events/73/pages/2/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「我所剩餘的日子已經不多了…」
+> CONTEXT: Map145/events/73/pages/2/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「如果我不在了
+　這座森林恐怕又會被上層的惡魔給侵略」
+> CONTEXT: Map145/events/73/pages/2/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「於是我向永恆許願」
+> CONTEXT: Map145/events/73/pages/2/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「在我死後…
+　替我守護這座森林」
+> CONTEXT: Map145/events/73/pages/2/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「看樣子…
+　我的能力似乎無法駕馭永恆呢」
+> CONTEXT: Map145/events/73/pages/2/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「我只能用僅存的餘命，繼續守護妳們了」
+> CONTEXT: Map145/events/73/pages/2/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「瑪芙卡大人…」
+> CONTEXT: Map145/events/73/pages/2/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我能夠體會…
+　妳想要守護森林的心情…」
+> CONTEXT: Map145/events/73/pages/2/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「把我從永恆中解救出來的人
+　就是這位勇敢的劍士嗎？」
+> CONTEXT: Map145/events/73/pages/2/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「非常感謝妳救了我
+　我代表精靈族向妳致上最高的謝意」
+> CONTEXT: Map145/events/73/pages/2/101/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我…只是盡我所能而已…」
+> CONTEXT: Map145/events/73/pages/2/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「瑪芙卡大人
+　妳有沒有看到賽妮亞的姐姐呢？」
+> CONTEXT: Map145/events/73/pages/2/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「她是一位留著金色長髮，
+　穿著紅色神官服的美麗姐姐！」
+> CONTEXT: Map145/events/73/pages/2/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「穿著紅色神官服的金髮女性？」
+> CONTEXT: Map145/events/73/pages/2/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「有的…
+　我見過這樣的人來過這裡」
+> CONTEXT: Map145/events/73/pages/2/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「不過她已經前往上層了」
+> CONTEXT: Map145/events/73/pages/2/123/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「那我們該如何前往上層呢！？」
+> CONTEXT: Map145/events/73/pages/2/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「上層原本的路已經被封閉了」
+> CONTEXT: Map145/events/73/pages/2/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「不過我可以用我的力量將妳們傳送過去」
+> CONTEXT: Map145/events/73/pages/2/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「只不過…上層是非常危險的【惡魔領域】」
+> CONTEXT: Map145/events/73/pages/2/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「希望妳們做好心理準備」
+> CONTEXT: Map145/events/73/pages/2/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（惡魔嗎…）
+> CONTEXT: Map145/events/73/pages/2/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（沒事的…）
+> CONTEXT: Map145/events/73/pages/2/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（我已經不是從前的我了…）
+> CONTEXT: Map145/events/73/pages/2/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我知道了…請妳送我們上去吧…」
+> CONTEXT: Map145/events/73/pages/2/160/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「好的，那我現在將妳們傳送上去」
+> CONTEXT: Map145/events/73/pages/2/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「願妳們一路平安」
+> CONTEXT: Map145/events/73/pages/2/166/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「瑪芙卡大人，請保重！」
+> CONTEXT: Map145/events/73/pages/2/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「唔…發生了什麼事？」
+> CONTEXT: Map145/events/73/pages/3/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（贏了…）
+> CONTEXT: Map145/events/73/pages/3/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「！！！」
+> CONTEXT: Map145/events/73/pages/3/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/5/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（……嗚！）
+> CONTEXT: Map145/events/73/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「！」
+> CONTEXT: Map145/events/73/pages/3/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（停下了？）
+> CONTEXT: Map145/events/73/pages/3/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「沒事吧？人類的少女。」
+> CONTEXT: Map145/events/73/pages/3/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「沒、沒事……」
+> CONTEXT: Map145/events/73/pages/3/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（靜下來一看女王大人真是個美麗的人呢……）
+> CONTEXT: Map145/events/73/pages/3/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（唔……總覺得開始緊張起來了……）
+> CONTEXT: Map145/events/73/pages/3/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「女王大人你才是！沒事吧？」
+> CONTEXT: Map145/events/73/pages/3/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「嗯，姑且沒有大礙了。」
+> CONTEXT: Map145/events/73/pages/3/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「呼－－太好了！」
+> CONTEXT: Map145/events/73/pages/3/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「……」
+> CONTEXT: Map145/events/73/pages/3/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「？」
+> CONTEXT: Map145/events/73/pages/3/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（怎、怎麼了…一直盯著我……)
+> CONTEXT: Map145/events/73/pages/3/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「妳叫什麼名字呢？」
+> CONTEXT: Map145/events/73/pages/3/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「……賽妮亞」
+> CONTEXT: Map145/events/73/pages/3/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「賽妮亞，妳身上有兩股特別的力量……」
+> CONTEXT: Map145/events/73/pages/3/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「！？」
+> CONTEXT: Map145/events/73/pages/3/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「一個是詛咒……」
+> CONTEXT: Map145/events/73/pages/3/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（難道！）
+> CONTEXT: Map145/events/73/pages/3/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「看來妳似乎心裡有數了……」
+> CONTEXT: Map145/events/73/pages/3/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「剛才我替妳減緩了詛咒的力量
+　暫時應該不會再發作了，但這只是暫時。」
+> CONTEXT: Map145/events/73/pages/3/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「………嗯。」
+> CONTEXT: Map145/events/73/pages/3/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「女王大人您繼續使用力量沒問題嗎？」
+> CONTEXT: Map145/events/73/pages/3/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「……就當作是報答吧
+　這點力量現在的我還是有的。」
+> CONTEXT: Map145/events/73/pages/3/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「女王大人……」
+> CONTEXT: Map145/events/73/pages/3/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/73/pages/3/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「出了這麼大的亂子肯定讓你擔心了吧。」
+> CONTEXT: Map145/events/73/pages/3/96/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「失去了自我
+　甚至連重要的事物也經由自己的手給摧毀。」
+> CONTEXT: Map145/events/73/pages/3/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「這就是被永恆所控制的人的末路。」
+> CONTEXT: Map145/events/73/pages/3/103/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「賽妮亞，我在此向妳致上最高的謝意。」
+> CONTEXT: Map145/events/73/pages/3/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「不…我只是－－」
+> CONTEXT: Map145/events/73/pages/3/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「抬起頭，若不是妳整個精靈之森
+　都將毀於我的手上，妳値得這份榮耀。」
+> CONTEXT: Map145/events/73/pages/3/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「……」
+> CONTEXT: Map145/events/73/pages/3/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/5/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「女王大人，您為何要渴求永恆呢？您明知永恆……」
+> CONTEXT: Map145/events/73/pages/3/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「我的時日所剩不多了……」
+> CONTEXT: Map145/events/73/pages/3/125/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「屆時將無法繼續守護精靈之森
+　我才會出此下策－－向永恆許願。」
+> CONTEXT: Map145/events/73/pages/3/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我認為……」
+> CONTEXT: Map145/events/73/pages/3/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「？」
+> CONTEXT: Map145/events/73/pages/3/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我認為這是不對的…
+　您身邊的人絕對不會希望您這麼做的……」
+> CONTEXT: Map145/events/73/pages/3/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「沒錯沒錯！大家一起想的話總會有辦法的！」
+> CONTEXT: Map145/events/73/pages/3/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「……嗯。」
+> CONTEXT: Map145/events/73/pages/3/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「那個……
+　您說我身上有兩股力量，另一個是－－？」
+> CONTEXT: Map145/events/73/pages/3/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「淨化永恆的力量。」
+> CONTEXT: Map145/events/73/pages/3/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「！！！！」
+> CONTEXT: Map145/events/73/pages/3/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（這樣的話！）
+> CONTEXT: Map145/events/73/pages/3/161/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「雖然不清楚這力量的來源
+　但要不是這力量我也不會復原。」
+> CONTEXT: Map145/events/73/pages/3/164/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（說不定我能讓姊姊復原
+　然後兩個人就像從前一樣－－）
+> CONTEXT: Map145/events/73/pages/3/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「對了對了！
+　女王大人你有看到賽妮亞的姊姊嗎？」
+> CONTEXT: Map145/events/73/pages/3/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「我是有看到一位金髮的女性往上層去了……」
+> CONTEXT: Map145/events/73/pages/3/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「！是穿著紅色神官服嗎？」
+> CONTEXT: Map145/events/73/pages/3/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「………是的，她是穿著紅色的衣服沒錯。」
+> CONTEXT: Map145/events/73/pages/3/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（是姊姊！）
+> CONTEXT: Map145/events/73/pages/3/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「往上層的路在哪？」
+> CONTEXT: Map145/events/73/pages/3/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「上層可是惡魔領域，妳確定要上去嗎？」
+> CONTEXT: Map145/events/73/pages/3/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「………我要去！」
+> CONTEXT: Map145/events/73/pages/3/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「我也一起！」
+> CONTEXT: Map145/events/73/pages/3/197/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「是嗎……那我將你們傳送到通道那吧。」
+> CONTEXT: Map145/events/73/pages/3/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「祝你們一路平安。」
+> CONTEXT: Map145/events/73/pages/3/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「女王大人也要保重喔！」
+> CONTEXT: Map145/events/73/pages/3/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「瑪芙卡大人！賽妮亞～」
+> CONTEXT: Map145/events/75/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「瑪芙卡大人！妳沒事吧？」
+> CONTEXT: Map145/events/75/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「我...我怎麼了嗎？」
+> CONTEXT: Map145/events/75/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「瑪芙卡大人不記得了？那我來說明...」
+> CONTEXT: Map145/events/75/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「原來如此...是這位劍士小姐救了我」
+> CONTEXT: Map145/events/75/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「剛才真是好危險呢，又是香菇又是光砲」
+> CONTEXT: Map145/events/75/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「我光是躲在外面看就快嚇死了」
+> CONTEXT: Map145/events/75/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「還好賽妮亞身手不凡
+　華麗的躲過各種攻擊」
+> CONTEXT: Map145/events/75/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「啊...什麼事？」
+> CONTEXT: Map145/events/75/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「妳的臉色看起來好凝重，怎麼了嗎？」
+> CONTEXT: Map145/events/75/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「沒事的...」
+> CONTEXT: Map145/events/75/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/18/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「對了...精靈王瑪芙卡」
+> CONTEXT: Map145/events/75/pages/0/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「妳有沒有看到穿著神官服的金髮女性？」
+> CONTEXT: Map145/events/75/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「穿著神官服的金髮女性嗎？」
+> CONTEXT: Map145/events/75/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「前幾天她有經過這裏」
+> CONTEXT: Map145/events/75/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「已經從這裏的傳送陣上去了」
+> CONTEXT: Map145/events/75/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「傳送陣？哪裏有傳送陣？」
+> CONTEXT: Map145/events/75/pages/0/66/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「應該是在我被奪走意識的時候被關閉了」
+> CONTEXT: Map145/events/75/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「不用擔心，我現在馬上開啟」
+> CONTEXT: Map145/events/75/pages/0/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「謝謝妳，我必須儘快追上她才行」
+> CONTEXT: Map145/events/75/pages/0/83/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+精靈王瑪芙卡
+「好的，請路上小心」
+> CONTEXT: Map145/events/75/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「謝謝賽妮亞～路上小心～」
+> CONTEXT: Map145/events/75/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map012/events/75/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING

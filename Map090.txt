@@ -1,0 +1,58 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"The cross pendant is glowing..."
+> CONTEXT: Map090/events/3/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Isn't that... Nia's pendant?"
+> CONTEXT: Map090/events/3/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"The pendant I gave to Senia
+ to weaken the curse."
+> CONTEXT: Map090/events/3/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It resists eternity as well?"
+> CONTEXT: Map090/events/3/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+(The power of eternity is...
+ losing control...)
+> CONTEXT: Map090/events/3/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Ow!!"
+> CONTEXT: Map090/events/3/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Stay away!"
+> CONTEXT: Map090/events/3/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"AHHHHHH!"
+> CONTEXT: Map090/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,43 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+賽妮亞
+（姐姐！？）
+> CONTEXT: Map013/events/2/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（不...有可能像之前一樣是偽裝的）
+> CONTEXT: Map013/events/2/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+？？？
+「妮亞...」
+> CONTEXT: Map013/events/2/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「妳終於來了」
+> CONTEXT: Map013/events/2/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「我等妳好久了」
+> CONTEXT: Map013/events/2/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+恭喜通關賽妮亞-試玩版v1.0
+請務必填寫資料夾內的【賽妮亞試玩版問卷】
+填寫後將可獲得「特典房間的密碼」
+> CONTEXT: Map013/events/2/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING

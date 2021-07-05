@@ -1,0 +1,7 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Demon Frontier - lobby
+> CONTEXT: Map162/display_name/ < UNTRANSLATED
+> CONTEXT: Map036/display_name/ < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,9 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Acquired \\I[224]Book of Defense Ch. 3
+> CONTEXT: Map228/events/10/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map186/events/53/pages/1/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map194/events/40/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map193/events/51/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING

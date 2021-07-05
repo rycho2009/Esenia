@@ -1,0 +1,67 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+懺悔室
+> CONTEXT: Map239/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+> CONTEXT: Map239/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map016/events/25/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Many have guessed that Magaleta will
+ turn out to be the final boss."
+> CONTEXT: Map239/events/4/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Was it really that... obvious?"
+> CONTEXT: Map239/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"This boss design gave me the most trouble."
+> CONTEXT: Map239/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"If it is too agile it would be too diffcult.
+ But making her slow or bulky will not match
+ her character."
+> CONTEXT: Map239/events/4/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"At last, I came up with the 'teleport' move!"
+> CONTEXT: Map239/events/4/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Of course, I would not forget her Demon Repel Cross
+ that once appeared in Senia's memory."
+> CONTEXT: Map239/events/4/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"She is created with full of love towards the game
+ and charater."
+> CONTEXT: Map239/events/4/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING

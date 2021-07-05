@@ -1,0 +1,106 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"This place again..."
+> CONTEXT: Map014/events/11/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"This is the linking area between levels!"
+> CONTEXT: Map014/events/11/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Simply put: just walk pass this area and
+ you will be in the upper level!"
+> CONTEXT: Map014/events/11/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(Demon Frontier... I hope sis is
+ alright.)
+> CONTEXT: Map014/events/11/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I wonder if we will finally
+ meet up there?)
+> CONTEXT: Map014/events/11/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(There must be a lot of demons
+ in Demon Frontier...)
+> CONTEXT: Map014/events/11/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(So scary... it is terrifying just to
+ think of it.)
+> CONTEXT: Map014/events/11/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Senia? Are you ok? Why are you shivering?"
+> CONTEXT: Map014/events/11/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Are you cold?"
+> CONTEXT: Map014/events/11/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Huh? Well.. yeah... kind of..."
+> CONTEXT: Map014/events/11/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"It does not look like we will find
+ anything to warm you up here..."
+> CONTEXT: Map014/events/11/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I guess..."
+> CONTEXT: Map014/events/11/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Let's just march forward and see
+what can we find?"
+> CONTEXT: Map014/events/11/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(I am not as confident as I acted
+ like...)
+> CONTEXT: Map014/events/11/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"惡魔領域‧時鐘塔"
+> CONTEXT: Map129/events/19/pages/0/1/InlineScript/1:9 < UNTRANSLATED
+
+> END STRING

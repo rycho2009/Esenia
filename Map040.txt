@@ -1,0 +1,29 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Little Fairy
+"Should I process your Elite Demon Stone?
+ It will be turned into Demon Crystal
+ and Demon Cloth!"
+> CONTEXT: Map040/events/18/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Process my Elite Demon Stone
+> CONTEXT: Map040/events/18/pages/0/7/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[529]Demon Cloth x5
+Acquired \\I[528]Demon Crystal x5
+> CONTEXT: Map040/events/18/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"You do not have any Elite Demon Stone."
+> CONTEXT: Map040/events/18/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING

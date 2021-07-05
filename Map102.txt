@@ -1,0 +1,9 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Frontier Entrance
+> CONTEXT: Map102/display_name/ < UNTRANSLATED
+> CONTEXT: Map043/display_name/ < UNTRANSLATED
+> CONTEXT: Map039/display_name/ < UNTRANSLATED
+> CONTEXT: Commonevents/75/14/Choice/0 < UNTRANSLATED
+
+> END STRING

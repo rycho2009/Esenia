@@ -1,0 +1,17 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Acquired \\I[179]Magic Badge
+> CONTEXT: Map204/events/7/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[347]Elite Sanctum Stone
+> CONTEXT: Map204/events/7/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map204/events/7/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/4/pages/3/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map199/events/4/pages/3/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map048/events/16/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map048/events/16/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING

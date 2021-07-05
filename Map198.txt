@@ -1,0 +1,31 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"...!"
+> CONTEXT: Map198/events/5/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/5/pages/2/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Another region?
+ Sis must be at the end of this
+ place, right?"
+> CONTEXT: Map198/events/5/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Let's do this!"
+> CONTEXT: Map198/events/5/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Confession Corridor waypoint activated.
+> CONTEXT: Map198/events/6/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

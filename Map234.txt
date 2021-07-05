@@ -1,0 +1,152 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+？？？
+> CONTEXT: Map234/display_name/ < UNTRANSLATED
+> CONTEXT: Map232/display_name/ < UNTRANSLATED
+> CONTEXT: Map205/display_name/ < UNTRANSLATED
+> CONTEXT: Map192/display_name/ < UNTRANSLATED
+> CONTEXT: Map189/display_name/ < UNTRANSLATED
+> CONTEXT: Map144/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「姐姐！？」
+> CONTEXT: Map234/events/4/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「你很努力了呢...賽妮亞」
+> CONTEXT: Map234/events/4/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「姐姐...非常開心哦」
+> CONTEXT: Map234/events/4/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「...............」
+> CONTEXT: Map234/events/4/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map234/events/4/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「可是我…沒能把姐姐救回來。」
+> CONTEXT: Map234/events/4/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「這樣我的努力...到底有什麼意義...」
+> CONTEXT: Map234/events/4/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「賽妮亞」
+> CONTEXT: Map234/events/4/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「嗯..？」
+> CONTEXT: Map234/events/4/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「你的努力...絕不會是沒有意義的哦」
+> CONTEXT: Map234/events/4/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「即使害怕，妳仍不斷向前，
+　就算到了最後一刻，也不願放棄。」
+> CONTEXT: Map234/events/4/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「變得如此堅強...讓姐姐嚇了一跳呢」
+> CONTEXT: Map234/events/4/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「而且...妳還沒有放棄不是嗎？」
+> CONTEXT: Map234/events/4/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「..........」
+> CONTEXT: Map234/events/4/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「嗯！」
+> CONTEXT: Map234/events/4/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/73/pages/3/119/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/73/pages/3/203/Dialogue < UNTRANSLATED
+> CONTEXT: Map033/events/35/pages/2/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「姐姐相信妳一定可以的」
+> CONTEXT: Map234/events/4/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「所以...請妳一定也要相信自己...」
+> CONTEXT: Map234/events/4/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「姐姐...會一直等妳的...」
+> CONTEXT: Map234/events/4/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「瑪嘉雷特姐姐...」
+> CONTEXT: Map234/events/4/pages/2/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/3/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/38/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/41/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我...一定會救妳的！」
+> CONTEXT: Map234/events/4/pages/2/7/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,263 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Magaleta
+"..."
+> CONTEXT: Map205/events/2/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map187/events/3/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map187/events/3/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/47/pages/0/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/316/Dialogue < UNTRANSLATED
+> CONTEXT: Map106/events/13/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/10/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/10/pages/0/112/Dialogue < UNTRANSLATED
+> CONTEXT: Map105/events/10/pages/0/185/Dialogue < UNTRANSLATED
+> CONTEXT: Map033/events/35/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia...\\|Sis Magaleta is here
+ to visit you again..."
+> CONTEXT: Map205/events/2/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Sorry for taking me so long
+ to come visit you."
+> CONTEXT: Map205/events/2/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am such a selfish sister..."
+> CONTEXT: Map205/events/2/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I have not been able to walk out of the fact
+of your loss.
+> CONTEXT: Map205/events/2/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I just cannot forgive...
+> CONTEXT: Map205/events/2/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Forgive those who left me.
+> CONTEXT: Map205/events/2/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why am I the one alive?
+> CONTEXT: Map205/events/2/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Why tell me to live on?
+> CONTEXT: Map205/events/2/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+How can I do this without you...
+> CONTEXT: Map205/events/2/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I...um..."
+> CONTEXT: Map205/events/2/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, I met a special kid."
+> CONTEXT: Map205/events/2/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Her name is Senia.
+It is like you reappeared in my life!"
+> CONTEXT: Map205/events/2/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"... we live together now."
+> CONTEXT: Map205/events/2/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I thought you came back to me...
+ at first."
+> CONTEXT: Map205/events/2/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"But soon... I realized it is not
+ that simple."
+> CONTEXT: Map205/events/2/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia is a shy and introvert child."
+> CONTEXT: Map205/events/2/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"A complete opposite of Nia, right?"
+> CONTEXT: Map205/events/2/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Even so, I still love her as much as
+ I love you."
+> CONTEXT: Map205/events/2/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am sorry..."
+> CONTEXT: Map205/events/2/pages/0/68/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I am not doing a good job as your sister.
+ Failed to protect you then, and turned
+ the love to you towards someone else now..."
+> CONTEXT: Map205/events/2/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"However, I have made up my mind!"
+> CONTEXT: Map205/events/2/pages/0/76/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I will watch over that kid,
+ take good care of her."
+> CONTEXT: Map205/events/2/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Not treating her as a
+ replacement of Nia."
+> CONTEXT: Map205/events/2/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"But as Senia,
+ another cute sister of mine."
+> CONTEXT: Map205/events/2/pages/0/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"No more hesitation."
+> CONTEXT: Map205/events/2/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"For it may cause another tragedy..."
+> CONTEXT: Map205/events/2/pages/0/94/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Nia, I will visit again sometime."
+> CONTEXT: Map205/events/2/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Don't forget, you are also my lovely sis."
+> CONTEXT: Map205/events/2/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I have lost my sunshine.
+> CONTEXT: Map205/events/2/pages/0/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+I have been walking in the dark.
+> CONTEXT: Map205/events/2/pages/0/106/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+But I will not hesitate anymore.
+> CONTEXT: Map205/events/2/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Because I have found one,
+> CONTEXT: Map205/events/2/pages/0/110/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Dimming,
+But lovely,
+> CONTEXT: Map205/events/2/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Shining \\|\\c[6]star.
+> CONTEXT: Map205/events/2/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING

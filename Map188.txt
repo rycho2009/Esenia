@@ -1,0 +1,61 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+？？？
+「姊姊、姊姊！」
+> CONTEXT: Map188/events/1/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「妮雅，怎麼了？」
+> CONTEXT: Map188/events/1/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+妮雅
+「妳看、妳看，我做了花環喔！」
+> CONTEXT: Map188/events/1/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「呵呵，真可愛的花環呢。」
+> CONTEXT: Map188/events/1/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+妮雅
+「這裡還有一個，是要給姊姊的！」
+> CONTEXT: Map188/events/1/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「嗯。」
+> CONTEXT: Map188/events/1/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自從雙親過世之後
+> CONTEXT: Map188/events/1/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+天真爛漫的妮雅\\!
+是在我心中
+> CONTEXT: Map188/events/1/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那一個...\\|\\C[6]小小的太陽\\C[0]
+> CONTEXT: Map188/events/1/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING

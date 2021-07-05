@@ -1,0 +1,248 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"Phew...phew..."
+> CONTEXT: Map087/events/3/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"It is... my victory..."
+> CONTEXT: Map087/events/3/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis...
+ I am no longer the little girl
+ that needs your protection."
+> CONTEXT: Map087/events/3/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Now... I have the strength...
+ to protect you."
+> CONTEXT: Map087/events/3/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I maybe worrying too much..."
+> CONTEXT: Map087/events/3/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"But I do not like the fact that
+ sis is burdening all the
+ responsibilities alone."
+> CONTEXT: Map087/events/3/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am Senia! Your sister Senia!"
+> CONTEXT: Map087/events/3/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"You are not alone!
+ Sis Magaleta..."
+> CONTEXT: Map087/events/3/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"So please let me share
+ the burden with you."
+> CONTEXT: Map087/events/3/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"You can share anything,
+ everything with me!"
+> CONTEXT: Map087/events/3/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"You have matured a lot."
+> CONTEXT: Map087/events/3/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"You may be right...
+I may have made a huge mistake."
+> CONTEXT: Map087/events/3/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"However, it would not matter
+ if I regret now..."
+> CONTEXT: Map087/events/3/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It is...\\|all too late."
+> CONTEXT: Map087/events/3/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I can no longer...
+ \\|leave the Tower of Eternity..."
+> CONTEXT: Map087/events/3/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"This is... the price for using
+ the power of eternity."
+> CONTEXT: Map087/events/3/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"What? No... NO!"
+> CONTEXT: Map087/events/3/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"There must be some other way!"
+> CONTEXT: Map087/events/3/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Ergh!!"
+> CONTEXT: Map087/events/3/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"What is this..."
+> CONTEXT: Map087/events/3/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Why don't we...
+ Stay in the Tower of Eternity...
+ forever."
+> CONTEXT: Map087/events/3/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No... NO!!"
+> CONTEXT: Map087/events/3/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Ouu-AHHHHH!!"
+> CONTEXT: Map087/events/3/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"We can stick together
+ without leaving this place."
+> CONTEXT: Map087/events/3/pages/0/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Isn't this great? Senia."
+> CONTEXT: Map087/events/3/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Yes, sis Magaleta."
+> CONTEXT: Map087/events/3/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Sis will \\|\\|protect you from anything...\\|\\|\\|\\|\\^"
+> CONTEXT: Map087/events/3/pages/0/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Hint for other ending routes:
+You may have passed areas in Fallen Sanctum.
+> CONTEXT: Map087/events/3/pages/0/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Go back from the Confessional Hall
+and there is a magic circle that can warp you to another area
+which contains the key accessory to access ending \#2 and \#3.
+> CONTEXT: Map087/events/3/pages/0/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Don't forget to have
+the accessory equipped during the final battle.
+> CONTEXT: Map087/events/3/pages/0/190/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Please try to make it to ending \#2 and \#3.
+
+                                                                          Holy Priest
+> CONTEXT: Map087/events/3/pages/0/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「一定想的出辦法的！」
+> CONTEXT: Map087/events/5/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「姐姐？」
+> CONTEXT: Map087/events/5/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING

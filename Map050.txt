@@ -1,0 +1,29 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+賽妮亞
+「贏...贏了...」
+> CONTEXT: Map050/events/24/pages/5/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（嗚！！）
+> CONTEXT: Map050/events/24/pages/5/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（又...又來了...
+　是\\c[6]永恆\\c[0]嗎...）
+> CONTEXT: Map050/events/24/pages/5/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（嗚啊啊啊啊！！）
+> CONTEXT: Map050/events/24/pages/5/20/Dialogue < UNTRANSLATED
+
+> END STRING

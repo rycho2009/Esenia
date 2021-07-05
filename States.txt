@@ -1,0 +1,323 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+戦闘不能
+> CONTEXT: States/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は倒れた！
+> CONTEXT: States/1/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を倒した！
+> CONTEXT: States/1/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は立ち上がった！
+> CONTEXT: States/1/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+毒
+> CONTEXT: States/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は毒に冒された！
+> CONTEXT: States/2/message1/ < UNTRANSLATED
+> CONTEXT: States/2/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の毒が消えた！
+> CONTEXT: States/2/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暗闇
+> CONTEXT: States/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は暗闇に閉ざされた！
+> CONTEXT: States/3/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を暗闇に閉ざした！
+> CONTEXT: States/3/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の暗闇が消えた！
+> CONTEXT: States/3/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+沈黙
+> CONTEXT: States/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は魔法を封じ込まれた！
+> CONTEXT: States/4/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の魔法を封じ込めた！
+> CONTEXT: States/4/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の魔法封じが解けた！
+> CONTEXT: States/4/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+混乱
+> CONTEXT: States/5/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は混乱してしまった！
+> CONTEXT: States/5/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を混乱させた！
+> CONTEXT: States/5/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は我に返った！
+> CONTEXT: States/5/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+睡眠
+> CONTEXT: States/6/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は眠ってしまった！
+> CONTEXT: States/6/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を眠らせた！
+> CONTEXT: States/6/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は眠っている……
+> CONTEXT: States/6/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は目を覚ました！
+> CONTEXT: States/6/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+麻痺
+> CONTEXT: States/7/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はしびれて動けなくなった！
+> CONTEXT: States/7/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+を麻痺させた！
+> CONTEXT: States/7/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は体がしびれて動けない！
+> CONTEXT: States/7/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の麻痺が解けた！
+> CONTEXT: States/7/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+スタン
+> CONTEXT: States/8/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はバランスを崩した！
+> CONTEXT: States/8/message1/ < UNTRANSLATED
+> CONTEXT: States/8/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+はバランスを崩している……
+> CONTEXT: States/8/message3/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は体勢を立て直した！
+> CONTEXT: States/8/message4/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: States/9/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不死身
+> CONTEXT: States/10/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+かばう
+> CONTEXT: States/11/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+挑発
+> CONTEXT: States/12/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+隠れる
+> CONTEXT: States/13/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+HP再生
+> CONTEXT: States/14/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+MP再生
+> CONTEXT: States/15/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+TP再生
+> CONTEXT: States/16/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+鉄壁
+> CONTEXT: States/17/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+反撃
+> CONTEXT: States/18/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法回避
+> CONTEXT: States/19/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+魔法反射
+> CONTEXT: States/20/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+炎の力
+> CONTEXT: States/21/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は炎の力を身にまとった。
+> CONTEXT: States/21/message1/ < UNTRANSLATED
+> CONTEXT: States/21/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+氷の力
+> CONTEXT: States/22/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は氷の力を身にまとった。
+> CONTEXT: States/22/message1/ < UNTRANSLATED
+> CONTEXT: States/22/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+雷の力
+> CONTEXT: States/23/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+は雷の力を身にまとった。
+> CONTEXT: States/23/message1/ < UNTRANSLATED
+> CONTEXT: States/23/message2/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+異常防止
+> CONTEXT: States/24/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+消費MP減
+> CONTEXT: States/25/name/ < UNTRANSLATED
+
+> END STRING

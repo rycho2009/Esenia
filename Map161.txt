@@ -1,0 +1,45 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+惡魔領域‧惡魔領主
+> CONTEXT: Map161/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Lord
+> CONTEXT: Map161/events/38/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Ruler of the Demon Frontier."
+> CONTEXT: Map161/events/38/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"A boss that took me quite a while to complete.
+I would like it to be a fight as intense as the
+Fairy Queen Malphiq, if not more."
+> CONTEXT: Map161/events/38/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"Senia will have to dodge all kinds of attacks
+ like meteor, golems, claws...
+ while finding chance to deliver damage."
+> CONTEXT: Map161/events/38/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Holy Priest
+"It would be great if you feel challenging but yet
+ amusing, and want to repeat the fight."
+> CONTEXT: Map161/events/38/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Acquired \\i[180]Health Neckless
+> CONTEXT: Map127/events/14/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING

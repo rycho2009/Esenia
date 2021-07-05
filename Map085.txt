@@ -1,0 +1,14 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Castle
+> CONTEXT: Map085/display_name/ < UNTRANSLATED
+> CONTEXT: Map032/display_name/ < UNTRANSLATED
+> CONTEXT: Commonevents/75/14/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Demon Frontier - Castle  waypoint activated.
+> CONTEXT: Map085/events/60/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

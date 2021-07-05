@@ -1,0 +1,53 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"What is this place...!?"
+> CONTEXT: Map192/events/5/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(This place has a completely
+ different atmosphere...)
+> CONTEXT: Map192/events/5/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(If this really is created by sis...)
+> CONTEXT: Map192/events/5/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(She turned such a beautiful
+ sanctum into this...)
+> CONTEXT: Map192/events/5/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+(With the power of eternity...
+ Does it mean...?)
+> CONTEXT: Map192/events/5/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis, are you scared, too?"
+> CONTEXT: Map192/events/5/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis, I am coming for you right
+ now. Wait for me."
+> CONTEXT: Map192/events/5/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING

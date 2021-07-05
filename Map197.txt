@@ -1,0 +1,16 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Sanctum Corridor
+> CONTEXT: Map197/display_name/ < UNTRANSLATED
+> CONTEXT: Map193/display_name/ < UNTRANSLATED
+> CONTEXT: Map190/display_name/ < UNTRANSLATED
+> CONTEXT: Map042/display_name/ < UNTRANSLATED
+> CONTEXT: Commonevents/69/14/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Sanctum Corridor waypoint activated.
+> CONTEXT: Map197/events/3/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

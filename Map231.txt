@@ -1,0 +1,34 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Holy Chamber
+> CONTEXT: Map231/display_name/ < UNTRANSLATED
+> CONTEXT: Map230/display_name/ < UNTRANSLATED
+> CONTEXT: Map229/display_name/ < UNTRANSLATED
+> CONTEXT: Map228/display_name/ < UNTRANSLATED
+> CONTEXT: Map226/display_name/ < UNTRANSLATED
+> CONTEXT: Map227/display_name/ < UNTRANSLATED
+> CONTEXT: Map225/display_name/ < UNTRANSLATED
+> CONTEXT: Map224/display_name/ < UNTRANSLATED
+> CONTEXT: Map223/display_name/ < UNTRANSLATED
+> CONTEXT: Map222/display_name/ < UNTRANSLATED
+> CONTEXT: Map221/display_name/ < UNTRANSLATED
+> CONTEXT: Map220/display_name/ < UNTRANSLATED
+> CONTEXT: Map219/display_name/ < UNTRANSLATED
+> CONTEXT: Map218/display_name/ < UNTRANSLATED
+> CONTEXT: Map176/display_name/ < UNTRANSLATED
+> CONTEXT: Map174/display_name/ < UNTRANSLATED
+> CONTEXT: Map173/display_name/ < UNTRANSLATED
+> CONTEXT: Map172/display_name/ < UNTRANSLATED
+> CONTEXT: Map171/display_name/ < UNTRANSLATED
+> CONTEXT: Map170/display_name/ < UNTRANSLATED
+> CONTEXT: Map169/display_name/ < UNTRANSLATED
+> CONTEXT: Map060/display_name/ < UNTRANSLATED
+> CONTEXT: Commonevents/69/43/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired Amethyst.
+> CONTEXT: Map231/events/2/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING

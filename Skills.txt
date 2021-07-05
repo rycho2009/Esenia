@@ -1,0 +1,56 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+攻撃
+> CONTEXT: Skills/1/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+敵単体にダメージを与える。
+> CONTEXT: Skills/1/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+の攻撃！
+> CONTEXT: Skills/1/message1/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[Q]幻影突襲
+> CONTEXT: Skills/2/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞高速向前方衝鋒，對接觸到的目標造成傷害，衝鋒期間可抵檔遠距離攻擊。
+> CONTEXT: Skills/2/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[W]閃光躍擊
+> CONTEXT: Skills/3/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞使勁揮動雙手劍，向前方射出一道衝擊波。
+> CONTEXT: Skills/3/description/ < UNTRANSLATED
+> CONTEXT: Skills/4/description/ < UNTRANSLATED
+> CONTEXT: Skills/5/description/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[E]精靈衝擊
+> CONTEXT: Skills/4/name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+[R]狂氣覺醒
+> CONTEXT: Skills/5/name/ < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,13 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Confession Corridor
+> CONTEXT: Map217/display_name/ < UNTRANSLATED
+> CONTEXT: Map202/display_name/ < UNTRANSLATED
+> CONTEXT: Map201/display_name/ < UNTRANSLATED
+> CONTEXT: Map198/display_name/ < UNTRANSLATED
+> CONTEXT: Map195/display_name/ < UNTRANSLATED
+> CONTEXT: Map194/display_name/ < UNTRANSLATED
+> CONTEXT: Map163/display_name/ < UNTRANSLATED
+> CONTEXT: Commonevents/69/43/Choice/0 < UNTRANSLATED
+
+> END STRING

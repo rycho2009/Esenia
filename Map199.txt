@@ -1,0 +1,29 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"J"
+> CONTEXT: Map199/events/19/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map203/events/55/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map199/events/20/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map203/events/56/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map199/events/21/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map203/events/63/pages/4/5/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map199/events/24/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map203/events/64/pages/4/5/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map199/events/25/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map203/events/71/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map199/events/26/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map203/events/73/pages/5/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map145/events/24/pages/8/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map145/events/28/pages/8/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map145/events/41/pages/8/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map145/events/53/pages/8/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map137/events/9/pages/6/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map137/events/12/pages/6/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map137/events/40/pages/6/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map137/events/42/pages/6/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map012/events/24/pages/8/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map012/events/28/pages/8/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map012/events/41/pages/8/4/InlineScript/3:41 < UNTRANSLATED
+> CONTEXT: Map012/events/53/pages/8/4/InlineScript/3:41 < UNTRANSLATED
+
+> END STRING

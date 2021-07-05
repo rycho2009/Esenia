@@ -1,0 +1,39 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Force Realm
+> CONTEXT: Map130/display_name/ < UNTRANSLATED
+> CONTEXT: Map128/display_name/ < UNTRANSLATED
+> CONTEXT: Map127/display_name/ < UNTRANSLATED
+> CONTEXT: Map126/display_name/ < UNTRANSLATED
+> CONTEXT: Map125/display_name/ < UNTRANSLATED
+> CONTEXT: Map124/display_name/ < UNTRANSLATED
+> CONTEXT: Map123/display_name/ < UNTRANSLATED
+> CONTEXT: Map121/display_name/ < UNTRANSLATED
+> CONTEXT: Map122/display_name/ < UNTRANSLATED
+> CONTEXT: Map120/display_name/ < UNTRANSLATED
+> CONTEXT: Map119/display_name/ < UNTRANSLATED
+> CONTEXT: Map118/display_name/ < UNTRANSLATED
+> CONTEXT: Map117/display_name/ < UNTRANSLATED
+> CONTEXT: Map116/display_name/ < UNTRANSLATED
+> CONTEXT: Map114/display_name/ < UNTRANSLATED
+> CONTEXT: Map115/display_name/ < UNTRANSLATED
+> CONTEXT: Map113/display_name/ < UNTRANSLATED
+> CONTEXT: Map112/display_name/ < UNTRANSLATED
+> CONTEXT: Map111/display_name/ < UNTRANSLATED
+> CONTEXT: Map110/display_name/ < UNTRANSLATED
+> CONTEXT: Map109/display_name/ < UNTRANSLATED
+> CONTEXT: Map040/display_name/ < UNTRANSLATED
+> CONTEXT: Map038/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Acquired \\I[347]Elite Demon Stone
+> CONTEXT: Map130/events/38/pages/3/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map130/events/38/pages/3/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/14/pages/0/20/Dialogue < UNTRANSLATED
+> CONTEXT: Map127/events/14/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map128/events/2/pages/5/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map128/events/2/pages/5/17/Dialogue < UNTRANSLATED
+
+> END STRING

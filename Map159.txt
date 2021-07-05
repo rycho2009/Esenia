@@ -1,0 +1,9 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+Senia
+"Wait!"
+> CONTEXT: Map159/events/1/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map159/events/3/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map159/events/4/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING

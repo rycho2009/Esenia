@@ -1,0 +1,494 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+精靈之森‧廢噓
+> CONTEXT: Map158/display_name/ < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「瑪嘉雷特姊姊！
+　太好了！終於找到妳了！」
+> CONTEXT: Map158/events/5/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我們一起……」
+> CONTEXT: Map158/events/5/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「瑪嘉雷特姐姐…？」
+> CONTEXT: Map158/events/5/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特（？）
+「…………」
+> CONTEXT: Map158/events/5/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「…！！」
+> CONTEXT: Map158/events/5/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「嗚！！」
+> CONTEXT: Map158/events/5/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/5/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（好痛…）\\|\\|\\^
+> CONTEXT: Map158/events/5/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（怎麼回事…）\\|\\|\\^
+> CONTEXT: Map158/events/5/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+\\.（\\.意\\.識\\.…\\|\\|漸\\.漸\\.模\\.糊\\.了\\.…\\.）\\|\\^
+> CONTEXT: Map158/events/5/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「賽妮亞！醒醒啊！」
+> CONTEXT: Map158/events/5/pages/2/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「…………」
+> CONTEXT: Map158/events/5/pages/2/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map158/events/5/pages/2/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/70/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/70/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/16/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map034/events/18/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/70/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/70/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「…我昏過去了？」
+> CONTEXT: Map158/events/5/pages/2/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「是呀！
+　看到妳倒在地上的時候快嚇死我了！」
+> CONTEXT: Map158/events/5/pages/2/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（剛才…發生了什麼事？）
+> CONTEXT: Map158/events/5/pages/2/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（我記得…\\|
+　我遇到了姐姐…\\|然後…）\\|
+> CONTEXT: Map158/events/5/pages/2/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（…！！）
+> CONTEXT: Map158/events/5/pages/2/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「不、不可能的……姊姊怎麼會……」
+> CONTEXT: Map158/events/5/pages/2/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「為什麼……這不是真的……」
+> CONTEXT: Map158/events/5/pages/2/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「嗚……嗚嗚……」
+> CONTEXT: Map158/events/5/pages/2/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「賽妮亞…」
+> CONTEXT: Map158/events/5/pages/2/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map158/events/5/pages/2/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「我想…
+　那可能不是妳姐姐的本意…」
+> CONTEXT: Map158/events/5/pages/2/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「……？」
+> CONTEXT: Map158/events/5/pages/2/63/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「\\C[6]【永恆】\\C[0]」
+> CONTEXT: Map158/events/5/pages/2/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「那是只存在永恆之塔的能量」
+> CONTEXT: Map158/events/5/pages/2/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「是一個非常強大的能量」
+> CONTEXT: Map158/events/5/pages/2/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「傳說中，只要能夠掌握這個永恆…\\!
+　就能夠\\C[6]實現任何願望\\C[0]」
+> CONTEXT: Map158/events/5/pages/2/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「相反的，如果無法掌握它…」
+> CONTEXT: Map158/events/5/pages/2/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「就會被永恆給\\C[6]吞噬\\C[0]…\\!
+　變成失去心智的傀儡…」
+> CONTEXT: Map158/events/5/pages/2/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「！！」
+> CONTEXT: Map158/events/5/pages/2/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/15/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/22/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map145/events/73/pages/2/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/15/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/22/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「妳的說…
+　姐姐可能已經被永恆給吞噬了？」
+> CONTEXT: Map158/events/5/pages/2/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「這只是我的猜測…\\!
+　但如果真的是如此的話…」
+> CONTEXT: Map158/events/5/pages/2/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「一但被永恆吞噬的人…\\!
+　就再也無法恢復原來的樣子…」
+> CONTEXT: Map158/events/5/pages/2/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「………」
+> CONTEXT: Map158/events/5/pages/2/101/Dialogue < UNTRANSLATED
+> CONTEXT: Map142/events/32/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/32/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「不能…恢復了？」
+> CONTEXT: Map158/events/5/pages/2/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「嗯……」
+> CONTEXT: Map158/events/5/pages/2/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「……………」
+> CONTEXT: Map158/events/5/pages/2/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我……」
+> CONTEXT: Map158/events/5/pages/2/115/Dialogue < UNTRANSLATED
+> CONTEXT: Map033/events/35/pages/1/73/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「嗯？」
+> CONTEXT: Map158/events/5/pages/2/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（已經不想回到那孤單一人的教堂了……）
+> CONTEXT: Map158/events/5/pages/2/121/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+（不想……再變成一個人……）
+> CONTEXT: Map158/events/5/pages/2/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我要…再去找姊姊……」
+> CONTEXT: Map158/events/5/pages/2/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「無論姊姊是否真的變成妳所說的那樣…
+　我都不可能棄之不顧。」
+> CONTEXT: Map158/events/5/pages/2/132/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「妳不害怕嗎？」
+> CONTEXT: Map158/events/5/pages/2/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「如果她真的被永恆吞噬了
+　很可能會再一次的攻擊妳呀」
+> CONTEXT: Map158/events/5/pages/2/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「到時候妳可能
+　會被姐姐親手殺掉呀…」
+> CONTEXT: Map158/events/5/pages/2/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「嗯。」
+> CONTEXT: Map158/events/5/pages/2/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我要是在這裡退縮了
+　那我將會永遠失去姊姊…」
+> CONTEXT: Map158/events/5/pages/2/154/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「……」
+> CONTEXT: Map158/events/5/pages/2/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「我決定了！」
+> CONTEXT: Map158/events/5/pages/2/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「我要跟著賽妮亞一起行動！」
+> CONTEXT: Map158/events/5/pages/2/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「咦！？」
+> CONTEXT: Map158/events/5/pages/2/169/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「我想幫助妳找到姐姐！」
+> CONTEXT: Map158/events/5/pages/2/172/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「……謝謝妳」
+> CONTEXT: Map158/events/5/pages/2/175/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「可是…你的女王要怎麼辦？」
+> CONTEXT: Map158/events/5/pages/2/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「…………」
+> CONTEXT: Map158/events/5/pages/2/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「啊啊！！對呀！
+　得趕緊找到女王才行啊！」
+> CONTEXT: Map158/events/5/pages/2/188/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「雖然我跟妳約定過
+　要幫妳找到女王…」
+> CONTEXT: Map158/events/5/pages/2/192/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「但無論如何…
+　我都會以姊姊的事為優先…」
+> CONTEXT: Map158/events/5/pages/2/196/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「這樣子可以嗎？」
+> CONTEXT: Map158/events/5/pages/2/200/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「那是當然了！」
+> CONTEXT: Map158/events/5/pages/2/203/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「找到女王的時候
+　我會問女王大人有沒有見過賽妮亞姊姊的！」
+> CONTEXT: Map158/events/5/pages/2/206/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「嗯…真的很謝謝妳……」
+> CONTEXT: Map158/events/5/pages/2/210/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+賽妮亞
+「我們…出發吧！」
+> CONTEXT: Map158/events/5/pages/2/213/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈
+「好！」
+> CONTEXT: Map158/events/5/pages/2/216/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小精靈加入隊伍了！
+> CONTEXT: Map158/events/5/pages/2/226/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,422 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+【懺悔室前】傳送點已開啟
+> CONTEXT: Map143/events/7/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"!!!"
+> CONTEXT: Map143/events/8/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/1/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/67/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis! What are you doing?
+ Open the door!!"
+> CONTEXT: Map143/events/8/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta!!"
+> CONTEXT: Map143/events/8/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/564/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sob* Sob*"
+> CONTEXT: Map143/events/8/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia..."
+> CONTEXT: Map143/events/8/pages/0/46/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/23/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/308/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/390/Dialogue < UNTRANSLATED
+> CONTEXT: Map090/events/3/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/501/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis!"
+> CONTEXT: Map143/events/8/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why are you apologizing..."
+> CONTEXT: Map143/events/8/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It seems like we cannot go back to our church together..."
+> CONTEXT: Map143/events/8/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"There must be some other way! Don't give up now!"
+> CONTEXT: Map143/events/8/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No... stop saying sorry. Come back to me, sis!"
+> CONTEXT: Map143/events/8/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia, listen..."
+> CONTEXT: Map143/events/8/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"No! NO! Just open the door first,
+ I will listen to whatever you want to say later."
+> CONTEXT: Map143/events/8/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia, you've grown stronger.
+ Both physically and mentally."
+> CONTEXT: Map143/events/8/pages/0/93/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am not strong, not at all..."
+> CONTEXT: Map143/events/8/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"You have grown up...
+ You are no longer the little girl
+ that needs my protection."
+> CONTEXT: Map143/events/8/pages/0/100/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"That is not true!"
+> CONTEXT: Map143/events/8/pages/0/105/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I would not have made this far without sis!"
+> CONTEXT: Map143/events/8/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"So... please... stay with me...
+Do not leave me alone, ever again..."
+> CONTEXT: Map143/events/8/pages/0/111/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia, you made it this far with your own strength."
+> CONTEXT: Map143/events/8/pages/0/115/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"You have surprised me with your growth.
+ You did a great job, Senia!"
+> CONTEXT: Map143/events/8/pages/0/118/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Not true...
+I am nobody without sis."
+> CONTEXT: Map143/events/8/pages/0/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia, you may not realize,
+ but you have a stronger mind than I do."
+> CONTEXT: Map143/events/8/pages/0/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"I am not strong at all! Sis!!!"
+> CONTEXT: Map143/events/8/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I have been watching you. You sure did surpass me."
+> CONTEXT: Map143/events/8/pages/0/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Simply looking at you,
+ I can tell that you will never give up."
+> CONTEXT: Map143/events/8/pages/0/136/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis Magaleta, just open the door first!
+Why are you saying all these... last words?
+It is not like we are bidding farewell."
+> CONTEXT: Map143/events/8/pages/0/140/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia, you are strong and beautiful like a shining star."
+> CONTEXT: Map143/events/8/pages/0/145/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"My one and only, shining star."
+> CONTEXT: Map143/events/8/pages/0/148/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis... Sob*
+Stop all these nonsense... Just open the door..."
+> CONTEXT: Map143/events/8/pages/0/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Just come back to me..."
+> CONTEXT: Map143/events/8/pages/0/155/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia, I love you.
+ You are the most important person to me."
+> CONTEXT: Map143/events/8/pages/0/158/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Senia?"
+> CONTEXT: Map143/events/8/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"... I love you, too, sis..."
+> CONTEXT: Map143/events/8/pages/0/168/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"That said, would you live on and stay alive for me?"
+> CONTEXT: Map143/events/8/pages/0/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Wh-what?
+In that case...
+Shouldn't you live on for me as well?"
+> CONTEXT: Map143/events/8/pages/0/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I would... if I could..."
+> CONTEXT: Map143/events/8/pages/0/179/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"That is not fair... sis!"
+> CONTEXT: Map143/events/8/pages/0/182/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Why? Why are you giving up now!"
+> CONTEXT: Map143/events/8/pages/0/185/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"The least I can do is keeping my first promise to you..."
+> CONTEXT: Map143/events/8/pages/0/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"What promise? It does not matter!
+ As long as sis returns to church with me,
+ nothing else matters!"
+> CONTEXT: Map143/events/8/pages/0/194/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I can't..."
+> CONTEXT: Map143/events/8/pages/0/199/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"There are so much more... I would love to tell you..."
+> CONTEXT: Map143/events/8/pages/0/202/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Tell me then!! Sis! What's wrong? Open the door!!!"
+> CONTEXT: Map143/events/8/pages/0/205/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"It seems like... I am running out of time..."
+> CONTEXT: Map143/events/8/pages/0/208/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Sis! No! Wait! Sis!!!"
+> CONTEXT: Map143/events/8/pages/0/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"I... love... you..."
+> CONTEXT: Map143/events/8/pages/0/214/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Don't... don't leave me..."
+> CONTEXT: Map143/events/8/pages/0/217/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Magaleta
+"Farewell... Senia..."
+> CONTEXT: Map143/events/8/pages/0/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia
+"Magaleta!"
+> CONTEXT: Map143/events/8/pages/0/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia never stopped knocking on the door...
+> CONTEXT: Map143/events/8/pages/0/230/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Even when the space is starting to fall apart,
+> CONTEXT: Map143/events/8/pages/0/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Even when Magaleta has stopped responding long ago,
+> CONTEXT: Map143/events/8/pages/0/234/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Knocked and knocked till her hands are numb,
+> CONTEXT: Map143/events/8/pages/0/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Screamed till her voice is gone,
+> CONTEXT: Map143/events/8/pages/0/238/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Senia never stopped.
+Until...
+> CONTEXT: Map143/events/8/pages/0/240/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+Everything disappeared.
+> CONTEXT: Map143/events/8/pages/0/243/Dialogue < UNTRANSLATED
+
+> END STRING

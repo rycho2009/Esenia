@@ -1,0 +1,6 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+獲得\\I[227]「爆擊心得殘篇1章 x 3」
+> CONTEXT: Map089/events/1/pages/3/22/Dialogue < UNTRANSLATED
+
+> END STRING

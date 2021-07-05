@@ -1,0 +1,43 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+賽妮亞
+「瑪嘉雷特姐姐」
+> CONTEXT: Map041/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/41/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/41/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瑪嘉雷特
+「沒事了，不用害怕了哦」
+> CONTEXT: Map041/events/3/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/38/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/41/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map041/events/41/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]妮雅 \\C[2]妮雅 \\C[3]妮雅 \\C[4]妮雅
+\\C[5]妮雅 \\C[6]妮雅 \\C[7]妮雅 \\C[8]妮雅
+\\C[9]妮雅 \\C[10]妮雅 \\C[11]妮雅 \\C[12]妮雅
+> CONTEXT: Map041/events/39/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[1]永恆 \\C[2]永恆 \\C[3]永恆 \\C[4]永恆
+\\C[5]永恆 \\C[6]永恆 \\C[7]永恆 \\C[8]永恆
+\\C[9]永恆 \\C[10]永恆 \\C[11]永恆 \\C[12]永恆
+> CONTEXT: Map041/events/40/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+\\C[6]永恆 \\C[7]永恆 \\C[8]永恆 \\C[9]永恆
+\\C[10]永恆 \\C[11]永恆 \\C[12]永恆 \\C[13]永恆
+\\C[14]永恆 \\C[15]永恆 \\C[16]永恆 \\C[17]永恆
+> CONTEXT: Map041/events/40/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
