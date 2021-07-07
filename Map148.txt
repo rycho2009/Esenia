@@ -4,6 +4,7 @@ Senia
 "So this is... the Tower of
  Eternity...?"
 > CONTEXT: Map148/events/32/pages/0/24/Dialogue
+> CONTEXT: 1Map148/events/32/pages/0/24/Dialogue
 Senia
 "Więc to jest... Wieża
  Wieczności...?"
@@ -13,6 +14,7 @@ Senia
 Senia
 "Are you really here, sis...?"
 > CONTEXT: Map148/events/32/pages/0/28/Dialogue
+> CONTEXT: 1Map148/events/32/pages/0/28/Dialogue
 Senia
 "Naprawdę tu jesteś,
  siostro...?"
@@ -22,6 +24,7 @@ Senia
 Senia
 (Takes a deep breath.)
 > CONTEXT: Map148/events/32/pages/0/34/Dialogue
+> CONTEXT: 1Map148/events/32/pages/0/34/Dialogue
 Senia
 (Bierze głęboki wdech.)
 > END STRING
@@ -30,6 +33,7 @@ Senia
 Senia
 "I am ready!"
 > CONTEXT: Map148/events/32/pages/0/37/Dialogue
+> CONTEXT: 1Map148/events/32/pages/0/37/Dialogue
 Senia
 "Jestem gotowa!"
 > END STRING

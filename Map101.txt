@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Corridor of Wisdom - BOSS
-> CONTEXT: Map101/display_name/ < UNTRANSLATED
-
+> CONTEXT: Map101/display_name/
+Korytarz Mądrości - BOSS
 > END STRING
 
 > BEGIN STRING
@@ -37,45 +37,54 @@ Senia
 > BEGIN STRING
 Senia
 "What was that...!?"
-> CONTEXT: Map101/events/26/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/26/pages/0/7/Dialogue
+Senia
+"Co to było...!?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "It is Magaleta's cross pendant!
  It is... glowing?"
-> CONTEXT: Map101/events/26/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/26/pages/0/10/Dialogue
+Senia
+"To krzyż Magalety!
+ On... świeci?"
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "Damn!"
-> CONTEXT: Map101/events/26/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/26/pages/0/14/Dialogue
+Sukub Celith
+"Szlag!"
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "Hey, don't stare at me with that face..."
-> CONTEXT: Map101/events/26/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/26/pages/0/20/Dialogue
+Sukub Celith
+"Hej, nie patrz się na mnie z taką twarzą..."
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "I was inches away from a fat deal.
 I would be lying if I say I am not enraged."
-> CONTEXT: Map101/events/26/pages/0/23/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/26/pages/0/23/Dialogue
+Sukub Celith
+"Byłam centymetry od grubego biznesu.
+ Skłamałabym, gdybym powiedziała, że nie jestem
+ wściekła."
 > END STRING
 
 > BEGIN STRING
 Senia
 "You...!"
-> CONTEXT: Map101/events/26/pages/0/27/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/26/pages/0/27/Dialogue
+Senia
+"Ty...!"
 > END STRING
 
 > BEGIN STRING
@@ -83,14 +92,19 @@ Succubus Celith
 "Well, I did not intend to use force.
  It would be a pity if I break the little toy,
  you know?"
-> CONTEXT: Map101/events/26/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/26/pages/0/30/Dialogue
+Sukub Celith
+"Well, I did not intend to use force.
+ It would be a pity if I break the little toy,
+ you know?"
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "But it looks like I will have to
  take it with force and fix it afterwards."
-> CONTEXT: Map101/events/26/pages/0/35/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/26/pages/0/35/Dialogue
+Sukub Celith
+"But it looks like I will have to
+ take it with force and fix it afterwards."
 > END STRING

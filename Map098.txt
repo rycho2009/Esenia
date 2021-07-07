@@ -33,9 +33,9 @@ go
 
 > BEGIN STRING
 Acquired \\I[224]Book of Defense Ch. 2
-> CONTEXT: Map098/events/25/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map091/events/10/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map049/events/3/pages/0/8/Dialogue < UNTRANSLATED
-> CONTEXT: Map043/events/87/pages/0/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map098/events/25/pages/0/8/Dialogue
+> CONTEXT: Map091/events/10/pages/0/8/Dialogue
+> CONTEXT: Map049/events/3/pages/0/8/Dialogue
+> CONTEXT: Map043/events/87/pages/0/8/Dialogue
+Otrzymano \\I[224]Księgę Obrony II
 > END STRING

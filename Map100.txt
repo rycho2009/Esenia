@@ -1,18 +1,18 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Corridor of Wisdom
-> CONTEXT: Map100/display_name/ < UNTRANSLATED
-> CONTEXT: Map099/display_name/ < UNTRANSLATED
-> CONTEXT: Map098/display_name/ < UNTRANSLATED
-> CONTEXT: Map097/display_name/ < UNTRANSLATED
-> CONTEXT: Map096/display_name/ < UNTRANSLATED
-> CONTEXT: Map095/display_name/ < UNTRANSLATED
-> CONTEXT: Map094/display_name/ < UNTRANSLATED
-> CONTEXT: Map093/display_name/ < UNTRANSLATED
-> CONTEXT: Map092/display_name/ < UNTRANSLATED
-> CONTEXT: Map044/display_name/ < UNTRANSLATED
-> CONTEXT: Map037/display_name/ < UNTRANSLATED
-
+> CONTEXT: Map100/display_name/
+> CONTEXT: Map099/display_name/
+> CONTEXT: Map098/display_name/
+> CONTEXT: Map097/display_name/
+> CONTEXT: Map096/display_name/
+> CONTEXT: Map095/display_name/
+> CONTEXT: Map094/display_name/
+> CONTEXT: Map093/display_name/
+> CONTEXT: Map092/display_name/
+> CONTEXT: Map044/display_name/
+> CONTEXT: Map037/display_name/
+Korytarz Mądrości
 > END STRING
 
 > BEGIN STRING
@@ -85,7 +85,8 @@ are my dearest little sister Senia."
 > CONTEXT: Map100/events/1/pages/0/57/Dialogue
 Magaleta
 "Jestem Magaleta, a ty...
-moją najdroższą młodszą siostrzyczką Senią."
+moją najdroższą młodszą siostrzyczką 
+Senią."
 > END STRING
 
 > BEGIN STRING
@@ -96,8 +97,8 @@ Magaleta
 > CONTEXT: Map100/events/1/pages/0/61/Dialogue
 Magaleta
 "Już chodź!
- Senia, to musiało być dla ciebie ciężkie,
- że dotarłaś tak daleko sama."
+ Senia, to musiało być dla ciebie trudne,
+ dotrzeć tak daleko samej."
 > END STRING
 
 > BEGIN STRING
@@ -136,23 +137,28 @@ Magaleta(?)
 > BEGIN STRING
 Succubus Celith
 "I spoke true to your desire."
-> CONTEXT: Map100/events/1/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/1/Dialogue
+Sukub Celith
+"Spełniłam twoje życzenie."
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "You know it better than anyone else that it is not possible.
  Yet you never gave up the desire. Poor little kid!"
-> CONTEXT: Map100/events/1/pages/1/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/4/Dialogue
+Sukub Celith
+"Wiesz lepiej niż ktokolwiek inny, że to nie jest możliwe.
+ A jednak nigdy nie porzuciłaś tego pragnienia.
+ Biedne dziecię!"
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "Hehehe..."
-> CONTEXT: Map100/events/1/pages/1/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/11/Dialogue
+Sukub Celith
+"Hehehe..."
 > END STRING
 
 > BEGIN STRING
@@ -160,112 +166,124 @@ Succubus Celith
 "I know your wish.
  You wish that one day, you will replace her real sister.
  And become THE ONLY sister of Magaleta, right?"
-> CONTEXT: Map100/events/1/pages/1/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/14/Dialogue
+Sukub Celith
+"Znam twoje pragnienie.
+ Pewnego dnia, chcesz zastąpić jej prawdziwą siostrę.
+ I zostać JEDYNĄ siostrą Magalety, prawda?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "No, that is not what I..."
-> CONTEXT: Map100/events/1/pages/1/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/19/Dialogue
+Senia
+"Nie, to nie jest to co..."
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "Oh really?
  Then what is that desire I saw in your mind?"
-> CONTEXT: Map100/events/1/pages/1/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/22/Dialogue
+Sukub Celith
+"Oh naprawdę?
+ Zatem co to jest za pragnienie, które widziałam
+ w twojej głowie?"
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "What a naive little kid...hehe."
 > CONTEXT: Map100/events/1/pages/1/30/Dialogue
-Succubus Celith
-"Co za naiwne małe dziecko...hehe."
+Sukub Celith
+"Co za naiwne małe dziecko... hehe."
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "Aren't you just an orphan Magaleta randomly
  picked up on the street?"
-> CONTEXT: Map100/events/1/pages/1/33/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/33/Dialogue
+Sukub Celith
+"Czy nie jesteś tylko sierotą, którą Magaleta
+ przypadkowo zgarnęła z ulicy?"
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "Just lived a few years together..."
-> CONTEXT: Map100/events/1/pages/1/40/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-Succubus Celith
-"And you think you can replace her real sister,
- \\c[6]Nia\\c[0]? What a joke!"
-> CONTEXT: Map100/events/1/pages/1/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/40/Dialogue
+Sukub Celith
+"Przeżyłyście razem kilka lat..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "...I just..."
-> CONTEXT: Map100/events/1/pages/1/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/51/Dialogue
+Senia
+"...Ja tylko..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "I am not..."
-> CONTEXT: Map100/events/1/pages/1/54/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/54/Dialogue
+Senia
+"Ja nie..."
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "But..."
-> CONTEXT: Map100/events/1/pages/1/57/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/57/Dialogue
+Sukub Celith
+"Ale..."
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "Your wish can be made true!"
-> CONTEXT: Map100/events/1/pages/1/60/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/60/Dialogue
+Sukub Celith
+"Twoje życzenie może stać się prawdą!"
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "With succubus power,
  it isn't all that impossible."
-> CONTEXT: Map100/events/1/pages/1/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/64/Dialogue
+Sukub Celith
+"Z mocą sukuba,
+ to nie jest takie niemożliwe."
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "Senia, I can make you 'the sister' of Magaleta.
  A more important person to her than Nia."
-> CONTEXT: Map100/events/1/pages/1/68/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/68/Dialogue
+Sukub Celith
+"Senia, mogę cię uczynić 'siostrą' Magalety.
+ Ważniejszą dla niej osobą niż Nia."
 > END STRING
 
 > BEGIN STRING
 Senia
 (More important... than Nia...)
-> CONTEXT: Map100/events/1/pages/1/73/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/73/Dialogue
+Senia
+(Ważniejsza... niż Nia...)
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "All I ask in return is your blood."
-> CONTEXT: Map100/events/1/pages/1/76/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/76/Dialogue
+Sukub Celith
+"Wszystko czego chcę w zamian to twoja krew."
 > END STRING
 
 > BEGIN STRING
@@ -279,13 +297,25 @@ Senia
 > BEGIN STRING
 Succubus Celith
 "Not a bad deal, eh? Just some blood."
-> CONTEXT: Map100/events/1/pages/1/83/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map100/events/1/pages/1/83/Dialogue
+Sukub Celith
+"Niezła oferta, co? Tylko trochę krwi."
 > END STRING
 
 > BEGIN STRING
 Succubus Celith
 "There is nothing to lose, right?"
-> CONTEXT: Map100/events/1/pages/1/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/1/89/Dialogue
+Sukub Celith
+"Nie masz nic do stracenia, prawda?"
+> END STRING
 
+> BEGIN STRING
+Succubus Celith
+"And you think you can replace her real sister,
+ \\c[6]Nia\\c[0]? What a joke!"
+> CONTEXT: Map100/events/1/pages/1/43/Dialogue
+Sukub Celith
+"A ty myślisz, że możesz zastąpić jej prawdziwą
+ siostrę, \\c[6]Nię\\c[0]? Co za żart!"
 > END STRING

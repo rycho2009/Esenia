@@ -5,8 +5,8 @@
                              You will grab every treasure possible.
 
 > CONTEXT: Map093/events/1/pages/0/1/Dialogue
-                                          ~CHCIWOŚĆ~
-                                        Nie ma mowy o odpuszczaniu.
-                             Złapiesz każdy możliwy skarb.
+                                 ~CHCIWOŚĆ~
+                     Nie ma mowy o odpuszczaniu.
+                     Złapiesz każdy możliwy skarb.
 
 > END STRING

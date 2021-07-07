@@ -6,6 +6,7 @@
 
 > CONTEXT: Map095/events/1/pages/0/1/Dialogue
                                      ~GNIEW~
-                Twoja wściekłość nie może być powstrzymana.
-Nie, dopóki ten podstępny, ukrywający się drań nie zostanie zniszczony.
+       Twoja wściekłość nie może być powstrzymana.
+                        Nie, dopóki ten podstępny,
+         ukrywający się drań nie zostanie zniszczony.
 > END STRING

@@ -21,7 +21,7 @@ Demon Frontier - Lobby waypoint activated.
                 "Pit of Strength"
 
 
-  "Corridor of Wisdom"      "Passage of Bravery"
+     "Korytarz Mądrości"         "Passage of Bravery"
 > END STRING
 
 > BEGIN STRING

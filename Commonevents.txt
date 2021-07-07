@@ -248,7 +248,7 @@
 > BEGIN STRING
 'Spell Caster'
 > CONTEXT: Commonevents/10/258/InlineScript/1:9 < UNTRANSLATED
-
+' Zaklinacz'
 > END STRING
 
 > BEGIN STRING
@@ -273,7 +273,7 @@
 'Winged Demon'
 > CONTEXT: Commonevents/10/290/InlineScript/1:9 < UNTRANSLATED
 > CONTEXT: Commonevents/10/681/InlineScript/1:9 < UNTRANSLATED
-
+'Skrzydlaty Demon'
 > END STRING
 
 > BEGIN STRING
@@ -291,7 +291,7 @@
 > BEGIN STRING
 'Succubus Celith'
 > CONTEXT: Commonevents/10/314/InlineScript/1:9 < UNTRANSLATED
-
+' Sukub Celith'
 > END STRING
 
 > BEGIN STRING
@@ -333,7 +333,7 @@
 > BEGIN STRING
 'Abyss Succubus'
 > CONTEXT: Commonevents/10/371/InlineScript/1:9 < UNTRANSLATED
-
+'Demoniczny Sukub'
 > END STRING
 
 > BEGIN STRING

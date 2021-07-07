@@ -1,8 +1,8 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Leaving Fallen Sanctum Arcane Realm?
-> CONTEXT: Map200/events/2/pages/0/0/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map200/events/2/pages/0/0/Dialogue
+Opóścić Fallen Sanctum Arcane Realm?
 > END STRING
 
 > BEGIN STRING
@@ -36,34 +36,39 @@ Little Fairy
 "Should I process your Elite Sanctum Stone?
  It will be turned into Sanctum Crystal and
  Sanctum Cloth!"
-> CONTEXT: Map200/events/7/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map200/events/7/pages/0/2/Dialogue
+Mała Wróżka
+"Czy powinnam przetworzyć twój Elite Sanctum Stone?
+ Zostanie zamieniony w Sanctum Crystal i
+ Sanctum Cloth!"
 > END STRING
 
 > BEGIN STRING
 Process my Elite Sanctum Stone.
-> CONTEXT: Map200/events/7/pages/0/7/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map200/events/7/pages/0/7/Choice/0
+Przetwórz mój Elite Sanctum Stone.
 > END STRING
 
 > BEGIN STRING
 Cancel
-> CONTEXT: Map200/events/7/pages/0/7/Choice/1 < UNTRANSLATED
-> CONTEXT: Map068/events/14/pages/3/7/Choice/1 < UNTRANSLATED
-> CONTEXT: Map040/events/18/pages/0/7/Choice/1 < UNTRANSLATED
-
+> CONTEXT: Map200/events/7/pages/0/7/Choice/1
+> CONTEXT: Map068/events/14/pages/3/7/Choice/1
+> CONTEXT: Map040/events/18/pages/0/7/Choice/1
+Anuluj
 > END STRING
 
 > BEGIN STRING
 Acquired\\I[531] Sanctum Cloth x 5
 Acquired\\I[530] Sanctum Crystal x 5
-> CONTEXT: Map200/events/7/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map200/events/7/pages/0/12/Dialogue
+Otrzymano\\I[531] Sanctum Cloth x 5
+Otrzymano\\I[530] Sanctum Crystal x 5
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "You do not have any Elite Sanctum Stone."
-> CONTEXT: Map200/events/7/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map200/events/7/pages/0/19/Dialogue
+Mała Wróżka
+"Nie masz żadnego Elite Sanctum Stone."
 > END STRING
