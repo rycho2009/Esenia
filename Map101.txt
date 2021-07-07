@@ -94,7 +94,7 @@ Succubus Celith
  you know?"
 > CONTEXT: Map101/events/26/pages/0/30/Dialogue
 Sukub Celith
-"Well, I did not intend to use force.
+"Cóż, I did not intend to use force.
  It would be a pity if I break the little toy,
  you know?"
 > END STRING
