@@ -8,23 +8,28 @@ Korytarz Mądrości - BOSS
 > BEGIN STRING
 Senia
 "G-got her."
-> CONTEXT: Map101/events/3/pages/6/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/3/pages/6/4/Dialogue
+Senia
+"M-mam ją."
 > END STRING
 
 > BEGIN STRING
 Senia
 (Ow!!)
-> CONTEXT: Map101/events/3/pages/6/11/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/3/pages/6/11/Dialogue
+Senia
+(Oh!!)
 > END STRING
 
 > BEGIN STRING
 Senia
 (It seems to haunt me everytime
  after I defeat some monster...)
-> CONTEXT: Map101/events/3/pages/6/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map101/events/3/pages/6/14/Dialogue
+Senia
+(Wygląda na to, że to coś
+ dopada mnie to za każdym razem, 
+ gdy pokonam jakieś monstra...)
 > END STRING
 
 > BEGIN STRING
@@ -94,9 +99,9 @@ Succubus Celith
  you know?"
 > CONTEXT: Map101/events/26/pages/0/30/Dialogue
 Sukub Celith
-"Cóż, I did not intend to use force.
- It would be a pity if I break the little toy,
- you know?"
+"Cóż, nie zamierzałam używać siły.
+ Byłoby szkoda, gdybym zepsuła
+ taką zabaweczkę jak ty, wiesz?"
 > END STRING
 
 > BEGIN STRING
@@ -105,6 +110,6 @@ Succubus Celith
  take it with force and fix it afterwards."
 > CONTEXT: Map101/events/26/pages/0/35/Dialogue
 Sukub Celith
-"But it looks like I will have to
- take it with force and fix it afterwards."
+"Lecz wygląda na to, że będe musiała to zrobić
+ i poskładać Cię po wszystkim."
 > END STRING

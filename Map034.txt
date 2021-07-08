@@ -150,8 +150,11 @@ Otrzymano \\I[165]Magiczny Kapelusz
 Senia
 (What I saw... was the real sister
  of Magaleta... \\C[6]Nia\\C[0]?"
-> CONTEXT: Map034/events/17/pages/0/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map034/events/17/pages/0/10/Dialogue
+Senia
+(To co widziałam... to była
+ prawdziwa siostra Magalety...
+ \\C[6]Nia\\C[0]?"
 > END STRING
 
 > BEGIN STRING

@@ -2,60 +2,67 @@
 > BEGIN STRING
 ???
 "Sis, look!"
-> CONTEXT: Map052/events/1/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/24/Dialogue
+???
+"Siostrzyczko, spójrz!"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "What's that, Nia?"
-> CONTEXT: Map052/events/1/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/31/Dialogue
+Magaleta
+"Co tam masz, Nia?"
 > END STRING
 
 > BEGIN STRING
 Nia
 "Look! I have made a crown of flower!"
-> CONTEXT: Map052/events/1/pages/0/34/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/34/Dialogue
+Nia
+"Spójrz! Zrobiłam koronę z kwiatków!"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "That is adorable."
-> CONTEXT: Map052/events/1/pages/0/37/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/37/Dialogue
+Magaleta
+"To urocze."
 > END STRING
 
 > BEGIN STRING
 Nia
 "I have also made one more for sis!"
-> CONTEXT: Map052/events/1/pages/0/40/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/40/Dialogue
+Nia
+"Zrobiłam też drugą dla siostry!"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Thank you, Nia."
-> CONTEXT: Map052/events/1/pages/0/43/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/43/Dialogue
+Magaleta
+"Dziękuję, Nia."
 > END STRING
 
 > BEGIN STRING
 Ever since our parents passed away,
-> CONTEXT: Map052/events/1/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/47/Dialogue
+Odkąd nasi rodzice odeszli,
 > END STRING
 
 > BEGIN STRING
 Innocent and lovely Nia\\!
 has become the only support in my heart.
-> CONTEXT: Map052/events/1/pages/0/49/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/49/Dialogue
+Niewinna i cudowna Nia\\!
+stała się jedynym wsparciem w moim sercu.
 > END STRING
 
 > BEGIN STRING
 Nia is... \\|\\C[6]my sunshine\\C[0].
-> CONTEXT: Map052/events/1/pages/0/52/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map052/events/1/pages/0/52/Dialogue
+Nia jest... \\|\\C[6]moim słonkiem\\C[0].
 > END STRING
