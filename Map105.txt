@@ -2,8 +2,9 @@
 > BEGIN STRING
 Nia
 "Cough* Cough*"
-> CONTEXT: Map105/events/10/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/1/Dialogue
+Nia
+"Kaszel* Kaszel*"
 > END STRING
 
 > BEGIN STRING
@@ -43,16 +44,20 @@ Magaleta
 > BEGIN STRING
 Nia
 "Nia doesn't like bitter medicine..."
-> CONTEXT: Map105/events/10/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/21/Dialogue
+Nia
+"Nia nie lubi gorzkich lekarstw..."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Be a good girl, Nia. You cannot
 get better with taking the bitter medicine!"
-> CONTEXT: Map105/events/10/pages/0/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/24/Dialogue
+Magaleta
+"Bądź dobrą dziewczynką, Nia.
+ Nie wyleczysz się bez przyjmowania
+ gorzkich lekarstw!"
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +106,10 @@ Ale tym razem...
 > BEGIN STRING
 Magaleta
 "Nia, I mean, how is my sister doing?"
-> CONTEXT: Map105/events/10/pages/0/48/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/48/Dialogue
+Magaleta
+"Nia, znaczy się,
+ jak się ma moja siostra?"
 > END STRING
 
 > BEGIN STRING
@@ -118,7 +125,7 @@ Doctor
 "Would you mind to speak in private?"
 > CONTEXT: Map105/events/10/pages/0/54/Dialogue
 Lekarz
-"Moglibyśmy porozmawiać na osobności?"
+"Czy moglibyśmy porozmawiać na osobności?"
 > END STRING
 
 > BEGIN STRING
@@ -138,8 +145,8 @@ coraz większą i większą.
 
 > BEGIN STRING
 As the doctor goes on with his diagnosis...
-> CONTEXT: Map105/events/10/pages/0/65/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/65/Dialogue
+Podczas gdy lekarz kontynuował swoją diagnozę...
 > END STRING
 
 > BEGIN STRING
@@ -167,8 +174,11 @@ Magaleta
 "It won't be long till Nia gets well.
  I promise you to take you to
  your favorite place once you get back up."
-> CONTEXT: Map105/events/10/pages/0/78/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/78/Dialogue
+Magaleta
+"Wkrótce Nia wyzdrowieje.
+ Obiecuję, że jak tylko wydobrzejesz
+ zabiorę cię w twoje ulubione miejsce."
 > END STRING
 
 > BEGIN STRING
@@ -186,20 +196,21 @@ Bolesne kłamstwa.
 
 > BEGIN STRING
 Impracticable promises.
-> CONTEXT: Map105/events/10/pages/0/88/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/88/Dialogue
+Nierealne obietnice.
 > END STRING
 
 > BEGIN STRING
 I have told them all...
-> CONTEXT: Map105/events/10/pages/0/90/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/90/Dialogue
+Powiedziałam je wszystkie...
 > END STRING
 
 > BEGIN STRING
 For at least I can still see her smile, for the last moments...
-> CONTEXT: Map105/events/10/pages/0/92/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/92/Dialogue
+By móc jeszcze zobaczyć jej uśmiech, 
+w ostatnich chwilach...
 > END STRING
 
 > BEGIN STRING
@@ -214,29 +225,35 @@ Nia
 > BEGIN STRING
 Nia
 "I saw daddy and mommy in my dream."
-> CONTEXT: Map105/events/10/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/103/Dialogue
+Nia
+"Widziałam we śnie mamusię i tatusia."
 > END STRING
 
 > BEGIN STRING
 Nia
 "It was a warm welcome from daddy and mommy there..."
-> CONTEXT: Map105/events/10/pages/0/106/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/106/Dialogue
+Nia
+"Byłam tam przez nich serdecznie witana..."
 > END STRING
 
 > BEGIN STRING
 Nia
 "But... how come sis was not there? I looked everywhere!"
-> CONTEXT: Map105/events/10/pages/0/109/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/109/Dialogue
+Nia
+"Ale... dlaczego nie było tam siostry?
+ Szukałam wszędzie!"
 > END STRING
 
 > BEGIN STRING
 Nia
 "I asked mommy. 'Sis does not belong here,' she said."
-> CONTEXT: Map105/events/10/pages/0/115/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/115/Dialogue
+Nia
+"Spytałam mamusię. 'Siostra
+ nie należy do tego miejsca', odpowiedziała."
 > END STRING
 
 > BEGIN STRING
@@ -250,8 +267,10 @@ Nia
 Magaleta
 "It is just a dream. Don't worry.
  Sis won't leave you."
-> CONTEXT: Map105/events/10/pages/0/121/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/121/Dialogue
+Magaleta
+"To był tylko sen. Nie martw się.
+ Siostrzyczka cię nie opuści."
 > END STRING
 
 > BEGIN STRING
@@ -269,27 +288,28 @@ Stan Nii pogarszał się z dnia na dzień.
 
 > BEGIN STRING
 And that is when I heard the rumor.
-> CONTEXT: Map105/events/10/pages/0/131/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/131/Dialogue
+I wtedy właśnie usłyszałam plotkę.
 > END STRING
 
 > BEGIN STRING
 The rumor about the Tower of Eternity.
-> CONTEXT: Map105/events/10/pages/0/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/133/Dialogue
+Plotkę o Wieży Wieczności.
 > END STRING
 
 > BEGIN STRING
 I want to go and seek out even the slimmest of
 opportunity to save Nia.
-> CONTEXT: Map105/events/10/pages/0/135/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/135/Dialogue
+Pragnę iść i szukać nawet najmniejszej z
+okazji, by uratować Nię.
 > END STRING
 
 > BEGIN STRING
 But neither do I want to leave Nia unattended.
-> CONTEXT: Map105/events/10/pages/0/138/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/138/Dialogue
+Ale nie chcę też zostawić Nii samej.
 > END STRING
 
 > BEGIN STRING
@@ -308,16 +328,18 @@ Doctor
  but at least I can give her some pain reliever."
 > CONTEXT: Map105/events/10/pages/0/145/Dialogue
 Lekarz
-"No problem at all. How is Nia doing?
- Not that I can cure her illness,
- but at least I can give her some pain reliever."
+"Nie ma żadnego problemu. Jak się ma Nia?
+ Nie mogę wyleczyć jej choroby, ale mogę
+ chociaż dać jej trochę środków przeciwbólowych."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Doc, I have a favor to ask..."
-> CONTEXT: Map105/events/10/pages/0/150/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/150/Dialogue
+Magaleta
+"Doktorze, chciałabym prosić o
+ przysługę..."
 > END STRING
 
 > BEGIN STRING
@@ -332,8 +354,11 @@ Lekarz
 Magaleta
 "Can I ask you to take care of Nia
  while I am gone?
-> CONTEXT: Map105/events/10/pages/0/156/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/156/Dialogue
+Magaleta
+"Czy mogę cię prosić, abyś
+ zaopiekował się Nią
+ kiedy mnie nie będzie?
 > END STRING
 
 > BEGIN STRING
@@ -347,8 +372,10 @@ Lekarz
 > BEGIN STRING
 Magaleta
 "I am going... to the Tower of Eternity."
-> CONTEXT: Map105/events/10/pages/0/163/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/163/Dialogue
+Magaleta
+"Wybieram się...
+ do Wieży Wieczności."
 > END STRING
 
 > BEGIN STRING
@@ -365,15 +392,17 @@ Doctor
 Are you going to let Nia dying alone?"
 > CONTEXT: Map105/events/10/pages/0/169/Dialogue
 Lekarz
-"What if you never make it home?
-Are you going to let Nia dying alone?"
+"A co jeśli nigdy nie wrócisz do domu?
+Pozwolisz Nii umrzeć w samotności?"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "But there is no other way to save her!"
-> CONTEXT: Map105/events/10/pages/0/173/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/173/Dialogue
+Magaleta
+"Ale nie ma innego sposobu, by ją
+ uratować!"
 > END STRING
 
 > BEGIN STRING
@@ -381,7 +410,7 @@ Doctor
 "Stop right there. I am not going to help you with this."
 > CONTEXT: Map105/events/10/pages/0/176/Dialogue
 Lekarz
-"Stop right there. I am not going to help you with this."
+"Przestań. Nie zamierzam ci w tym pomagać."
 > END STRING
 
 > BEGIN STRING
@@ -389,7 +418,8 @@ Doctor
 "You should spend more time with her while you still can..."
 > CONTEXT: Map105/events/10/pages/0/179/Dialogue
 Lekarz
-"You should spend more time with her while you still can..."
+"Powinnaś spędzić z nią więcej czasu,
+ póki jeszcze możesz..."
 > END STRING
 
 > BEGIN STRING
@@ -402,29 +432,32 @@ Lekarz
 
 > BEGIN STRING
 In the end...
-> CONTEXT: Map105/events/10/pages/0/195/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/195/Dialogue
+W końcu...
 > END STRING
 
 > BEGIN STRING
 Nia
 "Cough* Cough*... Cough*"
-> CONTEXT: Map105/events/10/pages/0/198/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/198/Dialogue
+Nia
+"Kaszel* Kaszel*... Kaszel*"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Nia, are you ok?"
-> CONTEXT: Map105/events/10/pages/0/201/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/201/Dialogue
+Magaleta
+"Nia, wszystko porządku?"
 > END STRING
 
 > BEGIN STRING
 Nia
 "... Mommy and daddy are coming to pick me up."
-> CONTEXT: Map105/events/10/pages/0/207/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/207/Dialogue
+Nia
+"... Mamusia i tatuś przychodzą po mnie."
 > END STRING
 
 > BEGIN STRING
@@ -438,21 +471,23 @@ Nia
 > BEGIN STRING
 Magaleta
 "Nia, wait! What are you talking about?"
-> CONTEXT: Map105/events/10/pages/0/216/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/216/Dialogue
+Magaleta
+"Nia, czekaj! O czym ty mówisz?"
 > END STRING
 
 > BEGIN STRING
 Nia
 "Sis Magaleta... please..."
-> CONTEXT: Map105/events/10/pages/0/219/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/219/Dialogue
+Nia
+"Siostrzyczko Magaleto... proszę..."
 > END STRING
 
 > BEGIN STRING
 "Live on. Stay alive."
-> CONTEXT: Map105/events/10/pages/0/224/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/224/Dialogue
+"Żyj dalej. Trzymaj się przy życiu."
 > END STRING
 
 > BEGIN STRING
@@ -463,8 +498,8 @@ To były ostatnie słowa Nii.
 
 > BEGIN STRING
 My sunshine is lost.
-> CONTEXT: Map105/events/10/pages/0/228/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/228/Dialogue
+Moje słońce zgasło.
 > END STRING
 
 > BEGIN STRING
@@ -475,8 +510,8 @@ Mój świat pogrążył się w kompletnej ciemności.
 
 > BEGIN STRING
 It is perplexing...
-> CONTEXT: Map105/events/10/pages/0/232/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/232/Dialogue
+To jest skomplikowane...
 > END STRING
 
 > BEGIN STRING
@@ -487,20 +522,20 @@ Dlaczego?
 
 > BEGIN STRING
 Why took Nia away from me?
-> CONTEXT: Map105/events/10/pages/0/236/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/236/Dialogue
+Dlaczego Nia została mi odebrana?
 > END STRING
 
 > BEGIN STRING
 Why am I the one to be left alive?
-> CONTEXT: Map105/events/10/pages/0/238/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/238/Dialogue
+Dlaczego to ja zostałam pozostawiona przy życiu?
 > END STRING
 
 > BEGIN STRING
 Why do I have to suffer this alone?
-> CONTEXT: Map105/events/10/pages/0/240/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map105/events/10/pages/0/240/Dialogue
+Dlaczego muszę cierpieć z tego powodu sama?
 > END STRING
 
 > BEGIN STRING

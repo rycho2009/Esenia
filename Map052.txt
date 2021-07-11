@@ -64,5 +64,5 @@ stała się jedynym wsparciem w moim sercu.
 > BEGIN STRING
 Nia is... \\|\\C[6]my sunshine\\C[0].
 > CONTEXT: Map052/events/1/pages/0/52/Dialogue
-Nia jest... \\|\\C[6]moim słonkiem\\C[0].
+Nia stała się... \\|\\C[6]moim słonkiem\\C[0].
 > END STRING
