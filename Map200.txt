@@ -2,7 +2,7 @@
 > BEGIN STRING
 Leaving Fallen Sanctum Arcane Realm?
 > CONTEXT: Map200/events/2/pages/0/0/Dialogue
-Opóścić Fallen Sanctum Arcane Realm?
+Opuścić Fallen Sanctum Arcane Realm?
 > END STRING
 
 > BEGIN STRING
