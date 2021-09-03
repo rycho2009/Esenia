@@ -249,13 +249,13 @@ Spreading worse and worse...
 > BEGIN STRING
 Why Senia?
 > CONTEXT: Map206/events/1/pages/0/136/Dialogue < UNTRANSLATED
-
+Dlaczego Senia?
 > END STRING
 
 > BEGIN STRING
 Why her?
 > CONTEXT: Map206/events/1/pages/0/138/Dialogue < UNTRANSLATED
-
+Dlaczego ona?
 > END STRING
 
 > BEGIN STRING
@@ -273,7 +273,7 @@ Watching another sister passing away right before me?
 > BEGIN STRING
 NO!
 > CONTEXT: Map206/events/1/pages/0/144/Dialogue < UNTRANSLATED
-
+NIE!
 > END STRING
 
 > BEGIN STRING
