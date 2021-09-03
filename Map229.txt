@@ -2,5 +2,5 @@
 > BEGIN STRING
 Acquired Lapis Lazuli.
 > CONTEXT: Map229/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+Otrzymano Lapis Lazuli.
 > END STRING
