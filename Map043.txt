@@ -4,7 +4,9 @@ Facebook fan page Admin
 "Hey, you have found me again!
  Here are the promised materials!"
 > CONTEXT: Map043/events/186/pages/0/1/Dialogue < UNTRANSLATED
-
+Facebook fan page Admin
+"Cześć, znowu mnie znalazłeś!
+ Trzymaj obiecane materiały!"
 > END STRING
 
 > BEGIN STRING
