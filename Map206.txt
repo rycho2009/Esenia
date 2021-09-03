@@ -62,21 +62,24 @@ Magaleta
 Magaleta
 "...what the..."
 > CONTEXT: Map206/events/1/pages/0/47/Dialogue < UNTRANSLATED
-
+Magaleta
+"...co do..."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Why...?"
 > CONTEXT: Map206/events/1/pages/0/50/Dialogue < UNTRANSLATED
-
+Magaleta
+"Dlaczego...?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Um...! Dad! Mom! NOOO!"
 > CONTEXT: Map206/events/1/pages/0/53/Dialogue < UNTRANSLATED
-
+Senia
+"Um...! Tata! Mama! NIIIEE!"
 > END STRING
 
 > BEGIN STRING
@@ -120,7 +123,8 @@ Magaleta
 Magaleta
 (... What should I do?)
 > CONTEXT: Map206/events/1/pages/0/76/Dialogue < UNTRANSLATED
-
+Magaleta
+(... Co powinnam zrobić?)
 > END STRING
 
 > BEGIN STRING
@@ -348,7 +352,8 @@ Senia
 "Sis?"
 > CONTEXT: Map206/events/1/pages/0/209/Dialogue < UNTRANSLATED
 > CONTEXT: Map087/events/3/pages/0/104/Dialogue < UNTRANSLATED
-
+Senia
+"Siostrzyczko?"
 > END STRING
 
 > BEGIN STRING
@@ -367,5 +372,6 @@ Senia
 > CONTEXT: Map159/events/3/pages/0/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map159/events/4/pages/0/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map090/events/3/pages/0/49/Dialogue < UNTRANSLATED
-
+Senia
+"Siostrzyczko Magaleto!"
 > END STRING
