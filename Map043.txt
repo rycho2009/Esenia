@@ -13,7 +13,10 @@ Demon Crystal x 5
 Demon Cloth x 5
 Book of Sword Art Ch. 2
 > CONTEXT: Map043/events/186/pages/0/6/Dialogue < UNTRANSLATED
-
+Otrzymano następujące materiały:
+Demon Crystal x 5
+Demon Cloth x 5
+Book of Sword Art Ch. 2
 > END STRING
 
 > BEGIN STRING
