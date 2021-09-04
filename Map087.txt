@@ -20,7 +20,11 @@ Senia
  I am no longer the little girl
  that needs your protection."
 > CONTEXT: Map087/events/3/pages/0/10/Dialogue < UNTRANSLATED
-
+Senia
+"Siostrzyczko...
+ Nie jestem już dłużej małą
+ dziewczynką, która potrzebuje
+ twojej ochrony."
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +32,9 @@ Senia
 "Now... I have the strength...
  to protect you."
 > CONTEXT: Map087/events/3/pages/0/15/Dialogue < UNTRANSLATED
-
+Senia
+"Teraz... Mam siłę...
+ by Cię chronić."
 > END STRING
 
 > BEGIN STRING
