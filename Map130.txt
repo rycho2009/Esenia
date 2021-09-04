@@ -29,11 +29,11 @@ Force Realm
 
 > BEGIN STRING
 Acquired \\I[347]Elite Demon Stone
-> CONTEXT: Map130/events/38/pages/3/12/Dialogue < UNTRANSLATED
-> CONTEXT: Map130/events/38/pages/3/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map127/events/14/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map127/events/14/pages/0/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map128/events/2/pages/5/11/Dialogue < UNTRANSLATED
-> CONTEXT: Map128/events/2/pages/5/17/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map130/events/38/pages/3/12/Dialogue
+> CONTEXT: Map130/events/38/pages/3/18/Dialogue
+> CONTEXT: Map127/events/14/pages/0/20/Dialogue
+> CONTEXT: Map127/events/14/pages/0/26/Dialogue
+> CONTEXT: Map128/events/2/pages/5/11/Dialogue
+> CONTEXT: Map128/events/2/pages/5/17/Dialogue
+Otrzymano \\I[347]Elite Demon Stone
 > END STRING

@@ -1,7 +1,7 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Passage of Bravery
-> CONTEXT: Map091/display_name/ < UNTRANSLATED
-> CONTEXT: Map050/display_name/ < UNTRANSLATED
-
+> CONTEXT: Map091/display_name/
+> CONTEXT: Map050/display_name/
+Przełęcz Odwagi
 > END STRING

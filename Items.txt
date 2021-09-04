@@ -189,8 +189,9 @@ Master Elixir
 > BEGIN STRING
 Normal attacks restores MP +2
 (takes effect immediately upon acquirement.)
-> CONTEXT: Items/23/description/ < UNTRANSLATED
-
+> CONTEXT: Items/23/description/
+Normal ataki przywracają +2 MP
+(efekt działa odrazu po otrzymaniu przedmiotu.)
 > END STRING
 
 > BEGIN STRING

@@ -247,14 +247,14 @@
 
 > BEGIN STRING
 'Spell Caster'
-> CONTEXT: Commonevents/10/258/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/10/258/InlineScript/1:9
 ' Zaklinacz'
 > END STRING
 
 > BEGIN STRING
 'Defensive Shield'
-> CONTEXT: Commonevents/10/266/InlineScript/1:9 < UNTRANSLATED
-
+> CONTEXT: Commonevents/10/266/InlineScript/1:9
+'Osłona'
 > END STRING
 
 > BEGIN STRING
@@ -271,8 +271,8 @@
 
 > BEGIN STRING
 'Winged Demon'
-> CONTEXT: Commonevents/10/290/InlineScript/1:9 < UNTRANSLATED
-> CONTEXT: Commonevents/10/681/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/10/290/InlineScript/1:9
+> CONTEXT: Commonevents/10/681/InlineScript/1:9
 'Skrzydlaty Demon'
 > END STRING
 
@@ -290,7 +290,7 @@
 
 > BEGIN STRING
 'Succubus Celith'
-> CONTEXT: Commonevents/10/314/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/10/314/InlineScript/1:9
 ' Sukub Celith'
 > END STRING
 
@@ -332,7 +332,7 @@
 
 > BEGIN STRING
 'Abyss Succubus'
-> CONTEXT: Commonevents/10/371/InlineScript/1:9 < UNTRANSLATED
+> CONTEXT: Commonevents/10/371/InlineScript/1:9
 'Demoniczny Sukub'
 > END STRING
 
@@ -350,8 +350,8 @@
 
 > BEGIN STRING
 'Warlock'
-> CONTEXT: Commonevents/10/395/InlineScript/1:9 < UNTRANSLATED
-
+> CONTEXT: Commonevents/10/395/InlineScript/1:9
+'Czarnoksiężnik'
 > END STRING
 
 > BEGIN STRING
