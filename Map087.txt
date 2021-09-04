@@ -171,7 +171,8 @@ Magaleta
 Senia
 "No... NO!!"
 > CONTEXT: Map087/events/3/pages/0/126/Dialogue < UNTRANSLATED
-
+Senia
+"Nie... NIE!!"
 > END STRING
 
 > BEGIN STRING
@@ -214,7 +215,8 @@ Magaleta
 Hint for other ending routes:
 You may have passed areas in Fallen Sanctum.
 > CONTEXT: Map087/events/3/pages/0/183/Dialogue < UNTRANSLATED
-
+Podpowiedź jak osiągnąć inne zakończenia:
+You may have passed areas in Fallen Sanctum.
 > END STRING
 
 > BEGIN STRING
@@ -229,7 +231,8 @@ which contains the key accessory to access ending \#2 and \#3.
 Don't forget to have
 the accessory equipped during the final battle.
 > CONTEXT: Map087/events/3/pages/0/190/Dialogue < UNTRANSLATED
-
+Nie zapomnij mieć
+założonego akcesorium podczas ostatecznej bitwy.
 > END STRING
 
 > BEGIN STRING
