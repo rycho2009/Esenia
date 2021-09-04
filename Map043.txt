@@ -27,8 +27,8 @@ Facebook fan page Admin
  next level!"
 > CONTEXT: Map043/events/186/pages/0/14/Dialogue < UNTRANSLATED
 Admin Facebookowego fan page'a
-"I will have other materials for you in the
- next level!"
+"Będę mieć inne materiały dla Ciebie
+ na następnym poziomie!"
 > END STRING
 
 > BEGIN STRING
@@ -37,6 +37,6 @@ Facebook fan page Admin
  I will have more materials for you!"
 > CONTEXT: Map043/events/186/pages/1/1/Dialogue < UNTRANSLATED
 Admin Facebookowego fan page'a
-"Don't forget to look for me in the next dungeon!
- I will have more materials for you!"
+"Nie zapomnij szukać mnie na kolejnych poziomach!
+ Będę mieć dla Ciebie więcej materiałów!"
 > END STRING
