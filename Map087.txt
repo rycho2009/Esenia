@@ -10,7 +10,8 @@ Senia
 Senia
 "It is... my victory..."
 > CONTEXT: Map087/events/3/pages/0/7/Dialogue < UNTRANSLATED
-
+Senia
+"To jest... moje zwycięstwo..."
 > END STRING
 
 > BEGIN STRING
@@ -50,7 +51,8 @@ Senia
 Senia
 "I am Senia! Your sister Senia!"
 > CONTEXT: Map087/events/3/pages/0/27/Dialogue < UNTRANSLATED
-
+Senia
+"I am Senia! Your sister Senia!"
 > END STRING
 
 > BEGIN STRING
@@ -112,7 +114,9 @@ Magaleta
 "I can no longer...
  \\|leave the Tower of Eternity..."
 > CONTEXT: Map087/events/3/pages/0/63/Dialogue < UNTRANSLATED
-
+Magaleta
+"Już nie mogę...
+ \\|opuścić Wieży Wieczności..."
 > END STRING
 
 > BEGIN STRING
@@ -120,14 +124,17 @@ Magaleta
 "This is... the price for using
  the power of eternity."
 > CONTEXT: Map087/events/3/pages/0/70/Dialogue < UNTRANSLATED
-
+Magaleta
+"To jest... cena za użycie
+ mocy wieczności."
 > END STRING
 
 > BEGIN STRING
 Senia
 "What? No... NO!"
 > CONTEXT: Map087/events/3/pages/0/74/Dialogue < UNTRANSLATED
-
+Senia
+"Co? Nie... NIE!"
 > END STRING
 
 > BEGIN STRING
