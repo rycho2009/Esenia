@@ -4,7 +4,7 @@ Facebook fan page Admin
 "Hey, you have found me again!
  Here are the promised materials!"
 > CONTEXT: Map043/events/186/pages/0/1/Dialogue < UNTRANSLATED
-Facebook fan page Admin
+Admin Facebookowego fan page'a
 "Cześć, znowu mnie znalazłeś!
  Trzymaj obiecane materiały!"
 > END STRING
@@ -26,7 +26,9 @@ Facebook fan page Admin
 "I will have other materials for you in the
  next level!"
 > CONTEXT: Map043/events/186/pages/0/14/Dialogue < UNTRANSLATED
-
+Admin Facebookowego fan page'a
+"I will have other materials for you in the
+ next level!"
 > END STRING
 
 > BEGIN STRING
@@ -34,5 +36,7 @@ Facebook fan page Admin
 "Don't forget to look for me in the next dungeon!
  I will have more materials for you!"
 > CONTEXT: Map043/events/186/pages/1/1/Dialogue < UNTRANSLATED
-
+Admin Facebookowego fan page'a
+"Don't forget to look for me in the next dungeon!
+ I will have more materials for you!"
 > END STRING
