@@ -56,7 +56,7 @@ Acquired "\\I[225]Book of Evasion Ch. 2"
 > CONTEXT: Map136/events/11/pages/0/50/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/11/pages/0/83/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/11/pages/0/116/Dialogue < UNTRANSLATED
-
+Otrzymano "\\I[225]Book of Evasion Ch. 2"
 > END STRING
 
 > BEGIN STRING
