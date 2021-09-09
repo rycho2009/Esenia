@@ -1,6 +1,10 @@
 <h1>DONE:</h1>
 GameINI.txt
 Map002.txt
+Map003.txt
+Map004.txt
+Map006.txt(admin-bonusy)
+Map007.txt(arcane realm)
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -13,9 +17,6 @@ Classes.txt
 Commonevents.txt
 Items.txt
 Map001.txt
-Map003.txt
-Map004.txt
-Map006.txt
 Map007.txt
 Map008.txt
 Map009.txt
