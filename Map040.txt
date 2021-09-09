@@ -18,7 +18,8 @@ Process my Elite Demon Stone
 Acquired \\I[529]Demon Cloth x5
 Acquired \\I[528]Demon Crystal x5
 > CONTEXT: Map040/events/18/pages/0/12/Dialogue < UNTRANSLATED
-
+Otrzymano \\I[529]Demon Cloth x5
+Otrzymano \\I[528]Demon Crystal x5
 > END STRING
 
 > BEGIN STRING
