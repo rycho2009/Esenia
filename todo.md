@@ -19,6 +19,7 @@ Map041.txt
 Map042.txt
 Map044.txt
 Map048.txt
+Map050.txt
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -47,7 +48,6 @@ Map040.txt
 Map043.txt
 Map043.txt
 Map047.txt
-Map050.txt
 Map051.txt
 Map052.txt
 Map053.txt
