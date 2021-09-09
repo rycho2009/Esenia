@@ -4,7 +4,7 @@ Castle
 > CONTEXT: Map085/display_name/ < UNTRANSLATED
 > CONTEXT: Map032/display_name/ < UNTRANSLATED
 > CONTEXT: Commonevents/75/14/Choice/1 < UNTRANSLATED
-
+Zamek
 > END STRING
 
 > BEGIN STRING
