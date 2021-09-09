@@ -1,18 +1,18 @@
 <h1>DONE:</h1>
+GameINI.txt
+Map002.txt
 
 <h1>TRANSLATED:</h1>
+Actors.txt
+Enemies.txt
 
 <h1>TODO:</h1>
-Actors.txt
 Armors.txt
 Armorspl.txt
 Classes.txt
 Commonevents.txt
-Enemies.txt
-GameINI.txt
 Items.txt
 Map001.txt
-Map002.txt
 Map003.txt
 Map004.txt
 Map006.txt
