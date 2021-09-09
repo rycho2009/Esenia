@@ -20,10 +20,14 @@ Map042.txt
 Map044.txt
 Map048.txt
 Map050.txt
+Map052.txt
+Map053.txt
+Map054.txt
 
 <h1>TRANSLATED:</h1>
 Actors.txt
 Enemies.txt
+Map055.txt(crafting)
 
 <h1>TODO:</h1>
 Armors.txt
@@ -49,10 +53,6 @@ Map043.txt
 Map043.txt
 Map047.txt
 Map051.txt
-Map052.txt
-Map053.txt
-Map054.txt
-Map055.txt
 Map061.txt
 Map063.txt
 Map064.txt
