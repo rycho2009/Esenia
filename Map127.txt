@@ -2,5 +2,5 @@
 > BEGIN STRING
 Acquired \\i[180]Health Neckless
 > CONTEXT: Map127/events/14/pages/0/12/Dialogue < UNTRANSLATED
-
+Otrzymano \\i[180]Health Neckless
 > END STRING
