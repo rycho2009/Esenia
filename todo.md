@@ -10,6 +10,7 @@ Map011.txt
 Map013.txt
 Map019.txt
 Map022.txt
+Map025.txt(save przed bossem)
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -32,7 +33,6 @@ Map017.txt
 Map021.txt
 Map023.txt(lekka poprawa)
 Map024.txt
-Map025.txt
 Map026.txt
 Map033.txt
 Map034.txt
