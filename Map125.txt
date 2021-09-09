@@ -8,5 +8,5 @@ Acquired \\I[529]Demon Cloth
 > BEGIN STRING
 Acquired\\I[528]Demon Crystal
 > CONTEXT: Map125/events/2/pages/0/13/Dialogue < UNTRANSLATED
-
+Otrzymano \\I[528]Demon Crystal
 > END STRING
