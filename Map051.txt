@@ -54,7 +54,8 @@ Dad... Mom...\\|Everything..."
 Senia
 "I am scared..."
 > CONTEXT: Map051/events/10/pages/0/71/Dialogue < UNTRANSLATED
-
+Senia
+"Jestem przerażona..."
 > END STRING
 
 > BEGIN STRING
