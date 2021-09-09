@@ -94,5 +94,6 @@ Magaleta
 Senia
 (Sis!)
 > CONTEXT: Map106/events/13/pages/0/35/Dialogue < UNTRANSLATED
-
+Senia
+(Siostro!)
 > END STRING
