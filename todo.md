@@ -6,6 +6,8 @@ Map004.txt
 Map006.txt(admin-bonusy)
 Map007.txt(arcane realm)
 Map011.txt
+Map013.txt
+Map019.txt
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -23,11 +25,9 @@ Map008.txt
 Map009.txt
 Map011.txt
 Map012.txt
-Map013.txt
 Map014.txt
 Map016.txt
 Map017.txt
-Map019.txt
 Map021.txt
 Map022.txt
 Map023.txt
