@@ -31,14 +31,16 @@ Demon Lord
 Senia
 "Me!?"
 > CONTEXT: Map137/events/6/pages/0/40/Dialogue < UNTRANSLATED
-
+Senia
+"Ja!?"
 > END STRING
 
 > BEGIN STRING
 Demon Lord
 "Yes, you! Give me your name!"
 > CONTEXT: Map137/events/6/pages/0/43/Dialogue < UNTRANSLATED
-
+Demon Lord
+"Tak, ty! Give me your name!"
 > END STRING
 
 > BEGIN STRING
