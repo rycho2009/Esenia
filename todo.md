@@ -33,6 +33,9 @@ Map095.txt
 Map097.txt
 Map099.txt
 Map100.txt
+Map101.txt
+Map105.txt
+Map106.txt
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -73,10 +76,7 @@ Map088.txt
 Map090.txt
 Map094.txt
 Map098.txt
-Map101.txt
 Map102.txt
-Map105.txt
-Map106.txt
 Map107.txt
 Map108.txt
 Map125.txt
