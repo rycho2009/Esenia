@@ -1,5 +1,6 @@
 <h1>DONE:</h1>
 GameINI.txt
+Map001.txt
 Map002.txt
 Map003.txt
 Map004.txt
@@ -8,6 +9,7 @@ Map007.txt(arcane realm)
 Map011.txt
 Map013.txt
 Map019.txt
+Map022.txt
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -19,7 +21,6 @@ Armorspl.txt
 Classes.txt
 Commonevents.txt
 Items.txt
-Map001.txt
 Map007.txt
 Map008.txt
 Map009.txt
@@ -29,8 +30,7 @@ Map014.txt
 Map016.txt
 Map017.txt
 Map021.txt
-Map022.txt
-Map023.txt
+Map023.txt(lekka poprawa)
 Map024.txt
 Map025.txt
 Map026.txt
