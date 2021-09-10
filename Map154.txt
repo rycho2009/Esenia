@@ -2,5 +2,5 @@
 > BEGIN STRING
 Acquired \\I[182]Healing Ribbon
 > CONTEXT: Map154/events/2/pages/0/8/Dialogue < UNTRANSLATED
-
+Otrzymano \\I[182]Healing Ribbon
 > END STRING
