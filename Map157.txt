@@ -326,7 +326,8 @@ Little Fairy
 Senia
 "Thanks..."
 > CONTEXT: Map157/events/5/pages/2/170/Dialogue < UNTRANSLATED
-
+Senia
+"Dzięki..."
 > END STRING
 
 > BEGIN STRING
