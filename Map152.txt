@@ -223,7 +223,8 @@ Senia
 Senia
 "eh!!"
 > CONTEXT: Map152/events/67/pages/3/37/Dialogue < UNTRANSLATED
-
+Senia
+"Eh!!"
 > END STRING
 
 > BEGIN STRING
