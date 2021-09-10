@@ -172,7 +172,10 @@ You have completed Eternal Senia. Please help us
 fill the questionnaire for the code to enter Bonus Room.
 http://goo.gl/Lav2RV
 > CONTEXT: Map144/events/2/pages/0/94/Dialogue < UNTRANSLATED
-
+Gratulacje!
+Ukończyłeś Eternal Senię. Please help us
+fill the questionnaire for the code to enter Bonus Room.
+http://goo.gl/Lav2RV
 > END STRING
 
 > BEGIN STRING
