@@ -36,6 +36,11 @@ Map100.txt
 Map101.txt
 Map105.txt
 Map106.txt
+Map107.txt
+Map108.txt
+Map129.txt
+Map142.txt
+Map145.txt
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -77,12 +82,9 @@ Map090.txt
 Map094.txt
 Map098.txt
 Map102.txt
-Map107.txt
-Map108.txt
 Map125.txt
 Map126.txt
 Map127.txt
-Map129.txt
 Map130.txt
 Map136.txt
 Map137.txt
@@ -90,10 +92,8 @@ Map138.txt
 Map139.txt
 Map140.txt
 Map141.txt
-Map142.txt
 Map143.txt
 Map144.txt
-Map145.txt
 Map147.txt
 Map148.txt
 Map151.txt
