@@ -2,11 +2,11 @@
 > BEGIN STRING
 Acquired \\I[531]Sanctum Cloth x 3
 > CONTEXT: Map175/events/7/pages/0/8/Dialogue < UNTRANSLATED
-
+Otrzymano \\I[531]Sanctum Cloth x 3
 > END STRING
 
 > BEGIN STRING
 Acquired \\I[530]Sanctum Crystal x 3
 > CONTEXT: Map175/events/7/pages/0/13/Dialogue < UNTRANSLATED
-
+Otrzymano \\I[530]Sanctum Crystal x 3
 > END STRING
