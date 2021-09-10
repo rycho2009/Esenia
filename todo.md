@@ -41,6 +41,9 @@ Map108.txt
 Map129.txt
 Map142.txt
 Map145.txt
+Map147.txt
+Map148.txt
+Map152.txt
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -94,10 +97,7 @@ Map140.txt
 Map141.txt
 Map143.txt
 Map144.txt
-Map147.txt
-Map148.txt
 Map151.txt
-Map152.txt
 Map154.txt
 Map156.txt
 Map157.txt
