@@ -44,6 +44,10 @@ Map145.txt
 Map147.txt
 Map148.txt
 Map152.txt
+Map156.txt
+Map158.txt
+Map160.txt(speedrun?)
+Map176.txt(rubin)
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -99,15 +103,11 @@ Map143.txt
 Map144.txt
 Map151.txt
 Map154.txt
-Map156.txt
 Map157.txt
-Map158.txt
 Map159.txt
-Map160.txt
 Map161.txt
 Map162.txt
 Map175.txt
-Map176.txt
 Map178.txt
 Map186.txt
 Map187.txt
