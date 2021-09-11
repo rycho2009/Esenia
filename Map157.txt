@@ -179,7 +179,8 @@ Senia
 Little Fairy
 "Exactly..."
 > CONTEXT: Map157/events/5/pages/2/87/Dialogue < UNTRANSLATED
-
+Little Fairy
+"Dokładnie..."
 > END STRING
 
 > BEGIN STRING
@@ -267,7 +268,8 @@ Senia
 Little Fairy
 "But what if..."
 > CONTEXT: Map157/events/5/pages/2/140/Dialogue < UNTRANSLATED
-
+Little Fairy
+"Ale co, jeśli..."
 > END STRING
 
 > BEGIN STRING
@@ -319,14 +321,16 @@ Senia
 Little Fairy
 "You are determined!"
 > CONTEXT: Map157/events/5/pages/2/164/Dialogue < UNTRANSLATED
-
+Little Fairy
+"Jesteś zdeterminowana!"
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "I will go with you."
 > CONTEXT: Map157/events/5/pages/2/167/Dialogue < UNTRANSLATED
-
+Little Fairy
+"Pójdę z tobą."
 > END STRING
 
 > BEGIN STRING
