@@ -79,7 +79,8 @@ Mała Wróżka
 Senia
 "I passed out?"
 > CONTEXT: Map157/events/5/pages/2/18/Dialogue < UNTRANSLATED
-
+Senia
+"Odpłynęłam?"
 > END STRING
 
 > BEGIN STRING
@@ -94,7 +95,9 @@ Senia
 (I remember...\\|
 I saw sis...\\|and then...)\\|
 > CONTEXT: Map157/events/5/pages/2/24/Dialogue < UNTRANSLATED
-
+Senia
+(Pamiętam, że...\\|
+Widziałam siostrę...\\|and then...)\\|
 > END STRING
 
 > BEGIN STRING
@@ -220,9 +223,13 @@ Little Fairy
 
 > BEGIN STRING
 Senia
+"I..."
+> CONTEXT: Map157/events/5/pages/2/121/Dialogue < UNTRANSLATED
+> CONTEXT: Map138/events/3/pages/0/151/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/1/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map100/events/1/pages/1/95/Dialogue < UNTRANSLATED
+Senia
 "Ja..."
-> CONTEXT: None < UNUSED
-
 > END STRING
 
 > BEGIN STRING
@@ -328,15 +335,4 @@ Senia
 > CONTEXT: Map157/events/5/pages/2/170/Dialogue < UNTRANSLATED
 Senia
 "Dzięki..."
-> END STRING
-
-> BEGIN STRING
-Senia
-"I..."
-> CONTEXT: Map157/events/5/pages/2/121/Dialogue
-> CONTEXT: Map138/events/3/pages/0/151/Dialogue
-> CONTEXT: Map100/events/1/pages/1/37/Dialogue
-> CONTEXT: Map100/events/1/pages/1/95/Dialogue
-Senia
-"Ja..."
 > END STRING
