@@ -7,7 +7,7 @@
 
 > BEGIN STRING
 Eternal Magaleta
-> CONTEXT: Map247/events/5/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map247/events/5/pages/0/0/Dialogue
 Wieczna Magaleta
 > END STRING
 
@@ -23,7 +23,7 @@ Holy Priest
 > BEGIN STRING
 Holy Priest
 "Angel Barrier is one of a more flashy effects."
-> CONTEXT: Map247/events/5/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map247/events/5/pages/0/7/Dialogue
 Holy Priest
 "Angel Barrier is one of a more flashy effects."
 > END STRING
@@ -39,7 +39,7 @@ Holy Priest
 Holy Priest
 "Laser beams are used in Fairy Queen fight as well.
  I guess I am obsessed with laser beam effects!"
-> CONTEXT: Map247/events/5/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map247/events/5/pages/0/13/Dialogue
 Holy Priest
 "Laser beams are used in Fairy Queen fight as well.
  I guess I am obsessed with laser beam effects!"
@@ -49,7 +49,7 @@ Holy Priest
 Holy Priest
 "The final fight is the theme on the poster.
  Does it create 'the fight' atmosphere?"
-> CONTEXT: Map247/events/5/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map247/events/5/pages/0/17/Dialogue
 Holy Priest
 "The final fight is the theme on the poster.
  Does it create 'the fight' atmosphere?"

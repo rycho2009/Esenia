@@ -1,6 +1,6 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Acquired Diamond.
-> CONTEXT: Map230/events/2/pages/0/1/Dialogue < UNTRANSLATED
-Acquired Diament.
+> CONTEXT: Map230/events/2/pages/0/1/Dialogue
+Otrzymano Diament.
 > END STRING

@@ -29,6 +29,6 @@ Holy Chamber
 
 > BEGIN STRING
 Acquired Amethyst.
-> CONTEXT: Map231/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map231/events/2/pages/0/1/Dialogue
 Otrzymano Amestyt.
 > END STRING

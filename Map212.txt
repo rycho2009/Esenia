@@ -9,7 +9,7 @@ Confession Hall
 > BEGIN STRING
 Beyond this door is the point of no return.
 (Strongly recommended to keep a separate save here.)
-> CONTEXT: Map212/events/3/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/3/pages/0/2/Dialogue
 Za tymi drzwiami jest punkt, z którego nie ma powrotu.
 (Zalecamy, aby wykonać tutaj osobny zapis.)
 > END STRING
@@ -36,19 +36,19 @@ Naprzód!
 
 > BEGIN STRING
 Easy mode
-> CONTEXT: Map212/events/3/pages/0/5/Choice/2 < UNTRANSLATED
-> CONTEXT: Map136/events/2/pages/0/4/Choice/2 < UNTRANSLATED
-> CONTEXT: Map065/events/1/pages/0/5/Choice/2 < UNTRANSLATED
-> CONTEXT: Map065/events/96/pages/0/5/Choice/2 < UNTRANSLATED
+> CONTEXT: Map212/events/3/pages/0/5/Choice/2
+> CONTEXT: Map136/events/2/pages/0/4/Choice/2
+> CONTEXT: Map065/events/1/pages/0/5/Choice/2
+> CONTEXT: Map065/events/96/pages/0/5/Choice/2
 Tryb łatwy
 > END STRING
 
 > BEGIN STRING
 Hard mode
-> CONTEXT: Map212/events/3/pages/0/5/Choice/3 < UNTRANSLATED
-> CONTEXT: Map136/events/2/pages/0/4/Choice/3 < UNTRANSLATED
-> CONTEXT: Map065/events/1/pages/0/5/Choice/3 < UNTRANSLATED
-> CONTEXT: Map065/events/96/pages/0/5/Choice/3 < UNTRANSLATED
+> CONTEXT: Map212/events/3/pages/0/5/Choice/3
+> CONTEXT: Map136/events/2/pages/0/4/Choice/3
+> CONTEXT: Map065/events/1/pages/0/5/Choice/3
+> CONTEXT: Map065/events/96/pages/0/5/Choice/3
 Tryb trudny
 > END STRING
 
@@ -80,7 +80,7 @@ Jack in the Chest
 
 > BEGIN STRING
 Chests found in Fallen Sanctum: \\V[472] / 6
-> CONTEXT: Map212/events/12/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map212/events/12/pages/1/1/Dialogue
 Skrzynie znalezione w Fallen Sanctum: \\V[472] / 6
 > END STRING
 

@@ -9,7 +9,7 @@ Senia
 > BEGIN STRING
 Senia
 "It is... my victory..."
-> CONTEXT: Map087/events/3/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/7/Dialogue
 Senia
 "To jest... moje zwycięstwo..."
 > END STRING
@@ -19,7 +19,7 @@ Senia
 "Sis...
  I am no longer the little girl
  that needs your protection."
-> CONTEXT: Map087/events/3/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/10/Dialogue
 Senia
 "Siostrzyczko...
  Nie jestem już dłużej małą
@@ -31,7 +31,7 @@ Senia
 Senia
 "Now... I have the strength...
  to protect you."
-> CONTEXT: Map087/events/3/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/15/Dialogue
 Senia
 "Teraz... Mam siłę...
  by Cię chronić."
@@ -56,7 +56,7 @@ Senia
 > BEGIN STRING
 Senia
 "I am Senia! Your sister Senia!"
-> CONTEXT: Map087/events/3/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/27/Dialogue
 Senia
 "I am Senia! Your sister Senia!"
 > END STRING
@@ -119,7 +119,7 @@ Magaleta
 Magaleta
 "I can no longer...
  \\|leave the Tower of Eternity..."
-> CONTEXT: Map087/events/3/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/63/Dialogue
 Magaleta
 "Już nie mogę...
  \\|opuścić Wieży Wieczności..."
@@ -129,7 +129,7 @@ Magaleta
 Magaleta
 "This is... the price for using
  the power of eternity."
-> CONTEXT: Map087/events/3/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/70/Dialogue
 Magaleta
 "To jest... cena za użycie
  mocy wieczności."
@@ -138,7 +138,7 @@ Magaleta
 > BEGIN STRING
 Senia
 "What? No... NO!"
-> CONTEXT: Map087/events/3/pages/0/74/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/74/Dialogue
 Senia
 "Co? Nie... NIE!"
 > END STRING
@@ -176,7 +176,7 @@ Magaleta
 > BEGIN STRING
 Senia
 "No... NO!!"
-> CONTEXT: Map087/events/3/pages/0/126/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/126/Dialogue
 Senia
 "Nie... NIE!!"
 > END STRING
@@ -220,7 +220,7 @@ Magaleta
 > BEGIN STRING
 Hint for other ending routes:
 You may have passed areas in Fallen Sanctum.
-> CONTEXT: Map087/events/3/pages/0/183/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/183/Dialogue
 Podpowiedź jak osiągnąć inne zakończenia:
 You may have passed areas in Fallen Sanctum.
 > END STRING
@@ -236,7 +236,7 @@ which contains the key accessory to access ending \#2 and \#3.
 > BEGIN STRING
 Don't forget to have
 the accessory equipped during the final battle.
-> CONTEXT: Map087/events/3/pages/0/190/Dialogue < UNTRANSLATED
+> CONTEXT: Map087/events/3/pages/0/190/Dialogue
 Nie zapomnij mieć
 założonego akcesorium podczas ostatecznej bitwy.
 > END STRING

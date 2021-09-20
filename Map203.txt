@@ -16,7 +16,7 @@ Senia
 Senia
 "Like the time when Fairy
  Queen Malphiq lost control?"
-> CONTEXT: Map203/events/4/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/4/pages/0/21/Dialogue
 Senia
 "Jak wtedy, gdy Królowa
  Wróżek Malphiq straciła kontrolę?
@@ -25,7 +25,7 @@ Senia
 > BEGIN STRING
 Senia
 "So perhaps I can..."
-> CONTEXT: Map203/events/4/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map203/events/4/pages/0/25/Dialogue
 Senia
 "Więc być może mogę..."
 > END STRING

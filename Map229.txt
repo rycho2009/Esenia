@@ -1,6 +1,6 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Acquired Lapis Lazuli.
-> CONTEXT: Map229/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map229/events/3/pages/0/1/Dialogue
 Otrzymano Lapis Lazuli.
 > END STRING

@@ -61,7 +61,7 @@ Magaleta
 > BEGIN STRING
 Magaleta
 "...what the..."
-> CONTEXT: Map206/events/1/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/47/Dialogue
 Magaleta
 "...co do..."
 > END STRING
@@ -69,7 +69,7 @@ Magaleta
 > BEGIN STRING
 Magaleta
 "Why...?"
-> CONTEXT: Map206/events/1/pages/0/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/50/Dialogue
 Magaleta
 "Dlaczego...?"
 > END STRING
@@ -77,7 +77,7 @@ Magaleta
 > BEGIN STRING
 Senia
 "Um...! Dad! Mom! NOOO!"
-> CONTEXT: Map206/events/1/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/53/Dialogue
 Senia
 "Um...! Tata! Mama! NIIIEE!"
 > END STRING
@@ -122,7 +122,7 @@ Magaleta
 > BEGIN STRING
 Magaleta
 (... What should I do?)
-> CONTEXT: Map206/events/1/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/76/Dialogue
 Magaleta
 (... Co powinnam zrobić?)
 > END STRING
@@ -248,13 +248,13 @@ Spreading worse and worse...
 
 > BEGIN STRING
 Why Senia?
-> CONTEXT: Map206/events/1/pages/0/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/136/Dialogue
 Dlaczego Senia?
 > END STRING
 
 > BEGIN STRING
 Why her?
-> CONTEXT: Map206/events/1/pages/0/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/138/Dialogue
 Dlaczego ona?
 > END STRING
 
@@ -272,7 +272,7 @@ Watching another sister passing away right before me?
 
 > BEGIN STRING
 NO!
-> CONTEXT: Map206/events/1/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/144/Dialogue
 NIE!
 > END STRING
 
@@ -350,8 +350,8 @@ Magaleta
 > BEGIN STRING
 Senia
 "Sis?"
-> CONTEXT: Map206/events/1/pages/0/209/Dialogue < UNTRANSLATED
-> CONTEXT: Map087/events/3/pages/0/104/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/209/Dialogue
+> CONTEXT: Map087/events/3/pages/0/104/Dialogue
 Senia
 "Siostrzyczko?"
 > END STRING
@@ -366,12 +366,12 @@ Senia
 > BEGIN STRING
 Senia
 "Sis Magaleta!"
-> CONTEXT: Map206/events/1/pages/0/232/Dialogue < UNTRANSLATED
-> CONTEXT: Map187/events/3/pages/0/109/Dialogue < UNTRANSLATED
-> CONTEXT: Map159/events/1/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map159/events/3/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map159/events/4/pages/0/7/Dialogue < UNTRANSLATED
-> CONTEXT: Map090/events/3/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map206/events/1/pages/0/232/Dialogue
+> CONTEXT: Map187/events/3/pages/0/109/Dialogue
+> CONTEXT: Map159/events/1/pages/0/7/Dialogue
+> CONTEXT: Map159/events/3/pages/0/7/Dialogue
+> CONTEXT: Map159/events/4/pages/0/7/Dialogue
+> CONTEXT: Map090/events/3/pages/0/49/Dialogue
 Senia
 "Siostrzyczko Magaleto!"
 > END STRING

@@ -3,7 +3,7 @@
 Facebook fan page Admin
 "Hey, you have found me again!
  Here are the promised materials!"
-> CONTEXT: Map043/events/186/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/186/pages/0/1/Dialogue
 Admin Facebookowego fan page'a
 "Cześć, znowu mnie znalazłeś!
  Trzymaj obiecane materiały!"
@@ -14,7 +14,7 @@ Acquired following materials:
 Demon Crystal x 5
 Demon Cloth x 5
 Book of Sword Art Ch. 2
-> CONTEXT: Map043/events/186/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/186/pages/0/6/Dialogue
 Otrzymano następujące materiały:
 Demon Crystal x 5
 Demon Cloth x 5
@@ -25,7 +25,7 @@ Księga Ataku II  x 1
 Facebook fan page Admin
 "I will have other materials for you in the
  next level!"
-> CONTEXT: Map043/events/186/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/186/pages/0/14/Dialogue
 Admin Facebookowego fan page'a
 "Będę mieć inne materiały dla Ciebie
  na następnym poziomie!"
@@ -35,7 +35,7 @@ Admin Facebookowego fan page'a
 Facebook fan page Admin
 "Don't forget to look for me in the next dungeon!
  I will have more materials for you!"
-> CONTEXT: Map043/events/186/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/186/pages/1/1/Dialogue
 Admin Facebookowego fan page'a
 "Nie zapomnij szukać mnie na kolejnych poziomach!
  Będę mieć dla Ciebie więcej materiałów!"
