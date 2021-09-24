@@ -28,5 +28,5 @@ Senia
 > BEGIN STRING
 Confession Corridor waypoint activated.
 > CONTEXT: Map198/events/6/pages/0/2/Dialogue < UNTRANSLATED
-
+Confession Corridor waypoint activated.
 > END STRING
