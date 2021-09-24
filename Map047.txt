@@ -6,7 +6,7 @@ Acquired \\I[531]Sanctum Cloth
 > END STRING
 
 > BEGIN STRING
-Otrzymano \\I[530]Sanctum Crystal
+Acquired \\I[530]Sanctum Crystal
 > CONTEXT: Map047/events/9/pages/0/13/Dialogue < UNTRANSLATED
-
+Otrzymano \\I[530]Sanctum Crystal
 > END STRING

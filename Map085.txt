@@ -1,9 +1,9 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Castle
-> CONTEXT: Map085/display_name/ < UNTRANSLATED
-> CONTEXT: Map032/display_name/ < UNTRANSLATED
-> CONTEXT: Commonevents/75/14/Choice/1 < UNTRANSLATED
+> CONTEXT: Map085/display_name/
+> CONTEXT: Map032/display_name/
+> CONTEXT: Commonevents/75/14/Choice/1
 Zamek
 > END STRING
 

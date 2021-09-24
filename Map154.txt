@@ -1,6 +1,6 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Acquired \\I[182]Healing Ribbon
-> CONTEXT: Map154/events/2/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map154/events/2/pages/0/8/Dialogue
 Otrzymano \\I[182]Healing Ribbon
 > END STRING

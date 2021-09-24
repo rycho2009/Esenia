@@ -97,8 +97,8 @@
 
 > BEGIN STRING
 "Possession"
-> CONTEXT: Scripts/Vocab/17:21 < UNTRANSLATED
-
+> CONTEXT: Scripts/Vocab/17:21
+"Posiadane"
 > END STRING
 
 > BEGIN STRING

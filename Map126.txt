@@ -1,12 +1,12 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Acquired \\I[529]Demon Cloth x 3
-> CONTEXT: Map126/events/2/pages/0/8/Dialogue < UNTRANSLATED
-Otrzymano \\I[529]Demon Cloth x 3
+> CONTEXT: Map126/events/2/pages/0/8/Dialogue
+Otrzymano \\I[529]Materiał x 3
 > END STRING
 
 > BEGIN STRING
 Acquired\\I[528]Demon Crystal x 3
-> CONTEXT: Map126/events/2/pages/0/13/Dialogue < UNTRANSLATED
-Otrzymano\\I[528]Demon Crystal x 3
+> CONTEXT: Map126/events/2/pages/0/13/Dialogue
+Otrzymano\\I[528]Kryształ x 3
 > END STRING

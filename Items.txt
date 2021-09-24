@@ -292,14 +292,14 @@ Legendary Demon Stone
 
 > BEGIN STRING
 Sanctum Crystal
-> CONTEXT: Items/35/name/ < UNTRANSLATED
-
+> CONTEXT: Items/35/name/
+Sanctum Kryształ
 > END STRING
 
 > BEGIN STRING
 Sanctum Cloth
-> CONTEXT: Items/36/name/ < UNTRANSLATED
-
+> CONTEXT: Items/36/name/
+Sanctum Materiał
 > END STRING
 
 > BEGIN STRING

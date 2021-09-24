@@ -30,7 +30,7 @@ Demon Lord
 > BEGIN STRING
 Senia
 "Me!?"
-> CONTEXT: Map137/events/6/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/6/pages/0/40/Dialogue
 Senia
 "Ja!?"
 > END STRING
@@ -38,7 +38,7 @@ Senia
 > BEGIN STRING
 Demon Lord
 "Yes, you! Give me your name!"
-> CONTEXT: Map137/events/6/pages/0/43/Dialogue < UNTRANSLATED
+> CONTEXT: Map137/events/6/pages/0/43/Dialogue
 Demon Lord
 "Tak, ty! Give me your name!"
 > END STRING

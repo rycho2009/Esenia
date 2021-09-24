@@ -1,17 +1,17 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Clock Tower
-> CONTEXT: Map156/display_name/ < UNTRANSLATED
-> CONTEXT: Map155/display_name/ < UNTRANSLATED
-> CONTEXT: Map154/display_name/ < UNTRANSLATED
-> CONTEXT: Map153/display_name/ < UNTRANSLATED
-> CONTEXT: Map150/display_name/ < UNTRANSLATED
-> CONTEXT: Map135/display_name/ < UNTRANSLATED
-> CONTEXT: Map134/display_name/ < UNTRANSLATED
-> CONTEXT: Map133/display_name/ < UNTRANSLATED
-> CONTEXT: Map132/display_name/ < UNTRANSLATED
-> CONTEXT: Map131/display_name/ < UNTRANSLATED
-> CONTEXT: Map129/display_name/ < UNTRANSLATED
-> CONTEXT: Map049/display_name/ < UNTRANSLATED
+> CONTEXT: Map156/display_name/
+> CONTEXT: Map155/display_name/
+> CONTEXT: Map154/display_name/
+> CONTEXT: Map153/display_name/
+> CONTEXT: Map150/display_name/
+> CONTEXT: Map135/display_name/
+> CONTEXT: Map134/display_name/
+> CONTEXT: Map133/display_name/
+> CONTEXT: Map132/display_name/
+> CONTEXT: Map131/display_name/
+> CONTEXT: Map129/display_name/
+> CONTEXT: Map049/display_name/
 Wieża zegarowa
 > END STRING

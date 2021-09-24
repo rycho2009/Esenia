@@ -1,12 +1,12 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Acquired \\I[332]Fairy Cloth x 3
-> CONTEXT: Map140/events/1/pages/0/8/Dialogue < UNTRANSLATED
-Otrzymano \\I[332]Fairy Cloth x 3
+> CONTEXT: Map140/events/1/pages/0/8/Dialogue
+Otrzymano \\I[332]Materiał x 3
 > END STRING
 
 > BEGIN STRING
 Acquired \\I[343]Fairy Crystal x 3
-> CONTEXT: Map140/events/1/pages/0/13/Dialogue < UNTRANSLATED
-Otrzymano \\I[343]Fairy Crystal x 3
+> CONTEXT: Map140/events/1/pages/0/13/Dialogue
+Otrzymano \\I[343]Kryształ x 3
 > END STRING

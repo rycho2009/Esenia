@@ -1,6 +1,6 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Acquired Ruby.
-> CONTEXT: Map176/events/3/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map176/events/3/pages/0/1/Dialogue
 Otrzymano Rubin.
 > END STRING

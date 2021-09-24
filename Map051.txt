@@ -1,24 +1,32 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
+
+> END STRING
+
+> BEGIN STRING
 Senia
 "That dream again..."
-> CONTEXT: Map051/events/10/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/19/Dialogue
+Senia
+"Znowu ten sen..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "I remember...\\|it was also a
  raining day..."
-> CONTEXT: Map051/events/10/pages/0/22/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/22/Dialogue
+Senia
+"Pamiętam...\\|to był również
+ deszczowy dzień..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "Dad... mom..."
-> CONTEXT: Map051/events/10/pages/0/30/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/30/Dialogue
+Senia
+"Tata... mama..."
 > END STRING
 
 > BEGIN STRING
@@ -31,29 +39,33 @@ Magaleta
 > BEGIN STRING
 Senia
 "I... had a dream..."
-> CONTEXT: Map051/events/10/pages/0/58/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/58/Dialogue
+Senia
+"Ja... miałam sen..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "A dream of that incident..."
-> CONTEXT: Map051/events/10/pages/0/61/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/61/Dialogue
+Senia
+"Sen o tamtym incydencie..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "My hometown...\\|
 Dad... Mom...\\|Everything..."
-> CONTEXT: Map051/events/10/pages/0/64/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/64/Dialogue
+Senia
+"Moje rodzinne miasto...\\|
+ Tata... Mama...\\|Wszystko..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "I am scared..."
-> CONTEXT: Map051/events/10/pages/0/71/Dialogue < UNTRANSLATED
+> CONTEXT: Map051/events/10/pages/0/71/Dialogue
 Senia
 "Jestem przerażona..."
 > END STRING
@@ -62,31 +74,39 @@ Senia
 Senia
 "What if they take Magaleta
  away this time..."
-> CONTEXT: Map051/events/10/pages/0/74/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/74/Dialogue
+Senia
+"Co jeśli tym razem zabiorą
+ mi Magaletę...?"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "It's alright...\\|
 You don't need to be afraid..."
-> CONTEXT: Map051/events/10/pages/0/99/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/99/Dialogue
+Magaleta
+"It's alright...\\|
+Nie musisz się bać..."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Sis will be right here, by your side.
 And protect you from anything."
-> CONTEXT: Map051/events/10/pages/0/103/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/103/Dialogue
+Magaleta
+"Siostrzyczka będzie tutaj,
+ po twojej stronie.
+ Obroni Cię przed wszystkim."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Just relax...\\|and sleep well."
-> CONTEXT: Map051/events/10/pages/0/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/107/Dialogue
+Magaleta
+"Just relax...\\|i śpij dobrze."
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +121,10 @@ Senia
 Senia
 "Thank you...\\|
 Sis Magaleta."
-> CONTEXT: Map051/events/10/pages/0/116/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/116/Dialogue
+Senia
+"Dziękuję...\\|
+Siostrzyczko Magaleto."
 > END STRING
 
 > BEGIN STRING
@@ -114,20 +136,24 @@ Sis is always so kind and nice to me.
 > BEGIN STRING
 Whenever I am scared...\\|
 She is always there for me...
-> CONTEXT: Map051/events/10/pages/0/127/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/127/Dialogue
+Kiedykolwiek się bałam...\\|
+She is always there for me...
 > END STRING
 
 > BEGIN STRING
 A warm hug from her
 easily calms me down...
-> CONTEXT: Map051/events/10/pages/0/130/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/130/Dialogue
+Jej ciepły uścisk
+z łatwością mnie uspokajał...
 > END STRING
 
 > BEGIN STRING
 I am so weak and fragile...\\|
 To me... sis is the one and only...\\|\\C[6]ray of hope\\C[0]...
-> CONTEXT: Map051/events/10/pages/0/133/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map051/events/10/pages/0/133/Dialogue
+Jestem taka słaba i krucha...\\|
+Dla mnie... siostrzyczka jest jedynym i wyjątkowym...
+\\|\\C[6]promieniem nadziei\\C[0]...
 > END STRING

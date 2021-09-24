@@ -91,7 +91,7 @@ Senia
 > BEGIN STRING
 Magaleta
 "Senia, listen..."
-> CONTEXT: Map143/events/8/pages/0/86/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/86/Dialogue
 Magaleta
 "Senia, posłuchaj..."
 > END STRING
@@ -131,7 +131,7 @@ Magaleta
 > BEGIN STRING
 Senia
 "That is not true!"
-> CONTEXT: Map143/events/8/pages/0/105/Dialogue < UNTRANSLATED
+> CONTEXT: Map143/events/8/pages/0/105/Dialogue
 Senia
 "To nie prawda!"
 > END STRING

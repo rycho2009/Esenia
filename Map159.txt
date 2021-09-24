@@ -2,8 +2,9 @@
 > BEGIN STRING
 Senia
 "Wait!"
-> CONTEXT: Map159/events/1/pages/0/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map159/events/3/pages/0/18/Dialogue < UNTRANSLATED
-> CONTEXT: Map159/events/4/pages/0/18/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map159/events/1/pages/0/18/Dialogue
+> CONTEXT: Map159/events/3/pages/0/18/Dialogue
+> CONTEXT: Map159/events/4/pages/0/18/Dialogue
+Senia
+"Zaczekaj!"
 > END STRING

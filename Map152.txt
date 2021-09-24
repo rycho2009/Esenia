@@ -222,7 +222,7 @@ Senia
 > BEGIN STRING
 Senia
 "eh!!"
-> CONTEXT: Map152/events/67/pages/3/37/Dialogue < UNTRANSLATED
+> CONTEXT: Map152/events/67/pages/3/37/Dialogue
 Senia
 "Eh!!"
 > END STRING

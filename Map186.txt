@@ -60,15 +60,18 @@ Senia
 Senia
 "This room...
  it is sis Magaleta's room."
-> CONTEXT: Map186/events/35/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/35/pages/0/12/Dialogue
+Senia
+"Ten pokój...
+ it is sis Magaleta's room."
 > END STRING
 
 > BEGIN STRING
 Senia
 "This room... it is my room."
-> CONTEXT: Map186/events/36/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/36/pages/0/12/Dialogue
+Senia
+"Ten pokój... it is my room."
 > END STRING
 
 > BEGIN STRING
@@ -86,8 +89,8 @@ Found nothing.
 
 > BEGIN STRING
 Acquired\\i[236] Score: the Other Side of Sorrow - Part I
-> CONTEXT: Map186/events/49/pages/0/3/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/49/pages/0/3/Dialogue
+Otrzymano\\i[236] Score: the Other Side of Sorrow - Part I
 > END STRING
 
 > BEGIN STRING
@@ -101,8 +104,10 @@ Senia
 Senia
 (I remember seeing her crying
  with it at night...)
-> CONTEXT: Map186/events/50/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/50/pages/0/4/Dialogue
+Senia
+(I remember seeing her crying
+ with it at night...)
 > END STRING
 
 > BEGIN STRING
@@ -122,8 +127,9 @@ Senia
 > BEGIN STRING
 Senia
 "A piano..."
-> CONTEXT: Map186/events/51/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/51/pages/0/1/Dialogue
+Senia
+"Fortepian..."
 > END STRING
 
 > BEGIN STRING
@@ -131,8 +137,11 @@ Senia
 (I miss the times...
  When Magaleta sis plays the
  piano for me.)
-> CONTEXT: Map186/events/51/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/51/pages/0/4/Dialogue
+Senia
+(Tęsknię za czasami...
+ Gdy siostrzyczka Magaleta
+ grała dla mnie na fortepianie.)
 > END STRING
 
 > BEGIN STRING
@@ -147,8 +156,9 @@ Senia
 > BEGIN STRING
 Senia
 "The Other Side of Sorrow..."
-> CONTEXT: Map186/events/51/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/51/pages/0/14/Dialogue
+Senia
+"The Other Side of Sorrow..."
 > END STRING
 
 > BEGIN STRING
@@ -169,7 +179,8 @@ Placed Score: the Other Side of Sorrow - part I on the piano.
 Senia
 "Still seemed incomplete..."
 > CONTEXT: Map186/events/51/pages/1/4/Dialogue < UNTRANSLATED
-
+Senia
+"Still seemed incomplete..."
 > END STRING
 
 > BEGIN STRING
@@ -191,28 +202,32 @@ Placed Score: the Other Side of Sorrow - part II on the piano.
 Senia
 "The piano is playing by itself!"
 > CONTEXT: Map186/events/51/pages/3/4/Dialogue < UNTRANSLATED
-
+Senia
+"The piano is playing by itself!"
 > END STRING
 
 > BEGIN STRING
 Senia
 (It feels... somewhat... relieved.)
 > CONTEXT: Map186/events/51/pages/3/8/Dialogue < UNTRANSLATED
-
+Senia
+(It feels... somewhat... relieved.)
 > END STRING
 
 > BEGIN STRING
 Senia
 (It is like sis is right by me...)
 > CONTEXT: Map186/events/51/pages/3/11/Dialogue < UNTRANSLATED
-
+Senia
+(It is like sis is right by me...)
 > END STRING
 
 > BEGIN STRING
 Senia
 "The Other Side of Sorrow."
 > CONTEXT: Map186/events/51/pages/4/5/Dialogue < UNTRANSLATED
-
+Senia
+"The Other Side of Sorrow."
 > END STRING
 
 > BEGIN STRING
@@ -232,14 +247,15 @@ Acquired\\i[353] Blue Crystal.
 > BEGIN STRING
 Acquired\\i[236] Score: the Other Side of Sorrow - Part II
 > CONTEXT: Map186/events/153/pages/1/8/Dialogue < UNTRANSLATED
-
+Otrzymano\\i[236] Score: the Other Side of Sorrow - Part II
 > END STRING
 
 > BEGIN STRING
 Senia
 "It's the goddess statue..."
 > CONTEXT: Map186/events/155/pages/0/0/Dialogue < UNTRANSLATED
-
+Senia
+"It's the goddess statue..."
 > END STRING
 
 > BEGIN STRING
@@ -253,8 +269,10 @@ Senia
 Facebook fan page Admin
 "You have found me again!
 Here are the promised materials!"
-> CONTEXT: Map186/events/156/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/156/pages/0/1/Dialogue
+Facebook fan page Admin
+"Znów mnie znalazłaś!
+Masz tutaj obiecane materiały!"
 > END STRING
 
 > BEGIN STRING
@@ -262,24 +280,31 @@ Acquired following materials:
 Sanctum Crystal x 5
 Sanctum Cloth x 5
 Book of Sword Art Ch. 3
-> CONTEXT: Map186/events/156/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/156/pages/0/6/Dialogue
+Otrzymano następujące materiały:
+Sanctum Kryształ x 5
+Sanctum Materiał x 5
+Book of Sword Art Ch. 3
 > END STRING
 
 > BEGIN STRING
 Facebook fan page Admin
 "That is all the bonus materials from me.
 Please do make it to the endings!"
-> CONTEXT: Map186/events/156/pages/0/14/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/156/pages/0/14/Dialogue
+Facebook fan page Admin
+"That is all the bonus materials from me.
+Please do make it to the endings!"
 > END STRING
 
 > BEGIN STRING
 Facebook fan page Admin
 "If you are having a hard time reaching one of the endings,
 please try to have an "accessory" equipped on your journey!"
-> CONTEXT: Map186/events/156/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/156/pages/1/1/Dialogue
+Facebook fan page Admin
+"If you are having a hard time reaching one of the endings,
+please try to have an "accessory" equipped on your journey!"
 > END STRING
 
 > BEGIN STRING
@@ -308,8 +333,11 @@ Little Fairy
 "Looks like Senia's sister is the lord of this
  dungeon. The dungeon's appearance is
  determined by its leader, hence this area..."
-> CONTEXT: Map186/events/157/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/157/pages/0/19/Dialogue
+Mała Wróżka
+"Looks like Senia's sister is the lord of this
+ dungeon. The dungeon's appearance is
+ determined by its leader, hence this area..."
 > END STRING
 
 > BEGIN STRING
@@ -330,8 +358,9 @@ Senia
 > BEGIN STRING
 Little Fairy
 "Yes, your sister must have grabbed eternity..."
-> CONTEXT: Map186/events/157/pages/0/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map186/events/157/pages/0/31/Dialogue
+Mała Wróżka
+"Yes, your sister must have grabbed eternity..."
 > END STRING
 
 > BEGIN STRING
@@ -354,6 +383,6 @@ Little Fairy
 "Right!"
 > CONTEXT: Map186/events/157/pages/0/42/Dialogue
 > CONTEXT: Map008/events/30/pages/3/129/Dialogue
-Little Fairy
+Mała Wróżka
 "W porządku!"
 > END STRING

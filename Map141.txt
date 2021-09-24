@@ -28,15 +28,15 @@ Kraina Magii
 
 > BEGIN STRING
 Acquired \\I[166]Magic Bracelet
-> CONTEXT: Map141/events/1/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/0/12/Dialogue
 Otrzymano \\I[166]Magic Bracelet
 > END STRING
 
 > BEGIN STRING
 Acquired \\I[347]Elite Fairy Stone
-> CONTEXT: Map141/events/1/pages/0/20/Dialogue < UNTRANSLATED
-> CONTEXT: Map141/events/1/pages/0/26/Dialogue < UNTRANSLATED
-> CONTEXT: Map089/events/1/pages/3/16/Dialogue < UNTRANSLATED
-> CONTEXT: Map088/events/7/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map141/events/1/pages/0/20/Dialogue
+> CONTEXT: Map141/events/1/pages/0/26/Dialogue
+> CONTEXT: Map089/events/1/pages/3/16/Dialogue
+> CONTEXT: Map088/events/7/pages/0/11/Dialogue
 Otrzymano \\I[347]Elite Fairy Stone
 > END STRING

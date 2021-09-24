@@ -11,6 +11,6 @@ Sanctum Corridor
 
 > BEGIN STRING
 Sanctum Corridor waypoint activated.
-> CONTEXT: Map197/events/3/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map197/events/3/pages/0/2/Dialogue
+Sanctum Corridor - punkt aktywowany
 > END STRING

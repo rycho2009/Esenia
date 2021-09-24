@@ -3,22 +3,26 @@
 Senia
 "Sis Magaleta!
 I finally found you!"
-> CONTEXT: Map157/events/5/pages/0/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/0/12/Dialogue
+Senia
+"Sistrzyczko!
+ Wreszcie Cię znalazłam!"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Let's go..."
-> CONTEXT: Map157/events/5/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/0/16/Dialogue
+Senia
+"Chodźmy..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "Sis Magaleta...?"
-> CONTEXT: Map157/events/5/pages/0/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/0/21/Dialogue
+Senia
+"Siostrzyczko Magaleto...?"
 > END STRING
 
 > BEGIN STRING
@@ -40,30 +44,35 @@ Senia
 > BEGIN STRING
 Senia
 "Ouch!!"
-> CONTEXT: Map157/events/5/pages/0/41/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/0/41/Dialogue
+Senia
+"Auć!!"
 > END STRING
 
 > BEGIN STRING
 Senia
 (It hurts...)\\|\\|\\^
-> CONTEXT: Map157/events/5/pages/0/44/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/0/44/Dialogue
+Senia
+(To bolało...)\\|\\|\\^
 > END STRING
 
 > BEGIN STRING
 Senia
 (What is going on...)\\|\\|\\^
-> CONTEXT: Map157/events/5/pages/0/47/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/0/47/Dialogue
+Senia
+(Co się dzieje...)\\|\\|\\^
 > END STRING
 
 > BEGIN STRING
 Senia
 (My consciousness... \\|
  is fading away...)\\|\\|\\^
-> CONTEXT: Map157/events/5/pages/0/51/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/0/51/Dialogue
+Senia
+(Moja świadomość... \\|
+ is fading away...)\\|\\|\\^
 > END STRING
 
 > BEGIN STRING
@@ -78,7 +87,7 @@ Mała Wróżka
 > BEGIN STRING
 Senia
 "I passed out?"
-> CONTEXT: Map157/events/5/pages/2/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/5/pages/2/18/Dialogue
 Senia
 "Odpłynęłam?"
 > END STRING
@@ -86,18 +95,19 @@ Senia
 > BEGIN STRING
 Senia
 (What... happened?)
-> CONTEXT: Map157/events/5/pages/2/21/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/2/21/Dialogue
+Senia
+(Co... się stało?)
 > END STRING
 
 > BEGIN STRING
 Senia
 (I remember...\\|
 I saw sis...\\|and then...)\\|
-> CONTEXT: Map157/events/5/pages/2/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/5/pages/2/24/Dialogue
 Senia
 (Pamiętam, że...\\|
-Widziałam siostrę...\\|and then...)\\|
+Widziałam siostrę...\\|a potem...)\\|
 > END STRING
 
 > BEGIN STRING
@@ -146,9 +156,10 @@ Senia
 > BEGIN STRING
 Little Fairy
 "Senia..."
-> CONTEXT: Map157/events/5/pages/2/68/Dialogue < UNTRANSLATED
-> CONTEXT: Map157/events/5/pages/2/107/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/2/68/Dialogue
+> CONTEXT: Map157/events/5/pages/2/107/Dialogue
+Mała Wróżka
+"Senia..."
 > END STRING
 
 > BEGIN STRING
@@ -164,8 +175,11 @@ Little Fairy
 "They will slowly lose their mind...
  Once eternity fully take control...
  they can no longer recover from it."
-> CONTEXT: Map157/events/5/pages/2/75/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/2/75/Dialogue
+Mała Wróżka
+"They will slowly lose their mind...
+ Once eternity fully take control...
+ they can no longer recover from it."
 > END STRING
 
 > BEGIN STRING
@@ -178,8 +192,8 @@ Senia
 > BEGIN STRING
 Little Fairy
 "Exactly..."
-> CONTEXT: Map157/events/5/pages/2/87/Dialogue < UNTRANSLATED
-Little Fairy
+> CONTEXT: Map157/events/5/pages/2/87/Dialogue
+Mała Wróżka
 "Dokładnie..."
 > END STRING
 
@@ -211,24 +225,27 @@ Senia
 Little Fairy
 "What if...
  Your sister really turns into a puppet of eternity...?"
-> CONTEXT: Map157/events/5/pages/2/110/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/2/110/Dialogue
+Mała Wróżka
+"What if...
+ Your sister really turns into a puppet of eternity...?"
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "What will you do then?"
-> CONTEXT: Map157/events/5/pages/2/117/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map157/events/5/pages/2/117/Dialogue
+Mała Wróżka
+"What will you do then?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "I..."
-> CONTEXT: Map157/events/5/pages/2/121/Dialogue < UNTRANSLATED
-> CONTEXT: Map138/events/3/pages/0/151/Dialogue < UNTRANSLATED
-> CONTEXT: Map100/events/1/pages/1/37/Dialogue < UNTRANSLATED
-> CONTEXT: Map100/events/1/pages/1/95/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/5/pages/2/121/Dialogue
+> CONTEXT: Map138/events/3/pages/0/151/Dialogue
+> CONTEXT: Map100/events/1/pages/1/37/Dialogue
+> CONTEXT: Map100/events/1/pages/1/95/Dialogue
 Senia
 "Ja..."
 > END STRING
@@ -250,9 +267,9 @@ Senia
 > END STRING
 
 > BEGIN STRING
-Little Fairy
+Mała Wróżka
 "Senia?"
-> CONTEXT: Map157/events/5/pages/2/132/Dialogue < UNTRANSLATED
+> CONTEXT: None < UNUSED
 
 > END STRING
 
@@ -267,8 +284,8 @@ Senia
 > BEGIN STRING
 Little Fairy
 "But what if..."
-> CONTEXT: Map157/events/5/pages/2/140/Dialogue < UNTRANSLATED
-Little Fairy
+> CONTEXT: Map157/events/5/pages/2/140/Dialogue
+Mała Wróżka
 "Ale co, jeśli..."
 > END STRING
 
@@ -320,23 +337,30 @@ Senia
 > BEGIN STRING
 Little Fairy
 "You are determined!"
-> CONTEXT: Map157/events/5/pages/2/164/Dialogue < UNTRANSLATED
-Little Fairy
+> CONTEXT: Map157/events/5/pages/2/164/Dialogue
+Mała Wróżka
 "Jesteś zdeterminowana!"
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "I will go with you."
-> CONTEXT: Map157/events/5/pages/2/167/Dialogue < UNTRANSLATED
-Little Fairy
+> CONTEXT: Map157/events/5/pages/2/167/Dialogue
+Mała Wróżka
 "Pójdę z tobą."
 > END STRING
 
 > BEGIN STRING
 Senia
 "Thanks..."
-> CONTEXT: Map157/events/5/pages/2/170/Dialogue < UNTRANSLATED
+> CONTEXT: Map157/events/5/pages/2/170/Dialogue
 Senia
 "Dzięki..."
+> END STRING
+
+> BEGIN STRING
+Little Fairy
+"Senia?"
+> CONTEXT: Map157/events/5/pages/2/132/Dialogue < UNTRANSLATED
+
 > END STRING

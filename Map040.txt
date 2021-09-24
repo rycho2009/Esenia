@@ -4,27 +4,31 @@ Little Fairy
 "Should I process your Elite Demon Stone?
  It will be turned into Demon Crystal
  and Demon Cloth!"
-> CONTEXT: Map040/events/18/pages/0/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/2/Dialogue
+Mała Wróżka
+"Czy powinnam przetworzyć Elite Demon Stone?
+ Zostanie zmieniony w Kryształy
+ i Materiały!"
 > END STRING
 
 > BEGIN STRING
 Process my Elite Demon Stone
-> CONTEXT: Map040/events/18/pages/0/7/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/7/Choice/0
+Przetwórz mój Elite Demon Stone
 > END STRING
 
 > BEGIN STRING
 Acquired \\I[529]Demon Cloth x5
 Acquired \\I[528]Demon Crystal x5
-> CONTEXT: Map040/events/18/pages/0/12/Dialogue < UNTRANSLATED
-Otrzymano \\I[529]Demon Cloth x5
-Otrzymano \\I[528]Demon Crystal x5
+> CONTEXT: Map040/events/18/pages/0/12/Dialogue
+Otrzymano \\I[529]Materiał x5
+Otrzymano \\I[528]Kryształ x5
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "You do not have any Elite Demon Stone."
-> CONTEXT: Map040/events/18/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map040/events/18/pages/0/19/Dialogue
+Mała Wróżka
+"Nie masz żadnego Elite Demon Stone."
 > END STRING

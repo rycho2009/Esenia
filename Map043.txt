@@ -16,8 +16,8 @@ Demon Cloth x 5
 Book of Sword Art Ch. 2
 > CONTEXT: Map043/events/186/pages/0/6/Dialogue
 Otrzymano następujące materiały:
-Demon Crystal x 5
-Demon Cloth x 5
+Kryształ x 5
+Materiał x 5
 Księga Ataku II  x 1
 > END STRING
 

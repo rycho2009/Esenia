@@ -1,6 +1,6 @@
 > RPGMAKER TRANS PATCH FILE VERSION 3.2
 > BEGIN STRING
 Acquired \\I[227]「Page of Critical Hits Ch. 1 x 3」
-> CONTEXT: Map088/events/7/pages/0/17/Dialogue < UNTRANSLATED
+> CONTEXT: Map088/events/7/pages/0/17/Dialogue
 Otrzymano \\I[227]「Page of Critical Hits Ch. 1 x 3」
 > END STRING

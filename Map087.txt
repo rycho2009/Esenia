@@ -229,8 +229,10 @@ You may have passed areas in Fallen Sanctum.
 Go back from the Confessional Hall
 and there is a magic circle that can warp you to another area
 which contains the key accessory to access ending \#2 and \#3.
-> CONTEXT: Map087/events/3/pages/0/186/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map087/events/3/pages/0/186/Dialogue
+Wróć się z Confessional Hall
+and there is a magic circle that can warp you to another area
+which contains the key accessory to access ending \#2 i \#3.
 > END STRING
 
 > BEGIN STRING

@@ -52,10 +52,10 @@ Spell Caster destroyed:\\V[490] / 10
 
 > BEGIN STRING
 Acquired "\\I[225]Book of Evasion Ch. 2"
-> CONTEXT: Map136/events/11/pages/0/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map136/events/11/pages/0/50/Dialogue < UNTRANSLATED
-> CONTEXT: Map136/events/11/pages/0/83/Dialogue < UNTRANSLATED
-> CONTEXT: Map136/events/11/pages/0/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map136/events/11/pages/0/17/Dialogue
+> CONTEXT: Map136/events/11/pages/0/50/Dialogue
+> CONTEXT: Map136/events/11/pages/0/83/Dialogue
+> CONTEXT: Map136/events/11/pages/0/116/Dialogue
 Otrzymano "\\I[225]Book of Evasion Ch. 2"
 > END STRING
 
