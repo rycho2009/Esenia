@@ -21,7 +21,8 @@ Senia
 Senia
 "Let's do this!"
 > CONTEXT: Map198/events/5/pages/0/10/Dialogue < UNTRANSLATED
-
+Senia
+"Let's do this!"
 > END STRING
 
 > BEGIN STRING
