@@ -39,7 +39,8 @@ Magaleta
 Magaleta
 "I am such a selfish sister..."
 > CONTEXT: Map205/events/2/pages/0/18/Dialogue < UNTRANSLATED
-
+Magaleta
+"Jestem taką samolubną siostrą..."
 > END STRING
 
 > BEGIN STRING
@@ -135,7 +136,8 @@ Magaleta
 Magaleta
 "A complete opposite of Nia, right?"
 > CONTEXT: Map205/events/2/pages/0/61/Dialogue < UNTRANSLATED
-
+Magaleta
+"Kompletne przeciwieństwo Nii, racja?"
 > END STRING
 
 > BEGIN STRING
@@ -143,7 +145,9 @@ Magaleta
 "Even so, I still love her as much as
  I love you."
 > CONTEXT: Map205/events/2/pages/0/64/Dialogue < UNTRANSLATED
-
+Magaleta
+" Nawet jeśli, to i tak kocham ją 
+ tak bardzo, jak Ciebie.
 > END STRING
 
 > BEGIN STRING
