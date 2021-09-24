@@ -41,7 +41,8 @@ Senia
 Senia
 "Sis, are you scared, too?"
 > CONTEXT: Map192/events/5/pages/0/29/Dialogue < UNTRANSLATED
-
+Senia
+"Siostrzyczko, czy ty też się boisz?"
 > END STRING
 
 > BEGIN STRING
