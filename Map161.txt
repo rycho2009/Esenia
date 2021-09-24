@@ -44,5 +44,7 @@ Holy Priest
 "It would be great if you feel challenging but yet
  amusing, and want to repeat the fight."
 > CONTEXT: Map161/events/38/pages/0/16/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Byłoby świetnie, gdybyś poczuł wyzwanie, 
+ ale jednocześnie fun i chęć powtórzenia walki."
 > END STRING
