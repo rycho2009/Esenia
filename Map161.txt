@@ -24,7 +24,10 @@ Holy Priest
 I would like it to be a fight as intense as the
 Fairy Queen Malphiq, if not more."
 > CONTEXT: Map161/events/38/pages/0/6/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Boss, którego ukończenie zajęło mi sporo czasu.
+Chciałem, aby była to walka tak intensywna jak z
+Królową Wróżek Malphiq, jeśli nie bardziej."
 > END STRING
 
 > BEGIN STRING
