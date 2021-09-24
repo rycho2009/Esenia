@@ -77,7 +77,9 @@ New skill "Eternity Burst" learn!
 
 \\c[6]Effect 1: cause massive damage to surroundings.
 > CONTEXT: Map248/events/15/pages/3/4/Dialogue < UNTRANSLATED
+New skill "Eternity Burst" learn!
 
+\\c[6]Efekt 1: zadaje ogromne obrażenia otaczającym.
 > END STRING
 
 > BEGIN STRING
