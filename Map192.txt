@@ -3,7 +3,8 @@
 Senia
 "What is this place...!?"
 > CONTEXT: Map192/events/5/pages/0/2/Dialogue < UNTRANSLATED
-
+Senia
+"Co to za miejsce...!?"
 > END STRING
 
 > BEGIN STRING
