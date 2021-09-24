@@ -47,7 +47,8 @@ Senia
 Senia
 "Oh no! I am surrounded."
 > CONTEXT: Map248/events/15/pages/1/4/Dialogue < UNTRANSLATED
-
+Senia
+"Oh nie! Jestem otoczona."
 > END STRING
 
 > BEGIN STRING
@@ -82,7 +83,7 @@ New skill "Eternity Burst" learn!
 > BEGIN STRING
 \\c[6]Effect 2: HP and MP regen faster for a short period after.
 > CONTEXT: Map248/events/15/pages/3/8/Dialogue < UNTRANSLATED
-
+\\c[6]Efekt 2: Chwilowo zwiększa regenerację HP i MP.
 > END STRING
 
 > BEGIN STRING
