@@ -36,7 +36,10 @@ Holy Priest
  like meteor, golems, claws...
  while finding chance to deliver damage."
 > CONTEXT: Map161/events/38/pages/0/11/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Senia musi unikać wszystkich rodzajów ataków
+ jak meteory, golemy, szpony...
+ jednocześnie szukając okazji do zadawania obrażeń."
 > END STRING
 
 > BEGIN STRING
