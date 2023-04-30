@@ -10,7 +10,9 @@ Holy Priest
 "Did it surprise you with a direct rush attack
  opening?"
 > CONTEXT: Map021/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Did it surprise you with a direct rush attack
+ opening?"
 > END STRING
 
 > BEGIN STRING
@@ -18,7 +20,9 @@ Holy Priest
 "It starts out as a weak monster to let the players
  get a hang of the AI pattern."
 > CONTEXT: Map021/events/1/pages/0/7/Dialogue < UNTRANSLATED
-
+Holy Priest
+"It starts out as a weak monster to let the players
+ get a hang of the AI pattern."
 > END STRING
 
 > BEGIN STRING
@@ -26,7 +30,9 @@ Holy Priest
 "The real battle starts once King Slime enters
 berserk phase."
 > CONTEXT: Map021/events/1/pages/0/11/Dialogue < UNTRANSLATED
-
+Holy Priest
+"It starts out as a weak monster to let the players
+ get a hang of the AI pattern."
 > END STRING
 
 > BEGIN STRING
@@ -40,14 +46,17 @@ Holy Priest
 "All stats raised in berserk phase.
 It also starts to split normal Slimes on the battlefield."
 > CONTEXT: Map021/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+Holy Priest
+"All stats raised in berserk phase.
+It also starts to split normal Slimes on the battlefield."
 > END STRING
 
 > BEGIN STRING
 Holy Priest
 "Senia stands no chance if fighting it head on."
 > CONTEXT: Map021/events/3/pages/0/7/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Senia stands no chance if fighting it head on."
 > END STRING
 
 > BEGIN STRING
@@ -56,14 +65,18 @@ Holy Priest
  has a rather simple pattern. It is not a hard fight
  if you have the pattern figured out."
 > CONTEXT: Map021/events/3/pages/0/10/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Though powerful, Berserk King Slime still
+ has a rather simple pattern. It is not a hard fight
+ if you have the pattern figured out."
 > END STRING
 
 > BEGIN STRING
 Holy Priest
 "A challenging but not impossible first boss."
 > CONTEXT: Map021/events/3/pages/0/15/Dialogue < UNTRANSLATED
-
+Holy Priest
+"A challenging but not impossible first boss."
 > END STRING
 
 > BEGIN STRING
@@ -76,7 +89,8 @@ Griffin
 Holy Priest
 "The first monster to greet Senia in the Tower."
 > CONTEXT: Map021/events/7/pages/0/3/Dialogue < UNTRANSLATED
-
+Holy Priest
+"The first monster to greet Senia in the Tower."
 > END STRING
 
 > BEGIN STRING
@@ -84,7 +98,9 @@ Holy Priest
 "For that, it gets a special dying effect
  that no other monster has."
 > CONTEXT: Map021/events/7/pages/0/6/Dialogue < UNTRANSLATED
-
+Holy Priest
+"For that, it gets a special dying effect
+ that no other monster has."
 > END STRING
 
 > BEGIN STRING
@@ -93,5 +109,8 @@ Holy Priest
  Castlevania SOTN, which most of you probably
  figured already. lol"
 > CONTEXT: Map021/events/7/pages/0/10/Dialogue < UNTRANSLATED
-
+Holy Priest
+"With all due respect, it is originated from
+ Castlevania SOTN, which most of you probably
+ figured already. lol"
 > END STRING

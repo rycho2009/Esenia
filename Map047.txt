@@ -2,7 +2,7 @@
 > BEGIN STRING
 Acquired \\I[531]Sanctum Cloth
 > CONTEXT: Map047/events/9/pages/0/8/Dialogue < UNTRANSLATED
-
+Otrzymano \\I[531]Sanctum Cloth
 > END STRING
 
 > BEGIN STRING

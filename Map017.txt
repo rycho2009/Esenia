@@ -10,7 +10,9 @@ Holy Priest
 "It is a complete different special effect and presentation.
  I've gotten positive feedbacks for her stage."
 > CONTEXT: Map017/events/1/pages/0/3/Dialogue < UNTRANSLATED
-
+Holy Priest
+"It is a complete different special effect and presentation.
+ I've gotten positive feedbacks for her stage."
 > END STRING
 
 > BEGIN STRING
@@ -19,7 +21,10 @@ Holy Priest
  to utilize the special effects so she does not just
  look like a still image."
 > CONTEXT: Map017/events/1/pages/0/7/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Since she is a non-moving boss, it is important
+ to utilize the special effects so she does not just
+ look like a still image."
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +32,9 @@ Holy Priest
 "The effects are used more and much stronger
  compare to the King Slime fight before her."
 > CONTEXT: Map017/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+Holy Priest
+"The effects are used more and much stronger
+ compare to the King Slime fight before her."
 > END STRING
 
 > BEGIN STRING
@@ -35,7 +42,9 @@ Holy Priest
 "I went through all the effects and tested
  many different versions."
 > CONTEXT: Map017/events/1/pages/0/16/Dialogue < UNTRANSLATED
-
+Holy Priest
+"I went through all the effects and tested
+ many different versions."
 > END STRING
 
 > BEGIN STRING
@@ -43,7 +52,9 @@ Holy Priest
 "I once got dizzy for checking out too much
 flashy effects for an extended period of time..."
 > CONTEXT: Map017/events/1/pages/0/20/Dialogue < UNTRANSLATED
-
+Holy Priest
+"I once got dizzy for checking out too much
+flashy effects for an extended period of time..."
 > END STRING
 
 > BEGIN STRING
@@ -81,7 +92,9 @@ Holy Priest
 "Once the Flower Spirit is fully developed,
  it will start shooting ranged attack frequently."
 > CONTEXT: Map017/events/2/pages/0/3/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Once the Flower Spirit is fully developed,
+ it will start shooting ranged attack frequently."
 > END STRING
 
 > BEGIN STRING
@@ -89,7 +102,9 @@ Holy Priest
 "4 Flower Spirit can be summoned when
  Fairy Queen Malphiq enters rage phase."
 > CONTEXT: Map017/events/2/pages/0/7/Dialogue < UNTRANSLATED
-
+Holy Priest
+"4 Flower Spirit can be summoned when
+ Fairy Queen Malphiq enters rage phase."
 > END STRING
 
 > BEGIN STRING
@@ -98,7 +113,10 @@ Holy Priest
  calmly dealt with. It is important to utilize
  Phantom Strike in this situation."
 > CONTEXT: Map017/events/2/pages/0/11/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Players will quickly find themselves in trouble if not
+ calmly dealt with. It is important to utilize
+ Phantom Strike in this situation."
 > END STRING
 
 > BEGIN STRING
@@ -122,7 +140,9 @@ Holy Priest
 "After a thorough consideration I took out
  the knock back attribute."
 > CONTEXT: Map017/events/2/pages/0/24/Dialogue < UNTRANSLATED
-
+Holy Priest
+"After a thorough consideration I took out
+ the knock back attribute."
 > END STRING
 
 > BEGIN STRING
@@ -135,7 +155,8 @@ Little Flower Spirit
 Holy Priest
 "A new born, weak Flower Spirit."
 > CONTEXT: Map017/events/3/pages/0/3/Dialogue < UNTRANSLATED
-
+Holy Priest
+"A new born, weak Flower Spirit."
 > END STRING
 
 > BEGIN STRING

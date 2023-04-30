@@ -16,5 +16,5 @@ Otrzymano\\I[491] Rękawice Wojownika
 > BEGIN STRING
 Level puzzle is not yet solved
 > CONTEXT: Map024/events/10/pages/0/16/Dialogue < UNTRANSLATED
-
+Level puzzle is not yet solved
 > END STRING

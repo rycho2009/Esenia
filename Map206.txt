@@ -4,7 +4,9 @@ Magaleta
 (She finally fell asleep after
  all the struggle...)
 > CONTEXT: Map206/events/1/pages/0/2/Dialogue < UNTRANSLATED
-
+Magaleta
+(She finally fell asleep after
+ all the struggle...)
 > END STRING
 
 > BEGIN STRING
@@ -18,14 +20,16 @@ Magaleta
 Magaleta
 (We can figure that out later...)
 > CONTEXT: Map206/events/1/pages/0/9/Dialogue < UNTRANSLATED
-
+Magaleta
+(We can figure that out later...)
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "First, we need to get the curse lifted."
 > CONTEXT: Map206/events/1/pages/0/12/Dialogue < UNTRANSLATED
-
+Magaleta
+"First, we need to get the curse lifted."
 > END STRING
 
 > BEGIN STRING
@@ -33,7 +37,8 @@ Magaleta
 "(Casting Spell)"
 > CONTEXT: Map206/events/1/pages/0/15/Dialogue < UNTRANSLATED
 > CONTEXT: Map206/events/1/pages/0/37/Dialogue < UNTRANSLATED
-
+Magaleta
+"(Casting Spell)"
 > END STRING
 
 > BEGIN STRING
@@ -48,14 +53,16 @@ Magaleta
 Magaleta
 (My spell bounced off from Senia!?)
 > CONTEXT: Map206/events/1/pages/0/28/Dialogue < UNTRANSLATED
-
+Magaleta
+(Moje zaklęcie odbiło się od Senii!?)
 > END STRING
 
 > BEGIN STRING
 Magaleta
 (Let me try again!)
 > CONTEXT: Map206/events/1/pages/0/34/Dialogue < UNTRANSLATED
-
+Magaleta
+(Spróbujmy jeszcze raz!)
 > END STRING
 
 > BEGIN STRING
@@ -86,14 +93,16 @@ Senia
 Magaleta
 "It's ok, Nia!"
 > CONTEXT: Map206/events/1/pages/0/59/Dialogue < UNTRANSLATED
-
+Magaleta
+"It's ok, Nia!"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Sis is right here!"
 > CONTEXT: Map206/events/1/pages/0/62/Dialogue < UNTRANSLATED
-
+Magaleta
+"Sis is right here!"
 > END STRING
 
 > BEGIN STRING
