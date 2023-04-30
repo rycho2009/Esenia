@@ -156,3 +156,5 @@ Skills.txt
 States.txt
 System.txt
 Troops.txt
+Map221.txt
+scripts 3300 mozliwa zmiana czcionki?
