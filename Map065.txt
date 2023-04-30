@@ -5,13 +5,15 @@ Once completed you will be sent to
 the next dungeon.
 > CONTEXT: Map065/events/1/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/96/pages/0/1/Dialogue < UNTRANSLATED
-
+In the next room is the boss fight.
+Once completed you will be sent to
+the next dungeon.
 > END STRING
 
 > BEGIN STRING
 Forest of the Fairies - Boss waypoint activated.
 > CONTEXT: Map065/events/3/pages/0/2/Dialogue < UNTRANSLATED
-
+Las Wróżek - Boss waypoint activated.
 > END STRING
 
 > BEGIN STRING
@@ -38,7 +40,8 @@ Otrzymano\\I[224]Księgę Obrony I
 2. Complete the collectible quests will grant you items
       that cannot be found otherwise.
 > CONTEXT: Map065/events/10/pages/0/4/Dialogue < UNTRANSLATED
-
+2. Complete the collectible quests will grant you items
+      that cannot be found otherwise.
 > END STRING
 
 > BEGIN STRING
@@ -52,7 +55,8 @@ Legendary Sheep
 Senia
 "A Sheep? Why here?"
 > CONTEXT: Map065/events/52/pages/0/4/Dialogue < UNTRANSLATED
-
+Senia
+"A Sheep? Why here?"
 > END STRING
 
 > BEGIN STRING
@@ -61,7 +65,10 @@ Legendary Sheep
  I am no ordinary sheep, I am
  THE LEGENDARY SHEEP."
 > CONTEXT: Map065/events/52/pages/0/7/Dialogue < UNTRANSLATED
-
+Legendary Sheep
+"How rude?
+ I am no ordinary sheep, I am
+ THE LEGENDARY SHEEP."
 > END STRING
 
 > BEGIN STRING
@@ -69,14 +76,17 @@ Legendary Sheep
 "Look at you! Cheap equipments all over you.
  Don't you want to try the luxury legendary items?"
 > CONTEXT: Map065/events/52/pages/0/15/Dialogue < UNTRANSLATED
-
+Legendary Sheep
+"Look at you! Cheap equipments all over you.
+ Don't you want to try the luxury legendary items?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Legendary item?"
 > CONTEXT: Map065/events/52/pages/0/19/Dialogue < UNTRANSLATED
-
+Senia
+"Legendary item?"
 > END STRING
 
 > BEGIN STRING
@@ -84,7 +94,9 @@ Legendary Sheep
 "It looks like you can craft.
  The top level of all equipments are the legendary level."
 > CONTEXT: Map065/events/52/pages/0/22/Dialogue < UNTRANSLATED
-
+Legendary Sheep
+"It looks like you can craft.
+ The top level of all equipments are the legendary level."
 > END STRING
 
 > BEGIN STRING
@@ -96,21 +108,26 @@ Legendary Sheep
 > CONTEXT: Map065/events/52/pages/1/22/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/52/pages/1/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/52/pages/1/40/Dialogue < UNTRANSLATED
-
+Legendary Sheep
+"Come see me again once you have
+ all the gears upgraded to the legendary level.
+ I will give you a surprise gift."
 > END STRING
 
 > BEGIN STRING
 ???
 "Oh no! Please don't attack me!"
 > CONTEXT: Map065/events/54/pages/0/1/Dialogue < UNTRANSLATED
-
+???
+"Oh no! Please don't attack me!"
 > END STRING
 
 > BEGIN STRING
 Senia
 "You can... speak?"
 > CONTEXT: Map065/events/54/pages/0/4/Dialogue < UNTRANSLATED
-
+Senia
+"You can... speak?"
 > END STRING
 
 > BEGIN STRING
@@ -119,7 +136,10 @@ Slimey
 My name is Slimey. I am a highly intellectual
 creature unlike the others."
 > CONTEXT: Map065/events/54/pages/0/7/Dialogue < UNTRANSLATED
-
+Slimey
+"Cough*
+My name is Slimey. I am a highly intellectual
+creature unlike the others."
 > END STRING
 
 > BEGIN STRING
@@ -143,28 +163,33 @@ Slimey
 "Good thing that I am skilled in evasion.
  I dodged my way here."
 > CONTEXT: Map065/events/54/pages/0/23/Dialogue < UNTRANSLATED
-
+Slimey
+"Good thing that I am skilled in evasion.
+ I dodged my way here."
 > END STRING
 
 > BEGIN STRING
 Senia
 "Evasion... hmmm..."
 > CONTEXT: Map065/events/54/pages/0/27/Dialogue < UNTRANSLATED
-
+Senia
+"Evasion... hmmm..."
 > END STRING
 
 > BEGIN STRING
 Slimey
 "Looks like you are interested in evasion skills?"
 > CONTEXT: Map065/events/54/pages/0/30/Dialogue < UNTRANSLATED
-
+Slimey
+"Looks like you are interested in evasion skills?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Well... kind of..."
 > CONTEXT: Map065/events/54/pages/0/33/Dialogue < UNTRANSLATED
-
+Senia
+"Well... kind of..."
 > END STRING
 
 > BEGIN STRING
@@ -173,7 +198,10 @@ Senia
  to fight strong monsters than
  interested in it.)
 > CONTEXT: Map065/events/54/pages/0/36/Dialogue < UNTRANSLATED
-
+Senia
+(It is more like I need this skill
+ to fight strong monsters than
+ interested in it.)
 > END STRING
 
 > BEGIN STRING
@@ -182,14 +210,18 @@ Slimey
  If you clear a certain amount of the monsters
  that attacked me,"
 > CONTEXT: Map065/events/54/pages/0/41/Dialogue < UNTRANSLATED
-
+Slimey
+"How about this?
+ If you clear a certain amount of the monsters
+ that attacked me,"
 > END STRING
 
 > BEGIN STRING
 Slimey
 "I will teach you the evasion skills!"
 > CONTEXT: Map065/events/54/pages/0/46/Dialogue < UNTRANSLATED
-
+Slimey
+"I will teach you the evasion skills!"
 > END STRING
 
 > BEGIN STRING
@@ -197,7 +229,9 @@ Slimey
 "Once you reach the count come and report to me.
  I will give you a book of Evasion!"
 > CONTEXT: Map065/events/54/pages/0/49/Dialogue < UNTRANSLATED
-
+Slimey
+"Once you reach the count come and report to me.
+ I will give you a book of Evasion!"
 > END STRING
 
 > BEGIN STRING
@@ -205,13 +239,15 @@ Slimey
 "Come back to me when you get rid of
  enough of them."
 > CONTEXT: Map065/events/54/pages/0/53/Dialogue < UNTRANSLATED
-
+Slimey
+"Come back to me when you get rid of
+ enough of them."
 > END STRING
 
 > BEGIN STRING
 Report: Evil Flower and Elf
 > CONTEXT: Map065/events/54/pages/1/4/Choice/0 < UNTRANSLATED
-
+Report: Evil Flower and Elf
 > END STRING
 
 > BEGIN STRING
@@ -246,7 +282,7 @@ Acquired "\\I[225]Book of Evasion Ch. 1"
 > CONTEXT: Map065/events/54/pages/1/50/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/54/pages/1/83/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/54/pages/1/116/Dialogue < UNTRANSLATED
-
+Otrzymano "\\I[225]Book of Evasion Ch. 1"
 > END STRING
 
 > BEGIN STRING
@@ -276,7 +312,9 @@ Slimey
 "Thanks for your help.
  As a token of appreciation, here is an extra gift!"
 > CONTEXT: Map065/events/54/pages/2/8/Dialogue < UNTRANSLATED
-
+Slimey
+"Thanks for your help.
+ As a token of appreciation, here is an extra gift!"
 > END STRING
 
 > BEGIN STRING
@@ -284,7 +322,9 @@ Slimey
 "With hard studying of the evasion books,
  you can be as good as I am. Reading is power!"
 > CONTEXT: Map065/events/54/pages/3/1/Dialogue < UNTRANSLATED
-
+Slimey
+"With hard studying of the evasion books,
+ you can be as good as I am. Reading is power!"
 > END STRING
 
 > BEGIN STRING
