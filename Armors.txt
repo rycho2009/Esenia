@@ -305,7 +305,7 @@ HP + 20
 Health Neckless
 > CONTEXT: Armors/48/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/48/name/ < UNTRANSLATED
-
+Naszyjnik Zdrowia
 > END STRING
 
 > BEGIN STRING
@@ -357,7 +357,7 @@ Healing Ribbon
 HP regenerates twice as fast.
 > CONTEXT: Armors/51/description/ < UNTRANSLATED
 > CONTEXT: Armorspl/51/description/ < UNTRANSLATED
-
+HP regeneruje się dwa razy szybciej.
 > END STRING
 
 > BEGIN STRING
@@ -371,7 +371,7 @@ Magiczny Kapelusz
 MP regenerates twice as fast.
 > CONTEXT: Armors/52/description/ < UNTRANSLATED
 > CONTEXT: Armorspl/52/description/ < UNTRANSLATED
-
+MP regeneruje się dwa razy szybciej.
 > END STRING
 
 > BEGIN STRING
@@ -386,7 +386,8 @@ Restores twice as much MP
 when normal attack hits.
 > CONTEXT: Armors/53/description/ < UNTRANSLATED
 > CONTEXT: Armorspl/53/description/ < UNTRANSLATED
-
+Przywraca dwa razy więcej MP
+po trafieniu normalnym atakiem.
 > END STRING
 
 > BEGIN STRING

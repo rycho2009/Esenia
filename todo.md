@@ -48,6 +48,7 @@ Map156.txt
 Map158.txt
 Map160.txt(speedrun?)
 Map176.txt(rubin)
+Map221.txt
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -74,7 +75,6 @@ Map024.txt
 Map034.txt
 Map036.txt
 Map040.txt
-Map043.txt
 Map043.txt
 Map047.txt
 Map051.txt
@@ -156,5 +156,4 @@ Skills.txt
 States.txt
 System.txt
 Troops.txt
-Map221.txt
 scripts 3300 mozliwa zmiana czcionki?

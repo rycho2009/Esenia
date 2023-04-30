@@ -42,28 +42,33 @@ Nia
 "My name is Nia!
  Our names are just one syllable away!"
 > CONTEXT: Map189/events/3/pages/0/39/Dialogue < UNTRANSLATED
-
+Nia
+"Mam na imię Nia!
+Nasze imiona różnią się tylko jedną sylabą!".
 > END STRING
 
 > BEGIN STRING
 Senia
 "O..kay..."
 > CONTEXT: Map189/events/3/pages/0/43/Dialogue < UNTRANSLATED
-
+Senia
+"O..kej..."
 > END STRING
 
 > BEGIN STRING
 Nia
 "Nia have something to show you!"
 > CONTEXT: Map189/events/3/pages/0/46/Dialogue < UNTRANSLATED
-
+Nia
+"Nia mam ci coś do pokazania!"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Y-yes...?"
 > CONTEXT: Map189/events/3/pages/0/49/Dialogue < UNTRANSLATED
-
+Senia
+"T-tak...?"
 > END STRING
 
 > BEGIN STRING
@@ -171,7 +176,8 @@ Nia
 Senia
 "Yes?"
 > CONTEXT: Map189/events/3/pages/1/52/Dialogue < UNTRANSLATED
-
+Senia
+"Tak?"
 > END STRING
 
 > BEGIN STRING
@@ -195,27 +201,31 @@ Senia
 Nia
 "I want her to live a happy life."
 > CONTEXT: Map189/events/3/pages/1/62/Dialogue < UNTRANSLATED
-
+Nia
+"Chcę, żeby żyła szczęśliwie".
 > END STRING
 
 > BEGIN STRING
 Senia
 "I will tell her."
 > CONTEXT: Map189/events/3/pages/1/65/Dialogue < UNTRANSLATED
-
+Senia
+"Powiem jej".
 > END STRING
 
 > BEGIN STRING
 Nia gave me one warm smile before she dissapeared.
 > CONTEXT: Map189/events/3/pages/1/70/Dialogue < UNTRANSLATED
-
+Nia obdarzyła mnie jeszcze jednym ciepłym uśmiechem,
+zanim się rozpłynęła.
 > END STRING
 
 > BEGIN STRING
 That smile...\\|
 It marked deeply in my mind.
 > CONTEXT: Map189/events/3/pages/1/72/Dialogue < UNTRANSLATED
-
+Ten uśmiech...
+Wrył się głęboko w moją pamięć.
 > END STRING
 
 > BEGIN STRING

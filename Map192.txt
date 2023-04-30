@@ -12,14 +12,17 @@ Senia
 (This place has a completely
  different atmosphere...)
 > CONTEXT: Map192/events/5/pages/0/9/Dialogue < UNTRANSLATED
-
+Senia
+(This place has a completely
+ different atmosphere...)
 > END STRING
 
 > BEGIN STRING
 Senia
 (If this really is created by sis...)
 > CONTEXT: Map192/events/5/pages/0/18/Dialogue < UNTRANSLATED
-
+Senia
+(If this really is created by sis...)
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +30,9 @@ Senia
 (She turned such a beautiful
  sanctum into this...)
 > CONTEXT: Map192/events/5/pages/0/21/Dialogue < UNTRANSLATED
-
+Senia
+(She turned such a beautiful
+ sanctum into this...)
 > END STRING
 
 > BEGIN STRING
@@ -35,7 +40,9 @@ Senia
 (With the power of eternity...
  Does it mean...?)
 > CONTEXT: Map192/events/5/pages/0/25/Dialogue < UNTRANSLATED
-
+Senia
+(With the power of eternity...
+ Does it mean...?)
 > END STRING
 
 > BEGIN STRING
@@ -51,5 +58,7 @@ Senia
 "Sis, I am coming for you right
  now. Wait for me."
 > CONTEXT: Map192/events/5/pages/0/32/Dialogue < UNTRANSLATED
-
+Senia
+"Sis, I am coming for you right
+ now. Wait for me."
 > END STRING
