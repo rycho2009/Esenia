@@ -2,5 +2,5 @@
 > BEGIN STRING
 Acquired Agate.
 > CONTEXT: Map218/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+Pozyskano Agat.
 > END STRING

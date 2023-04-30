@@ -5,7 +5,8 @@ Holy Chamber tips:
 > CONTEXT: Map224/events/15/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map227/events/16/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/14/pages/0/0/Dialogue < UNTRANSLATED
-
+Wskazówki dotyczące Świętej Komnaty:
+1. Sprawdź środkowy filar po umieszczeniu klejnotów.
 > END STRING
 
 > BEGIN STRING
@@ -15,5 +16,7 @@ Holy Chamber tips:
 > CONTEXT: Map224/events/15/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map227/events/16/pages/0/3/Dialogue < UNTRANSLATED
 > CONTEXT: Map060/events/14/pages/0/3/Dialogue < UNTRANSLATED
-
+2. Jeden dźwięk oznacza, że jeden klejnot jest umieszczony
+     prawidłowo, dwa sygnały oznaczają, że dwa klejnoty są
+     umieszczone prawidłowo, i tak dalej.
 > END STRING

@@ -90,7 +90,8 @@ Jack in the Chest
 > CONTEXT: Map212/events/12/pages/1/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/12/pages/1/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/1/4/Dialogue < UNTRANSLATED
-
+Jack in the Chest
+"Gah gah! You have found all the chests!"
 > END STRING
 
 > BEGIN STRING
@@ -99,7 +100,8 @@ Jack in the Chest
 > CONTEXT: Map212/events/12/pages/1/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/12/pages/1/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/1/7/Dialogue < UNTRANSLATED
-
+Jack in the Chest
+"Zgodnie z obietnicą, oto twój prezent!"
 > END STRING
 
 > BEGIN STRING
@@ -304,7 +306,7 @@ Acquired "\\I[225]Book of Evasion Ch. 3"
 > CONTEXT: Map212/events/14/pages/0/50/Dialogue < UNTRANSLATED
 > CONTEXT: Map212/events/14/pages/0/83/Dialogue < UNTRANSLATED
 > CONTEXT: Map212/events/14/pages/0/116/Dialogue < UNTRANSLATED
-
+Otrzymano "\\I[225]Book of Evasion Ch. 3"
 > END STRING
 
 > BEGIN STRING
@@ -323,7 +325,9 @@ Slimey
 > CONTEXT: Map065/events/54/pages/1/64/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/54/pages/1/97/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/54/pages/1/130/Dialogue < UNTRANSLATED
-
+Slimey
+"Już ukończyłeś tę misję!
+ Proszę spróbuj zapolować na inne potwory!"
 > END STRING
 
 > BEGIN STRING

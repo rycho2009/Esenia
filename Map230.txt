@@ -2,5 +2,5 @@
 > BEGIN STRING
 Acquired Diamond.
 > CONTEXT: Map230/events/2/pages/0/1/Dialogue
-Otrzymano Diament.
+Pozyskano Diament.
 > END STRING
