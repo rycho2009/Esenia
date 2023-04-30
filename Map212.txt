@@ -366,7 +366,9 @@ Slimey
 As a token of appreciation, here is an extra gift!"
 > CONTEXT: Map212/events/14/pages/1/8/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/11/pages/1/8/Dialogue < UNTRANSLATED
-
+Slimey
+"Dziękuję za pomoc.
+Jako dowód wdzięczności, mam tu dodatkowy prezent!"
 > END STRING
 
 > BEGIN STRING
@@ -375,7 +377,9 @@ Slimey
 you can be as good as I am. Reading is power!"
 > CONTEXT: Map212/events/14/pages/2/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/11/pages/2/1/Dialogue < UNTRANSLATED
-
+Slimey
+"Z intensywnym studiowaniem podręczników o unikaniu,
+możesz być tak dobry jak ja. Czytanie to potęga!"
 > END STRING
 
 > BEGIN STRING
@@ -393,7 +397,8 @@ Collectibles:
      that cannot be found other wise.
 > CONTEXT: Map212/events/16/pages/0/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/15/pages/0/4/Dialogue < UNTRANSLATED
-
+2. Ukończenie tych misji da ci przedmioty
+     które nie mogą być znalezione w inny sposób.
 > END STRING
 
 > BEGIN STRING
@@ -403,4 +408,6 @@ Collectibles:
 > CONTEXT: Map136/events/15/pages/0/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/10/pages/0/7/Dialogue < UNTRANSLATED
 
+3. Ukończenie tych misji lub nie
+    \\NIE ma wpływu na zakończenie. \\c[0]
 > END STRING
