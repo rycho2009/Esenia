@@ -56,8 +56,9 @@ Magaleta
 > BEGIN STRING
 Senia
 "uh...eh..."
-> CONTEXT: Map106/events/13/pages/0/81/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map106/events/13/pages/0/81/Dialogue
+Senia
+"Uh...Eh..."
 > END STRING
 
 > BEGIN STRING

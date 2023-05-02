@@ -16,15 +16,19 @@ Little Fairy
 "This is the entrance of Arcane Realm.
 Would you like to craft some equipments
 before going in?"
-> CONTEXT: Map068/events/14/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/0/1/Dialogue
+Mała Wróżka
+"This is the entrance of Arcane Realm.
+Chciałabyś wytworzyć ekwipunek
+zanim wejdziesz?"
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "Here are some materials for you!"
-> CONTEXT: Map068/events/14/pages/0/6/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/0/6/Dialogue
+Mała Wróżka
+"Tutaj mam dla Ciebie trochę materiałów!"
 > END STRING
 
 > BEGIN STRING
@@ -39,23 +43,28 @@ Little Fairy
 "Please try to upgrade your
  Fairy Cloth Armor
  to EX Fairy Armor."
-> CONTEXT: Map068/events/14/pages/0/13/Dialogue < UNTRANSLATED
-> CONTEXT: Map068/events/14/pages/1/31/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/0/13/Dialogue
+> CONTEXT: Map068/events/14/pages/1/31/Dialogue
+Mała Wróżka
+"Proszę, spróbuj ulepszyć your
+ Fairy Cloth Armor
+ to EX Fairy Armor."
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "Congrats on your EX Fairy Armor!"
-> CONTEXT: Map068/events/14/pages/1/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/1/2/Dialogue
+Mała Wróżka
+"Congrats on your EX Fairy Armor!"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Man! I am kind of lost here..."
-> CONTEXT: Map068/events/14/pages/1/5/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/1/5/Dialogue
+Senia
+"Man! I am kind of lost here..."
 > END STRING
 
 > BEGIN STRING
@@ -63,23 +72,29 @@ Little Fairy
 "It is a must to keep your equipments
  upgraded, or else you may suffer defeat
  against powerful monsters."
-> CONTEXT: Map068/events/14/pages/1/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/1/8/Dialogue
+Mała Wróżka
+"It is a must to keep your equipments
+ upgraded, or else you may suffer defeat
+ against powerful monsters."
 > END STRING
 
 > BEGIN STRING
 Senia
 "Fine..."
-> CONTEXT: Map068/events/14/pages/1/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/1/13/Dialogue
+Senia
+"W porządku..."
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "Don't give up. Here are some more
  materials for you to start with."
-> CONTEXT: Map068/events/14/pages/1/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/1/16/Dialogue
+Mała Wróżka
+"Nie poddawaj się. Here are some more
+ materials for you to start with."
 > END STRING
 
 > BEGIN STRING
@@ -94,39 +109,48 @@ Otrzymano \\I[343]Kryształ x 2
 Little Fairy
 "One more secret in this Arcane Realm.
  Elite Fairy Stone can be found there."
-> CONTEXT: Map068/events/14/pages/1/24/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/1/24/Dialogue
+Mała Wróżka
+"One more secret in this Arcane Realm.
+ Elite Fairy Stone can be found there."
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "This is the entrance of Arcane Realm."
-> CONTEXT: Map068/events/14/pages/2/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/2/1/Dialogue
+Mała Wróżka
+"This is the entrance of Arcane Realm."
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "If you find the level too hard you should
  try upgrading your equipments."
-> CONTEXT: Map068/events/14/pages/2/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/2/4/Dialogue
+Mała Wróżka
+"If you find the level too hard you should
+ try upgrading your equipments."
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "By the way, Elite Fairy Stone can be
  proccessed into other common materials.
-> CONTEXT: Map068/events/14/pages/2/8/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/2/8/Dialogue
+Mała Wróżka
+"By the way, Elite Fairy Stone can be
+ proccessed into other common materials.
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "If you happen to have any extra
  I can process them for you."
-> CONTEXT: Map068/events/14/pages/2/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/2/12/Dialogue
+Mała Wróżka
+"If you happen to have any extra
+ I can process them for you."
 > END STRING
 
 > BEGIN STRING
@@ -134,26 +158,31 @@ Little Fairy
 "Should I process your Elite Fairy Stone?
  It will be turned into Fairy Crystal and
  Fairy Cloth!"
-> CONTEXT: Map068/events/14/pages/3/2/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/3/2/Dialogue
+Mała Wróżka
+"Should I process your Elite Fairy Stone?
+ It will be turned into Fairy Crystal and
+ Fairy Cloth!"
 > END STRING
 
 > BEGIN STRING
 Process my Elite Fairy Stone
-> CONTEXT: Map068/events/14/pages/3/7/Choice/0 < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/3/7/Choice/0
+Przetwórz mój Elite Fairy Stone
 > END STRING
 
 > BEGIN STRING
 Acquired \\I[332] Fairy Cloth x5
 Acquired \\I[343] Fairy Crystal x5
-> CONTEXT: Map068/events/14/pages/3/12/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/3/12/Dialogue
+Otrzymano \\I[332] Materiał x5
+Otrzymano \\I[343] Kryształ x5
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "You do not have any Elite Fairy Stone."
-> CONTEXT: Map068/events/14/pages/3/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map068/events/14/pages/3/19/Dialogue
+Mała Wróżka
+"Nie masz żadnego Elite Fairy Stone."
 > END STRING

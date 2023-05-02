@@ -3,17 +3,16 @@
 In the next room is the boss fight.
 Once completed you will be sent to
 the next dungeon.
-> CONTEXT: Map065/events/1/pages/0/1/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/96/pages/0/1/Dialogue < UNTRANSLATED
-In the next room is the boss fight.
-Once completed you will be sent to
-the next dungeon.
+> CONTEXT: Map065/events/1/pages/0/1/Dialogue
+> CONTEXT: Map065/events/96/pages/0/1/Dialogue
+W następnym pomieszczeniu odbywa się walka z bossem.
+Gdy ją ukończysz przejdziesz do następnego poziomu.
 > END STRING
 
 > BEGIN STRING
 Forest of the Fairies - Boss waypoint activated.
-> CONTEXT: Map065/events/3/pages/0/2/Dialogue < UNTRANSLATED
-Las Wróżek - Boss waypoint activated.
+> CONTEXT: Map065/events/3/pages/0/2/Dialogue
+Las Wróżek - Boss - punkt aktywowany.
 > END STRING
 
 > BEGIN STRING
@@ -39,7 +38,7 @@ Otrzymano\\I[224]Księgę Obrony I
 > BEGIN STRING
 2. Complete the collectible quests will grant you items
       that cannot be found otherwise.
-> CONTEXT: Map065/events/10/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/10/pages/0/4/Dialogue
 2. Complete the collectible quests will grant you items
       that cannot be found otherwise.
 > END STRING
@@ -47,16 +46,17 @@ Otrzymano\\I[224]Księgę Obrony I
 > BEGIN STRING
 Legendary Sheep
 "Baaaaaaaah~"
-> CONTEXT: Map065/events/52/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/52/pages/0/1/Dialogue
+Legendarna Owca
+"Baaaaaaaah~"
 > END STRING
 
 > BEGIN STRING
 Senia
 "A Sheep? Why here?"
-> CONTEXT: Map065/events/52/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/52/pages/0/4/Dialogue
 Senia
-"A Sheep? Why here?"
+"Owca? Dlaczego tutaj?"
 > END STRING
 
 > BEGIN STRING
@@ -64,21 +64,21 @@ Legendary Sheep
 "How rude?
  I am no ordinary sheep, I am
  THE LEGENDARY SHEEP."
-> CONTEXT: Map065/events/52/pages/0/7/Dialogue < UNTRANSLATED
-Legendary Sheep
-"How rude?
- I am no ordinary sheep, I am
- THE LEGENDARY SHEEP."
+> CONTEXT: Map065/events/52/pages/0/7/Dialogue
+Legendarna Owca
+"Jak niegrzecznie!
+ Nie jestem jakąś tam ordynarną owcą,
+ jestem LEGENDARNĄ OWCĄ."
 > END STRING
 
 > BEGIN STRING
 Legendary Sheep
 "Look at you! Cheap equipments all over you.
  Don't you want to try the luxury legendary items?"
-> CONTEXT: Map065/events/52/pages/0/15/Dialogue < UNTRANSLATED
-Legendary Sheep
-"Look at you! Cheap equipments all over you.
- Don't you want to try the luxury legendary items?"
+> CONTEXT: Map065/events/52/pages/0/15/Dialogue
+Legendarna Owca
+"Spójrz na siebie! Same tanie wyposażenie.
+ Nie chciałabyś spróbować luksusowych legendarnych przedmiotów?"
 > END STRING
 
 > BEGIN STRING
@@ -86,7 +86,7 @@ Senia
 "Legendary item?"
 > CONTEXT: Map065/events/52/pages/0/19/Dialogue < UNTRANSLATED
 Senia
-"Legendary item?"
+"Legendarnych przedmiotów?"
 > END STRING
 
 > BEGIN STRING
@@ -94,9 +94,9 @@ Legendary Sheep
 "It looks like you can craft.
  The top level of all equipments are the legendary level."
 > CONTEXT: Map065/events/52/pages/0/22/Dialogue < UNTRANSLATED
-Legendary Sheep
-"It looks like you can craft.
- The top level of all equipments are the legendary level."
+Legendarna Owca
+"Wygląda na to, że możesz sobie je wytworzyć.
+ Najwyższy poziom ze wszystkich przedmiotów to legendarny."
 > END STRING
 
 > BEGIN STRING
@@ -108,7 +108,7 @@ Legendary Sheep
 > CONTEXT: Map065/events/52/pages/1/22/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/52/pages/1/31/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/52/pages/1/40/Dialogue < UNTRANSLATED
-Legendary Sheep
+Legendarna Owca
 "Come see me again once you have
  all the gears upgraded to the legendary level.
  I will give you a surprise gift."
@@ -117,17 +117,17 @@ Legendary Sheep
 > BEGIN STRING
 ???
 "Oh no! Please don't attack me!"
-> CONTEXT: Map065/events/54/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/1/Dialogue
 ???
-"Oh no! Please don't attack me!"
+"Oh nie! Proszę, nie atakuj mnie!"
 > END STRING
 
 > BEGIN STRING
 Senia
 "You can... speak?"
-> CONTEXT: Map065/events/54/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/4/Dialogue
 Senia
-"You can... speak?"
+"Ty możesz... mówić?"
 > END STRING
 
 > BEGIN STRING
@@ -137,33 +137,36 @@ My name is Slimey. I am a highly intellectual
 creature unlike the others."
 > CONTEXT: Map065/events/54/pages/0/7/Dialogue < UNTRANSLATED
 Slimey
-"Cough*
-My name is Slimey. I am a highly intellectual
-creature unlike the others."
+"Odchrząknięcie*
+Mam na imię Slimey. Jestem wysoce inteligentnym
+potworem, nie tak jak reszta."
 > END STRING
 
 > BEGIN STRING
 Slimey
 "Though highly developed intellectually,
  but I am not equipped with battle ability..."
-> CONTEXT: Map065/events/54/pages/0/15/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/54/pages/0/15/Dialogue
+Slimey
+"Pomimo wysokich zdolności intelektualnych,
+ nie posiadam zdolności bojowych..."
 > END STRING
 
 > BEGIN STRING
 Slimey
 "Thus I was attack by countless monsters
  on my way here."
-> CONTEXT: Map065/events/54/pages/0/19/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/54/pages/0/19/Dialogue
+Slimey
+"Thus I was attack by countless monsters
+ on my way here."
 > END STRING
 
 > BEGIN STRING
 Slimey
 "Good thing that I am skilled in evasion.
  I dodged my way here."
-> CONTEXT: Map065/events/54/pages/0/23/Dialogue < UNTRANSLATED
-Slimey
+> CONTEXT: Map065/events/54/pages/0/23/Dialogue
 "Good thing that I am skilled in evasion.
  I dodged my way here."
 > END STRING
@@ -171,15 +174,15 @@ Slimey
 > BEGIN STRING
 Senia
 "Evasion... hmmm..."
-> CONTEXT: Map065/events/54/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/27/Dialogue
 Senia
-"Evasion... hmmm..."
+"Uniki... hmmm..."
 > END STRING
 
 > BEGIN STRING
 Slimey
 "Looks like you are interested in evasion skills?"
-> CONTEXT: Map065/events/54/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/30/Dialogue
 Slimey
 "Looks like you are interested in evasion skills?"
 > END STRING
@@ -187,9 +190,9 @@ Slimey
 > BEGIN STRING
 Senia
 "Well... kind of..."
-> CONTEXT: Map065/events/54/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/33/Dialogue
 Senia
-"Well... kind of..."
+"Cóż... powiedzmy..."
 > END STRING
 
 > BEGIN STRING
@@ -197,7 +200,7 @@ Senia
 (It is more like I need this skill
  to fight strong monsters than
  interested in it.)
-> CONTEXT: Map065/events/54/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/36/Dialogue
 Senia
 (It is more like I need this skill
  to fight strong monsters than
@@ -209,9 +212,9 @@ Slimey
 "How about this?
  If you clear a certain amount of the monsters
  that attacked me,"
-> CONTEXT: Map065/events/54/pages/0/41/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/41/Dialogue
 Slimey
-"How about this?
+"Co ty na to?
  If you clear a certain amount of the monsters
  that attacked me,"
 > END STRING
@@ -220,15 +223,14 @@ Slimey
 Slimey
 "I will teach you the evasion skills!"
 > CONTEXT: Map065/events/54/pages/0/46/Dialogue < UNTRANSLATED
-Slimey
-"I will teach you the evasion skills!"
+
 > END STRING
 
 > BEGIN STRING
 Slimey
 "Once you reach the count come and report to me.
  I will give you a book of Evasion!"
-> CONTEXT: Map065/events/54/pages/0/49/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/49/Dialogue
 Slimey
 "Once you reach the count come and report to me.
  I will give you a book of Evasion!"
@@ -238,7 +240,7 @@ Slimey
 Slimey
 "Come back to me when you get rid of
  enough of them."
-> CONTEXT: Map065/events/54/pages/0/53/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/0/53/Dialogue
 Slimey
 "Come back to me when you get rid of
  enough of them."
@@ -246,26 +248,26 @@ Slimey
 
 > BEGIN STRING
 Report: Evil Flower and Elf
-> CONTEXT: Map065/events/54/pages/1/4/Choice/0 < UNTRANSLATED
-Report: Evil Flower and Elf
+> CONTEXT: Map065/events/54/pages/1/4/Choice/0
+Raport: Evil Flower i Elf
 > END STRING
 
 > BEGIN STRING
 Report: Forest Spider and Sunny Mushroom
 > CONTEXT: Map065/events/54/pages/1/4/Choice/1
-Report: Leśne Pająki i Grzybki
+Raport: Leśne Pająki i Grzybki
 > END STRING
 
 > BEGIN STRING
 Report: Mutant Bee and Snake Wizard
-> CONTEXT: Map065/events/54/pages/1/4/Choice/2 < UNTRANSLATED
-
+> CONTEXT: Map065/events/54/pages/1/4/Choice/2
+Raport: Mutant Bee i Snake Wizard
 > END STRING
 
 > BEGIN STRING
 Report: Timberwolf and Green Dragon
 > CONTEXT: Map065/events/54/pages/1/4/Choice/3
-Report: Górskie Wilki i Zielone Smoki
+Raport: Górskie Wilki i Zielone Smoki
 > END STRING
 
 > BEGIN STRING
@@ -278,10 +280,10 @@ Elfy zniszczone: \\V[271] / 10
 
 > BEGIN STRING
 Acquired "\\I[225]Book of Evasion Ch. 1"
-> CONTEXT: Map065/events/54/pages/1/17/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/54/pages/1/50/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/54/pages/1/83/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/54/pages/1/116/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/1/17/Dialogue
+> CONTEXT: Map065/events/54/pages/1/50/Dialogue
+> CONTEXT: Map065/events/54/pages/1/83/Dialogue
+> CONTEXT: Map065/events/54/pages/1/116/Dialogue
 Otrzymano "\\I[225]Book of Evasion Ch. 1"
 > END STRING
 
@@ -296,24 +298,26 @@ Grzybki zniszczone: \\V[273] / 10
 > BEGIN STRING
 Mutant Bee destroyed: \\V[274] / 10
 Snake Wizard destroyed: \\V[275] / 10
-> CONTEXT: Map065/events/54/pages/1/72/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/54/pages/1/72/Dialogue
+Mutant Bee zniszczone: \\V[274] / 10
+Snake Wizard zniszczone: \\V[275] / 10
 > END STRING
 
 > BEGIN STRING
 Timberwolf destroyed: \\V[276] / 10
 Green Dragon destroyed: \\V[277] / 10
-> CONTEXT: Map065/events/54/pages/1/105/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/54/pages/1/105/Dialogue
+Timberwolf zniszczone: \\V[276] / 10
+Green Dragon zniszczone: \\V[277] / 10
 > END STRING
 
 > BEGIN STRING
 Slimey
 "Thanks for your help.
  As a token of appreciation, here is an extra gift!"
-> CONTEXT: Map065/events/54/pages/2/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/2/8/Dialogue
 Slimey
-"Thanks for your help.
+"Dziękuję za twoją pomoc.
  As a token of appreciation, here is an extra gift!"
 > END STRING
 
@@ -321,7 +325,7 @@ Slimey
 Slimey
 "With hard studying of the evasion books,
  you can be as good as I am. Reading is power!"
-> CONTEXT: Map065/events/54/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map065/events/54/pages/3/1/Dialogue
 Slimey
 "With hard studying of the evasion books,
  you can be as good as I am. Reading is power!"
@@ -330,45 +334,52 @@ Slimey
 > BEGIN STRING
 Jack in the Chest
 "Boooyah!"
-> CONTEXT: Map065/events/72/pages/0/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/72/pages/0/1/Dialogue
+Jack in the Chest
+"Boooyah!"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Yikes!"
-> CONTEXT: Map065/events/72/pages/0/4/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/72/pages/0/4/Dialogue
+Senia
+"Yikes!"
 > END STRING
 
 > BEGIN STRING
 Jack in the Chest
 "Hahaha! Got'cha!"
-> CONTEXT: Map065/events/72/pages/0/7/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/72/pages/0/7/Dialogue
+Jack in the Chest
+"Hahaha! Got'cha!"
 > END STRING
 
 > BEGIN STRING
 Senia
 ...(Raises her sword.)
-> CONTEXT: Map065/events/72/pages/0/10/Dialogue < UNTRANSLATED
-> CONTEXT: Map065/events/72/pages/2/10/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/72/pages/0/10/Dialogue
+> CONTEXT: Map065/events/72/pages/2/10/Dialogue
+Senia
+...(Raises her sword.)
 > END STRING
 
 > BEGIN STRING
 Jack in the Chest
 "Hold-hold on!"
-> CONTEXT: Map065/events/72/pages/0/13/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/72/pages/0/13/Dialogue
+Jack in the Chest
+"Hold-hold on!"
 > END STRING
 
 > BEGIN STRING
 Jack in the Chest
 "I am the master of all chests, Jack in the Chest!
  All the chests in the tower are placed by me."
-> CONTEXT: Map065/events/72/pages/0/16/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/72/pages/0/16/Dialogue
+Jack in the Chest
+"I am the master of all chests, Jack in the Chest!
+ Wszystkie skrzynie na tym poziomie zostały rozmieszczone przeze mnie."
 > END STRING
 
 > BEGIN STRING
@@ -376,12 +387,15 @@ Jack in the Chest
 "If you can find all my chests in the Forest of the Fairies,
  I will have a surprise gift for you.
 (Excluding the chests in Arcane Realm.)"
-> CONTEXT: Map065/events/72/pages/0/20/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/72/pages/0/20/Dialogue
+Jack in the Chest
+"Jeśli możesz znaleźć wszystkie moje skrzynie w Lesie Wróżek,
+ będę mieć dla ciebie prezent niespodziankę.
+(Z pominięciem skrzyń w Krainie Magii.)"
 > END STRING
 
 > BEGIN STRING
 Chests found in Forest of the Fairies: \\V[470] / 6
-> CONTEXT: Map065/events/72/pages/1/1/Dialogue < UNTRANSLATED
-
+> CONTEXT: Map065/events/72/pages/1/1/Dialogue
+Skrzynie znalezione w Lesie Wróżek: \\V[470] / 6
 > END STRING

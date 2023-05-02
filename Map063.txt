@@ -7,7 +7,7 @@ Monster King:
 > CONTEXT: Map061/events/21/pages/0/0/Dialogue
 > CONTEXT: Map005/events/38/pages/0/0/Dialogue
 Król Potworów:
-1. Król potworów jest znacznie silniejszy od normalnych
+1. Król Potworów jest znacznie silniejszy od normalnych
     przciwników w obszarze.
 > END STRING
 

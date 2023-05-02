@@ -30,7 +30,7 @@ Senia
 "Sis..."
 > CONTEXT: Map066/events/3/pages/0/115/Dialogue
 Senia
-"Siostro..."
+"Siostrzyczko..."
 > END STRING
 
 > BEGIN STRING
@@ -159,13 +159,11 @@ Senia
  What if... sis never comes back...?"
 > CONTEXT: Map066/events/3/pages/0/103/Dialogue
 Senia
-"But I am... scared.
- What if... sis never comes back...?"
-> END STRING
-Senia
 "Ale ja... się boję.
  Co jeśli... jeśli siostra nigdy
  nie wróci...?"
+> END STRING
+
 > BEGIN STRING
 Magaleta
 "There is no need to worry.

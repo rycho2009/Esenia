@@ -50,7 +50,7 @@ Little Fairy
 "What a move!
  You took out all the monsters in 1 hit!"
 > CONTEXT: Map107/events/11/pages/1/17/Dialogue
-Little Fairy
+Mała Wróżka
 "Co za ruch!
  Zdjełaś wszystkie potwory 1 atakiem!"
 > END STRING
