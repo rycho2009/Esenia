@@ -158,8 +158,8 @@ Slimey
  on my way here."
 > CONTEXT: Map065/events/54/pages/0/19/Dialogue
 Slimey
-"Thus I was attack by countless monsters
- on my way here."
+"Z tego powodu, w drodze tutaj byłem atakowany,
+ przez niezliczoną ilość potworów."
 > END STRING
 
 > BEGIN STRING
@@ -167,6 +167,7 @@ Slimey
 "Good thing that I am skilled in evasion.
  I dodged my way here."
 > CONTEXT: Map065/events/54/pages/0/23/Dialogue
+Slimey
 "Good thing that I am skilled in evasion.
  I dodged my way here."
 > END STRING
@@ -215,15 +216,16 @@ Slimey
 > CONTEXT: Map065/events/54/pages/0/41/Dialogue
 Slimey
 "Co ty na to?
- If you clear a certain amount of the monsters
- that attacked me,"
+ Jeśli pokonasz wystarczającą ilość potworów, 
+ które mnie atakowały,"
 > END STRING
 
 > BEGIN STRING
 Slimey
 "I will teach you the evasion skills!"
 > CONTEXT: Map065/events/54/pages/0/46/Dialogue < UNTRANSLATED
-
+Slimey
+"Poduczę cię technik uników!"
 > END STRING
 
 > BEGIN STRING
@@ -232,8 +234,8 @@ Slimey
  I will give you a book of Evasion!"
 > CONTEXT: Map065/events/54/pages/0/49/Dialogue
 Slimey
-"Once you reach the count come and report to me.
- I will give you a book of Evasion!"
+"Gdy osiągniesz wymaganą ilość, zgłoś się do mnie.
+ Dam ci Księgę Uników!"
 > END STRING
 
 > BEGIN STRING
@@ -242,32 +244,32 @@ Slimey
  enough of them."
 > CONTEXT: Map065/events/54/pages/0/53/Dialogue
 Slimey
-"Come back to me when you get rid of
- enough of them."
+"Wróć do mnie, gdy pozbędziesz się
+ ich wystarczająco wiele."
 > END STRING
 
 > BEGIN STRING
 Report: Evil Flower and Elf
 > CONTEXT: Map065/events/54/pages/1/4/Choice/0
-Raport: Evil Flower i Elf
+Zgłoś: Evil Flower i Elf
 > END STRING
 
 > BEGIN STRING
 Report: Forest Spider and Sunny Mushroom
 > CONTEXT: Map065/events/54/pages/1/4/Choice/1
-Raport: Leśne Pająki i Grzybki
+Zgłoś: Leśne Pająki i Grzybki
 > END STRING
 
 > BEGIN STRING
 Report: Mutant Bee and Snake Wizard
 > CONTEXT: Map065/events/54/pages/1/4/Choice/2
-Raport: Mutant Bee i Snake Wizard
+Zgłoś: Mutant Bee i Snake Wizard
 > END STRING
 
 > BEGIN STRING
 Report: Timberwolf and Green Dragon
 > CONTEXT: Map065/events/54/pages/1/4/Choice/3
-Raport: Górskie Wilki i Zielone Smoki
+Zgłoś: Górskie Wilki i Zielone Smoki
 > END STRING
 
 > BEGIN STRING
