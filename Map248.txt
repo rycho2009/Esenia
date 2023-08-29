@@ -6,7 +6,7 @@ Mystic Space
 > CONTEXT: Map157/display_name/ < UNTRANSLATED
 > CONTEXT: Map014/display_name/ < UNTRANSLATED
 > CONTEXT: Map003/display_name/ < UNTRANSLATED
-
+Mystic Space
 > END STRING
 
 > BEGIN STRING
@@ -25,7 +25,8 @@ Senia
 Senia
 "Where did sis Magaleta go?"
 > CONTEXT: Map248/events/4/pages/0/7/Dialogue < UNTRANSLATED
-
+Senia
+"Where did sis Magaleta go?"
 > END STRING
 
 > BEGIN STRING
@@ -55,21 +56,24 @@ Senia
 Senia
 "What now..."
 > CONTEXT: Map248/events/15/pages/1/7/Dialogue < UNTRANSLATED
-
+Senia
+"What now..."
 > END STRING
 
 > BEGIN STRING
 Senia
 (Augh!!)
 > CONTEXT: Map248/events/15/pages/1/13/Dialogue < UNTRANSLATED
-
+Senia
+(Augh!!)
 > END STRING
 
 > BEGIN STRING
 Senia
 (It is... some kind of power?)
 > CONTEXT: Map248/events/15/pages/1/16/Dialogue < UNTRANSLATED
-
+Senia
+(It is... some kind of power?)
 > END STRING
 
 > BEGIN STRING
@@ -117,13 +121,14 @@ Senia
 Senia
 "Where did all the monster go!?"
 > CONTEXT: Map248/events/15/pages/3/28/Dialogue < UNTRANSLATED
-
+Senia
+"Where did all the monster go!?"
 > END STRING
 
 > BEGIN STRING
 Cross Pendant breaks.
 > CONTEXT: Map248/events/15/pages/3/40/Dialogue < UNTRANSLATED
-
+Cross Pendant breaks.
 > END STRING
 
 > BEGIN STRING
@@ -155,14 +160,17 @@ Senia
 "The cross from sis Magaleta
  just... broke..."
 > CONTEXT: Map248/events/15/pages/3/45/Dialogue < UNTRANSLATED
-
+Senia
+"The cross from sis Magaleta
+ just... broke..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "Why did it...?"
 > CONTEXT: Map248/events/15/pages/3/49/Dialogue < UNTRANSLATED
-
+Senia
+"Why did it...?"
 > END STRING
 
 > BEGIN STRING
@@ -170,7 +178,9 @@ Senia
 "Anyway, I do not have time to
  grief..."
 > CONTEXT: Map248/events/15/pages/3/53/Dialogue < UNTRANSLATED
-
+Senia
+"Anyway, I do not have time to
+ grief..."
 > END STRING
 
 > BEGIN STRING
@@ -178,5 +188,7 @@ Senia
 "Finding sis Magaleta is the
  top priority."
 > CONTEXT: Map248/events/15/pages/3/57/Dialogue < UNTRANSLATED
-
+Senia
+"Znalezienie siostrzyczki Magalety
+ jest teraz najważniejsze."
 > END STRING
