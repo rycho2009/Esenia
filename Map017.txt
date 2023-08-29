@@ -2,7 +2,7 @@
 > BEGIN STRING
 Fairy Queen Malphiq
 > CONTEXT: Map017/events/1/pages/0/1/Dialogue < UNTRANSLATED
-
+Królowa Wróżek Malphiq
 > END STRING
 
 > BEGIN STRING
@@ -12,7 +12,7 @@ Holy Priest
 > CONTEXT: Map017/events/1/pages/0/3/Dialogue < UNTRANSLATED
 Holy Priest
 "It is a complete different special effect and presentation.
- I've gotten positive feedbacks for her stage."
+ I've go    tten positive feedbacks for her stage."
 > END STRING
 
 > BEGIN STRING
@@ -62,7 +62,9 @@ Holy Priest
 "That is when I realized special effect isn't
  just about how exaggerate it can get."
 > CONTEXT: Map017/events/1/pages/0/24/Dialogue < UNTRANSLATED
-
+Holy Priest
+"That is when I realized special effect isn't
+ just about how exaggerate it can get."
 > END STRING
 
 > BEGIN STRING
@@ -70,7 +72,9 @@ Holy Priest
 "With a lonnng and repeated tuning and tests,
  the final result is how you played in the game."
 > CONTEXT: Map017/events/1/pages/0/28/Dialogue < UNTRANSLATED
-
+Holy Priest
+"With a lonnng and repeated tuning and tests,
+ the final result is how you played in the game."
 > END STRING
 
 > BEGIN STRING
@@ -78,13 +82,15 @@ Holy Priest
 "I hope you all enjoyed the fight with Malphiq.
  Let me know how the special effects work out for you."
 > CONTEXT: Map017/events/1/pages/0/32/Dialogue < UNTRANSLATED
-
+Holy Priest
+"I hope you all enjoyed the fight with Malphiq.
+ Let me know how the special effects work out for you."
 > END STRING
 
 > BEGIN STRING
 Flower Spirit
 > CONTEXT: Map017/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+Flower Spirit
 > END STRING
 
 > BEGIN STRING
@@ -124,7 +130,9 @@ Holy Priest
 "BTW, the first version of Flower Spirit has
  knock back attribute."
 > CONTEXT: Map017/events/2/pages/0/16/Dialogue < UNTRANSLATED
-
+Holy Priest
+"BTW, the first version of Flower Spirit has
+ knock back attribute."
 > END STRING
 
 > BEGIN STRING
@@ -132,7 +140,9 @@ Holy Priest
 "It made the boss battle a lot harder as it
  pushes Senia to the mushrooms all the time."
 > CONTEXT: Map017/events/2/pages/0/20/Dialogue < UNTRANSLATED
-
+Holy Priest
+"It made the boss battle a lot harder as it
+ pushes Senia to the mushrooms all the time."
 > END STRING
 
 > BEGIN STRING
@@ -172,14 +182,16 @@ Holy Priest
 "It does no reflect damage so you should try to
  get rid of it asap without worrying."
 > CONTEXT: Map017/events/3/pages/0/10/Dialogue < UNTRANSLATED
-
+Holy Priest
+"It does no reflect damage so you should try to
+ get rid of it asap without worrying."
 > END STRING
 
 > BEGIN STRING
 Explosion Mushroom
 > CONTEXT: Map017/events/4/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map017/events/5/pages/0/1/Dialogue < UNTRANSLATED
-
+Explosion Mushroom
 > END STRING
 
 > BEGIN STRING
@@ -196,7 +208,10 @@ Holy Priest
  on the field, one will always be summoned next
  to Senia."
 > CONTEXT: Map017/events/4/pages/0/6/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Though it is supposed to randomly summoned
+ on the field, one will always be summoned next
+ to Senia."
 > END STRING
 
 > BEGIN STRING
@@ -205,7 +220,10 @@ Holy Priest
  and stick itself into the ground. Wait for Senia
  to get close and detonate."
 > CONTEXT: Map017/events/4/pages/0/11/Dialogue < UNTRANSLATED
-
+Holy Priest
+"When summoned it tends to shimmy a bit
+ and stick itself into the ground. Wait for Senia
+ to get close and detonate."
 > END STRING
 
 > BEGIN STRING
@@ -214,7 +232,10 @@ Holy Priest
 on the field, one will always be summoned right
 next to Senia."
 > CONTEXT: Map017/events/5/pages/0/6/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Though it is supposed to be randomly summoned
+on the field, one will always be summoned right
+next to Senia."
 > END STRING
 
 > BEGIN STRING
@@ -223,5 +244,8 @@ Holy Priest
 and stick itself into the ground. Wait for Senia
 to get close and detonate."
 > CONTEXT: Map017/events/5/pages/0/11/Dialogue < UNTRANSLATED
-
+Holy Priest
+"When summoned it tends to shimmy a bit
+and stick itself into the ground. Wait for Senia
+to get close and detonate."
 > END STRING

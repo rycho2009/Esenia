@@ -17,7 +17,10 @@ Holy Priest
  as the ground slowly breaks off and limits the spot
  Senia can maneuver."
 > CONTEXT: Map247/events/5/pages/0/2/Dialogue < UNTRANSLATED
-
+Holy Priest
+"To jest finałowy boss, więc zbudowałem katastroficzną atmosferę,
+ gdzie podłoga zapada się i ogranicza
+ pole manewru Senii."
 > END STRING
 
 > BEGIN STRING
@@ -32,7 +35,8 @@ Holy Priest
 Holy Priest
 "Many, MANY laser beams all over the place!"
 > CONTEXT: Map247/events/5/pages/0/10/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Many, MANY laser beams all over the place!"
 > END STRING
 
 > BEGIN STRING
@@ -42,7 +46,8 @@ Holy Priest
 > CONTEXT: Map247/events/5/pages/0/13/Dialogue
 Holy Priest
 "Laser beams are used in Fairy Queen fight as well.
- I guess I am obsessed with laser beam effects!"
+ Myślę, że mam obsesję na punkcie efektu
+ laserowej wiązki!"
 > END STRING
 
 > BEGIN STRING
