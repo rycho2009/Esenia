@@ -24,7 +24,9 @@ Magaleta
 "Nia...\\|Sis Magaleta is here
  to visit you again..."
 > CONTEXT: Map205/events/2/pages/0/10/Dialogue < UNTRANSLATED
-
+Magaleta
+"Nia...\\|Sis Magaleta is here
+ to visit you again..."
 > END STRING
 
 > BEGIN STRING
@@ -32,7 +34,9 @@ Magaleta
 "Sorry for taking me so long
  to come visit you."
 > CONTEXT: Map205/events/2/pages/0/14/Dialogue < UNTRANSLATED
-
+Magaleta
+"Sorry for taking me so long
+ to come visit you."
 > END STRING
 
 > BEGIN STRING
@@ -47,51 +51,54 @@ Magaleta
 I have not been able to walk out of the fact
 of your loss.
 > CONTEXT: Map205/events/2/pages/0/21/Dialogue < UNTRANSLATED
-
+I have not been able to walk out of the fact
+of your loss.
 > END STRING
 
 > BEGIN STRING
 I just cannot forgive...
 > CONTEXT: Map205/events/2/pages/0/24/Dialogue < UNTRANSLATED
-
+I just cannot forgive...
 > END STRING
 
 > BEGIN STRING
 Forgive those who left me.
 > CONTEXT: Map205/events/2/pages/0/26/Dialogue < UNTRANSLATED
-
+Forgive those who left me.
 > END STRING
 
 > BEGIN STRING
 Why am I the one alive?
 > CONTEXT: Map205/events/2/pages/0/28/Dialogue < UNTRANSLATED
-
+Why am I the one alive?
 > END STRING
 
 > BEGIN STRING
 Why tell me to live on?
 > CONTEXT: Map205/events/2/pages/0/30/Dialogue < UNTRANSLATED
-
+Why tell me to live on?
 > END STRING
 
 > BEGIN STRING
 How can I do this without you...
 > CONTEXT: Map205/events/2/pages/0/32/Dialogue < UNTRANSLATED
-
+How can I do this without you...
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "I...um..."
 > CONTEXT: Map205/events/2/pages/0/34/Dialogue < UNTRANSLATED
-
+Magaleta
+"Ja...um..."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Nia, I met a special kid."
 > CONTEXT: Map205/events/2/pages/0/40/Dialogue < UNTRANSLATED
-
+Magaleta
+"Nia, I met a special kid."
 > END STRING
 
 > BEGIN STRING
@@ -99,14 +106,17 @@ Magaleta
 "Her name is Senia.
 It is like you reappeared in my life!"
 > CONTEXT: Map205/events/2/pages/0/43/Dialogue < UNTRANSLATED
-
+Magaleta
+"Her name is Senia.
+It is like you reappeared in my life!"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "... we live together now."
 > CONTEXT: Map205/events/2/pages/0/47/Dialogue < UNTRANSLATED
-
+Magaleta
+"... we live together now."
 > END STRING
 
 > BEGIN STRING
@@ -114,7 +124,9 @@ Magaleta
 "I thought you came back to me...
  at first."
 > CONTEXT: Map205/events/2/pages/0/50/Dialogue < UNTRANSLATED
-
+Magaleta
+"I thought you came back to me...
+ at first."
 > END STRING
 
 > BEGIN STRING
@@ -122,14 +134,17 @@ Magaleta
 "But soon... I realized it is not
  that simple."
 > CONTEXT: Map205/events/2/pages/0/54/Dialogue < UNTRANSLATED
-
+Magaleta
+"But soon... I realized it is not
+ that simple."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Senia is a shy and introvert child."
 > CONTEXT: Map205/events/2/pages/0/58/Dialogue < UNTRANSLATED
-
+Magaleta
+"Senia is a shy and introvert child."
 > END STRING
 
 > BEGIN STRING
@@ -158,7 +173,8 @@ Magaleta
 > CONTEXT: Map143/events/8/pages/0/80/Dialogue < UNTRANSLATED
 > CONTEXT: Map138/events/3/pages/0/63/Dialogue < UNTRANSLATED
 > CONTEXT: Map143/events/8/pages/0/188/Dialogue < UNTRANSLATED
-
+Magaleta
+"I am sorry..."
 > END STRING
 
 > BEGIN STRING
@@ -167,14 +183,18 @@ Magaleta
  Failed to protect you then, and turned
  the love to you towards someone else now..."
 > CONTEXT: Map205/events/2/pages/0/71/Dialogue < UNTRANSLATED
-
+Magaleta
+"I am not doing a good job as your sister.
+ Failed to protect you then, and turned
+ the love to you towards someone else now..."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "However, I have made up my mind!"
 > CONTEXT: Map205/events/2/pages/0/76/Dialogue < UNTRANSLATED
-
+Magaleta
+"However, I have made up my mind!"
 > END STRING
 
 > BEGIN STRING
@@ -182,7 +202,9 @@ Magaleta
 "I will watch over that kid,
  take good care of her."
 > CONTEXT: Map205/events/2/pages/0/79/Dialogue < UNTRANSLATED
-
+Magaleta
+"I will watch over that kid,
+ take good care of her."
 > END STRING
 
 > BEGIN STRING
@@ -190,7 +212,9 @@ Magaleta
 "Not treating her as a
  replacement of Nia."
 > CONTEXT: Map205/events/2/pages/0/83/Dialogue < UNTRANSLATED
-
+Magaleta
+"Not treating her as a
+ replacement of Nia."
 > END STRING
 
 > BEGIN STRING
@@ -198,14 +222,17 @@ Magaleta
 "But as Senia,
  another cute sister of mine."
 > CONTEXT: Map205/events/2/pages/0/87/Dialogue < UNTRANSLATED
-
+Magaleta
+"But as Senia,
+ another cute sister of mine."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "No more hesitation."
 > CONTEXT: Map205/events/2/pages/0/91/Dialogue < UNTRANSLATED
-
+Magaleta
+"No more hesitation."
 > END STRING
 
 > BEGIN STRING
@@ -226,42 +253,44 @@ Magaleta
 Magaleta
 "Don't forget, you are also my lovely sis."
 > CONTEXT: Map205/events/2/pages/0/100/Dialogue < UNTRANSLATED
-
+Magaleta
+"Don't forget, you are also my lovely sis."
 > END STRING
 
 > BEGIN STRING
 I have lost my sunshine.
 > CONTEXT: Map205/events/2/pages/0/104/Dialogue < UNTRANSLATED
-
+I have lost my sunshine.
 > END STRING
 
 > BEGIN STRING
 I have been walking in the dark.
 > CONTEXT: Map205/events/2/pages/0/106/Dialogue < UNTRANSLATED
-
+I have been walking in the dark.
 > END STRING
 
 > BEGIN STRING
 But I will not hesitate anymore.
 > CONTEXT: Map205/events/2/pages/0/108/Dialogue < UNTRANSLATED
-
+But I will not hesitate anymore.
 > END STRING
 
 > BEGIN STRING
 Because I have found one,
 > CONTEXT: Map205/events/2/pages/0/110/Dialogue < UNTRANSLATED
-
+Because I have found one,
 > END STRING
 
 > BEGIN STRING
 Dimming,
 But lovely,
 > CONTEXT: Map205/events/2/pages/0/112/Dialogue < UNTRANSLATED
-
+Dimming,
+But lovely,
 > END STRING
 
 > BEGIN STRING
 Shining \\|\\c[6]star.
 > CONTEXT: Map205/events/2/pages/0/115/Dialogue < UNTRANSLATED
-
+Shining \\|\\c[6]star.
 > END STRING
