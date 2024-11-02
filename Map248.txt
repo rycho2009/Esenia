@@ -57,7 +57,7 @@ Senia
 "What now..."
 > CONTEXT: Map248/events/15/pages/1/7/Dialogue < UNTRANSLATED
 Senia
-"What now..."
+"Co teraz..."
 > END STRING
 
 > BEGIN STRING
@@ -114,7 +114,8 @@ Senia
 Senia
 "What... happened to me?"
 > CONTEXT: Map248/events/15/pages/3/25/Dialogue < UNTRANSLATED
-
+Senia
+"What... happened to me?"
 > END STRING
 
 > BEGIN STRING
