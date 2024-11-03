@@ -3,5 +3,5 @@
 Demon Frontier - lobby
 > CONTEXT: Map162/display_name/ < UNTRANSLATED
 > CONTEXT: Map036/display_name/ < UNTRANSLATED
-
+Demon Frontier - lobby
 > END STRING

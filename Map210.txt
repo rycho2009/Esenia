@@ -41,12 +41,16 @@ Magaleta
  whenever Nia would like to listen.
  That is a promise!"
 > CONTEXT: Map210/events/3/pages/0/17/Dialogue < UNTRANSLATED
-
+Magaleta
+"Then I will play it
+ whenever Nia would like to listen.
+ That is a promise!"
 > END STRING
 
 > BEGIN STRING
 Child Senia
 "Yay!"
+> CONTEXT: Map210/events/3/pages/0/22/Dialogue < UNTRANSLATED
 Maleńka Senia
 "Jej!"
 > END STRING
@@ -101,7 +105,8 @@ Maleńka Senia
 Magaleta
 "It is a work in progress..."
 > CONTEXT: Map210/events/3/pages/0/43/Dialogue < UNTRANSLATED
-
+Magaleta
+"It is a work in progress..."
 > END STRING
 
 > BEGIN STRING
@@ -110,12 +115,8 @@ Magaleta
  but I have yet to come up with
  a name for it."
 > CONTEXT: Map210/events/3/pages/0/46/Dialogue < UNTRANSLATED
-
-> END STRING
-
-> BEGIN STRING
-Child Senia
-"Yay!"
-> CONTEXT: Map210/events/3/pages/0/22/Dialogue < UNTRANSLATED
-
+Magaleta
+"I am about to finish it
+ but I have yet to come up with
+ a name for it."
 > END STRING

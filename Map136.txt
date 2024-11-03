@@ -3,51 +3,53 @@
 Lord's Hall
 > CONTEXT: Map136/display_name/ < UNTRANSLATED
 > CONTEXT: Commonevents/75/14/Choice/3 < UNTRANSLATED
-
+Lord's Hall
 > END STRING
 
 > BEGIN STRING
 In the next room is the boss fight.
 Once completed you will be sent to the next dungeon.
 > CONTEXT: Map136/events/2/pages/0/1/Dialogue < UNTRANSLATED
-
+Następnym pomieszczeniem jest pokój Bossa.
+Po ukończeniu zostaniesz przeniesiony do kolejnego etapu.
 > END STRING
 
 > BEGIN STRING
 Demon Frontier - Lord's hall waypoint activated.
 > CONTEXT: Map136/events/4/pages/0/2/Dialogue < UNTRANSLATED
-
+Demon Frontier - Lord's hall waypoint activated.
 > END STRING
 
 > BEGIN STRING
 Report:Skeleton Soldier and Spell Caster
 > CONTEXT: Map136/events/11/pages/0/4/Choice/0 < UNTRANSLATED
-
+Report:Skeleton Soldier and Spell Caster
 > END STRING
 
 > BEGIN STRING
 Report:Winged Demon and Ghost
 > CONTEXT: Map136/events/11/pages/0/4/Choice/1 < UNTRANSLATED
-
+Report:Winged Demon and Ghost
 > END STRING
 
 > BEGIN STRING
 Report:Hell Scorpio and Merman
 > CONTEXT: Map136/events/11/pages/0/4/Choice/2 < UNTRANSLATED
-
+Report:Hell Scorpio and Merman
 > END STRING
 
 > BEGIN STRING
 Report:Succubus and Scythe Ghost
 > CONTEXT: Map136/events/11/pages/0/4/Choice/3 < UNTRANSLATED
-
+Report:Succubus and Scythe Ghost
 > END STRING
 
 > BEGIN STRING
 Skeleton Soldier destroyed:\\V[489] / 15
 Spell Caster destroyed:\\V[490] / 10
 > CONTEXT: Map136/events/11/pages/0/6/Dialogue < UNTRANSLATED
-
+Skeleton Soldier destroyed:\\V[489] / 15
+Spell Caster destroyed:\\V[490] / 10
 > END STRING
 
 > BEGIN STRING
@@ -56,28 +58,31 @@ Acquired "\\I[225]Book of Evasion Ch. 2"
 > CONTEXT: Map136/events/11/pages/0/50/Dialogue
 > CONTEXT: Map136/events/11/pages/0/83/Dialogue
 > CONTEXT: Map136/events/11/pages/0/116/Dialogue
-Otrzymano "\\I[225]Book of Evasion Ch. 2"
+Otrzymano "\\I[225]Księgę Uników II"
 > END STRING
 
 > BEGIN STRING
 Winged Demon destroyed:\\V[492] / 15
 Ghost destroyed:\\V[497] / 10
 > CONTEXT: Map136/events/11/pages/0/39/Dialogue < UNTRANSLATED
-
+Winged Demon destroyed:\\V[492] / 15
+Ghost destroyed:\\V[497] / 10
 > END STRING
 
 > BEGIN STRING
 Hell Scorpio destroyed:\\V[498] / 15
 Merman destroyed:\\V[499] / 10
 > CONTEXT: Map136/events/11/pages/0/72/Dialogue < UNTRANSLATED
-
+Hell Scorpio destroyed:\\V[498] / 15
+Merman destroyed:\\V[499] / 10
 > END STRING
 
 > BEGIN STRING
 Scythe Ghost destroyed:\\V[493] / 10
 Succubus destroyed:\\V[495] / 10
 > CONTEXT: Map136/events/11/pages/0/105/Dialogue < UNTRANSLATED
-
+Scythe Ghost destroyed:\\V[493] / 10
+Succubus destroyed:\\V[495] / 10
 > END STRING
 
 > BEGIN STRING
@@ -86,11 +91,14 @@ Jack in the Chest
 I will have a surprise gift for you.
 (Excluding the chests in Arcane Realm.)"
 > CONTEXT: Map136/events/12/pages/0/1/Dialogue < UNTRANSLATED
-
+Jack in the Chest
+"If you can find all my chests in the Demon Frontier,
+I will have a surprise gift for you.
+(Excluding the chests in Arcane Realm.)"
 > END STRING
 
 > BEGIN STRING
 Chests found in Demon Frontier:\\V[471] / 8
 > CONTEXT: Map136/events/12/pages/1/1/Dialogue < UNTRANSLATED
-
+Chests found in Demon Frontier:\\V[471] / 8
 > END STRING

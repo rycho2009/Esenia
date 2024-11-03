@@ -158,7 +158,7 @@ Jednakże...
 > BEGIN STRING
 I do not care how long it will take.
 > CONTEXT: Map144/events/2/pages/0/76/Dialogue < UNTRANSLATED
-I do not care how long it will take.
+Nie dbam o to ile mi to zajmie.
 > END STRING
 
 > BEGIN STRING

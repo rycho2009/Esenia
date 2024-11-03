@@ -6,7 +6,7 @@ Confession
 > CONTEXT: Map138/display_name/ < UNTRANSLATED
 > CONTEXT: Map090/display_name/ < UNTRANSLATED
 > CONTEXT: Map087/display_name/ < UNTRANSLATED
-
+Confession
 > END STRING
 
 > BEGIN STRING
@@ -18,20 +18,24 @@ Senia
 > CONTEXT: Map138/events/3/pages/0/137/Dialogue < UNTRANSLATED
 > CONTEXT: Map138/events/3/pages/0/172/Dialogue < UNTRANSLATED
 > CONTEXT: Map051/events/10/pages/0/55/Dialogue < UNTRANSLATED
-
+Senia
+"Sis Magaleta..."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "I have been expecting you."
 > CONTEXT: Map187/events/3/pages/0/23/Dialogue < UNTRANSLATED
-
+Magaleta
+"I have been expecting you."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Come!"
 > CONTEXT: Map187/events/3/pages/0/29/Dialogue < UNTRANSLATED
+Magaleta
+"Come!"
 
 > END STRING
 
@@ -40,7 +44,9 @@ Magaleta
 "I have taken full command of eternity.
 There is nothing to worry about any more."
 > CONTEXT: Map187/events/3/pages/0/35/Dialogue < UNTRANSLATED
-
+Magaleta
+"I have taken full command of eternity.
+There is nothing to worry about any more."
 > END STRING
 
 > BEGIN STRING
@@ -48,14 +54,17 @@ Magaleta
 "Just a bit more,
 we can stay together, forever."
 > CONTEXT: Map187/events/3/pages/0/39/Dialogue < UNTRANSLATED
-
+Magaleta
+"Just a bit more,
+we can stay together, forever."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "With the help of eternity."
 > CONTEXT: Map187/events/3/pages/0/43/Dialogue < UNTRANSLATED
-
+Magaleta
+"Z pomocą Wieczności."
 > END STRING
 
 > BEGIN STRING
@@ -63,7 +72,9 @@ Senia
 (There is something I must...
  tell sis Magaleta...)
 > CONTEXT: Map187/events/3/pages/0/50/Dialogue < UNTRANSLATED
-
+Senia
+(There is something I must...
+ tell sis Magaleta...)
 > END STRING
 
 > BEGIN STRING
@@ -89,7 +100,10 @@ Senia
  to you. Not Senia,
  not who I am."
 > CONTEXT: Map187/events/3/pages/0/63/Dialogue < UNTRANSLATED
-
+Senia
+"I thought I am just...  Nia
+ to you. Not Senia,
+ not who I am."
 > END STRING
 
 > BEGIN STRING
@@ -97,7 +111,9 @@ Senia
 "With that bear-in-mind, sis...
  you are such a distant figure..."
 > CONTEXT: Map187/events/3/pages/0/71/Dialogue < UNTRANSLATED
-
+Senia
+"With that bear-in-mind, sis...
+ you are such a distant figure..."
 > END STRING
 
 > BEGIN STRING
@@ -106,7 +122,10 @@ Senia
  speak to you... There are so
  much I would love to tell you..."
 > CONTEXT: Map187/events/3/pages/0/75/Dialogue < UNTRANSLATED
-
+Senia
+"I felt that I am in no place to
+ speak to you... There are so
+ much I would love to tell you..."
 > END STRING
 
 > BEGIN STRING
@@ -114,21 +133,25 @@ Senia
 "But I cannot...
  Because I am not... Nia."
 > CONTEXT: Map187/events/3/pages/0/80/Dialogue < UNTRANSLATED
-
+Senia
+"But I cannot...
+ Because I am not... Nia."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Was my attitude so misleading...?"
 > CONTEXT: Map187/events/3/pages/0/94/Dialogue < UNTRANSLATED
-
+Magaleta
+"Was my attitude so misleading...?"
 > END STRING
 
 > BEGIN STRING
 Senia
 (Sis regained her consciousness!)
 > CONTEXT: Map187/events/3/pages/0/101/Dialogue < UNTRANSLATED
-
+Senia
+(Sis regained her consciousness!)
 > END STRING
 
 > BEGIN STRING
@@ -144,7 +167,10 @@ Magaleta
  as a replacement of Nia.
  You worried too much."
 > CONTEXT: Map187/events/3/pages/0/112/Dialogue < UNTRANSLATED
-
+Magaleta
+"No, I have not been looking at you
+ as a replacement of Nia.
+ You worried too much."
 > END STRING
 
 > BEGIN STRING
@@ -152,14 +178,17 @@ Magaleta
 "So come!
  Join me and live together forever."
 > CONTEXT: Map187/events/3/pages/0/117/Dialogue < UNTRANSLATED
-
+Magaleta
+"So come!
+ Join me and live together forever."
 > END STRING
 
 > BEGIN STRING
 Senia
 "No..."
 > CONTEXT: Map187/events/3/pages/0/124/Dialogue < UNTRANSLATED
-
+Senia
+"Nie..."
 > END STRING
 
 > BEGIN STRING
@@ -174,21 +203,24 @@ Magaleta
 Senia
 "As your little sister..."
 > CONTEXT: Map187/events/3/pages/0/132/Dialogue < UNTRANSLATED
-
+Senia
+"Jako twoja młodsza siostra..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "I will... stop you!"
 > CONTEXT: Map187/events/3/pages/0/135/Dialogue < UNTRANSLATED
-
+Senia
+"I will... stop you!"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Stop me? For what?"
 > CONTEXT: Map187/events/3/pages/0/138/Dialogue < UNTRANSLATED
-
+Magaleta
+"Stop me? For what?"
 > END STRING
 
 > BEGIN STRING
@@ -197,7 +229,10 @@ Senia
  and return to our church
  together..."
 > CONTEXT: Map187/events/3/pages/0/141/Dialogue < UNTRANSLATED
-
+Senia
+"Uwolnię Cię od Wieczności,
+ i razem wrócimy
+ do naszego kościółka..."
 > END STRING
 
 > BEGIN STRING
@@ -205,14 +240,17 @@ Magaleta
 "I am afraid that is beyond
  your power."
 > CONTEXT: Map187/events/3/pages/0/146/Dialogue < UNTRANSLATED
-
+Magaleta
+"I am afraid that is beyond
+ your power."
 > END STRING
 
 > BEGIN STRING
 Senia
 "That maybe true..."
 > CONTEXT: Map187/events/3/pages/0/150/Dialogue < UNTRANSLATED
-
+Senia
+"That maybe true..."
 > END STRING
 
 > BEGIN STRING
@@ -220,12 +258,15 @@ Senia
 "But all hope will be lost
  if I do not try!"
 > CONTEXT: Map187/events/3/pages/0/153/Dialogue < UNTRANSLATED
-
+Senia
+"But all hope will be lost
+ if I do not try!"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Try your best then."
 > CONTEXT: Map187/events/3/pages/0/157/Dialogue < UNTRANSLATED
-
+Magaleta
+"Try your best then."
 > END STRING
