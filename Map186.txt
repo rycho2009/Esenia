@@ -2,41 +2,45 @@
 > BEGIN STRING
 There is a sphere socket on it...
 > CONTEXT: Map186/events/19/pages/0/0/Dialogue < UNTRANSLATED
-
+There is a sphere socket on it...
 > END STRING
 
 > BEGIN STRING
 Inserted blue crystal ball.
 > CONTEXT: Map186/events/19/pages/0/3/Dialogue < UNTRANSLATED
-
+Inserted blue crystal ball.
 > END STRING
 
 > BEGIN STRING
 Senia
 "It should be here... somewhere."
 > CONTEXT: Map186/events/21/pages/0/0/Dialogue < UNTRANSLATED
-
+Senia
+"It should be here... somewhere."
 > END STRING
 
 > BEGIN STRING
 Senia
 "Got it!"
 > CONTEXT: Map186/events/21/pages/0/6/Dialogue < UNTRANSLATED
-
+Senia
+"Got it!"
 > END STRING
 
 > BEGIN STRING
 Discovered blueprint of Hydrangea Sword.
 Hydrangea Sword added to the crafting recipe.
 > CONTEXT: Map186/events/21/pages/0/12/Dialogue < UNTRANSLATED
-
+Discovered blueprint of Hydrangea Sword.
+Hydrangea Sword added to the crafting recipe.
 > END STRING
 
 > BEGIN STRING
 Discovered blueprint of Violet Crystal Armor.
 Violet Crystal Armor added to the crafting recipe.
 > CONTEXT: Map186/events/21/pages/0/16/Dialogue < UNTRANSLATED
-
+Discovered blueprint of Violet Crystal Armor.
+Violet Crystal Armor added to the crafting recipe.
 > END STRING
 
 > BEGIN STRING
@@ -44,7 +48,9 @@ Senia
 "Eww...
  That was some ugly drawing."
 > CONTEXT: Map186/events/21/pages/0/23/Dialogue < UNTRANSLATED
-
+Senia
+"Eww...
+ That was some ugly drawing."
 > END STRING
 
 > BEGIN STRING
@@ -53,7 +59,10 @@ Senia
  to have the craftsman work on
  this blueprint."
 > CONTEXT: Map186/events/21/pages/0/27/Dialogue < UNTRANSLATED
-
+Senia
+"I cannot believe I had the guts
+ to have the craftsman work on
+ this blueprint."
 > END STRING
 
 > BEGIN STRING
@@ -78,13 +87,13 @@ Senia
 Searching the compartment...
 > CONTEXT: Map186/events/48/pages/0/0/Dialogue < UNTRANSLATED
 > CONTEXT: Map186/events/49/pages/0/0/Dialogue < UNTRANSLATED
-
+Searching the compartment...
 > END STRING
 
 > BEGIN STRING
 Found nothing.
 > CONTEXT: Map186/events/48/pages/0/2/Dialogue < UNTRANSLATED
-
+Nic nie znaleziono.
 > END STRING
 
 > BEGIN STRING
@@ -97,7 +106,8 @@ Otrzymano\\i[236] Score: the Other Side of Sorrow - Part I
 Senia
 "It is sis' favorite stuffed animal..."
 > CONTEXT: Map186/events/50/pages/0/1/Dialogue < UNTRANSLATED
-
+Senia
+"It is sis' favorite stuffed animal..."
 > END STRING
 
 > BEGIN STRING
@@ -172,7 +182,7 @@ Senia
 > BEGIN STRING
 Placed Score: the Other Side of Sorrow - part I on the piano.
 > CONTEXT: Map186/events/51/pages/1/2/Dialogue < UNTRANSLATED
-
+Placed Score: the Other Side of Sorrow - part I on the piano.
 > END STRING
 
 > BEGIN STRING
@@ -180,7 +190,7 @@ Senia
 "Still seemed incomplete..."
 > CONTEXT: Map186/events/51/pages/1/4/Dialogue < UNTRANSLATED
 Senia
-"Still seemed incomplete..."
+"Dalej wygląda na niekompletne..."
 > END STRING
 
 > BEGIN STRING
@@ -189,13 +199,15 @@ Senia
  it lying around somewhere."
 > CONTEXT: Map186/events/51/pages/1/11/Dialogue < UNTRANSLATED
 > CONTEXT: Map186/events/51/pages/2/10/Dialogue < UNTRANSLATED
-
+Senia
+"Maybe there is another part of
+ it lying around somewhere."
 > END STRING
 
 > BEGIN STRING
 Placed Score: the Other Side of Sorrow - part II on the piano.
 > CONTEXT: Map186/events/51/pages/2/2/Dialogue < UNTRANSLATED
-
+Placed Score: the Other Side of Sorrow - part II on the piano.
 > END STRING
 
 > BEGIN STRING
@@ -241,7 +253,7 @@ Senia
 > BEGIN STRING
 Acquired\\i[353] Blue Crystal.
 > CONTEXT: Map186/events/123/pages/1/8/Dialogue < UNTRANSLATED
-
+Otrzymano\\i[353] Blue Crystal.
 > END STRING
 
 > BEGIN STRING
@@ -262,7 +274,8 @@ Senia
 Senia
 "Let's pray on it..."
 > CONTEXT: Map186/events/155/pages/0/3/Dialogue < UNTRANSLATED
-
+Senia
+"Let's pray on it..."
 > END STRING
 
 > BEGIN STRING
@@ -311,21 +324,24 @@ please try to have an "accessory" equipped on your journey!"
 Senia
 "Where am I?"
 > CONTEXT: Map186/events/157/pages/0/10/Dialogue < UNTRANSLATED
-
+Senia
+"Gdzie jestem?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Isn't this...sacred sanctum?"
 > CONTEXT: Map186/events/157/pages/0/13/Dialogue < UNTRANSLATED
-
+Senia
+"Isn't this...sacred sanctum?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "So sis is here...?"
 > CONTEXT: Map186/events/157/pages/0/16/Dialogue < UNTRANSLATED
-
+Senia
+"So sis is here...?"
 > END STRING
 
 > BEGIN STRING
@@ -345,14 +361,17 @@ Senia
 "Sis Magaleta is a lord in Tower
  of Eternity?"
 > CONTEXT: Map186/events/157/pages/0/24/Dialogue < UNTRANSLATED
-
+Senia
+"Sis Magaleta is a lord in Tower
+ of Eternity?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Are you saying..."
 > CONTEXT: Map186/events/157/pages/0/28/Dialogue < UNTRANSLATED
-
+Senia
+"Are you saying..."
 > END STRING
 
 > BEGIN STRING
@@ -367,7 +386,8 @@ Mała Wróżka
 Senia
 (Sis... has eternity...?)
 > CONTEXT: Map186/events/157/pages/0/35/Dialogue < UNTRANSLATED
-
+Senia
+(Sis... has eternity...?)
 > END STRING
 
 > BEGIN STRING
@@ -375,7 +395,9 @@ Senia
 "I have a bad feeling about this.
  Let's hurry up!"
 > CONTEXT: Map186/events/157/pages/0/38/Dialogue < UNTRANSLATED
-
+Senia
+"I have a bad feeling about this.
+ Let's hurry up!"
 > END STRING
 
 > BEGIN STRING

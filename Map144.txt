@@ -11,7 +11,9 @@ Senia
 "I... failed to bring sister back
  with me..."
 > CONTEXT: Map144/events/2/pages/0/8/Dialogue < UNTRANSLATED
-
+Senia
+"I... failed to bring sister back
+ with me..."
 > END STRING
 
 > BEGIN STRING
@@ -19,7 +21,9 @@ Senia
 "There were so much I wanted
  to tell her..."
 > CONTEXT: Map144/events/2/pages/0/12/Dialogue < UNTRANSLATED
-
+Senia
+"There were so much I wanted
+ to tell her..."
 > END STRING
 
 > BEGIN STRING
@@ -27,7 +31,9 @@ Senia
 "It took so much effort to
  finally met her..."
 > CONTEXT: Map144/events/2/pages/0/16/Dialogue < UNTRANSLATED
-
+Senia
+"It took so much effort to
+ finally met her..."
 > END STRING
 
 > BEGIN STRING
@@ -35,7 +41,9 @@ Senia
 "But I lost her again...
  at the end..."
 > CONTEXT: Map144/events/2/pages/0/20/Dialogue < UNTRANSLATED
-
+Senia
+"But I lost her again...
+ at the end..."
 > END STRING
 
 > BEGIN STRING
@@ -43,7 +51,9 @@ Senia
 "Do not worry though!
  \\|I have not given up yet!"
 > CONTEXT: Map144/events/2/pages/0/26/Dialogue < UNTRANSLATED
-
+Senia
+"Do not worry though!
+ \\|I have not given up yet!"
 > END STRING
 
 > BEGIN STRING
@@ -51,21 +61,25 @@ Senia
 "Sis must be waiting for me
  somewhere..."
 > CONTEXT: Map144/events/2/pages/0/30/Dialogue < UNTRANSLATED
-
+Senia
+"Sis must be waiting for me
+ somewhere..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "This time, I will do it right!"
 > CONTEXT: Map144/events/2/pages/0/34/Dialogue < UNTRANSLATED
-
+Senia
+"This time, I will do it right!"
 > END STRING
 
 > BEGIN STRING
 Senia
 "We will definitely meet again."
 > CONTEXT: Map144/events/2/pages/0/37/Dialogue < UNTRANSLATED
-
+Senia
+"We will definitely meet again."
 > END STRING
 
 > BEGIN STRING
@@ -88,7 +102,10 @@ Senia
  I will tell sis everything
  I wanted to say to her..."
 > CONTEXT: Map144/events/2/pages/0/50/Dialogue < UNTRANSLATED
-
+Senia
+"This time...
+ I will tell sis everything
+ I wanted to say to her..."
 > END STRING
 
 > BEGIN STRING
@@ -100,33 +117,35 @@ Senia
 > BEGIN STRING
 There are so much to talk about.
 > CONTEXT: Map144/events/2/pages/0/62/Dialogue < UNTRANSLATED
-
+There are so much to talk about.
 > END STRING
 
 > BEGIN STRING
 I also want to hear sis talk more about herself.
 > CONTEXT: Map144/events/2/pages/0/64/Dialogue < UNTRANSLATED
-
+I also want to hear sis talk more about herself.
 > END STRING
 
 > BEGIN STRING
 Actually,
 I know sis too well.
 > CONTEXT: Map144/events/2/pages/0/66/Dialogue < UNTRANSLATED
-
+Actually,
+I know sis too well.
 > END STRING
 
 > BEGIN STRING
 I am sure she would not want me to do this again...
 > CONTEXT: Map144/events/2/pages/0/69/Dialogue < UNTRANSLATED
-
+I am sure she would not want me to do this again...
 > END STRING
 
 > BEGIN STRING
 It is definitely not her wish
 for me to risk everything for her rescue.
 > CONTEXT: Map144/events/2/pages/0/71/Dialogue < UNTRANSLATED
-
+It is definitely not her wish
+for me to risk everything for her rescue.
 > END STRING
 
 > BEGIN STRING
@@ -139,31 +158,31 @@ Jednakże...
 > BEGIN STRING
 I do not care how long it will take.
 > CONTEXT: Map144/events/2/pages/0/76/Dialogue < UNTRANSLATED
-
+I do not care how long it will take.
 > END STRING
 
 > BEGIN STRING
 Even if I have to compromise with the power of eternity.
 > CONTEXT: Map144/events/2/pages/0/78/Dialogue < UNTRANSLATED
-
+Even if I have to compromise with the power of eternity.
 > END STRING
 
 > BEGIN STRING
 Even if I will end up with a sorrow face of sis.
 > CONTEXT: Map144/events/2/pages/0/80/Dialogue < UNTRANSLATED
-
+Even if I will end up with a sorrow face of sis.
 > END STRING
 
 > BEGIN STRING
 I am not stopping.
 > CONTEXT: Map144/events/2/pages/0/82/Dialogue < UNTRANSLATED
-
+I am not stopping.
 > END STRING
 
 > BEGIN STRING
 This time...\\|I will protect sis Magaleta.
 > CONTEXT: Map144/events/2/pages/0/85/Dialogue < UNTRANSLATED
-
+This time...\\|I will protect sis Magaleta.
 > END STRING
 
 > BEGIN STRING

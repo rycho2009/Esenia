@@ -82,7 +82,7 @@ Why tell me to live on?
 > BEGIN STRING
 How can I do this without you...
 > CONTEXT: Map205/events/2/pages/0/32/Dialogue < UNTRANSLATED
-How can I do this without you...
+Jak mogę to bez ciebie robić...
 > END STRING
 
 > BEGIN STRING
@@ -107,8 +107,8 @@ Magaleta
 It is like you reappeared in my life!"
 > CONTEXT: Map205/events/2/pages/0/43/Dialogue < UNTRANSLATED
 Magaleta
-"Her name is Senia.
-It is like you reappeared in my life!"
+"Ma na imię Senia.
+Czuję jakbyś pojawiła się w moim życiu ponownie!"
 > END STRING
 
 > BEGIN STRING
@@ -135,8 +135,8 @@ Magaleta
  that simple."
 > CONTEXT: Map205/events/2/pages/0/54/Dialogue < UNTRANSLATED
 Magaleta
-"But soon... I realized it is not
- that simple."
+"Lecz wkrótce... Zdałam sobie sprawę, że
+ to nie takie proste."
 > END STRING
 
 > BEGIN STRING
@@ -144,7 +144,7 @@ Magaleta
 "Senia is a shy and introvert child."
 > CONTEXT: Map205/events/2/pages/0/58/Dialogue < UNTRANSLATED
 Magaleta
-"Senia is a shy and introvert child."
+"Senia jest nieśmiałą i zamkniętą w sobie dziewczynką."
 > END STRING
 
 > BEGIN STRING
@@ -161,7 +161,7 @@ Magaleta
  I love you."
 > CONTEXT: Map205/events/2/pages/0/64/Dialogue < UNTRANSLATED
 Magaleta
-" Nawet jeśli, to i tak kocham ją 
+"Nawet jeśli, to i tak kocham ją 
  tak bardzo, jak Ciebie.
 > END STRING
 
@@ -194,7 +194,7 @@ Magaleta
 "However, I have made up my mind!"
 > CONTEXT: Map205/events/2/pages/0/76/Dialogue < UNTRANSLATED
 Magaleta
-"However, I have made up my mind!"
+"Jednakże, podjełam decyzję!"
 > END STRING
 
 > BEGIN STRING
@@ -223,8 +223,8 @@ Magaleta
  another cute sister of mine."
 > CONTEXT: Map205/events/2/pages/0/87/Dialogue < UNTRANSLATED
 Magaleta
-"But as Senia,
- another cute sister of mine."
+"Lecz jako Senię,
+ moją drugą uroczą siostrzyczkę."
 > END STRING
 
 > BEGIN STRING
@@ -239,14 +239,16 @@ Magaleta
 Magaleta
 "For it may cause another tragedy..."
 > CONTEXT: Map205/events/2/pages/0/94/Dialogue < UNTRANSLATED
-
+Magaleta
+"For it may cause another tragedy..."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Nia, I will visit again sometime."
 > CONTEXT: Map205/events/2/pages/0/97/Dialogue < UNTRANSLATED
-
+Magaleta
+"Nia, I will visit again sometime."
 > END STRING
 
 > BEGIN STRING
@@ -254,7 +256,7 @@ Magaleta
 "Don't forget, you are also my lovely sis."
 > CONTEXT: Map205/events/2/pages/0/100/Dialogue < UNTRANSLATED
 Magaleta
-"Don't forget, you are also my lovely sis."
+"Nie zapomnij, jesteś również moją kochaną siostrą."
 > END STRING
 
 > BEGIN STRING

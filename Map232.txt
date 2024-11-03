@@ -11,5 +11,7 @@ Senia
 (It feels...
  somewhat relieved in here...)
 > CONTEXT: Map232/events/5/pages/0/18/Dialogue < UNTRANSLATED
-
+Senia
+(It feels...
+ somewhat relieved in here...)
 > END STRING

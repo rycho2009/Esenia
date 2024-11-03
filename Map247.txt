@@ -46,8 +46,8 @@ Holy Priest
 > CONTEXT: Map247/events/5/pages/0/13/Dialogue
 Holy Priest
 "Laser beams are used in Fairy Queen fight as well.
- Myślę, że mam obsesję na punkcie efektu
- laserowej wiązki!"
+ Myślę, że mam obsesję na punkcie efektów
+ laserowych wiązek!"
 > END STRING
 
 > BEGIN STRING

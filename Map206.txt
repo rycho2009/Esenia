@@ -13,7 +13,8 @@ Magaleta
 Magaleta
 "Why did you follow me?"
 > CONTEXT: Map206/events/1/pages/0/6/Dialogue < UNTRANSLATED
-
+Magaleta
+"Why did you follow me?"
 > END STRING
 
 > BEGIN STRING

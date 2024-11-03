@@ -25,7 +25,8 @@ X、ESC：選單
 Senia
 "I ... I do not look back anymore..."
 > CONTEXT: Map151/events/19/pages/0/0/Dialogue < UNTRANSLATED
-
+Senia
+"I ... I do not look back anymore..."
 > END STRING
 
 > BEGIN STRING
