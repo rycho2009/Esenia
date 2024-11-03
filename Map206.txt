@@ -110,14 +110,16 @@ Magaleta
 Senia
 "No!! Get away from me!"
 > CONTEXT: Map206/events/1/pages/0/65/Dialogue < UNTRANSLATED
-
+Senia
+"No!! Get away from me!"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 (It looks like she cannot hear me at all.)
 > CONTEXT: Map206/events/1/pages/0/68/Dialogue < UNTRANSLATED
-
+Magaleta
+(It looks like she cannot hear me at all.)
 > END STRING
 
 > BEGIN STRING
@@ -126,7 +128,10 @@ Magaleta
  such low resistance to curses.
  Her curse resistance is way below average...)
 > CONTEXT: Map206/events/1/pages/0/71/Dialogue < UNTRANSLATED
-
+Magaleta
+(I did not expect Senia to have
+ such low resistance to curses.
+ Her curse resistance is way below average...)
 > END STRING
 
 > BEGIN STRING
@@ -141,7 +146,8 @@ Magaleta
 Magaleta
 (Ah! Nia's cross pendant!)
 > CONTEXT: Map206/events/1/pages/0/79/Dialogue < UNTRANSLATED
-
+Magaleta
+(Ah! Nia's cross pendant!)
 > END STRING
 
 > BEGIN STRING
@@ -150,7 +156,10 @@ Magaleta
  It should have absorbed enough
  power to weaken the curse.)
 > CONTEXT: Map206/events/1/pages/0/82/Dialogue < UNTRANSLATED
-
+Magaleta
+(I have been wearing it all the time.
+ It should have absorbed enough
+ power to weaken the curse.)
 > END STRING
 
 > BEGIN STRING
@@ -164,7 +173,8 @@ Senia
 Magaleta
 "She seems to calm down. Phew-"
 > CONTEXT: Map206/events/1/pages/0/95/Dialogue < UNTRANSLATED
-
+Magaleta
+"She seems to calm down. Phew-"
 > END STRING
 
 > BEGIN STRING
@@ -172,7 +182,9 @@ Magaleta
 (Wait, it is too early to let my
  guard down.)
 > CONTEXT: Map206/events/1/pages/0/98/Dialogue < UNTRANSLATED
-
+Magaleta
+(Wait, it is too early to let my
+ guard down.)
 > END STRING
 
 > BEGIN STRING
@@ -180,44 +192,47 @@ Magaleta
 (I need to find a way to lift Senia's
  curse once and for all.)
 > CONTEXT: Map206/events/1/pages/0/102/Dialogue < UNTRANSLATED
-
+Magaleta
+(I need to find a way to lift Senia's
+ curse once and for all.)
 > END STRING
 
 > BEGIN STRING
 Senia has been sleeping ever since.
 > CONTEXT: Map206/events/1/pages/0/108/Dialogue < UNTRANSLATED
-
+Senia has been sleeping ever since.
 > END STRING
 
 > BEGIN STRING
 Fortunately, the cross pendant worked.
 > CONTEXT: Map206/events/1/pages/0/110/Dialogue < UNTRANSLATED
-
+Fortunately, the cross pendant worked.
 > END STRING
 
 > BEGIN STRING
 At least the curse is weak enough
 that it does not make Senia suffer.
 > CONTEXT: Map206/events/1/pages/0/112/Dialogue < UNTRANSLATED
-
+Na szczęście klątwa jest na tyle słaba, że
+nie sprawia Senii cierpienia.
 > END STRING
 
 > BEGIN STRING
 I have contacted many curse experts...
 > CONTEXT: Map206/events/1/pages/0/115/Dialogue < UNTRANSLATED
-
+Kontaktowałam się z wieloma ekspertami z dziedziny klątw...
 > END STRING
 
 > BEGIN STRING
 Also tried many different methods...
 > CONTEXT: Map206/events/1/pages/0/117/Dialogue < UNTRANSLATED
-
+Próbowałam również wielu innych metod...
 > END STRING
 
 > BEGIN STRING
 But none worked on her.
 > CONTEXT: Map206/events/1/pages/0/119/Dialogue < UNTRANSLATED
-
+But none worked on her.
 > END STRING
 
 > BEGIN STRING
@@ -235,25 +250,26 @@ Magaleta
 My voice is like a rock thrown to a lake.
 It sinked straight to the bottom.
 > CONTEXT: Map206/events/1/pages/0/127/Dialogue < UNTRANSLATED
-
+My voice is like a rock thrown to a lake.
+It sinked straight to the bottom.
 > END STRING
 
 > BEGIN STRING
 Without any response.
 > CONTEXT: Map206/events/1/pages/0/130/Dialogue < UNTRANSLATED
-
+Without any response.
 > END STRING
 
 > BEGIN STRING
 But my anxiety is like the wave caused by the rock.
 > CONTEXT: Map206/events/1/pages/0/132/Dialogue < UNTRANSLATED
-
+But my anxiety is like the wave caused by the rock.
 > END STRING
 
 > BEGIN STRING
 Spreading worse and worse...
 > CONTEXT: Map206/events/1/pages/0/134/Dialogue < UNTRANSLATED
-
+Spreading worse and worse...
 > END STRING
 
 > BEGIN STRING
@@ -271,13 +287,13 @@ Dlaczego ona?
 > BEGIN STRING
 Am I going to watch this happen to me again?
 > CONTEXT: Map206/events/1/pages/0/140/Dialogue < UNTRANSLATED
-
+Am I going to watch this happen to me again?
 > END STRING
 
 > BEGIN STRING
 Watching another sister passing away right before me?
 > CONTEXT: Map206/events/1/pages/0/142/Dialogue < UNTRANSLATED
-
+Watching another sister passing away right before me?
 > END STRING
 
 > BEGIN STRING
@@ -289,21 +305,23 @@ NIE!
 > BEGIN STRING
 No way!
 > CONTEXT: Map206/events/1/pages/0/146/Dialogue < UNTRANSLATED
-
+Nie ma mowy!
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "There is a place I must go."
 > CONTEXT: Map206/events/1/pages/0/151/Dialogue < UNTRANSLATED
-
+Magaleta
+"There is a place I must go."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "I promise I will be back."
 > CONTEXT: Map206/events/1/pages/0/154/Dialogue < UNTRANSLATED
-
+Magaleta
+"I promise I will be back."
 > END STRING
 
 > BEGIN STRING
@@ -311,14 +329,17 @@ Magaleta
 "Would you please stay home safely
  this time?"
 > CONTEXT: Map206/events/1/pages/0/157/Dialogue < UNTRANSLATED
-
+Magaleta
+"Would you please stay home safely
+ this time?"
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Don't do anything dangerous."
 > CONTEXT: Map206/events/1/pages/0/161/Dialogue < UNTRANSLATED
-
+Magaleta
+"Nie rób nic niebezpiecznego."
 > END STRING
 
 > BEGIN STRING
@@ -326,35 +347,41 @@ Magaleta
 "I will take care of all the dangerous
  business."
 > CONTEXT: Map206/events/1/pages/0/164/Dialogue < UNTRANSLATED
-
+Magaleta
+"I will take care of all the dangerous
+ business."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Just don't worry, Nia."
 > CONTEXT: Map206/events/1/pages/0/168/Dialogue < UNTRANSLATED
-
+Magaleta
+"Just don't worry, Nia."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Deal?"
 > CONTEXT: Map206/events/1/pages/0/171/Dialogue < UNTRANSLATED
-
+Magaleta
+"Deal?"
 > END STRING
 
 > BEGIN STRING
 I knew she is asleep.
 I just cannot help myself but keep speaking to her.
 > CONTEXT: Map206/events/1/pages/0/174/Dialogue < UNTRANSLATED
-
+I knew she is asleep.
+I just cannot help myself but keep speaking to her.
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "Nia... off sister goes!"
 > CONTEXT: Map206/events/1/pages/0/177/Dialogue < UNTRANSLATED
-
+Magaleta
+"Nia... off sister goes!"
 > END STRING
 
 > BEGIN STRING
@@ -370,7 +397,8 @@ Senia
 Senia
 "No! Don't go!"
 > CONTEXT: Map206/events/1/pages/0/220/Dialogue < UNTRANSLATED
-
+Senia
+"Nie! Nie idź!"
 > END STRING
 
 > BEGIN STRING

@@ -8,14 +8,15 @@
 > BEGIN STRING
 Demon Lord
 > CONTEXT: Map161/events/38/pages/0/1/Dialogue < UNTRANSLATED
-
+Demon Lord
 > END STRING
 
 > BEGIN STRING
 Holy Priest
 "Ruler of the Demon Frontier."
 > CONTEXT: Map161/events/38/pages/0/3/Dialogue < UNTRANSLATED
-
+Holy Priest
+"Ruler of the Demon Frontier."
 > END STRING
 
 > BEGIN STRING
