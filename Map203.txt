@@ -2,14 +2,14 @@
 > BEGIN STRING
 Eternal
 > CONTEXT: Map203/display_name/ < UNTRANSLATED
-
+Wieczność
 > END STRING
 
 > BEGIN STRING
 Senia
 "Is this... caused by eternity?"
 > CONTEXT: Map203/events/4/pages/0/18/Dialogue < UNTRANSLATED
-
+"Is this... caused by eternity?"
 > END STRING
 
 > BEGIN STRING

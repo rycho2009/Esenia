@@ -109,7 +109,7 @@ Acquired \\I[346]Violet Crystal
 > CONTEXT: Map212/events/12/pages/1/11/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/12/pages/1/11/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/1/11/Dialogue < UNTRANSLATED
-
+Otrzymano \\I[346]Fioletowy Kryształ
 > END STRING
 
 > BEGIN STRING
@@ -118,7 +118,8 @@ Jack in the Chest
 > CONTEXT: Map212/events/12/pages/2/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/12/pages/2/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/2/1/Dialogue < UNTRANSLATED
-
+Jack in the Chest
+"Hum hum! Hammer!"
 > END STRING
 
 > BEGIN STRING
@@ -127,7 +128,8 @@ Jack in the Chest
 > CONTEXT: Map212/events/12/pages/2/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/12/pages/2/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/2/4/Dialogue < UNTRANSLATED
-
+Jack in the Chest
+"Bom bom! Boomerang!"
 > END STRING
 
 > BEGIN STRING
@@ -136,7 +138,8 @@ Jack in the Chest
 > CONTEXT: Map212/events/12/pages/2/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/12/pages/2/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/2/7/Dialogue < UNTRANSLATED
-
+Jack in the Chest
+"Dom dom! Senia Dumb!"
 > END STRING
 
 > BEGIN STRING
@@ -193,7 +196,8 @@ Jack in the Chest
 > CONTEXT: Map212/events/12/pages/2/16/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/12/pages/2/16/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/2/16/Dialogue < UNTRANSLATED
-
+Jack in the Chest
+"NooOOoOOoOO!"
 > END STRING
 
 > BEGIN STRING
@@ -353,14 +357,16 @@ Dark Angel destroyed: \\V[592] / 10
 Seraph destroyed: \\V[593] / 15
 Sanctum Knight destroyed: \\V[594] / 10
 > CONTEXT: Map212/events/14/pages/0/72/Dialogue < UNTRANSLATED
-
+Seraph destroyed: \\V[593] / 15
+Sanctum Knight destroyed: \\V[594] / 10
 > END STRING
 
 > BEGIN STRING
 Fallen Angel destroyed: \\V[595] / 15
 Cherub destroyed: \\V[596] / 10
 > CONTEXT: Map212/events/14/pages/0/105/Dialogue < UNTRANSLATED
-
+Fallen Angel destroyed: \\V[595] / 15
+Cherub destroyed: \\V[596] / 10
 > END STRING
 
 > BEGIN STRING
@@ -369,7 +375,8 @@ Slimey
 > CONTEXT: Map212/events/14/pages/1/5/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/11/pages/1/5/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/54/pages/2/5/Dialogue < UNTRANSLATED
-
+Slimey
+"You have completed all the quests!"
 > END STRING
 
 > BEGIN STRING

@@ -9,5 +9,5 @@ Confession Corridor
 > CONTEXT: Map194/display_name/ < UNTRANSLATED
 > CONTEXT: Map163/display_name/ < UNTRANSLATED
 > CONTEXT: Commonevents/69/43/Choice/0 < UNTRANSLATED
-
+Confession Corridor
 > END STRING

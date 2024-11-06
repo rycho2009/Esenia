@@ -4,5 +4,5 @@ Holy Chamber waypoint activated.
 > CONTEXT: Map225/events/5/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map173/events/6/pages/0/2/Dialogue < UNTRANSLATED
 > CONTEXT: Map170/events/6/pages/0/2/Dialogue < UNTRANSLATED
-
+Holy Chamber waypoint activated.
 > END STRING
