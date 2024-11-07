@@ -3,7 +3,7 @@
 Confession Hall
 > CONTEXT: Map212/display_name/ < UNTRANSLATED
 > CONTEXT: Commonevents/69/43/Choice/2 < UNTRANSLATED
-
+Confession Hall
 > END STRING
 
 > BEGIN STRING

@@ -24,7 +24,7 @@ Holy Chamber
 > CONTEXT: Map169/display_name/ < UNTRANSLATED
 > CONTEXT: Map060/display_name/ < UNTRANSLATED
 > CONTEXT: Commonevents/69/43/Choice/1 < UNTRANSLATED
-Holy Chamber
+Święta Komnata
 > END STRING
 
 > BEGIN STRING

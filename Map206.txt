@@ -5,8 +5,8 @@ Magaleta
  all the struggle...)
 > CONTEXT: Map206/events/1/pages/0/2/Dialogue < UNTRANSLATED
 Magaleta
-(She finally fell asleep after
- all the struggle...)
+(W końcu zasnęła po tych
+ wszystkich trudach...)
 > END STRING
 
 > BEGIN STRING
