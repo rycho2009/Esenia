@@ -778,9 +778,9 @@ Holy Priest
  herself treating Senia like her real sister."
 > CONTEXT: Map016/events/25/pages/0/22/Dialogue < UNTRANSLATED
 Holy Priest
-"Deep in her heart she knows Senia is not
- a replacement of Nia. But she cannot stop
- herself treating Senia like her real sister."
+"Głęboko w sercu wiedziała, że Senia
+ nie zastąpi jej Nii. Ale nie mogła przestać
+ trakotować Senii jak swojej prawdziwej siostry."
 > END STRING
 
 > BEGIN STRING
@@ -789,8 +789,8 @@ Holy Priest
  That Magaleta herself is the one that needed salvation."
 > CONTEXT: Map016/events/25/pages/0/27/Dialogue < UNTRANSLATED
 Holy Priest
-"Magaleta wanted to cure Senia so bad, she did not realize...
- That Magaleta herself is the one that needed salvation."
+"Magaleta chciała uzdrowić Senia tak bardzo, że nie zdała sobie
+ sprawy, że... To ona sama potrzebuje zbawienia."
 > END STRING
 
 > BEGIN STRING
