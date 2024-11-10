@@ -5,7 +5,10 @@ Little Fairy
  Looks useful!
  I will show Senia asap!"
 > CONTEXT: Map036/events/2/pages/0/10/Dialogue < UNTRANSLATED
-
+Mała Wróżka
+"Co to takiego?
+ Wygląda na przydatne!
+ Muszę to jak najszybciej pokazać Senii!"
 > END STRING
 
 > BEGIN STRING
@@ -13,5 +16,7 @@ Little Fairy
 "I cannot just return emtpy handed.
  There must be something to grab!"
 > CONTEXT: Map036/events/3/pages/0/0/Dialogue < UNTRANSLATED
-
+Mała Wróżka
+"Nie mogę wrócić z pustymi rękami!
+ Musi tu być coś wartego uwagi..."
 > END STRING

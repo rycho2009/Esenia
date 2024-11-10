@@ -3,14 +3,16 @@
 Senia
 "This place again..."
 > CONTEXT: Map014/events/11/pages/0/0/Dialogue < UNTRANSLATED
-
+Senia
+"This place again..."
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "This is the linking area between levels!"
 > CONTEXT: Map014/events/11/pages/0/3/Dialogue < UNTRANSLATED
-
+Little Fairy
+"This is the linking area between levels!"
 > END STRING
 
 > BEGIN STRING
@@ -18,7 +20,9 @@ Little Fairy
 "Simply put: just walk pass this area and
  you will be in the upper level!"
 > CONTEXT: Map014/events/11/pages/0/6/Dialogue < UNTRANSLATED
-
+Little Fairy
+"Simply put: just walk pass this area and
+ you will be in the upper level!"
 > END STRING
 
 > BEGIN STRING
@@ -26,7 +30,9 @@ Senia
 (Demon Frontier... I hope sis is
  alright.)
 > CONTEXT: Map014/events/11/pages/0/13/Dialogue < UNTRANSLATED
-
+Senia
+(Demon Frontier... I hope sis is
+ alright.)
 > END STRING
 
 > BEGIN STRING
@@ -34,7 +40,9 @@ Senia
 (I wonder if we will finally
  meet up there?)
 > CONTEXT: Map014/events/11/pages/0/17/Dialogue < UNTRANSLATED
-
+Senia
+(I wonder if we will finally
+ meet up there?)
 > END STRING
 
 > BEGIN STRING
