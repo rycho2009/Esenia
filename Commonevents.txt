@@ -809,19 +809,19 @@
 > BEGIN STRING
 "Acquired \\\\I[227]Page of Critical I"
 > CONTEXT: Commonevents/40/87/InlineScript/1:9
-"Otrzymano \\\\I[227]Stronę Kryta I"
+"Otrzymano \\\\I[227]Stronę Uderzeń Kryt. I"
 > END STRING
 
 > BEGIN STRING
 "Acquired \\\\I[227]Page of Critical II"
 > CONTEXT: Commonevents/40/93/InlineScript/1:9
-"Otrzymano \\\\I[227]Stronę Kryta II"
+"Otrzymano \\\\I[227]Stronę Uderzeń Kryt. II"
 > END STRING
 
 > BEGIN STRING
 "Acquired \\\\I[227]Page of Critical III"
 > CONTEXT: Commonevents/40/99/InlineScript/1:9
-"Otrzymano \\\\I[227]Stronę Kryta III"
+"Otrzymano \\\\I[227]Stronę Uderzeń Kryt. III"
 > END STRING
 
 > BEGIN STRING

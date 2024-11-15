@@ -3,5 +3,5 @@
 EternalSenia v1.66
 > CONTEXT: GameINI/Title < UNTRANSLATED
 > CONTEXT: System/game_title/ < UNTRANSLATED
-
+EternalSenia v1.66 PL by FRTranslate
 > END STRING

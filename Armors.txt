@@ -171,105 +171,105 @@ Sanctum Glove
 EX Sanctum Glove
 > CONTEXT: Armors/28/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/28/name/ < UNTRANSLATED
-
+EX Sanctum Glove
 > END STRING
 
 > BEGIN STRING
 Elite Sanctum Glove
 > CONTEXT: Armors/29/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/29/name/ < UNTRANSLATED
-
+Elite Sanctum Glove
 > END STRING
 
 > BEGIN STRING
 Virtue Glove
 > CONTEXT: Armors/30/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/30/name/ < UNTRANSLATED
-
+Virtue Glove
 > END STRING
 
 > BEGIN STRING
 Fairy Cape
 > CONTEXT: Armors/34/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/34/name/ < UNTRANSLATED
-
+Czapka Wróżek
 > END STRING
 
 > BEGIN STRING
 EX Fairy Cape
 > CONTEXT: Armors/35/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/35/name/ < UNTRANSLATED
-
+Ul. Czapka Wróżek
 > END STRING
 
 > BEGIN STRING
 Elite Fairy Cape
 > CONTEXT: Armors/36/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/36/name/ < UNTRANSLATED
-
+Elite Fairy Cape
 > END STRING
 
 > BEGIN STRING
 King Fairy Cape
 > CONTEXT: Armors/37/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/37/name/ < UNTRANSLATED
-
+King Fairy Cape
 > END STRING
 
 > BEGIN STRING
 Ghost Cape
 > CONTEXT: Armors/38/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/38/name/ < UNTRANSLATED
-
+Ghost Cape
 > END STRING
 
 > BEGIN STRING
 EX Ghost Cape
 > CONTEXT: Armors/39/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/39/name/ < UNTRANSLATED
-
+EX Ghost Cape
 > END STRING
 
 > BEGIN STRING
 Elite Ghost Cape
 > CONTEXT: Armors/40/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/40/name/ < UNTRANSLATED
-
+Elite Ghost Cape
 > END STRING
 
 > BEGIN STRING
 Demon Lord Cape
 > CONTEXT: Armors/41/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/41/name/ < UNTRANSLATED
-
+Demon Lord Cape
 > END STRING
 
 > BEGIN STRING
 Sanctum Cape
 > CONTEXT: Armors/42/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/42/name/ < UNTRANSLATED
-
+Sanctum Cape
 > END STRING
 
 > BEGIN STRING
 EX Sanctum Cape
 > CONTEXT: Armors/43/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/43/name/ < UNTRANSLATED
-
+EX Sanctum Cape
 > END STRING
 
 > BEGIN STRING
 Elite Sanctum Cape
 > CONTEXT: Armors/44/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/44/name/ < UNTRANSLATED
-
+Elite Sanctum Cape
 > END STRING
 
 > BEGIN STRING
 Cherub Cape
 > CONTEXT: Armors/45/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/45/name/ < UNTRANSLATED
-
+Cherub Cape
 > END STRING
 
 > BEGIN STRING
@@ -350,7 +350,7 @@ MP + 50
 Healing Ribbon
 > CONTEXT: Armors/51/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/51/name/ < UNTRANSLATED
-
+Lecząca Wstążka
 > END STRING
 
 > BEGIN STRING
@@ -378,7 +378,7 @@ MP regeneruje się dwa razy szybciej.
 Master Badge
 > CONTEXT: Armors/53/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/53/name/ < UNTRANSLATED
-
+Master Badge
 > END STRING
 
 > BEGIN STRING
