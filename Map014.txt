@@ -50,7 +50,9 @@ Senia
 (There must be a lot of demons
  in Demon Frontier...)
 > CONTEXT: Map014/events/11/pages/0/21/Dialogue < UNTRANSLATED
-
+Senia
+(There must be a lot of demons
+ in Demon Frontier...)
 > END STRING
 
 > BEGIN STRING
@@ -58,28 +60,33 @@ Senia
 (So scary... it is terrifying just to
  think of it.)
 > CONTEXT: Map014/events/11/pages/0/30/Dialogue < UNTRANSLATED
-
+Senia
+(So scary... it is terrifying just to
+ think of it.)
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "Senia? Are you ok? Why are you shivering?"
 > CONTEXT: Map014/events/11/pages/0/34/Dialogue < UNTRANSLATED
-
+Little Fairy
+"Senia? Are you ok? Why are you shivering?"
 > END STRING
 
 > BEGIN STRING
 Little Fairy
 "Are you cold?"
 > CONTEXT: Map014/events/11/pages/0/40/Dialogue < UNTRANSLATED
-
+Mała Wróżka
+"Zimno Ci?"
 > END STRING
 
 > BEGIN STRING
 Senia
 "Huh? Well.. yeah... kind of..."
 > CONTEXT: Map014/events/11/pages/0/43/Dialogue < UNTRANSLATED
-
+Senia
+"Huh? Well.. yeah... kind of..."
 > END STRING
 
 > BEGIN STRING
@@ -87,14 +94,17 @@ Little Fairy
 "It does not look like we will find
  anything to warm you up here..."
 > CONTEXT: Map014/events/11/pages/0/46/Dialogue < UNTRANSLATED
-
+Little Fairy
+"It does not look like we will find
+ anything to warm you up here..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "I guess..."
 > CONTEXT: Map014/events/11/pages/0/50/Dialogue < UNTRANSLATED
-
+Senia
+"I guess..."
 > END STRING
 
 > BEGIN STRING
@@ -102,7 +112,9 @@ Little Fairy
 "Let's just march forward and see
 what can we find?"
 > CONTEXT: Map014/events/11/pages/0/53/Dialogue < UNTRANSLATED
-
+Little Fairy
+"Let's just march forward and see
+what can we find?"
 > END STRING
 
 > BEGIN STRING
@@ -110,5 +122,7 @@ Senia
 (I am not as confident as I acted
  like...)
 > CONTEXT: Map014/events/11/pages/0/60/Dialogue < UNTRANSLATED
-
+Senia
+(I am not as confident as I acted
+ like...)
 > END STRING

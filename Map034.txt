@@ -3,13 +3,13 @@
 Castle Lobby
 > CONTEXT: Map034/display_name/ < UNTRANSLATED
 > CONTEXT: Commonevents/75/14/Choice/2 < UNTRANSLATED
-
+Map034.txt
 > END STRING
 
 > BEGIN STRING
 Demon Frontier - Lobby waypoint activated.
 > CONTEXT: Map034/events/12/pages/0/2/Dialogue < UNTRANSLATED
-
+Demon Frontier - Lobby waypoint activated.
 > END STRING
 
 > BEGIN STRING
