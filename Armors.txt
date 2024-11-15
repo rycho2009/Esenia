@@ -52,119 +52,119 @@ Król. Zbroja Wróżek
 Demon Armor
 > CONTEXT: Armors/8/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/8/name/ < UNTRANSLATED
-
+Demon Armor
 > END STRING
 
 > BEGIN STRING
 EX Demon Armor
 > CONTEXT: Armors/9/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/9/name/ < UNTRANSLATED
-
+EX Demon Armor
 > END STRING
 
 > BEGIN STRING
 Elite Demon Armor
 > CONTEXT: Armors/10/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/10/name/ < UNTRANSLATED
-
+Elite Demon Armor
 > END STRING
 
 > BEGIN STRING
 Demon Lord Armor
 > CONTEXT: Armors/11/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/11/name/ < UNTRANSLATED
-
+Demon Lord Armor
 > END STRING
 
 > BEGIN STRING
 Sanctum Armor
 > CONTEXT: Armors/12/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/12/name/ < UNTRANSLATED
-
+Sanctum Armor
 > END STRING
 
 > BEGIN STRING
 EX Sanctum Armor
 > CONTEXT: Armors/13/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/13/name/ < UNTRANSLATED
-
+EX Sanctum Armor
 > END STRING
 
 > BEGIN STRING
 Elite Sanctum Armor
 > CONTEXT: Armors/14/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/14/name/ < UNTRANSLATED
-
+Elite Sanctum Armor
 > END STRING
 
 > BEGIN STRING
 Seraph Armor
 > CONTEXT: Armors/15/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/15/name/ < UNTRANSLATED
-
+Seraph Armor
 > END STRING
 
 > BEGIN STRING
 Fairy Glove
 > CONTEXT: Armors/19/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/19/name/ < UNTRANSLATED
-
+Fairy Glove
 > END STRING
 
 > BEGIN STRING
 EX Fairy Glove
 > CONTEXT: Armors/20/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/20/name/ < UNTRANSLATED
-
+EX Fairy Glove
 > END STRING
 
 > BEGIN STRING
 Elite Fairy Glove
 > CONTEXT: Armors/21/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/21/name/ < UNTRANSLATED
-
+Elite Fairy Glove
 > END STRING
 
 > BEGIN STRING
 King Fairy Glove
 > CONTEXT: Armors/22/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/22/name/ < UNTRANSLATED
-
+King Fairy Glove
 > END STRING
 
 > BEGIN STRING
 Bone Glove
 > CONTEXT: Armors/23/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/23/name/ < UNTRANSLATED
-
+Bone Glove
 > END STRING
 
 > BEGIN STRING
 EX Bone Glove
 > CONTEXT: Armors/24/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/24/name/ < UNTRANSLATED
-
+EX Bone Glove
 > END STRING
 
 > BEGIN STRING
 Elite Bone Glove
 > CONTEXT: Armors/25/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/25/name/ < UNTRANSLATED
-
+Elite Bone Glove
 > END STRING
 
 > BEGIN STRING
 Demon Lord Glove
 > CONTEXT: Armors/26/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/26/name/ < UNTRANSLATED
-
+Demon Lord Glove
 > END STRING
 
 > BEGIN STRING
 Sanctum Glove
 > CONTEXT: Armors/27/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/27/name/ < UNTRANSLATED
-
+Sanctum Glove
 > END STRING
 
 > BEGIN STRING
@@ -320,7 +320,7 @@ HP + 50
 Magic Bracelet
 > CONTEXT: Armors/49/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/49/name/ < UNTRANSLATED
-
+Magiczna Bransoleta
 > END STRING
 
 > BEGIN STRING
@@ -335,7 +335,7 @@ MP + 20
 Magic Badge
 > CONTEXT: Armors/50/name/ < UNTRANSLATED
 > CONTEXT: Armorspl/50/name/ < UNTRANSLATED
-
+Magic Badge
 > END STRING
 
 > BEGIN STRING
