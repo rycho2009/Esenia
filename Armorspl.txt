@@ -2,5 +2,5 @@
 > BEGIN STRING
 Fioletowa kryształowa Zbroja
 > CONTEXT: Armorspl/55/name/ < UNTRANSLATED
-
+Fioletowa Kryształowa Zbroja
 > END STRING

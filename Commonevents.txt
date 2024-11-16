@@ -156,7 +156,7 @@
 > BEGIN STRING
 'Fairy Queen Malphiq'
 > CONTEXT: Commonevents/10/122/InlineScript/1:9 < UNTRANSLATED
-
+'Fairy Queen Malphiq'
 > END STRING
 
 > BEGIN STRING
@@ -174,49 +174,49 @@
 > BEGIN STRING
 'Arcane Evil Flower'
 > CONTEXT: Commonevents/10/153/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Evil Flower'
 > END STRING
 
 > BEGIN STRING
 'Arcane Spider'
 > CONTEXT: Commonevents/10/161/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Spider'
 > END STRING
 
 > BEGIN STRING
 'Arcane Mutant Bee'
 > CONTEXT: Commonevents/10/169/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Mutant Bee'
 > END STRING
 
 > BEGIN STRING
 'Arcane Timberwolf'
 > CONTEXT: Commonevents/10/177/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Timberwolf'
 > END STRING
 
 > BEGIN STRING
 'Arcane Elf'
 > CONTEXT: Commonevents/10/185/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Elf'
 > END STRING
 
 > BEGIN STRING
 'Arcane Mushroom'
 > CONTEXT: Commonevents/10/193/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Mushroom'
 > END STRING
 
 > BEGIN STRING
 'Arcane Snake'
 > CONTEXT: Commonevents/10/201/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Snake'
 > END STRING
 
 > BEGIN STRING
 'Arcane Green Dragon'
 > CONTEXT: Commonevents/10/209/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Green Dragon'
 > END STRING
 
 > BEGIN STRING
@@ -236,13 +236,13 @@
 > BEGIN STRING
 'Medusa'
 > CONTEXT: Commonevents/10/241/InlineScript/1:9 < UNTRANSLATED
-
+'Medusa'
 > END STRING
 
 > BEGIN STRING
 'Skeleton Soldier'
 > CONTEXT: Commonevents/10/250/InlineScript/1:9 < UNTRANSLATED
-
+'Skeleton Soldier'
 > END STRING
 
 > BEGIN STRING
@@ -266,7 +266,7 @@
 > BEGIN STRING
 'Chimera'
 > CONTEXT: Commonevents/10/282/InlineScript/1:9 < UNTRANSLATED
-
+'Chimera'
 > END STRING
 
 > BEGIN STRING
@@ -297,37 +297,37 @@
 > BEGIN STRING
 'Abyss Skeleton Soldier'
 > CONTEXT: Commonevents/10/323/InlineScript/1:9 < UNTRANSLATED
-
+'Abyss Skeleton Soldier'
 > END STRING
 
 > BEGIN STRING
 'Abyss Scopio'
 > CONTEXT: Commonevents/10/331/InlineScript/1:9 < UNTRANSLATED
-
+'Abyss Scopio'
 > END STRING
 
 > BEGIN STRING
 'Winged Abyss Demon'
 > CONTEXT: Commonevents/10/339/InlineScript/1:9 < UNTRANSLATED
-
+'Winged Abyss Demon'
 > END STRING
 
 > BEGIN STRING
 'Abyss Merman'
 > CONTEXT: Commonevents/10/347/InlineScript/1:9 < UNTRANSLATED
-
+'Abyss Merman'
 > END STRING
 
 > BEGIN STRING
 'Abyss Spell Caster'
 > CONTEXT: Commonevents/10/355/InlineScript/1:9 < UNTRANSLATED
-
+'Abyss Spell Caster'
 > END STRING
 
 > BEGIN STRING
 'Abyss Ghost'
 > CONTEXT: Commonevents/10/363/InlineScript/1:9 < UNTRANSLATED
-
+'Abyss Ghost'
 > END STRING
 
 > BEGIN STRING
@@ -339,13 +339,13 @@
 > BEGIN STRING
 'Abyss Sickle Ghost'
 > CONTEXT: Commonevents/10/379/InlineScript/1:9 < UNTRANSLATED
-
+'Abyss Sickle Ghost'
 > END STRING
 
 > BEGIN STRING
 'Abyss Evil God'
 > CONTEXT: Commonevents/10/387/InlineScript/1:9 < UNTRANSLATED
-
+'Abyss Evil God'
 > END STRING
 
 > BEGIN STRING
@@ -357,115 +357,115 @@
 > BEGIN STRING
 'Hell Scorpio'
 > CONTEXT: Commonevents/10/403/InlineScript/1:9 < UNTRANSLATED
-
+'Hell Scorpio'
 > END STRING
 
 > BEGIN STRING
 'Succubus'
 > CONTEXT: Commonevents/10/411/InlineScript/1:9 < UNTRANSLATED
-
+'   Sukub'
 > END STRING
 
 > BEGIN STRING
 'Merman'
 > CONTEXT: Commonevents/10/419/InlineScript/1:9 < UNTRANSLATED
-
+'Merman'
 > END STRING
 
 > BEGIN STRING
 'Sickle Ghost'
 > CONTEXT: Commonevents/10/427/InlineScript/1:9 < UNTRANSLATED
-
+'Sickle Ghost'
 > END STRING
 
 > BEGIN STRING
 'Vampire'
 > CONTEXT: Commonevents/10/435/InlineScript/1:9 < UNTRANSLATED
-
+' Wampir'
 > END STRING
 
 > BEGIN STRING
 'Demon Lord'
 > CONTEXT: Commonevents/10/443/InlineScript/1:9 < UNTRANSLATED
-
+'Demon Lord'
 > END STRING
 
 > BEGIN STRING
 'Gargoyle'
 > CONTEXT: Commonevents/10/455/InlineScript/1:9 < UNTRANSLATED
-
+'Gargulec'
 > END STRING
 
 > BEGIN STRING
 'Angel Intern'
 > CONTEXT: Commonevents/10/464/InlineScript/1:9 < UNTRANSLATED
-
+'Angel Intern'
 > END STRING
 
 > BEGIN STRING
 'Nun'
 > CONTEXT: Commonevents/10/472/InlineScript/1:9 < UNTRANSLATED
-
+'Nun'
 > END STRING
 
 > BEGIN STRING
 'Sanctum Guard'
 > CONTEXT: Commonevents/10/480/InlineScript/1:9 < UNTRANSLATED
-
+'Sanctum Guard'
 > END STRING
 
 > BEGIN STRING
 'Dark Angel'
 > CONTEXT: Commonevents/10/488/InlineScript/1:9 < UNTRANSLATED
-
+'Dark Angel'
 > END STRING
 
 > BEGIN STRING
 'Seraph'
 > CONTEXT: Commonevents/10/496/InlineScript/1:9 < UNTRANSLATED
-
+'Seraph'
 > END STRING
 
 > BEGIN STRING
 'Sanctum Knight'
 > CONTEXT: Commonevents/10/504/InlineScript/1:9 < UNTRANSLATED
-
+'Sanctum Knight'
 > END STRING
 
 > BEGIN STRING
 'Fallen Angel'
 > CONTEXT: Commonevents/10/512/InlineScript/1:9 < UNTRANSLATED
-
+'Fallen Angel'
 > END STRING
 
 > BEGIN STRING
 'Cherub'
 > CONTEXT: Commonevents/10/520/InlineScript/1:9 < UNTRANSLATED
-
+'Cherub'
 > END STRING
 
 > BEGIN STRING
 'Arcane Angel Intern'
 > CONTEXT: Commonevents/10/528/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Angel Intern'
 > END STRING
 
 > BEGIN STRING
 'Arcane Sanctum Guard'
 > CONTEXT: Commonevents/10/536/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Sanctum Guard'
 > END STRING
 
 > BEGIN STRING
 'Arcane Seraph'
 > CONTEXT: Commonevents/10/544/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Seraph'
 > END STRING
 
 > BEGIN STRING
 'Arcane Fallen Angel'
 > CONTEXT: Commonevents/10/552/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Fallen Angel'
 > END STRING
 
 > BEGIN STRING
