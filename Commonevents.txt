@@ -539,55 +539,55 @@
 > BEGIN STRING
 'King Evil Flower'
 > CONTEXT: Commonevents/10/717/InlineScript/1:9 < UNTRANSLATED
-
+'King Evil Flower'
 > END STRING
 
 > BEGIN STRING
 'King Mushroom'
 > CONTEXT: Commonevents/10/725/InlineScript/1:9 < UNTRANSLATED
-
+'King Mushroom'
 > END STRING
 
 > BEGIN STRING
 'King Snake'
 > CONTEXT: Commonevents/10/733/InlineScript/1:9 < UNTRANSLATED
-
+'King Snake'
 > END STRING
 
 > BEGIN STRING
 'King Green Dragon'
 > CONTEXT: Commonevents/10/741/InlineScript/1:9 < UNTRANSLATED
-
+'King Green Dragon'
 > END STRING
 
 > BEGIN STRING
 'Elite Spell Caster'
 > CONTEXT: Commonevents/10/749/InlineScript/1:9 < UNTRANSLATED
-
+'Elite Spell Caster'
 > END STRING
 
 > BEGIN STRING
 'Winged Demon King'
 > CONTEXT: Commonevents/10/757/InlineScript/1:9 < UNTRANSLATED
-
+'Winged Demon King'
 > END STRING
 
 > BEGIN STRING
 'King Succubus'
 > CONTEXT: Commonevents/10/765/InlineScript/1:9 < UNTRANSLATED
-
+'King Succubus'
 > END STRING
 
 > BEGIN STRING
 'Sickle Ghost King'
 > CONTEXT: Commonevents/10/773/InlineScript/1:9 < UNTRANSLATED
-
+'Sickle Ghost King'
 > END STRING
 
 > BEGIN STRING
 'Dark Angel King'
 > CONTEXT: Commonevents/10/789/InlineScript/1:9 < UNTRANSLATED
-
+'Dark Angel King'
 > END STRING
 
 > BEGIN STRING
