@@ -285,7 +285,7 @@
 > BEGIN STRING
 'Evil God'
 > CONTEXT: Commonevents/10/306/InlineScript/1:9 < UNTRANSLATED
-
+'Evil God'
 > END STRING
 
 > BEGIN STRING
@@ -471,44 +471,44 @@
 > BEGIN STRING
 'Arcane Nun'
 > CONTEXT: Commonevents/10/560/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Nun'
 > END STRING
 
 > BEGIN STRING
 'Arcane Dark Angel'
 > CONTEXT: Commonevents/10/568/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Dark Angel'
 > END STRING
 
 > BEGIN STRING
 'Arcane Sanctum Knight'
 > CONTEXT: Commonevents/10/576/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Sanctum Knight'
 > END STRING
 
 > BEGIN STRING
 'Arcane Cherub'
 > CONTEXT: Commonevents/10/584/InlineScript/1:9 < UNTRANSLATED
-
+'Arcane Cherub'
 > END STRING
 
 > BEGIN STRING
 'High Sanctum Nun'
 > CONTEXT: Commonevents/10/592/InlineScript/1:9 < UNTRANSLATED
 > CONTEXT: Commonevents/10/781/InlineScript/1:9 < UNTRANSLATED
-
+'High Sanctum Nun'
 > END STRING
 
 > BEGIN STRING
 'Angel Barrier'
 > CONTEXT: Commonevents/10/600/InlineScript/1:9 < UNTRANSLATED
-
+'Angel Barrier'
 > END STRING
 
 > BEGIN STRING
 'Michael'
 > CONTEXT: Commonevents/10/612/InlineScript/1:9 < UNTRANSLATED
-
+'Michael'
 > END STRING
 
 > BEGIN STRING
@@ -520,7 +520,7 @@
 > BEGIN STRING
 'Eternal Magaleta'
 > CONTEXT: Commonevents/10/632/InlineScript/1:9 < UNTRANSLATED
-
+'Eternal Magaleta'
 > END STRING
 
 > BEGIN STRING
@@ -593,7 +593,7 @@
 > BEGIN STRING
 'Elite Sanctum Knight'
 > CONTEXT: Commonevents/10/797/InlineScript/1:9 < UNTRANSLATED
-
+'Elite Sanctum Knight'
 > END STRING
 
 > BEGIN STRING
@@ -749,7 +749,7 @@
 > BEGIN STRING
 "\\\\I[358]Legendary Fairy Stone "
 > CONTEXT: Commonevents/40/27/InlineScript/1:9 < UNTRANSLATED
-
+"\\\\I[358]Legendary Fairy Stone "
 > END STRING
 
 > BEGIN STRING
@@ -779,13 +779,13 @@
 > BEGIN STRING
 "\\\\I[358]Legendary Demon Stone "
 > CONTEXT: Commonevents/40/57/InlineScript/1:9 < UNTRANSLATED
-
+"\\\\I[358]Legendary Demon Stone "
 > END STRING
 
 > BEGIN STRING
 "\\\\I[358]Legendary Sanctum Stone"
 > CONTEXT: Commonevents/40/63/InlineScript/1:9 < UNTRANSLATED
-
+"\\\\I[358]Legendary Sanctum Stone"
 > END STRING
 
 > BEGIN STRING
@@ -840,13 +840,13 @@
 "Skill cooling down."
 > CONTEXT: Commonevents/44/32/InlineScript/1:9 < UNTRANSLATED
 > CONTEXT: Commonevents/107/47/InlineScript/1:9 < UNTRANSLATED
-
+"Skill cooling down."
 > END STRING
 
 > BEGIN STRING
 "Skill is activating."
 > CONTEXT: Commonevents/44/39/InlineScript/1:9 < UNTRANSLATED
-
+"Skill is activating."
 > END STRING
 
 > BEGIN STRING
@@ -877,14 +877,16 @@
 Hints for code to enter Bonus Room
 Will be given after Ending \#3 is reached.
 > CONTEXT: Commonevents/61/0/Dialogue < UNTRANSLATED
-
+Hints for code to enter Bonus Room
+Will be given after Ending \#3 is reached.
 > END STRING
 
 > BEGIN STRING
 It is recommended to keep a save file
 before entering the Bonus Room.
 > CONTEXT: Commonevents/61/5/Dialogue < UNTRANSLATED
-
+It is recommended to keep a save file
+before entering the Bonus Room.
 > END STRING
 
 > BEGIN STRING
@@ -931,7 +933,7 @@ Szybka podróż
 Bonus Room.
 > CONTEXT: Commonevents/69/9/Choice/2 < UNTRANSLATED
 > CONTEXT: Commonevents/75/9/Choice/2 < UNTRANSLATED
-
+Bonus Room.
 > END STRING
 
 > BEGIN STRING
