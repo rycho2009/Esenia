@@ -38,7 +38,7 @@ Holy Priest
 > BEGIN STRING
 Berserk King Slime
 > CONTEXT: Map021/events/3/pages/0/1/Dialogue < UNTRANSLATED
-
+Berserk King Slime
 > END STRING
 
 > BEGIN STRING
@@ -76,13 +76,13 @@ Holy Priest
 "A challenging but not impossible first boss."
 > CONTEXT: Map021/events/3/pages/0/15/Dialogue < UNTRANSLATED
 Holy Priest
-"A challenging but not impossible first boss."
+"Wymagający, lecz nie niemożliwy pierwszy boss."
 > END STRING
 
 > BEGIN STRING
 Griffin
 > CONTEXT: Map021/events/7/pages/0/1/Dialogue < UNTRANSLATED
-
+Griffin
 > END STRING
 
 > BEGIN STRING

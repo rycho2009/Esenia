@@ -14,6 +14,7 @@ Map025.txt(save przed bossem)
 Map026.txt
 Map033.txt
 Map035.txt
+Map036.txt
 Map039.txt
 Map041.txt
 Map042.txt
@@ -48,7 +49,14 @@ Map156.txt
 Map158.txt
 Map160.txt(speedrun?)
 Map176.txt(rubin)
-Map221.txt
+Map218.txt(agat)
+Map219.txt(Topaz)
+Map221.txt(Jadelit)
+Map224.txt(pomoc przy umeszczaniu kryształów)
+Map228.txt
+Map229.txt
+Map230.txt(diament)
+Map231.txt(amestyt;swieta komnata)
 
 <h1>TRANSLATED:</h1>
 Actors.txt
@@ -73,7 +81,6 @@ Map021.txt
 Map023.txt(lekka poprawa)
 Map024.txt
 Map034.txt
-Map036.txt
 Map040.txt
 Map043.txt
 Map047.txt
@@ -124,31 +131,17 @@ Map203.txt
 Map204.txt
 Map205.txt
 Map206.txt
-Map206.txt
 Map207.txt
 Map210.txt
 Map212.txt
-Map212.txt
 Map217.txt
-Map218.txt
-Map219.txt
-Map221.txt
-Map224.txt
 Map225.txt
-Map228.txt
-Map229.txt
-Map229.txt
-Map230.txt
-Map230.txt
-Map231.txt
-Map231.txt
 Map232.txt
 Map233.txt
 Map234.txt
 Map238.txt
 Map239.txt
 Map244.txt
-Map247.txt
 Map247.txt
 Map248.txt
 Scripts.txt

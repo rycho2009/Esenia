@@ -29,7 +29,7 @@ Kraina Magii
 > BEGIN STRING
 Acquired \\I[166]Magic Bracelet
 > CONTEXT: Map141/events/1/pages/0/12/Dialogue
-Otrzymano \\I[166]Magic Bracelet
+Otrzymano \\I[166]Magiczną Bransoletę
 > END STRING
 
 > BEGIN STRING

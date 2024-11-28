@@ -20,7 +20,9 @@ Senia
 "Sis! What are you doing?
  Open the door!!"
 > CONTEXT: Map143/events/8/pages/0/9/Dialogue < UNTRANSLATED
-
+Senia
+"Sis! What are you doing?
+ Open the door!!"
 > END STRING
 
 > BEGIN STRING
@@ -28,7 +30,8 @@ Senia
 "Sis Magaleta!!"
 > CONTEXT: Map143/events/8/pages/0/13/Dialogue < UNTRANSLATED
 > CONTEXT: Map138/events/3/pages/0/564/Dialogue < UNTRANSLATED
-
+Senia
+"Sis Magaleta!!"
 > END STRING
 
 > BEGIN STRING
@@ -37,7 +40,8 @@ Senia
 > CONTEXT: Map143/events/8/pages/0/43/Dialogue < UNTRANSLATED
 > CONTEXT: Map051/events/10/pages/0/33/Dialogue < UNTRANSLATED
 > CONTEXT: Map051/events/10/pages/0/78/Dialogue < UNTRANSLATED
-
+Senia
+"Sob* Sob*"
 > END STRING
 
 > BEGIN STRING
@@ -64,28 +68,32 @@ Senia
 Senia
 "Why are you apologizing..."
 > CONTEXT: Map143/events/8/pages/0/68/Dialogue < UNTRANSLATED
-
+Senia
+"Why are you apologizing..."
 > END STRING
 
 > BEGIN STRING
 Magaleta
 "It seems like we cannot go back to our church together..."
 > CONTEXT: Map143/events/8/pages/0/71/Dialogue < UNTRANSLATED
-
+Magaleta
+"It seems like we cannot go back to our church together..."
 > END STRING
 
 > BEGIN STRING
 Senia
 "There must be some other way! Don't give up now!"
 > CONTEXT: Map143/events/8/pages/0/77/Dialogue < UNTRANSLATED
-
+Senia
+"There must be some other way! Don't give up now!"
 > END STRING
 
 > BEGIN STRING
 Senia
 "No... stop saying sorry. Come back to me, sis!"
 > CONTEXT: Map143/events/8/pages/0/83/Dialogue < UNTRANSLATED
-
+Senia
+"No... stop saying sorry. Come back to me, sis!"
 > END STRING
 
 > BEGIN STRING
@@ -101,7 +109,9 @@ Senia
 "No! NO! Just open the door first,
  I will listen to whatever you want to say later."
 > CONTEXT: Map143/events/8/pages/0/89/Dialogue < UNTRANSLATED
-
+Senia
+"No! NO! Just open the door first,
+ I will listen to whatever you want to say later."
 > END STRING
 
 > BEGIN STRING
@@ -109,14 +119,17 @@ Magaleta
 "Senia, you've grown stronger.
  Both physically and mentally."
 > CONTEXT: Map143/events/8/pages/0/93/Dialogue < UNTRANSLATED
-
+Magaleta
+"Senia, you've grown stronger.
+ Both physically and mentally."
 > END STRING
 
 > BEGIN STRING
 Senia
 "I am not strong, not at all..."
 > CONTEXT: Map143/events/8/pages/0/97/Dialogue < UNTRANSLATED
-
+Senia
+"I am not strong, not at all..."
 > END STRING
 
 > BEGIN STRING
@@ -125,7 +138,10 @@ Magaleta
  You are no longer the little girl
  that needs my protection."
 > CONTEXT: Map143/events/8/pages/0/100/Dialogue < UNTRANSLATED
-
+Magaleta
+"You have grown up...
+ You are no longer the little girl
+ that needs my protection."
 > END STRING
 
 > BEGIN STRING
@@ -140,7 +156,8 @@ Senia
 Senia
 "I would not have made this far without sis!"
 > CONTEXT: Map143/events/8/pages/0/108/Dialogue < UNTRANSLATED
-
+Senia
+"I would not have made this far without sis!"
 > END STRING
 
 > BEGIN STRING
@@ -148,7 +165,9 @@ Senia
 "So... please... stay with me...
 Do not leave me alone, ever again..."
 > CONTEXT: Map143/events/8/pages/0/111/Dialogue < UNTRANSLATED
-
+Senia
+"So... please... stay with me...
+Do not leave me alone, ever again..."
 > END STRING
 
 > BEGIN STRING
