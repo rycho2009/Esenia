@@ -206,7 +206,7 @@ Senia has been sleeping ever since.
 > BEGIN STRING
 Fortunately, the cross pendant worked.
 > CONTEXT: Map206/events/1/pages/0/110/Dialogue < UNTRANSLATED
-Fortunately, the cross pendant worked.
+Na szczęście, naszyjnik z krzyżem zadziałał.
 > END STRING
 
 > BEGIN STRING
