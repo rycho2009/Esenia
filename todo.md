@@ -62,6 +62,9 @@ Map231.txt(amestyt;swieta komnata)
 Actors.txt
 Enemies.txt
 Map055.txt(crafting)
+Map247.txt(postgame - o magalecie)
+
+
 
 <h1>TODO:</h1>
 Armors.txt
@@ -142,7 +145,6 @@ Map234.txt
 Map238.txt
 Map239.txt
 Map244.txt
-Map247.txt
 Map248.txt
 Scripts.txt
 Skills.txt
