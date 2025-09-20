@@ -95,7 +95,7 @@ Magaleta
 "It's ok, Nia!"
 > CONTEXT: Map206/events/1/pages/0/59/Dialogue < UNTRANSLATED
 Magaleta
-"It's ok, Nia!"
+"Już w porządku, Nia!"
 > END STRING
 
 > BEGIN STRING
@@ -103,7 +103,7 @@ Magaleta
 "Sis is right here!"
 > CONTEXT: Map206/events/1/pages/0/62/Dialogue < UNTRANSLATED
 Magaleta
-"Sis is right here!"
+"Siostrzyczka jest tuż obok!"
 > END STRING
 
 > BEGIN STRING
@@ -111,7 +111,7 @@ Senia
 "No!! Get away from me!"
 > CONTEXT: Map206/events/1/pages/0/65/Dialogue < UNTRANSLATED
 Senia
-"No!! Get away from me!"
+"Nie!! Zostaw mnie!"
 > END STRING
 
 > BEGIN STRING
@@ -119,7 +119,7 @@ Magaleta
 (It looks like she cannot hear me at all.)
 > CONTEXT: Map206/events/1/pages/0/68/Dialogue < UNTRANSLATED
 Magaleta
-(It looks like she cannot hear me at all.)
+(Wygląda na to, że zupełnie mnie nie słyszy.)
 > END STRING
 
 > BEGIN STRING
@@ -129,9 +129,9 @@ Magaleta
  Her curse resistance is way below average...)
 > CONTEXT: Map206/events/1/pages/0/71/Dialogue < UNTRANSLATED
 Magaleta
-(I did not expect Senia to have
- such low resistance to curses.
- Her curse resistance is way below average...)
+(Nie spodziewałam się, że Senia
+ ma tak niską odporność na klątwy.
+ Jej odporność jest znacznie poniżej średniej...)
 > END STRING
 
 > BEGIN STRING
@@ -157,9 +157,9 @@ Magaleta
  power to weaken the curse.)
 > CONTEXT: Map206/events/1/pages/0/82/Dialogue < UNTRANSLATED
 Magaleta
-(I have been wearing it all the time.
- It should have absorbed enough
- power to weaken the curse.)
+(Nosiłam go cały czas.
+ Powinien zaabsorbować wystarczająco mocy
+ by złagodzić klątwę.)
 > END STRING
 
 > BEGIN STRING
@@ -174,7 +174,7 @@ Magaleta
 "She seems to calm down. Phew-"
 > CONTEXT: Map206/events/1/pages/0/95/Dialogue < UNTRANSLATED
 Magaleta
-"She seems to calm down. Phew-"
+"Wygląda na to, że sie uspokoiła. Phew-"
 > END STRING
 
 > BEGIN STRING
@@ -183,8 +183,8 @@ Magaleta
  guard down.)
 > CONTEXT: Map206/events/1/pages/0/98/Dialogue < UNTRANSLATED
 Magaleta
-(Wait, it is too early to let my
- guard down.)
+(Chwila, to nadal za szybko,
+ by opuszczać gardę.)
 > END STRING
 
 > BEGIN STRING
