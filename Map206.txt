@@ -14,7 +14,7 @@ Magaleta
 "Why did you follow me?"
 > CONTEXT: Map206/events/1/pages/0/6/Dialogue < UNTRANSLATED
 Magaleta
-"Why did you follow me?"
+"Dlaczego za mną podążałaś?"
 > END STRING
 
 > BEGIN STRING
@@ -22,7 +22,7 @@ Magaleta
 (We can figure that out later...)
 > CONTEXT: Map206/events/1/pages/0/9/Dialogue < UNTRANSLATED
 Magaleta
-(We can figure that out later...)
+(Mogę się tego dowiedzieć póżniej...)
 > END STRING
 
 > BEGIN STRING
@@ -30,7 +30,7 @@ Magaleta
 "First, we need to get the curse lifted."
 > CONTEXT: Map206/events/1/pages/0/12/Dialogue < UNTRANSLATED
 Magaleta
-"First, we need to get the curse lifted."
+"Najpierw, muszę zdjąć klątwęwe need to get the curse lifted."
 > END STRING
 
 > BEGIN STRING
@@ -39,7 +39,7 @@ Magaleta
 > CONTEXT: Map206/events/1/pages/0/15/Dialogue < UNTRANSLATED
 > CONTEXT: Map206/events/1/pages/0/37/Dialogue < UNTRANSLATED
 Magaleta
-"(Casting Spell)"
+"(Rzuca Zaklęcie)"
 > END STRING
 
 > BEGIN STRING
