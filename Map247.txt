@@ -56,6 +56,7 @@ Holy Priest
  Does it create 'the fight' atmosphere?"
 > CONTEXT: Map247/events/5/pages/0/17/Dialogue
 Holy Priest
-"The final fight is the theme on the poster.
- Does it create 'the fight' atmosphere?"
+"Finałowa walka jest tematem plakatu.
+ Czy utworzyła atmosferę "walki"?"
 > END STRING
+
