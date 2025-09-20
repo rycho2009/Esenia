@@ -28,7 +28,8 @@ Holy Priest
 "Angel Barrier is one of a more flashy effects."
 > CONTEXT: Map247/events/5/pages/0/7/Dialogue
 Holy Priest
-"Angel Barrier is one of a more flashy effects."
+"Anielska Bariera jest jednym z bardziej
+ błyszczących efektów."
 > END STRING
 
 > BEGIN STRING
@@ -36,7 +37,7 @@ Holy Priest
 "Many, MANY laser beams all over the place!"
 > CONTEXT: Map247/events/5/pages/0/10/Dialogue < UNTRANSLATED
 Holy Priest
-"Many, MANY laser beams all over the place!"
+"Wiele, WIELE laserów na całym obszarze!"
 > END STRING
 
 > BEGIN STRING
@@ -45,7 +46,7 @@ Holy Priest
  I guess I am obsessed with laser beam effects!"
 > CONTEXT: Map247/events/5/pages/0/13/Dialogue
 Holy Priest
-"Laser beams are used in Fairy Queen fight as well.
+"Lasery były już też użyte podczas walki z Królową Wróżek.
  Myślę, że mam obsesję na punkcie efektów
  laserowych wiązek!"
 > END STRING
