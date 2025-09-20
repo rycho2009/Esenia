@@ -63,7 +63,7 @@ Tryb trudny
 > BEGIN STRING
 Confessional hall waypoint activated.
 > CONTEXT: Map212/events/7/pages/0/2/Dialogue < UNTRANSLATED
-
+Confessional hall - punkt aktywowany.
 > END STRING
 
 > BEGIN STRING
@@ -73,9 +73,9 @@ Jack in the Chest
 (Excluding the chests in Arcane Realm.)"
 > CONTEXT: Map212/events/12/pages/0/1/Dialogue
 Jack in the Chest
-"If you can find all my chests in the Fallen Sanctum,
- I will have a surprise gift for you.
-(Excluding the chests in Krainie Magii.)"
+"Jeśli znajdziesz wszystkie moje skrzynie w Fallen Sanctum,
+ będę mieć dla Ciebie dodatkową nagrodę.
+(Nie wliczając skrzyń z Krainy Magii.)"
 > END STRING
 
 > BEGIN STRING
@@ -91,7 +91,7 @@ Jack in the Chest
 > CONTEXT: Map136/events/12/pages/1/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/1/4/Dialogue < UNTRANSLATED
 Jack in the Chest
-"Gah gah! You have found all the chests!"
+"Ha hah! Znalazłaś wszystkie skrzynie!"
 > END STRING
 
 > BEGIN STRING
@@ -129,7 +129,7 @@ Jack in the Chest
 > CONTEXT: Map136/events/12/pages/2/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/2/4/Dialogue < UNTRANSLATED
 Jack in the Chest
-"Bom bom! Boomerang!"
+"Bum bum! Bumerang!"
 > END STRING
 
 > BEGIN STRING
@@ -139,7 +139,7 @@ Jack in the Chest
 > CONTEXT: Map136/events/12/pages/2/7/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/2/7/Dialogue < UNTRANSLATED
 Jack in the Chest
-"Dom dom! Senia Dumb!"
+"Gong gong! Senia Głąb!"
 > END STRING
 
 > BEGIN STRING
@@ -197,7 +197,7 @@ Jack in the Chest
 > CONTEXT: Map136/events/12/pages/2/16/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/72/pages/2/16/Dialogue < UNTRANSLATED
 Jack in the Chest
-"NooOOoOOoOO!"
+"NiiIIIiiiIIiIiEEEeeEE!"
 > END STRING
 
 > BEGIN STRING
@@ -217,8 +217,8 @@ Legendary Sheep
 > CONTEXT: Map136/events/13/pages/0/5/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/52/pages/1/5/Dialogue < UNTRANSLATED
 Legendarna Owca
-"Looks like you are geared up with legendary items.
- Here is your gift as promised."
+"Wygląda na to,że jesteś wyposażony w legendarne przedmioty.
+ Proszę oto twój prezent, jak obiecałam."
 > END STRING
 
 > BEGIN STRING
