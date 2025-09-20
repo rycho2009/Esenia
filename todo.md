@@ -145,7 +145,7 @@ Map234.txt
 Map238.txt
 Map239.txt
 Map244.txt
-Map248.txt
+Map248.txt(pękniecie amuletu, um.3)
 Scripts.txt
 Skills.txt
 States.txt
