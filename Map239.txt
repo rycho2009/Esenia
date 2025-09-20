@@ -18,8 +18,8 @@ Holy Priest
  turn out to be the final boss."
 > CONTEXT: Map239/events/4/pages/0/2/Dialogue < UNTRANSLATED
 Holy Priest
-"Many have guessed that Magaleta will
- turn out to be the final boss."
+"Wielu zgadło, że to Magaleta
+ okaże się być finałowym bossem."
 > END STRING
 
 > BEGIN STRING
@@ -45,9 +45,9 @@ Holy Priest
  her character."
 > CONTEXT: Map239/events/4/pages/0/12/Dialogue < UNTRANSLATED
 Holy Priest
-"If it is too agile it would be too diffcult.
- But making her slow or bulky will not match
- her character."
+"Gdyby była zbyt zwinna, byłaby zbyt trudna.
+ Ale uczynienie jej powolną lub masywną
+ zdawało się nie pasować do jej charakteru."
 > END STRING
 
 > BEGIN STRING
@@ -55,7 +55,7 @@ Holy Priest
 "At last, I came up with the 'teleport' move!"
 > CONTEXT: Map239/events/4/pages/0/17/Dialogue < UNTRANSLATED
 Holy Priest
-"At last, I came up with the 'teleport' move!"
+"OStatecznie, wpadłem na ruch 'teleport'!"
 > END STRING
 
 > BEGIN STRING
@@ -64,8 +64,8 @@ Holy Priest
  that once appeared in Senia's memory."
 > CONTEXT: Map239/events/4/pages/0/20/Dialogue < UNTRANSLATED
 Holy Priest
-"Of course, I would not forget her Demon Repel Cross
- that once appeared in Senia's memory."
+"Oczywiście, nie zapomniałem o jej Odpychającym Demony Krzyżu,
+ który pojawił się we wspomnieniach Senii."
 > END STRING
 
 > BEGIN STRING
@@ -74,6 +74,5 @@ Holy Priest
  and charater."
 > CONTEXT: Map239/events/4/pages/0/24/Dialogue < UNTRANSLATED
 Holy Priest
-"She is created with full of love towards the game
- and charater."
+"Została stworzona z miłością do gry i postaci."
 > END STRING
