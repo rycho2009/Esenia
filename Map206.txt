@@ -30,7 +30,7 @@ Magaleta
 "First, we need to get the curse lifted."
 > CONTEXT: Map206/events/1/pages/0/12/Dialogue < UNTRANSLATED
 Magaleta
-"Najpierw, muszę zdjąć klątwęwe need to get the curse lifted."
+"Najpierw, muszę zdjąć klątwę."
 > END STRING
 
 > BEGIN STRING
