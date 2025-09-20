@@ -4,7 +4,7 @@ Child Senia
 "Waaah... Sis is so good at Piano."
 > CONTEXT: Map210/events/3/pages/0/3/Dialogue
 Maleńka Senia
-"Waaah... Sis is so good at Piano."
+"Waaah... Siostrzyczka jest taka dobra w grze na pianinie."
 > END STRING
 
 > BEGIN STRING
@@ -24,7 +24,7 @@ I am happy just to listen to Magaleta plays the piano..."
 > CONTEXT: Map210/events/3/pages/0/10/Dialogue
 Maleńka Senia
 "Nie.
-I am happy just to listen to Magaleta plays the piano..."
+ Jestem szczęśliwa, mogąc słuchać siostrzyczki gry..."
 > END STRING
 
 > BEGIN STRING
@@ -42,9 +42,9 @@ Magaleta
  That is a promise!"
 > CONTEXT: Map210/events/3/pages/0/17/Dialogue < UNTRANSLATED
 Magaleta
-"Then I will play it
- whenever Nia would like to listen.
- That is a promise!"
+"W takim razie zagram,
+ kiedykolwiek Nia będzie miała ochotę posłuchać.
+ Obiecuję!"
 > END STRING
 
 > BEGIN STRING
@@ -106,7 +106,7 @@ Magaleta
 "It is a work in progress..."
 > CONTEXT: Map210/events/3/pages/0/43/Dialogue < UNTRANSLATED
 Magaleta
-"It is a work in progress..."
+"Dalej nad nią pracuję..."
 > END STRING
 
 > BEGIN STRING
@@ -116,7 +116,7 @@ Magaleta
  a name for it."
 > CONTEXT: Map210/events/3/pages/0/46/Dialogue < UNTRANSLATED
 Magaleta
-"I am about to finish it
- but I have yet to come up with
- a name for it."
+"Niedługo ją ukończę,
+ ale jeszcze nie wymyśliłam
+ jej nazwy."
 > END STRING
