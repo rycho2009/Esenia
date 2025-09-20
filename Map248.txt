@@ -6,7 +6,7 @@ Mystic Space
 > CONTEXT: Map157/display_name/ < UNTRANSLATED
 > CONTEXT: Map014/display_name/ < UNTRANSLATED
 > CONTEXT: Map003/display_name/ < UNTRANSLATED
-Mystic Space
+Mistyczna Przestrzeń
 > END STRING
 
 > BEGIN STRING
@@ -26,7 +26,7 @@ Senia
 "Where did sis Magaleta go?"
 > CONTEXT: Map248/events/4/pages/0/7/Dialogue < UNTRANSLATED
 Senia
-"Where did sis Magaleta go?"
+"Gdzie poszła siostrzyczka Magaleta?"
 > END STRING
 
 > BEGIN STRING
@@ -73,7 +73,7 @@ Senia
 (It is... some kind of power?)
 > CONTEXT: Map248/events/15/pages/1/16/Dialogue < UNTRANSLATED
 Senia
-(It is... some kind of power?)
+(Czy to... jakiś rodzaj siły?)
 > END STRING
 
 > BEGIN STRING
@@ -81,9 +81,9 @@ New skill "Eternity Burst" learn!
 
 \\c[6]Effect 1: cause massive damage to surroundings.
 > CONTEXT: Map248/events/15/pages/3/4/Dialogue < UNTRANSLATED
-New skill "Eternity Burst" learn!
+Nowa Umiejętność "Eternity Burst" poznana!
 
-\\c[6]Efekt 1: zadaje ogromne obrażenia otaczającym.
+\\c[6]Efekt 1: zadaje ogromne obrażenia dla otaczających.
 > END STRING
 
 > BEGIN STRING
@@ -115,7 +115,7 @@ Senia
 "What... happened to me?"
 > CONTEXT: Map248/events/15/pages/3/25/Dialogue < UNTRANSLATED
 Senia
-"What... happened to me?"
+"Co... co się mi stało?"
 > END STRING
 
 > BEGIN STRING
@@ -123,13 +123,13 @@ Senia
 "Where did all the monster go!?"
 > CONTEXT: Map248/events/15/pages/3/28/Dialogue < UNTRANSLATED
 Senia
-"Where did all the monster go!?"
+"Gdzie się podziały wszystkie potwory!?"
 > END STRING
 
 > BEGIN STRING
 Cross Pendant breaks.
 > CONTEXT: Map248/events/15/pages/3/40/Dialogue < UNTRANSLATED
-Cross Pendant breaks.
+Naszyjnik z krzyżem pękł.
 > END STRING
 
 > BEGIN STRING
@@ -162,8 +162,8 @@ Senia
  just... broke..."
 > CONTEXT: Map248/events/15/pages/3/45/Dialogue < UNTRANSLATED
 Senia
-"The cross from sis Magaleta
- just... broke..."
+"Krzyżyk od siostrzyczki...
+ po prostu pękł..."
 > END STRING
 
 > BEGIN STRING
@@ -171,7 +171,7 @@ Senia
 "Why did it...?"
 > CONTEXT: Map248/events/15/pages/3/49/Dialogue < UNTRANSLATED
 Senia
-"Why did it...?"
+"Dlaczego...?"
 > END STRING
 
 > BEGIN STRING
@@ -180,8 +180,8 @@ Senia
  grief..."
 > CONTEXT: Map248/events/15/pages/3/53/Dialogue < UNTRANSLATED
 Senia
-"Anyway, I do not have time to
- grief..."
+"Tak czy inaczej, nie mam teraz
+ czasu na żale..."
 > END STRING
 
 > BEGIN STRING
