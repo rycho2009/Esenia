@@ -260,7 +260,7 @@ Slimey
 > CONTEXT: Map136/events/11/pages/0/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/54/pages/1/1/Dialogue < UNTRANSLATED
 Slimey
-"Which monster are you reporting?"
+"Które potwory chciałabyś zgłosić?"
 > END STRING
 
 > BEGIN STRING
@@ -312,8 +312,8 @@ Slimey
 > CONTEXT: Map065/events/54/pages/1/78/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/54/pages/1/111/Dialogue < UNTRANSLATED
 Slimey
-"You have successfully destroyed so many monsters!
- Here is your book of Evasion as promised!"
+"Z powodzeniem pokonałaś tak wiele potworów!
+ Proszę, oto zgodnie z obietnicą twoja Księga Uników!"
 > END STRING
 
 > BEGIN STRING
@@ -350,7 +350,8 @@ Slimey
 Sanctum Guard destroyed: \\V[591] / 15
 Dark Angel destroyed: \\V[592] / 10
 > CONTEXT: Map212/events/14/pages/0/39/Dialogue < UNTRANSLATED
-
+Sanctum Guard destroyed: \\V[591] / 15
+Dark Angel destroyed: \\V[592] / 10
 > END STRING
 
 > BEGIN STRING
@@ -376,7 +377,7 @@ Slimey
 > CONTEXT: Map136/events/11/pages/1/5/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/54/pages/2/5/Dialogue < UNTRANSLATED
 Slimey
-"You have completed all the quests!"
+"Ukończyłaś wszystkie misje!"
 > END STRING
 
 > BEGIN STRING
@@ -418,7 +419,7 @@ Collectibles:
      that cannot be found other wise.
 > CONTEXT: Map212/events/16/pages/0/4/Dialogue < UNTRANSLATED
 > CONTEXT: Map136/events/15/pages/0/4/Dialogue < UNTRANSLATED
-2. Ukończenie tych misji da ci przedmioty
+2. Ukończenie tych misji da ci przedmioty,
    które nie mogą być znalezione w inny sposób.
 > END STRING
 
