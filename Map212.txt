@@ -249,8 +249,8 @@ Legendary Sheep
 > CONTEXT: Map136/events/13/pages/1/1/Dialogue < UNTRANSLATED
 > CONTEXT: Map065/events/52/pages/2/1/Dialogue < UNTRANSLATED
 Legendarna Owca
-"Baaaaaah!
- You should now be invincible with legendary gears!"
+"Beee!
+ W legendarnym ekwipunku powinieneś być teraz niewidzialny!"
 > END STRING
 
 > BEGIN STRING
