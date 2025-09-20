@@ -213,7 +213,7 @@ Na szczęście, naszyjnik z krzyżem zadziałał.
 At least the curse is weak enough
 that it does not make Senia suffer.
 > CONTEXT: Map206/events/1/pages/0/112/Dialogue < UNTRANSLATED
-Na szczęście klątwa jest na tyle słaba, że
+Ostatecznie klątwa okazała się na tyle słaba, że
 nie sprawia Senii cierpienia.
 > END STRING
 
